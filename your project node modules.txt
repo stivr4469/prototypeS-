@@ -1,0 +1,28 @@
+your-project/
+├─ node_modules/     (Папка с зависимостями)
+├─ public/           (Публичные файлы, например index.html)
+│  └─ index.html
+├─ src/              (Основная папка с кодом)
+│  ├─ components/     (Папка для ваших React-компонентов)
+│  │  ├─ ClassifyItems.js
+│  │  ├─ DescribeImage.js
+│  │  ├─ FillFromBank.js
+│  │  ├─ FillInTheBlank.js
+│  │  ├─ FillInTheBlanksComplex.js
+│  │  ├─ InlineChoice.js
+│  │  ├─ Lesson.js
+│  │  ├─ LessonMenu.js
+│  │  ├─ MultipleChoice.js
+│  │  ├─ SentenceBuilder.js
+│  │  └─ TheoryBlock.js
+│  ├─ data/           (Папка с данными для уроков)
+│  │  ├─ U1.json
+│  │  ├─ U2.json
+│  │  ├─ ...
+│  │  └─ U126.json
+│  ├─ App.css         (Главный файл стилей)
+│  ├─ App.js          (Главный компонент-контроллер)
+│  └─ index.js        (Точка входа в приложение)
+├─ .gitignore        (Файл для исключения файлов из Git)
+├─ package.json      (Информация о проекте и зависимостях)
+└─ README.md         (Описание проекта)
