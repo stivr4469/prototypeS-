@@ -1,86 +1,25 @@
 import React, { useState } from 'react';
-// Импорты
-import TheoryBlock from './components/TheoryBlock';
-import FillInTheBlank from './components/FillInTheBlank';
-import MultipleChoice from './components/MultipleChoice';
-import ClassifyItems from './components/ClassifyItems';
-import InlineChoice from './components/InlineChoice';
-// 👇 1. ИМПОРТИРУЕМ НОВЫЙ КОМПОНЕНТ
-import SentenceBuilder from './components/SentenceBuilder';
+import Lesson from './components/Lesson';
+import LessonMenu from './components/LessonMenu';
 import './App.css';
-import FillFromBank from './components/FillFromBank';
-import FillInTheBlanksComplex from './components/FillInTheBlanksComplex';
 
-
-
-
-// Обновляем карту
-const componentMapping = {
-  TheoryBlock,
-  FillInTheBlank,
-  MultipleChoice,
-  ClassifyItems,
-  InlineChoice,
-  FillFromBank,
-  SentenceBuilder,
-  FillInTheBlanksComplex,
-  
-};
-// Компонент для отображения одного урока
-const LessonView = ({ lessonData, onBack }) => (
-  <div>
-    <header>
-      <button onClick={onBack} style={{ float: 'right' }}>← К списку уроков</button>
-      <h1>{lessonData.title}</h1>
-    </header>
-    <main>
-      {/* 👇 Вот здесь добавлена проверка! */}
-      {lessonData.components && lessonData.components.map((componentData, index) => {
-        const Component = componentMapping[componentData.type];
-        if (!Component) {
-          return <div key={index}>Неизвестный тип компонента: {componentData.type}</div>;
-        }
-        return <Component key={index} {...componentData} />;
-      })}
-    </main>
-  </div>
-);
-// Компонент для меню выбора уроков
-const LessonMenu = ({ onSelectLesson }) => {
-  // Теперь у нас 14 уроков
-  const lessonIds = Array.from({ length: 126 }, (_, i) => i + 1);
-  return (
-    <div>
-      <header>
-        <h1>Выберите урок</h1>
-      </header>
-      <div className="lesson-menu">
-        {lessonIds.map(id => (
-          <button className="lesson-button" key={id} onClick={() => onSelectLesson(id)}>
-            Урок {id}
-          </button>
-        ))}
-      </div>
-    </div>
-  );
-};
-
-// Главный компонент приложения
 function App() {
-  const [currentLesson, setCurrentLesson] = useState(null);
+  const [currentLessonId, setCurrentLessonId] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
+  const [lessonData, setLessonData] = useState(null);
 
-  // Функция для загрузки данных урока
   const loadLesson = (lessonId) => {
     setIsLoading(true);
-    // Динамический импорт позволяет загружать JSON только когда он нужен
+    setLessonData(null); // Сбрасываем старые данные
     import(`./data/U${lessonId}.json`)
       .then(lessonModule => {
-        setCurrentLesson(lessonModule.default);
+        setLessonData(lessonModule.default);
+        setCurrentLessonId(lessonId);
       })
       .catch(err => {
         console.error("Не удалось загрузить урок:", err);
         alert(`Извините, контент для Урока ${lessonId} еще не готов.`);
+        setCurrentLessonId(null);
       })
       .finally(() => {
         setIsLoading(false);
@@ -88,15 +27,33 @@ function App() {
   };
 
   const handleBackToMenu = () => {
-    setCurrentLesson(null);
+    setCurrentLessonId(null);
+    setLessonData(null);
+  };
+
+  const handleNextLesson = () => {
+    if (currentLessonId && currentLessonId < 126) {
+      loadLesson(currentLessonId + 1);
+    }
+  };
+
+  const handlePreviousLesson = () => {
+    if (currentLessonId && currentLessonId > 1) {
+      loadLesson(currentLessonId - 1);
+    }
   };
 
   return (
     <div className="App">
       {isLoading ? (
         <p>Загрузка...</p>
-      ) : currentLesson ? (
-        <LessonView lessonData={currentLesson} onBack={handleBackToMenu} />
+      ) : lessonData ? (
+        <Lesson
+          lessonData={lessonData}
+          onBack={handleBackToMenu}
+          onNext={handleNextLesson}
+          onPrev={handlePreviousLesson}
+        />
       ) : (
         <LessonMenu onSelectLesson={loadLesson} />
       )}
