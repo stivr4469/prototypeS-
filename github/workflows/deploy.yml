@@ -32,5 +32,5 @@ jobs:
           key: ${{ secrets.DEPLOY_KEY }}
           source: "build/*"
           target: "/var/www/html"
-          strip_components: 1s
+          strip_components: 1
           overwrite: true
