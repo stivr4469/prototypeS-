@@ -1,0 +1,78 @@
+{
+  "lessonId": "B1_U96",
+  "title": "Урок 96: Выражения с инфинитивом (3)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение привычки (SOLER)",
+      "content": [
+        { "text": "<strong>`soler` + инфинитив используется для разговора о привычных или частых действиях.</strong><br><i><strong>Solemos comer</strong> en casa. (Normalmente comemos en casa.)<br>¿Dónde <strong>soléis pasar</strong> las vacaciones? (¿Dónde pasáis las vacaciones normalmente?)</i>" },
+        { "table": {
+            "headers": ["Presente de indicativo", "Pretérito imperfecto"],
+            "rows": [
+              ["suelo, sueles, suele, solemos, soléis, suelen", "solía, solías, solía, solíamos, solíais, solían"]
+            ]
+          }
+        },
+        { "text": "<strong>- В `presente` `soler` указывает, что действие является привычным в настоящее время.</strong><br><i>Renato <strong>suele ir</strong> en metro al trabajo. (Normalmente va en metro al trabajo; es su costumbre.)</i>" },
+        { "text": "<strong>- В `pretérito imperfecto` `soler` указывает, что действие было привычным в прошлом, но сейчас уже нет.</strong><br><i>De pequeño, <strong>solía pasar</strong> las vacaciones en Buenos Aires. (Ahora ya no paso las vacaciones en Buenos Aires.)</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие выражения",
+      "content": [
+        { "text": "<strong>`llevar` + инфинитив используется для обозначения периода времени, в течение которого что-то не делалось.</strong><br><i><strong>Llevo</strong> dos días <strong>sin salir</strong>. / <strong>Llevamos sin dormir</strong> dos días.</i>" },
+        { "text": "<strong>`volver a` + инфинитив используется для обозначения повторения действия.</strong><br><i>He <strong>vuelto a ver</strong> a Teresa. (He visto a Teresa otra vez.)<br>No <strong>vuelvas a hacer</strong> eso o me enfado. (No hagas eso otra vez.)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 96.1: Замените подчеркнутые слова на формы soler + infinitivo",
+      "tasks": [
+        { "id": "u96_1_1", "sentence": "1. Raquel <u>normalmente va</u> a trabajar en el 115. → Raquel ___ trabajar en el 115.", "answer": "suele ir" },
+        { "id": "u96_1_2", "sentence": "2. <u>Normalmente vamos</u> a la sierra los fines de semana. → ___", "answer": "Solemos ir" },
+        { "id": "u96_1_3", "sentence": "3. Cuando vivíamos en Chile, <u>normalmente dábamos</u> un paseo después de cenar. → ___", "answer": "solíamos dar" },
+        { "id": "u96_1_4", "sentence": "4. En casa de mis abuelos <u>normalmente comen</u> paella los domingos. → ___", "answer": "suelen comer" },
+        { "id": "u96_1_5", "sentence": "5. Cuando era pequeña me <u>bañaba a menudo</u> en el río de mi pueblo. → ___", "answer": "solía bañar" },
+        { "id": "u96_1_6", "sentence": "6. ¿A qué hora <u>te levantas normalmente</u>? → ___", "answer": "sueles levantarte" },
+        { "id": "u96_1_7", "sentence": "7. <u>Normalmente me acuesto</u> tarde los sábados. → ___", "answer": "Suelo acostarme" },
+        { "id": "u96_1_8", "sentence": "8. En la escuela <u>normalmente hacíamos</u> gimnasia todas las mañanas. → ___", "answer": "solíamos hacer" },
+        { "id": "u96_1_9", "sentence": "9. José y Belén van <u>normalmente</u> al teatro de vez en cuando. → ___", "answer": "suelen ir" },
+        { "id": "u96_1_10", "sentence": "10. Laura y Encarna <u>viajaban normalmente</u> mucho cuando eran estudiantes. → ___", "answer": "solían viajar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 96.2: Перепишите фразы с llevar sin",
+      "tasks": [
+        { "id": "u96_2_1", "sentence": "1. La última vez que salí con Cristina fue hace un mes. → ___ un mes ___ con Cristina.", "answer": "Llevo, sin salir" },
+        { "id": "u96_2_2", "sentence": "2. La última vez que fuimos al cine fue en Navidad. → ___", "answer": "Llevamos sin ir al cine desde Navidad" },
+        { "id": "u96_2_3", "sentence": "3. Cuando me encontré con Nacho, hacía dos años que no nos veíamos. → ___", "answer": "Llevábamos dos años sin vernos" },
+        { "id": "u96_2_4", "sentence": "4. La última vez que Felipe trabajó fue hace tres años. → ___", "answer": "Felipe lleva tres años sin trabajar" },
+        { "id": "u96_2_5", "sentence": "5. ¿Cuándo fue la última vez que hablaste con Nora? ¿Cuánto tiempo ___?", "answer": "llevas sin hablar con Nora" },
+        { "id": "u96_2_6", "sentence": "6. Cuando encontraron a Lucky, hacía dos días que no había comido. → ___", "answer": "Lucky llevaba dos días sin comer" },
+        { "id": "u96_2_7", "sentence": "7. La última vez que vimos a Sebastián fue en su cumpleaños. → ___", "answer": "Llevamos sin ver a Sebastián desde su cumpleaños" },
+        { "id": "u96_2_8", "sentence": "8. Cuando empezaron las clases, hacía seis meses que no tocábamos el piano. → ___", "answer": "Llevábamos seis meses sin tocar el piano" },
+        { "id": "u96_2_9", "sentence": "9. La última vez que fui a Argentina fue hace cuatro años. → ___", "answer": "Llevo cuatro años sin ir a Argentina" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 96.3: Замените подчеркнутые слова на volver a + инфинитив",
+      "tasks": [
+        { "id": "u96_3_1", "sentence": "1. He aprobado. No tengo que <u>examinarme otra vez</u>. → No tengo que ___.", "answer": "volver a examinarme" },
+        { "id": "u96_3_2", "sentence": "2. ¡Por fin la televisión <u>funciona de nuevo</u>! → ___", "answer": "ha vuelto a funcionar" },
+        { "id": "u96_3_3", "sentence": "3. No hemos <u>visto otra vez</u> a Lucía desde el verano. → ___", "answer": "vuelto a ver" },
+        { "id": "u96_3_4", "sentence": "4. El año pasado <u>alquilé otra vez</u> el chalé de la playa. → ___", "answer": "volví a alquilar" },
+        { "id": "u96_3_5", "sentence": "5. Tenemos que <u>hacer el proyecto de nuevo</u>. → ___", "answer": "volver a hacer el proyecto" },
+        { "id": "u96_3_6", "sentence": "6. ¿Cree que el coche <u>se estropeará otra vez</u>? → ___", "answer": "volverá a estropearse" },
+        { "id": "u96_3_7", "sentence": "7. Gonzalo ha <u>suspendido otra vez</u> el examen del carné de conducir. → ___", "answer": "vuelto a suspender" },
+        { "id": "u96_3_8", "sentence": "8. ¿Han <u>tenido carta de nuevo</u> de Guillermo? → ___", "answer": "vuelto a tener carta" },
+        { "id": "u96_3_9", "sentence": "9. Ayer <u>perdimos de nuevo</u>. → ___", "answer": "volvimos a perder" },
+        { "id": "u96_3_10", "sentence": "10. He <u>leído cien años de soledad de nuevo</u>. → ___", "answer": "vuelto a leer Cien años de soledad" }
+      ]
+    }
+  ]
+}

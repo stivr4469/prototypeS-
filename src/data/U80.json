@@ -1,0 +1,74 @@
+{
+  "lessonId": "B1_U80",
+  "title": "Урок 80: Presente de subjuntivo: неправильные глаголы (1)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в Presente de subjuntivo",
+      "content": [
+        { "text": "<strong>e → ie/e:</strong> querer → quier<strong>a</strong>, quier<strong>as</strong>, quier<strong>a</strong>, quer<strong>amos</strong>, quer<strong>áis</strong>, quier<strong>an</strong><br><i>Otros: calentar, cerrar, empezar, fregar, gobernar, pensar, regar</i>" },
+        { "text": "<strong>e → ie/i:</strong> sentir → sient<strong>a</strong>, sient<strong>as</strong>, sient<strong>a</strong>, sint<strong>amos</strong>, sint<strong>áis</strong>, sient<strong>an</strong><br><i>Otros: divertir, herir, preferir, mentir</i>" },
+        { "text": "<strong>e → i:</strong> pedir → pid<strong>a</strong>, pid<strong>as</strong>, pid<strong>a</strong>, pid<strong>amos</strong>, pid<strong>áis</strong>, pid<strong>an</strong><br><i>Otros: conseguir, corregir, elegir, freír, impedir, medir, reír, seguir, servir, sonreír</i>" },
+        { "text": "<strong>o → ue/o:</strong> poder → pued<strong>a</strong>, pued<strong>as</strong>, pued<strong>a</strong>, pod<strong>amos</strong>, pod<strong>áis</strong>, pued<strong>an</strong><br><i>Otros: contar, costar, encontrar, recordar, sonar, soñar, volar</i>" },
+        { "text": "<strong>u → ue/u:</strong> jugar → jueg<strong>ue</strong>, jueg<strong>ues</strong>, jueg<strong>ue</strong>, jug<strong>uemos</strong>, jug<strong>uéis</strong>, jueg<strong>uen</strong>" },
+        { "text": "<strong>ATENCIÓN:</strong> dormir → duerm<strong>a</strong>, duerm<strong>as</strong>, duerm<strong>a</strong>, durm<strong>amos</strong>, durm<strong>áis</strong>, duerm<strong>an</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование",
+      "content": [
+        { "text": "<strong>1. С глаголами и конструкциями, выражающими желания.</strong><br><i>Espero que <strong>podáis</strong> venir a mi fiesta.</i>" },
+        { "text": "<strong>2. С глаголами и выражениями, выражающими вероятность.</strong><br><i>–Esta noche puede que <strong>llegue</strong> tarde. Tengo una reunión.<br>Quizás te <strong>sientas</strong> mejor después de comer algo.</i>" },
+        { "text": "<strong>3. С глаголами и выражениями, выражающими различные чувства.</strong><br><i>No me gusta que Arturo <strong>vuelva</strong> tarde.</i>" },
+        { "text": "<strong>4. С выражениями, которые оценивают действия или ситуации: `me parece bien/mal que...`, `es lógico que...`</strong><br><i>Me parece bien que <strong>prefieras</strong> comer temprano.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 80.1: Дополните фразы с Presente de subjuntivo",
+      "tasks": [
+        { "id": "u80_1_1", "sentence": "1. Espero que no (tú, volver) ___ a perder las llaves.", "answer": "vuelvas" },
+        { "id": "u80_1_2", "sentence": "2. No me gusta que me (tú, mentir) ___ Nadia.", "answer": "mientas" },
+        { "id": "u80_1_3", "sentence": "3. Espero que Arturo no (perder) ___ esta partida.", "answer": "pierda" },
+        { "id": "u80_1_4", "sentence": "4. ¡Ojalá (ellos, divertirse) ___ en las vacaciones! Lo necesitan.", "answer": "se diviertan" },
+        { "id": "u80_1_5", "sentence": "5. ¿Has hablado con la Sra. Pinto? Es probable que (poder) ___ ayudarte.", "answer": "pueda" },
+        { "id": "u80_1_6", "sentence": "6. Espero que (usted, entender) ___ las instrucciones. Es muy fácil.", "answer": "entienda" },
+        { "id": "u80_1_7", "sentence": "7. Tome este libro. Puede que le (servir) ___ para su viaje a Chile.", "answer": "sirva" },
+        { "id": "u80_1_8", "sentence": "8. Me ha llamado el entrenador. Quizás (yo, jugar) ___ el domingo.", "answer": "juegue" },
+        { "id": "u80_1_9", "sentence": "9. Quiero que Sonia me (conseguir) ___ entradas para el próximo concierto.", "answer": "consiga" },
+        { "id": "u80_1_10", "sentence": "10. Me gusta que (llover) ___ en verano.", "answer": "llueva" },
+        { "id": "u80_1_11", "sentence": "11. Me encanta que mi casa (oler) ___ a flores.", "answer": "huela" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 80.2: Объедините две фразы",
+      "tasks": [
+        { "id": "u80_2_1", "sentence": "1. César quiere estudiar Bellas Artes. Me parece bien. → Me parece bien que César ___ Bellas Artes.", "answer": "estudie" },
+        { "id": "u80_2_2", "sentence": "2. La película de esta noche empieza tarde. Me parece mal. → ___", "answer": "Me parece mal que la película de esta noche empiece tarde" },
+        { "id": "u80_2_3", "sentence": "3. Hoy cierran las tiendas; es fiesta. Es lógico. → ___", "answer": "Es lógico que hoy cierren las tiendas" },
+        { "id": "u80_2_4", "sentence": "4. Sócrates no puede venir mañana. Me da pena. → ___", "answer": "Me da pena que Sócrates no pueda venir mañana" },
+        { "id": "u80_2_5", "sentence": "5. No quieres madrugar el domingo. Es natural. → ___", "answer": "Es natural que no quieras madrugar el domingo" },
+        { "id": "u80_2_6", "sentence": "6. Tania friega siempre los platos. Me parece mal. → ___", "answer": "Me parece mal que Tania friegue siempre los platos" },
+        { "id": "u80_2_7", "sentence": "7. Mis primos no me recuerdan; me han visto poco. Es lógico. → ___", "answer": "Es lógico que mis primos no me recuerden" },
+        { "id": "u80_2_8", "sentence": "8. Félix consigue siempre lo que quiere. No es normal. → ___", "answer": "No es normal que Félix consiga siempre lo que quiere" },
+        { "id": "u80_2_9", "sentence": "9. Rafa y Esther prefieren este restaurante; es buenísimo. Es lógico. → ___", "answer": "Es lógico que Rafa y Esther prefieran este restaurante" },
+        { "id": "u80_2_10", "sentence": "10. Ustedes piensan mucho en sus amigos. Me parece bien. → ___", "answer": "Me parece bien que ustedes piensen mucho en sus amigos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 80.3: Дополните ответы подходящими глаголами",
+      "tasks": [
+        { "id": "u80_3_1", "sentence": "1. –¿Cuándo vuelven ustedes? –Es probable que ___ el lunes.", "answer": "volvamos" },
+        { "id": "u80_3_2", "sentence": "2. –¿Por qué queréis salir todos los días? –Es lógico que ___ salir todos los días. Estamos de vacaciones.", "answer": "queramos" },
+        { "id": "u80_3_3", "sentence": "3. –¿De qué se ríen tus amigos? –No sé. Puede que ___ de ese cartel.", "answer": "se rían" },
+        { "id": "u80_3_4", "sentence": "4. –¿Por qué no le pedimos el ordenador a Fran? –No me gusta que le ___ el ordenador.", "answer": "pidamos" },
+        { "id": "u80_3_5", "sentence": "5. –¿Por qué no le pides el ordenador a Fran? –Es lógico que ___ todo extraño. Es muy diferente a su país.", "answer": "encuentre" },
+        { "id": "u80_3_6", "sentence": "6. –¿Por qué no les dejas dormir? –No me gusta que ___ tantas horas en la siesta. Luego no duermen por la noche.", "answer": "duerman" }
+      ]
+    }
+  ]
+}

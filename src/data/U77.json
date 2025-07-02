@@ -1,0 +1,86 @@
+{
+  "lessonId": "B1_U77",
+  "title": "Урок 77: Императив с возвратными глаголами",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Утвердительный императив с `se`",
+      "content": [
+        { "text": "С утвердительным императивом возвратные местоимения ставятся **после** глагола и пишутся **слитно**. В форме `vosotros` пропадает `-d`." },
+        { "table": {
+            "headers": ["", "-ar (lavarse)", "-er (atreverse)", "-ir (subirse)"],
+            "rows": [
+              ["(tú)", "láva<strong>te</strong>", "atréve<strong>te</strong>", "súbe<strong>te</strong>"],
+              ["(usted)", "láve<strong>se</strong>", "atréva<strong>se</strong>", "súba<strong>se</strong>"],
+              ["(vosotros, -as)", "lava<strong>os</strong>", "atreve<strong>os</strong>", "sub<strong>íos</strong>"],
+              ["(ustedes)", "láven<strong>se</strong>", "atrévan<strong>se</strong>", "súban<strong>se</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>Неправильные глаголы:</strong><br>- e → i: vestirse: vístete, vístase, vestíos, vístanse<br>- e → ie: despertarse: despiértate, despiértese, despertaos, despiértense<br>- o → ue: acostarse: acuéstate, acuéstese, acostaos, acuéstense<br><strong>- irse: vete, váyase, idos, váyanse</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Отрицательный императив с `se`",
+      "content": [
+        { "text": "С отрицательным императивом возвратные местоимения ставятся **перед** глаголом." },
+        { "table": {
+            "headers": ["", "-ar (lavarse)", "-er (atreverse)", "-ir (subirse)"],
+            "rows": [
+              ["(tú)", "no <strong>te</strong> laves", "no <strong>te</strong> atrevas", "no <strong>te</strong> subas"],
+              ["(usted)", "no <strong>se</strong> lave", "no <strong>se</strong> atreva", "no <strong>se</strong> suba"],
+              ["(vosotros, -as)", "no <strong>os</strong> lavéis", "no <strong>os</strong> atreváis", "no <strong>os</strong> subáis"],
+              ["(ustedes)", "no <strong>se</strong> laven", "no <strong>se</strong> atrevan", "no <strong>se</strong> suban"]
+            ]
+          }
+        },
+        { "text": "<strong>Неправильные глаголы:</strong><br>- e → i: vestirse: no te vistas, no se vista, no os vistáis, no se vistan<br>- e → ie: despertarse: no te despiertes, no se despierte, no os despertéis, no se despierten<br>- o → ue: acostarse: no te acuestes, no se acueste, no os acostéis, no se acuesten<br><strong>- irse: no te vayas, no se vaya, no os vayáis, no se vayan</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 77.1",
+      "content": [
+        { "text": "<strong>Упражнение 77.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 77.2: Дополните фразы",
+      "tasks": [
+        { "id": "u77_2_1", "sentence": "1. (No, ponerse) ___ la blusa roja. Te sienta mejor esta azul.", "answer": "No te pongas" },
+        { "id": "u77_2_2", "sentence": "2. Niños, (despedirse) ___ de los primos.", "answer": "despedíos" },
+        { "id": "u77_2_3", "sentence": "3. (No, irse) ___, Gonzalo. Quiero verte después.", "answer": "No te vayas" },
+        { "id": "u77_2_4", "sentence": "4. (Quitarse) ___ el abrigo, Sr. Laureano. Aquí hace calor.", "answer": "Quítese" },
+        { "id": "u77_2_5", "sentence": "5. (Atarse) ___ los zapatos. Te vas a caer.", "answer": "Átate" },
+        { "id": "u77_2_6", "sentence": "6. (Subirse) ___ a la moto, Javi. Vamos a dar una vuelta.", "answer": "Súbete" },
+        { "id": "u77_2_7", "sentence": "7. (Ducharse) ___, niños. Tenéis el pelo muy sucio.", "answer": "Duchaos" },
+        { "id": "u77_2_8", "sentence": "8. ¡Raúl, (sentarse) ___ y (estarse) ___ quieto!", "answer": "siéntate, estate" },
+        { "id": "u77_2_9", "sentence": "9. Niños, (lavarse) ___ las manos antes de comer.", "answer": "lavaos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 77.3: Что вы скажете в каждой ситуации?",
+      "tasks": [
+        { "id": "u77_3_1", "sentence": "1. (a un niño) (Peinarse) ___. Tienes el pelo alborotado.", "answer": "Péinate" },
+        { "id": "u77_3_2", "sentence": "2. (a un amigo) (Mirarse) ___ al espejo. Tienes mala cara.", "answer": "Mírate" },
+        { "id": "u77_3_3", "sentence": "3. (a unos amigos) (No, irse) ___ a la cama todavía. Es temprano.", "answer": "No os vayáis" },
+        { "id": "u77_3_4", "sentence": "4. (a unos desconocidos) (No, bañarse) ___ aquí. Es muy peligroso.", "answer": "No se bañen" },
+        { "id": "u77_3_5", "sentence": "5. (a un amigo) (Afeitarse) ___. Estás mejor sin barba.", "answer": "Aféitate" },
+        { "id": "u77_3_6", "sentence": "6. (a un amigo) Ten cuidado. (No caerse) ___.", "answer": "No te caigas" },
+        { "id": "u77_3_7", "sentence": "7. (a unos amigos) ¡(Despertarse) ___! Son las diez.", "answer": "Despertaos" },
+        { "id": "u77_3_8", "sentence": "8. (a un niño) (Irse) ___ a la cama. Es muy tarde.", "answer": "Vete" },
+        { "id": "u77_3_9", "sentence": "9. (a un desconocido) (No, sentarse) ___ en este banco. Está sucio.", "answer": "No se siente" },
+        { "id": "u77_3_10", "sentence": "10. (a unos alumnos) ¡(Callarse) ___, por favor! Os quiero decir algo.", "answer": "Callaos" },
+        { "id": "u77_3_11", "sentence": "11. (a un amigo) (No, moverse) ___. Voy a hacerte una foto.", "answer": "No te muevas" },
+        { "id": "u77_3_12", "sentence": "12. (a un señor mayor) (No, preocuparse) ___. Yo le ayudo.", "answer": "No se preocupe" },
+        { "id": "u77_3_13", "sentence": "13. (a un amigo) (Ponerse) ___ las gafas. El sol es muy fuerte.", "answer": "Ponte" },
+        { "id": "u77_3_14", "sentence": "14. (a unos desconocidos) (Callarse) ___, por favor. No oigo la película.", "answer": "Cállense" },
+        { "id": "u77_3_15", "sentence": "15. (a un amigo) (No, ponerse) ___ esa corbata. Esta es más bonita.", "answer": "No te pongas" }
+      ]
+    }
+  ]
+}

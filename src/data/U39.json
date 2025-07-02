@@ -1,0 +1,95 @@
+{
+  "lessonId": "A2_U39",
+  "title": "Урок 39: Местоимения с императивом, инфинитивом и герундием",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Местоимения с утвердительным императивом",
+      "content": [
+        { "text": "С утвердительным императивом местоимения-дополнения всегда ставятся **после** глагола и пишутся с ним **слитно**." },
+        { "list": [
+          "<strong>- С местоимениями CD (прямое дополнение): imperativo afirmativo + me / te / lo / la...</strong><br><i><strong>Ámame</strong>. / Ese coche ya está muy viejo. <strong>Véndelo</strong>.</i>",
+          "<strong>- С местоимениями CI (косвенное дополнение): imperativo afirmativo + me / te / le...</strong><br><i>Roberto necesita el coche. <strong>Dale</strong> las llaves.<br><strong>Dime</strong> la verdad.</i>",
+          "<strong>- С местоимениями CI и CD: imperativo afirmativo + me / te / se... + lo / la / los / las.</strong><br><i>Esas gafas son de Lola. <strong>Dáselas</strong>.<br>–¿Es tuyo este libro? –Sí, <strong>dámelo</strong>.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Местоимения с инфинитивом и герундием",
+      "content": [
+        { "text": "<strong>1. Местоимения-дополнения с инфинитивом</strong>" },
+        { "list": [
+          "<strong>- С местоимениями CD: infinitivo + me / te / lo...</strong><br><i>Está enfadada con nosotros. No quiere <strong>vernos</strong>.<br>No hay leche. He olvidado <strong>comprarla</strong>.</i>",
+          "<strong>- С местоимениями CI: infinitivo + me / te / le...</strong><br><i>Venid aquí. Quiero <strong>deciros</strong> algo.<br>Me gustaría <strong>preguntarte</strong> algo.</i>",
+          "<strong>- С местоимениями CI и CD: infinitivo + me / te / se... + lo / la / los / las.</strong><br><i>La entrada no es nuestra, pero él quiere <strong>dárnosla</strong>.</i><br><strong>НО:</strong> Также можно ставить их перед глаголом. <i>No <strong>los</strong> puedo ver. Te <strong>quiero</strong> decir algo. ¿Me <strong>lo</strong> vais a regalar?</i>"
+        ]},
+        { "text": "<strong>2. Местоимения-дополнения с герундием</strong>" },
+        { "list": [
+          "<strong>- С местоимениями CD: gerundio + me / te / lo...</strong><br><i>–¿Qué hace con el regalo? –Está <strong>envolviéndolo</strong>.</i>",
+          "<strong>- С местоимениями CI: gerundio + me / te / le...</strong><br><i>–¿Qué estás diciéndole? –Estoy <strong>escribiéndole</strong> a Laura.</i>",
+          "<strong>- С местоимениями CI и CD: gerundio + me / te / se... + lo / la / los / las.</strong><br><i>–¿Por qué tiene Susana la carta de Jaime? –Está <strong>leyéndomela</strong>. Yo no <strong>la</strong> veo bien.</i><br><strong>НО:</strong> Также. <i>Lo <strong>está envolviendo</strong>. / ¿Qué te <strong>está diciendo</strong>? / Me <strong>lo</strong> está leyendo.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN (ударение):</strong><br>ama → ámame, dar → dárnosla, arreglando → arreglándola<br>dame → dámelo, prestar → prestármelo, preguntando → preguntándote" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 39.1: Замените подчеркнутые слова местоимениями",
+      "tasks": [
+        { "id": "u39_1_1", "sentence": "1. Ama a <u>tus padres</u>. → ___", "answer": "Ámalos" },
+        { "id": "u39_1_2", "sentence": "2. Comprad <u>el periódico</u>. → ___", "answer": "Compradlo" },
+        { "id": "u39_1_3", "sentence": "3. Dale <u>su dinero</u> a <u>Elvira</u>. → ___", "answer": "Dáselo" },
+        { "id": "u39_1_4", "sentence": "4. Hazle <u>la pregunta</u> a <u>Carlos</u>. → ___", "answer": "Házsela" },
+        { "id": "u39_1_5", "sentence": "5. Pregunta a <u>tu madre</u>. → ___", "answer": "Pregúntale" },
+        { "id": "u39_1_6", "sentence": "6. Venda <u>la casa</u>. → ___", "answer": "Véndala" },
+        { "id": "u39_1_7", "sentence": "7. Pasa <u>el agua</u> a <u>Ramón</u>. → ___", "answer": "Pásasela" },
+        { "id": "u39_1_8", "sentence": "8. Escribe a <u>Sheila</u>. → ___", "answer": "Escríbele" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 39.2: Дополните фразы с инфинитивами и местоимениями",
+      "tasks": [
+        { "id": "u39_2_1", "sentence": "1. –¿Has comprado el periódico? –He olvidado ___.", "answer": "comprarlo" },
+        { "id": "u39_2_2", "sentence": "2. Ese libro es mío, pero Carlos no quiere ___.", "answer": "devolverlo" },
+        { "id": "u39_2_3", "sentence": "3. Sonia está enfadada con vosotros. No quiere ___.", "answer": "veros" },
+        { "id": "u39_2_4", "sentence": "4. Estos zapatos están muy viejos. Voy a ___.", "answer": "tirarlos" },
+        { "id": "u39_2_5", "sentence": "5. Ven aquí, Gabriel. Quiero ___ algo.", "answer": "ayudarte/preguntarte" },
+        { "id": "u39_2_6", "sentence": "6. Ramón quiere comprarme ese cuadro, pero yo no quiero ___.", "answer": "comprárselo" },
+        { "id": "u39_2_7", "sentence": "7. He tenido carta de Antón. Tengo que ___.", "answer": "escribirle" },
+        { "id": "u39_2_8", "sentence": "8. No sabemos hacer el ejercicio, pero Hans quiere ___.", "answer": "ayudarnos" },
+        { "id": "u39_2_9", "sentence": "9. Mis tías viven en este barrio. Me gustaría ___.", "answer": "visitarlas" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 39.3: Замените подчеркнутые слова местоимениями",
+      "tasks": [
+        { "id": "u39_3_1", "sentence": "1. Está limpiando <u>las ventanas</u>. → Está ___.", "answer": "limpiándolas" },
+        { "id": "u39_3_2", "sentence": "2. Estoy acabando <u>la novela</u>. → Estoy ___.", "answer": "acabándola" },
+        { "id": "u39_3_3", "sentence": "3. Están preguntando al <u>Sr. Oliva</u>. → Están ___.", "answer": "preguntándole" },
+        { "id": "u39_3_4", "sentence": "4. Estamos lavando <u>las camisas</u>. → Estamos ___.", "answer": "lavándolas" },
+        { "id": "u39_3_5", "sentence": "5. Están haciendo <u>la pregunta</u> a <u>Carla</u>. → Están ___.", "answer": "haciéndosela" },
+        { "id": "u39_3_6", "sentence": "6. Está lavando <u>el pelo</u> a <u>su hijo</u>. → Está ___.", "answer": "lavándoselo" },
+        { "id": "u39_3_7", "sentence": "7. Está hablando a <u>Pepa</u>. → Está ___.", "answer": "hablándole" },
+        { "id": "u39_3_8", "sentence": "8. Está arreglando <u>la radio</u>. → Está ___.", "answer": "arreglándola" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 39.4: Расставьте слова и поставьте ударения, где необходимо",
+      "tasks": [
+        { "id": "u39_4_1", "sentence": "1. la sal / me / pasa → ___", "answer": "Pásame la sal" },
+        { "id": "u39_4_2", "sentence": "2. la directora / nos / ver / quiere → ___", "answer": "La directora quiere vernos" },
+        { "id": "u39_4_3", "sentence": "3. no tengo pan. He olvidado / lo / comprar → ___", "answer": "No tengo pan. He olvidado comprarlo" },
+        { "id": "u39_4_4", "sentence": "4. ¿me / ayudar / puedes? → ___", "answer": "¿Puedes ayudarme?" },
+        { "id": "u39_4_5", "sentence": "5. a julio / se / pregunta / lo → ___", "answer": "Se lo pregunta a Julio" },
+        { "id": "u39_4_6", "sentence": "6. ¿quién / lo / está haciendo? → ___", "answer": "¿Quién lo está haciendo?" },
+        { "id": "u39_4_7", "sentence": "7. me gustaría / a Sandra / lo / se / decir → ___", "answer": "Me gustaría decírselo a Sandra" },
+        { "id": "u39_4_8", "sentence": "8. me / la pelota / pasa → ___", "answer": "Pásame la pelota" }
+      ]
+    }
+  ]
+}

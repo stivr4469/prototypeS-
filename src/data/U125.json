@@ -1,0 +1,57 @@
+{
+  "lessonId": "B2_U125",
+  "title": "Урок 125: Использование заглавных букв",
+  "level": "B2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Правила использования заглавных букв",
+      "content": [
+        { "text": "<strong>С заглавной буквы пишутся:</strong>" },
+        { "list": [
+          "<strong>- Первое слово текста и слово после точки.</strong><br><i>“<strong>E</strong>n un lugar de la <strong>M</strong>ancha...”</i>",
+          "<strong>- Первое слово после двоеточия в начале письма.</strong><br><i>Querida Luisa: <strong>E</strong>spero que...</i>",
+          "<strong>- Имена собственные людей, мест или организаций.</strong><br><i><strong>A</strong>rturo <strong>S</strong>ánchez, <strong>M</strong>useo del <strong>P</strong>rado, <strong>B</strong>olivia</i>",
+          "<strong>- Звания и титулы, когда они относятся к конкретному лицу, не сопровождаемому именем.</strong><br><i>el <strong>R</strong>ey, el <strong>P</strong>apa, la <strong>A</strong>llende<br><strong>НО:</strong> la reina <strong>I</strong>sabel II, la señora <strong>A</strong>llende</i>",
+          "<strong>- Первое слово в названиях книг, фильмов, картин, газет или журналов.</strong><br><i><strong>L</strong>a vida es sueño, <strong>C</strong>ien años de soledad</i>",
+          "<strong>- Названия исторических событий.</strong><br><i><strong>S</strong>egunda <strong>G</strong>uerra <strong>M</strong>undial</i>",
+          "<strong>- В большинстве слов, образованных из инициалов (сигл).</strong><br><i><strong>ONU</strong> (Organización de las Naciones Unidas), <strong>ONG</strong> (Organización No Gubernamental)</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN:</strong><br>- В словах, начинающихся с `ch` или `ll`, только первая буква заглавная: <i><strong>C</strong>hile, <strong>E</strong>rnesto <strong>L</strong>lamas</i>.<br>- Дни недели и месяцы пишутся с маленькой буквы.<br>- Слова `nos`, `usted` и т.д. не пишутся с заглавной буквы." }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 125.1: Перепишите фразы, используя заглавные буквы, где необходимо",
+      "tasks": [
+        { "id": "u125_1_1", "sentence": "1. mi padre nació en holanda. → ___", "answer": "Mi padre nació en Holanda." },
+        { "id": "u125_1_2", "sentence": "2. ayer fue dos de enero. fue el cumpleaños de manuel. → ___", "answer": "Ayer fue dos de enero. Fue el cumpleaños de Manuel." },
+        { "id": "u125_1_3", "sentence": "3. hay una exposición sobre los incas en el museo de américa. la ha inaugurado el rey juan carlos. → ___", "answer": "Hay una exposición sobre los incas en el Museo de América. La ha inaugurado el rey Juan Carlos." },
+        { "id": "u125_1_4", "sentence": "4. el martes estuve en la fundación san carlos con el señor arroyo. → ___", "answer": "El martes estuve en la Fundación San Carlos con el señor Arroyo." },
+        { "id": "u125_1_5", "sentence": "5. la ciudad de las columnas es un libro de alejo carpentier sobre la habana. → ___", "answer": "La ciudad de las columnas es un libro de Alejo Carpentier sobre La Habana." },
+        { "id": "u125_1_6", "sentence": "6. ¿quién pintó la maja desnuda? → ___", "answer": "¿Quién pintó La maja desnuda?" },
+        { "id": "u125_1_7", "sentence": "7. muchas ong colaboran con la onu en países del tercer mundo. → ___", "answer": "Muchas ONG colaboran con la ONU en países del tercer mundo." },
+        { "id": "u125_1_8", "sentence": "8. ¡qué impresionantes son las cataratas de iguazú! → ___", "answer": "¡Qué impresionantes son las cataratas de Iguazú!" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 125.2: Исправьте ошибки в использовании заглавных и строчных букв",
+      "tasks": [
+        { "id": "u125_2_1", "sentence": "1. Gerardo nació El 23 de Enero. → ___", "answer": "Gerardo nació el 23 de enero." },
+        { "id": "u125_2_2", "sentence": "2. Queremos ir a China en Diciembre. → ___", "answer": "Queremos ir a China en diciembre." },
+        { "id": "u125_2_3", "sentence": "3. ¿has leído El Siglo de las Luces? → ___", "answer": "¿Has leído El siglo de las luces?" },
+        { "id": "u125_2_4", "sentence": "4. don Julio Llopis vivió muchos años en la Paz. → ___", "answer": "Don Julio Llopis vivió muchos años en La Paz." },
+        { "id": "u125_2_5", "sentence": "5. ¿Cuándo fue la Guerra de la Independencia? → ___", "answer": "¿Cuándo fue la guerra de la Independencia?" },
+        { "id": "u125_2_6", "sentence": "6. La Reina Sofía es Griega. → ___", "answer": "La reina Sofía es griega." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 125.3 и 125.4",
+      "content": [
+        { "text": "<strong>Упражнения 125.3 (копирование текста) и 125.4 (соединение названий с аббревиатурами) пропущены.</strong>" }
+      ]
+    }
+  ]
+}

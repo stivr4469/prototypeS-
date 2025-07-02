@@ -1,0 +1,79 @@
+{
+  "lessonId": "A1_U1",
+  "title": "Урок 1: Мужской и женский род (1)",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Мужской и женский род",
+      "content": [
+        { "text": "В испанском языке существительные, обозначающие людей, могут быть мужского (masculino) или женского (femenino) рода." },
+        { "text": "<strong>Мужской род (для мужчин):</strong> el hijo, el padre, el camarero, el doctor, el estudiante, el taxista." },
+        { "text": "<strong>Женский род (для женщин):</strong> la hija, la madre, la camarera, la doctora, la estudiante, la taxista." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование женского рода",
+      "content": [
+        { "text": "Многие существительные различаются по окончанию:" },
+        { "table": {
+            "headers": ["Мужской род", "Женский род", "Исключения (Pero:)"],
+            "rows": [
+              ["-o (el niño, el cocinero)", "-a (la niña, la cocinera)", "el piloto → la piloto"],
+              ["-e (el dependiente)", "-a (la dependienta)", "el paciente → la paciente"],
+              ["-or (el profesor)", "-ora (la profesora)", "el modelo → la modelo"],
+              ["-consonante (el marqués)", "+a (la marquesa)", "el joven → la joven"]
+            ]
+          }
+        },
+        { "text": "<strong>Существительные на -ante, -ista не меняются:</strong> el estudiante → la estudiante, el pianista → la pianista." },
+        { "text": "<strong>Другие окончания:</strong> el actor → la actriz, el rey → la reina, el alcalde → la alcaldesa." },
+        { "text": "<strong>Разные слова для мужского и женского рода:</strong> el marido → la mujer, el hombre → la mujer, el padre → la madre." },
+        { "text": "<strong>Две возможные формы:</strong> el médico → la médica / la médico, el jefe → la jefa / la jefe." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "ВНИМАНИЕ (ATENCIÓN)",
+      "content": [
+        { "text": "Прилагательные, которые сопровождают эти существительные, меняют свою форму: aquel <strong>chico rubio</strong> → aquella <strong>chica rubia</strong>, un <strong>hombre alto</strong> → una <strong>mujer alta</strong>." }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 1.1: Определите род слова",
+      "tasks": [
+        { "id": "u1_1_1", "sentence": "cantante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el cantante / la cantante." },
+        { "id": "u1_1_2", "sentence": "periodista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el periodista / la periodista." },
+        { "id": "u1_1_3", "sentence": "cocinero", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Женская форма: la cocinera." },
+        { "id": "u1_1_4", "sentence": "estudiante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el estudiante / la estudiante." },
+        { "id": "u1_1_5", "sentence": "modelo", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el modelo / la modelo." },
+        { "id": "u1_1_6", "sentence": "paciente", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el paciente / la paciente." },
+        { "id": "u1_1_7", "sentence": "rey", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Женская форма: la reina." },
+        { "id": "u1_1_8", "sentence": "taxista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el taxista / la taxista." }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 1.2: Напишите женскую форму",
+      "tasks": [
+        { "id": "u1_2_1", "sentence": "1. señor → la ___", "answer": "señora" },
+        { "id": "u1_2_2", "sentence": "2. jefe → la ___", "answer": "jefa" },
+        { "id": "u1_2_3", "sentence": "3. marido → la ___", "answer": "mujer" },
+        { "id": "u1_2_4", "sentence": "4. pintor → la ___", "answer": "pintora" },
+        { "id": "u1_2_5", "sentence": "5. actor → la ___", "answer": "actriz" },
+        { "id": "u1_2_6", "sentence": "6. turista → la ___", "answer": "turista" },
+        { "id": "u1_2_7", "sentence": "7. escritor → la ___", "answer": "escritora" },
+        { "id": "u1_2_8", "sentence": "8. bailarín → la ___", "answer": "bailarina" },
+        { "id": "u1_2_9", "sentence": "9. rey → la ___", "answer": "reina" },
+        { "id": "u1_2_10", "sentence": "10. joven → la ___", "answer": "joven" },
+        { "id": "u1_2_11", "sentence": "11. hombre → la ___", "answer": "mujer" },
+        { "id": "u1_2_12", "sentence": "12. niño → la ___", "answer": "niña" },
+        { "id": "u1_2_13", "sentence": "13. dependiente → la ___", "answer": "dependienta" },
+        { "id": "u1_2_14", "sentence": "14. amigo → la ___", "answer": "amiga" },
+        { "id": "u1_2_15", "sentence": "15. médico → la ___", "answer": "médica" }
+      ]
+    }
+  ]
+}

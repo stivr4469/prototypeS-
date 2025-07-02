@@ -1,0 +1,80 @@
+{
+  "lessonId": "A1_U50",
+  "title": "Урок 50: Настоящее время: неправильные глаголы (2)",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы (1-е лицо)",
+      "content": [
+        { "text": "<strong>Глаголы с неправильной формой только в первом лице единственного числа (yo).</strong>" },
+        { "list": [
+          "<strong>- dar:</strong> doy, das, da, damos, dais, dan",
+          "<strong>- traer:</strong> traigo, traes, trae, traemos, traéis, traen",
+          "<strong>- hacer:</strong> hago, haces, hace, hacemos, hacéis, hacen",
+          "<strong>- saber:</strong> sé, sabes, sabe, sabemos, sabéis, saben",
+          "<strong>- poner:</strong> pongo, pones, pone, ponemos, ponéis, ponen",
+          "<strong>- conocer:</strong> conozco, conoces, conoce, conocemos, conocéis, conocen<br><i>Otros: parecer, traducir</i>",
+          "<strong>- conducir:</strong> conduzco, conduces, conduce, conducimos, conducís, conducen",
+          "<strong>- salir:</strong> salgo, sales, sale, salimos, salís, salen"
+        ]},
+        { "text": "<strong>Все люди неправильные, кроме нас и вас (-as и -os).</strong><br><i>(Todos las personas irregulares excepto nosotros, -as y vosotros, -as)</i><br><strong>- huir:</strong> huyo, huyes, huye, huimos, huís, huyen<br><i>También: construir, destruir</i>" },
+        { "text": "<strong>- oír:</strong> oigo, oyes, oye, oímos, oís, oyen" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Полностью неправильные глаголы",
+      "content": [
+        { "table": {
+            "headers": ["(yo)", "(tú)", "(usted)", "(él, ella)", "(nosotros, -as)", "(vosotros, -as)", "(ustedes)", "(ellos, -as)"],
+            "rows": [
+              ["voy", "vas", "va", "va", "vamos", "vais", "van", "van"]
+            ]
+          }
+        },
+        { "text": "<strong>Использование Presente de indicativo:</strong><br><i>Los domingos <strong>doy</strong> una vuelta por el parque.<br>Las cigüeñas <strong>hacen</strong> nidos en las torres.<br>No <strong>sé</strong> conducir.<br>¿Qué <strong>dices</strong>? No <strong>oigo</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 50.1: Используйте глаголы из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> dar, hacer, huir, ir, poner, saber, traducir" }],
+      "tasks": [
+        { "id": "u50_1_1", "sentence": "1. Guillermo no ___ nadar.", "answer": "sabe" },
+        { "id": "u50_1_2", "sentence": "2. Soy profesor. ___ clases de Filosofía.", "answer": "Doy" },
+        { "id": "u50_1_3", "sentence": "3. Mi familia ___ a Punta del Este todos los veranos.", "answer": "va" },
+        { "id": "u50_1_4", "sentence": "4. Julia es profesora. ___ clases de Biología.", "answer": "Hace" },
+        { "id": "u50_1_5", "sentence": "5. Las cigüeñas ___ sus nidos en lugares altos.", "answer": "ponen" },
+        { "id": "u50_1_6", "sentence": "6. (yo) ___ la radio cuando me despierto.", "answer": "Pongo" },
+        { "id": "u50_1_7", "sentence": "7. Mis padres ___ un viaje todos los años.", "answer": "hacen" },
+        { "id": "u50_1_8", "sentence": "8. Marta no ___ esquiar.", "answer": "sabe" },
+        { "id": "u50_1_9", "sentence": "9. La mayoría de animales ___ cuando hay peligro.", "answer": "huyen" },
+        { "id": "u50_1_10", "sentence": "10. Soy traductor. ___ libros del francés al español.", "answer": "Traduzco" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 50.2: Дополните вопросы и ответы",
+      "tasks": [
+        { "id": "u50_2_1", "sentence": "1. –¿(Saber) ___ conducir? –Sí, pero no ___ muy bien.", "answer": "Sabes, conduzco" },
+        { "id": "u50_2_2", "sentence": "2. –¿Cómo ___ a la oficina? –Normalmente ___ en metro.", "answer": "vas, voy" },
+        { "id": "u50_2_3", "sentence": "3. –¿Qué ___ los fines de semana? –___ con mis amigos.", "answer": "haces, Salgo" },
+        { "id": "u50_2_4", "sentence": "4. –¿___ usted hacer empanadas? –Sí, pero no las ___ muy bien.", "answer": "Sabe, hago" },
+        { "id": "u50_2_5", "sentence": "5. –¿___ usted hablar inglés? –No, solo ___ hablar español.", "answer": "Sabe, sé" },
+        { "id": "u50_2_6", "sentence": "6. –¿___ usted La Habana? –No, no la ___.", "answer": "Conoce, conozco" },
+        { "id": "u50_2_7", "sentence": "7. –¿Adónde ___ usted en verano? –Normalmente ___ a la playa.", "answer": "va, voy" },
+        { "id": "u50_2_8", "sentence": "8. –¿Qué ___ (vosotros) los domingos? –___ una vuelta o ___ a bailar.", "answer": "hacéis, Damos, vamos" },
+        { "id": "u50_2_9", "sentence": "9. –¿___ (vosotros) mucho al cine? –___ dos o tres veces al mes.", "answer": "Vais, Vamos" },
+        { "id": "u50_2_10", "sentence": "10. –¿___ ustedes España? –Sí, la ___ muy bien. ___ allí con frecuencia.", "answer": "Conocen, conocemos, Vamos" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 50.3",
+      "content": [
+        { "text": "<strong>Упражнение 50.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "lessonId": "B1_U76",
+  "title": "Урок 76: Императив: неправильные глаголы (2)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в императиве",
+      "content": [
+        { "table": {
+            "headers": ["", "(tú)", "(usted)", "(vosotros, -as)", "(ustedes)"],
+            "rows": [
+              ["<strong>decir:</strong> di / no digas", "diga / no diga", "decid / no digáis", "digan / no digan"],
+              ["<strong>hacer:</strong> haz / no hagas", "haga / no haga", "haced / no hagáis", "hagan / no hagan"],
+              ["<strong>poner:</strong> pon / no pongas", "ponga / no ponga", "poned / no pongáis", "pongan / no pongan"],
+              ["<strong>salir:</strong> sal / no salgas", "salga / no salga", "salid / no salgáis", "salgan / no salgan"],
+              ["<strong>tener:</strong> ten / no tengas", "tenga / no tenga", "tened / no tengáis", "tengan / no tengan"],
+              ["<strong>venir:</strong> ven / no vengas", "venga / no venga", "venid / no vengáis", "vengan / no vengan"],
+              ["<strong>ser:</strong> sé / no seas", "sea / no sea", "sed / no seáis", "sean / no sean"],
+              ["<strong>ir:</strong> ve / no vayas", "vaya / no vaya", "id / no vayáis", "vayan / no vayan"],
+              ["<strong>traer:</strong> trae / no traigas", "traiga / no traiga", "traed / no traigáis", "traigan / no traigan"]
+            ]
+          }
+        },
+        { "text": "<strong>Глаголы на -ecer, -ocer, -ucir:</strong><br>conducir: conduce / no conduzcas, conduzca / no conduzca..." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 76.1",
+      "content": [
+        { "text": "<strong>Упражнение 76.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 76.2: Дополните инструкции по экономии энергии",
+      "tasks": [
+        { "id": "u76_2_1", "sentence": "1. ___ el transporte público.", "answer": "Utilice" },
+        { "id": "u76_2_2", "sentence": "2. ___ despacio en ciudad.", "answer": "Conduzca" },
+        { "id": "u76_2_3", "sentence": "3. En carretera ___ a más de 90 km por hora.", "answer": "no vaya" },
+        { "id": "u76_2_4", "sentence": "4. ___ el coche a punto.", "answer": "Mantenga" },
+        { "id": "u76_2_5", "sentence": "5. ___ la calefacción en días soleados.", "answer": "No ponga" },
+        { "id": "u76_2_6", "sentence": "6. ___ la temperatura constante a 20º.", "answer": "Utilice" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 76.3: Дополните фразы глаголами в скобках",
+      "tasks": [
+        { "id": "u76_3_1", "sentence": "1. (Tener) ___ cuidado, don Antonio. Este cruce es peligroso.", "answer": "Tenga" },
+        { "id": "u76_3_2", "sentence": "2. (No, salir) ___ ahora, niños. Está lloviendo.", "answer": "No salgáis" },
+        { "id": "u76_3_3", "sentence": "3. (Decir) ___ 'Gracias' al abuelo, Pepín.", "answer": "Di" },
+        { "id": "u76_3_4", "sentence": "4. –¿Puedo decir algo, Arturo? –No, (no, decir) ___ nada, Ismael.", "answer": "no digas" },
+        { "id": "u76_3_5", "sentence": "5. (Ser) ___ bueno, Julián, y (obedecer) ___ a tus papás.", "answer": "Sé, obedece" },
+        { "id": "u76_3_6", "sentence": "6. (Tener) ___ cuidado, niños. El mar está revuelto.", "answer": "Tened" },
+        { "id": "u76_3_7", "sentence": "7. (Hacer) ___ una copia de esta carta, Sr. Vázquez.", "answer": "Haga" },
+        { "id": "u76_3_8", "sentence": "8. (No, ser) ___ impaciente, Jaime. Comemos dentro de diez minutos.", "answer": "No seas" },
+        { "id": "u76_3_9", "sentence": "9. (Venir) ___ a la radio, por favor. Me duele la cabeza.", "answer": "Ve" },
+        { "id": "u76_3_10", "sentence": "10. (Venir) ___ a mi fiesta, Sara. Lo vamos a pasar muy bien.", "answer": "Ven" },
+        { "id": "u76_3_11", "sentence": "11. (Ser) ___ amables con Elvira, niños. Os quiere mucho.", "answer": "Sed" }
+      ]
+    }
+  ]
+}

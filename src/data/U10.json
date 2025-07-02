@@ -1,0 +1,68 @@
+{
+  "lessonId": "A2_U10",
+  "title": "Урок 10: Другие случаи употребления определённого артикля",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Артикль с играми, языками, науками и частями тела",
+      "content": [
+        { "text": "<strong>Используется `el, la, los, las` в следующих случаях:</strong>" },
+        { "list": [
+          "<strong>- tocar el piano, la guitarra...</strong><br><i>Ana está aprendiendo a tocar <strong>el</strong> piano.</i><br><strong>НО:</strong> tener, necesitar, comprar <strong>un</strong> piano, <strong>una</strong> guitarra...<br><i>Tengo <strong>una</strong> guitarra española.</i>",
+          "<strong>- jugar al fútbol, al tenis, al ajedrez, a las cartas...</strong><br><i>¿Sabes jugar <strong>al</strong> ajedrez?<br>Jugamos <strong>al</strong> fútbol todos los domingos.</i><br><strong>НО:</strong> hacer gimnasia, natación, alpinismo.<br><i>Hago <strong>gimnasia</strong> todas las mañanas.</i>",
+          "<strong>- las matemáticas, la lengua, el griego, el español...</strong><br><i>Mi asignatura preferida son <strong>las matemáticas</strong>.<br><strong>El griego</strong> es una lengua muy sonora.</i><br><strong>НО:</strong> Не используется с глаголами hablar, saber, enseñar, estudiar...<br><i>¿Usted habla <strong>chino</strong>?<br>Clara estudia <strong>Filosofía</strong>.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Артикль с общественными институтами и местами",
+      "content": [
+        { "text": "<strong>Используется `el, la, los, las` в следующих случаях:</strong>" },
+        { "list": [
+          "<strong>- la policía, el ejército, los bomberos.</strong><br><i>El tío de Andrés es capitán d<strong>el ejército</strong>.<br>Luis quiere ingresar en <strong>la policía</strong>.</i>",
+          "<strong>- la radio, la televisión, el periódico, las noticias.</strong><br><i>Me gusta escuchar música en <strong>la radio</strong>.<br>Siempre escuchamos <strong>las noticias</strong> de las nueve.</i><br><strong>НО:</strong> una radio, una televisión (aparatos), una noticia.<br><i>Tengo <strong>una radio</strong> nueva. (un aparato)<br>Me he comprado <strong>una televisión</strong>. (un aparato)</i>",
+          "<strong>- el mar, el campo, la playa, el cielo, la naturaleza.</strong><br><i>Vamos al campo los fines de semana.<br>Hay que proteger <strong>la naturaleza</strong>.</i>",
+          "<strong>- ir al..., venir del..., estar en el... hospital, cine, teatro, dentista, médico, banco, aeropuerto, lavabo, trabajo, colegio.</strong><br><i>¿Puedo ir <strong>al</strong> servicio, por favor?<br>La madre de Rosa está en <strong>el</strong> hospital.<br>Mis padres van hoy <strong>al</strong> teatro.</i>",
+          "<strong>- ir a la..., venir de la..., estar en la... iglesia, universidad, cárcel, oficina.</strong><br><i>Mi hermana está en <strong>la</strong> universidad.<br>Los domingos voy a <strong>la</strong> iglesia.</i><br><strong>НО:</strong> ir a..., venir de... / estar en... <strong>casa, correos, clase</strong>.<br><i>Voy a correos a enviar un paquete.<br>Edgar está en <strong>casa</strong> desde las doce.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 10.1",
+      "content": [
+        { "text": "<strong>Упражнение 10.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 10.2: Дополните с el, la, los, las, del, al или un, una, unos, unas",
+      "tasks": [
+        { "id": "u10_2_1", "sentence": "1. ¡Fuego! Llamad a ___ bomberos.", "answer": "los" },
+        { "id": "u10_2_2", "sentence": "2. ¿Hablas ___ español?", "answer": "" },
+        { "id": "u10_2_3", "sentence": "3. ___ griego no es difícil.", "answer": "El" },
+        { "id": "u10_2_4", "sentence": "4. Este fin de semana vamos a ___ playa.", "answer": "la" },
+        { "id": "u10_2_5", "sentence": "5. ¿Has escuchado ___ noticias?", "answer": "las" },
+        { "id": "u10_2_6", "sentence": "6. Susana estudia ___ Arquitectura.", "answer": "" },
+        { "id": "u10_2_7", "sentence": "7. Merche hace ___ gimnasia en el colegio.", "answer": "" },
+        { "id": "u10_2_8", "sentence": "8. El padre de Pepe es general de ___ ejército.", "answer": "del" },
+        { "id": "u10_2_9", "sentence": "9. ___ Historia es una asignatura apasionante.", "answer": "La" },
+        { "id": "u10_2_10", "sentence": "10. Los Martín tienen una casa en ___ campo.", "answer": "el" },
+        { "id": "u10_2_11", "sentence": "11. Antonio tiene ___ guitarra eléctrica.", "answer": "una" },
+        { "id": "u10_2_12", "sentence": "12. He comprado ___ televisión.", "answer": "una" },
+        { "id": "u10_2_13", "sentence": "13. Escucho ___ radio por las mañanas.", "answer": "la" },
+        { "id": "u10_2_14", "sentence": "14. ¡Un ladrón! Llama a ___ policía.", "answer": "la" },
+        { "id": "u10_2_15", "sentence": "15. Siempre leo ___ periódico después de desayunar.", "answer": "el" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 10.3",
+      "content": [
+        { "text": "<strong>Упражнение 10.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

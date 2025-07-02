@@ -1,0 +1,88 @@
+{
+  "lessonId": "A2_U28",
+  "title": "Урок 28: que, el que, quien... (Relativos 1)",
+  "level": "A2-B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Относительные местоимения",
+      "content": [
+        { "text": "<strong>Que, el que, quien</strong> и др. — это относительные местоимения. Они используются, чтобы дать информацию о ранее упомянутом существительном, не повторяя его." },
+        { "list": [
+            "<i>Tengo un loro. El loro habla. → Tengo un loro <strong>que</strong> habla.</i>",
+            "<i>He recibido una revista. Clara escribe en esta revista. → He recibido una revista <strong>en la que</strong> escribe Clara.</i>"
+          ]
+        },
+        { "text": "В некоторых случаях информация служит для идентификации существительного: <i>¿Quién es Begoña? –Es la chica <strong>que</strong> está bailando con Pedro.</i>" },
+        { "text": "В других — для определения существительного: <i>Un carnicero es una persona <strong>que</strong> vende carne.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы и использование",
+      "content": [
+        { "text": "<strong>`que` используется для обозначения людей, животных или предметов:</strong><br><i>Las chicas <strong>que</strong> conocimos ayer son de Córdoba.<br>El cóndor es un ave <strong>que</strong> procede de América del Sur.<br>No me gusta el libro <strong>que</strong> estoy leyendo.</i>" },
+        { "text": "<strong>После предлога используется `el que, la que, los que, las que` для обозначения людей, животных или предметов. Форма согласуется с существительным, к которому относится:</strong><br><i>Ese es el perro <strong>del que</strong> te hablé.<br>Las chicas <strong>con las que</strong> estaba jugando son mis sobrinas.</i>" },
+        { "text": "<strong>После предлога можно также использовать `quien` или `quienes` для обозначения только людей:</strong><br><i>El chico <strong>con quien</strong> sale Nieves es bombero.<br>Las chicas <strong>con quienes</strong> estaba jugando son mis sobrinas.</i>" },
+        { "text": "<strong>`el que, la que, los que, las que` используется вместо ранее упомянутого существительного:</strong><br><i>–¿Cuál es tu maleta? –<strong>La que</strong> tiene ruedas.<br>Me gusta más este libro que <strong>el que</strong> me recomendó Luis.</i>" },
+        { "text": "<strong>`lo que` используется для отсылки к предыдущему утверждению или идее:</strong><br><i><strong>Lo que</strong> has dicho es una tontería.<br><strong>Lo que</strong> me necesitas es mucho cariño.</i>" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 28.1: Rodee la forma correcta en cada caso.",
+      "tasks": [
+        { "id": "u28_1_1", "sentence": "1. Ese es el señor con (que/quien) tienes que hablar.", "options": ["que", "quien"], "correctOption": "quien" },
+        { "id": "u28_1_2", "sentence": "2. Necesito el libro (que/el que) te presté.", "options": ["que", "el que"], "correctOption": "que" },
+        { "id": "u28_1_3", "sentence": "3. Tengo un amigo (que/quien) vive en Panamá.", "options": ["que", "quien"], "correctOption": "que" },
+        { "id": "u28_1_4", "sentence": "4. Este es el restaurante (que/el que) me han recomendado.", "options": ["que", "el que"], "correctOption": "que" },
+        { "id": "u28_1_5", "sentence": "5. Este es el agujero por (que/el que) entran los ratones.", "options": ["que", "el que"], "correctOption": "el que" },
+        { "id": "u28_1_6", "sentence": "6. Sebastián es el chico (que/quien) está hablando con Lola.", "options": ["que", "quien"], "correctOption": "que" },
+        { "id": "u28_1_7", "sentence": "7. ¿Conoces a la señora a (que/la que) nos ha saludado?", "options": ["que", "la que"], "correctOption": "la que" },
+        { "id": "u28_1_8", "sentence": "8. Ese es el equipo contra (que/el que) jugamos el domingo.", "options": ["que", "el que"], "correctOption": "el que" },
+        { "id": "u28_1_9", "sentence": "9. Usa los pañuelos (que/los que) están en el baño.", "options": ["que", "los que"], "correctOption": "que" },
+        { "id": "u28_1_10", "sentence": "10. La academia a (que/la que) voy está en el centro.", "options": ["que", "la que"], "correctOption": "la que" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 28.2: Una las dos frases en una sola con que, quien, quienes, el que, la que, los que o las que.",
+      "tasks": [
+        { "id": "u28_2_1", "sentence": "1. Tengo un ventilador. Funciona con pilas. → Tengo un ventilador ___ funciona con pilas.", "answer": "que" },
+        { "id": "u28_2_2", "sentence": "2. La vicuña es un mamífero. Vive en los Andes. → La vicuña es un mamífero ___ vive en los Andes.", "answer": "que" },
+        { "id": "u28_2_3", "sentence": "3. Ayer comimos ostras. ¿Te gustaron? → ¿Te gustaron las ostras ___ comimos ayer?", "answer": "que" },
+        { "id": "u28_2_4", "sentence": "4. Estoy leyendo un libro. Me gusta mucho. → Me gusta mucho el libro ___ estoy leyendo.", "answer": "que" },
+        { "id": "u28_2_5", "sentence": "5. Paco sale con una chica. La chica es piloto. → La chica con ___ sale Paco es piloto.", "answer": "la que" },
+        { "id": "u28_2_6", "sentence": "6. He comprado unos cuadros. Te había hablado de ellos. → He comprado los cuadros de ___ te había hablado.", "answer": "los que" },
+        { "id": "u28_2_7", "sentence": "7. Ayer conocí a unas chicas. Ana vivía con ellas. → Ayer conocí a unas chicas con ___ vivía Ana.", "answer": "quienes" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 28.3: Escriba las respuestas con las palabras entre paréntesis y el relativo adecuado.",
+      "tasks": [
+        { "id": "u28_3_1", "sentence": "1. ¿Quién es Roberto? (Un chico. Lo conocí en el parque.) → Un chico ___ conocí en el parque.", "answer": "que" },
+        { "id": "u28_3_2", "sentence": "2. ¿Qué es un 'abstemio'? (Una persona. No bebe alcohol.) → Una persona ___ no bebe alcohol.", "answer": "que" },
+        { "id": "u28_3_3", "sentence": "3. ¿Qué le has regalado a Cristóbal? (Un cuadro. Lo he pintado yo.) → Un cuadro ___ he pintado yo.", "answer": "que" },
+        { "id": "u28_3_4", "sentence": "4. ¿Quién hace tanto ruido? (Unos obreros. Están arreglando la calle.) → Unos obreros ___ están arreglando la calle.", "answer": "que" },
+        { "id": "u28_3_5", "sentence": "5. ¿Quién es Óscar? (Un chico. Trabajo con él.) → Un chico con ___ trabajo.", "answer": "quien" },
+        { "id": "u28_3_6", "sentence": "6. ¿Qué es un 'ateo'? (Una persona. No cree en Dios.) → Una persona ___ no cree en Dios.", "answer": "que" },
+        { "id": "u28_3_7", "sentence": "7. ¿Qué es un 'canguro'? (Una persona. Cuida niños.) → Una persona ___ cuida niños.", "answer": "que" },
+        { "id": "u28_3_8", "sentence": "8. ¿Qué te ha enseñado? (Una pluma. Quevedo escribía con ella.) → Una pluma con ___ escribía Quevedo.", "answer": "la que" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 28.4: Complete las frases con que, el que, la que, los que, las que o lo que.",
+      "tasks": [
+        { "id": "u28_4_1", "sentence": "1. –¿Quién es esa chica? –___ trabaja con Eduardo.", "answer": "La que" },
+        { "id": "u28_4_2", "sentence": "2. ___ tú quieres es imposible.", "answer": "Lo que" },
+        { "id": "u28_4_3", "sentence": "3. –¿Qué libro estás leyendo? –___ me prestó Antonio.", "answer": "El que" },
+        { "id": "u28_4_4", "sentence": "4. Mi casa es ___ está en aquella esquina.", "answer": "la que" },
+        { "id": "u28_4_5", "sentence": "5. –¿Recuerdas ___ dijiste ayer?", "answer": "lo que" },
+        { "id": "u28_4_6", "sentence": "6. –¿Quiénes son esas chicas? –___ estuvieron en mi fiesta.", "answer": "Las que" },
+        { "id": "u28_4_7", "sentence": "7. –¿Quiénes son Guille y Silverio? –___ viven en el sexto.", "answer": "Los que" }
+      ]
+    }
+  ]
+}

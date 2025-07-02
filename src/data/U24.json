@@ -1,0 +1,96 @@
+{
+  "lessonId": "A2_U24",
+  "title": "Урок 24: más, menos, tanto (Сравнение с существительными)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Основные значения",
+      "content": [
+        { "text": "<strong>Más, menos, tanto</strong> используются для сравнения количества с существительными." },
+        { "list": [
+          "<strong>más</strong> = mayor cantidad (+) (большее количество)",
+          "<strong>menos</strong> = menor cantidad (-) (меньшее количество)",
+          "<strong>tanto</strong> = igual cantidad (=) (равное количество)"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Сравнение с существительными",
+      "content": [
+        { "table": {
+            "headers": ["Степень", "Формула", "Примеры"],
+            "rows": [
+              [
+                "<strong>Превосходство (+)</strong>",
+                "<strong>más + nombre (+ que)</strong>",
+                "Ernesto tiene <strong>más alumnos que</strong> Guadalupe.<br>Pedro tiene <strong>más amigos que</strong> Antonio."
+              ],
+              [
+                "<strong>Меньшая степень (-)</strong>",
+                "<strong>menos + nombre (+ que)</strong>",
+                "Antes había <strong>menos coches que</strong> ahora.<br>Ahora tengo <strong>menos sueño</strong> (que antes)."
+              ],
+              [
+                "<strong>Равенство (=)</strong>",
+                "<strong>tanto, tanta, tantos, tantas + nombre (+ como)</strong>",
+                "Hoy no hay <strong>tanta gente como</strong> ayer.<br>No tengo <strong>tantos amigos como</strong> mi hermana."
+              ]
+            ]
+          }
+        },
+        { "text": "<strong>`que, como` + личное местоимение</strong><br><i>Rodolfo tiene más vacaciones <strong>que tú</strong>, pero tú haces más viajes <strong>que él</strong>.</i>" },
+        { "text": "<strong>Обычно `no` ставится перед глаголом, а не перед `tanto`</strong>, когда сравнивается с чем-то, что было раньше.<br><i>Ahora tengo menos hambre. (que antes de la comida)<br>Hoy no hay tanta gente. (como ayer)</i>" },
+        { "text": "<strong>`Más, menos, tanto...` могут использоваться самостоятельно</strong>, когда существительное, к которому они относятся, уже было упомянуто.<br><i>–Sonia tiene cerca de cien CD. –Yo tengo <strong>más</strong>.<br>–Pues yo no tengo <strong>tantos</strong>.</i>" },
+        { "text": "<strong>НО:</strong> в утвердительных фразах `tanto, tanta, tantos, tantas` всегда идут с `como` + термин сравнения.<br><i>–Elisa tiene una gran colección de CD. –Yo tengo <strong>tantos</strong>. (неверно) → Yo tengo <strong>tantos como</strong> ella.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 24.1: Дополните фразы с más, menos или tanto, tanta, tantos, tantas",
+      "tasks": [
+        { "id": "u24_1_1", "sentence": "1. Buenos Aires tiene (+) ___ habitantes que Madrid.", "answer": "más" },
+        { "id": "u24_1_2", "sentence": "2. Ahora bebo (–) ___ leche que cuando era pequeño.", "answer": "menos" },
+        { "id": "u24_1_3", "sentence": "3. Sol ha leído (–) ___ libros que yo.", "answer": "menos" },
+        { "id": "u24_1_4", "sentence": "4. No tengo (=) ___ amigos como mi hermana.", "answer": "tantos" },
+        { "id": "u24_1_5", "sentence": "5. En Canarias no hace (=) ___ calor como en Cuba.", "answer": "tanto" },
+        { "id": "u24_1_6", "sentence": "6. José Manuel trabaja (–) ___ horas que tú.", "answer": "menos" },
+        { "id": "u24_1_7", "sentence": "7. Tenemos (=) ___ prisa como tú.", "answer": "tanta" },
+        { "id": "u24_1_8", "sentence": "8. Samuel tiene (+) ___ ropa que yo.", "answer": "más" },
+        { "id": "u24_1_9", "sentence": "9. En La Paz hace (+) ___ frío que en Caracas.", "answer": "más" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 24.2: Установите сравнения, используя слова из списка",
+      "content": [{ "text": "<strong>Слова для справок:</strong> años, calor, corbatas, dinero, estudiantes, frío, habitantes, hambre, leche, postales" }],
+      "tasks": [
+        { "id": "u24_2_1", "sentence": "1. Roberto tiene 200 pesos. Clara tiene 20. Clara tiene ___ Roberto.", "answer": "menos dinero que" },
+        { "id": "u24_2_2", "sentence": "2. Elsa bebe 1/2 litro de leche al día. Eloy bebe 1 litro. Elsa no bebe ___ Eloy.", "answer": "tanta leche como" },
+        { "id": "u24_2_3", "sentence": "3. Hoy hace 30°. Ayer hizo 25°. Hoy hace ___.", "answer": "más calor que ayer" },
+        { "id": "u24_2_4", "sentence": "4. Rosario tiene un millón de habitantes; Mendoza tiene un millón y medio de habitantes. Rosario no tiene ___.", "answer": "tantos habitantes como Mendoza" },
+        { "id": "u24_2_5", "sentence": "5. Simón tiene 30 años; yo tengo 28. Simón tiene ___.", "answer": "más años que yo" },
+        { "id": "u24_2_6", "sentence": "6. Ayer vinieron doce estudiantes; hoy han venido diez. Hoy no han venido ___.", "answer": "tantos estudiantes como ayer" },
+        { "id": "u24_2_7", "sentence": "7. Ayer hizo 5°. Hoy hace 10°. Hoy no hace ___.", "answer": "tanto frío como ayer" },
+        { "id": "u24_2_8", "sentence": "8. No he comido nada desde esta mañana; Irene no ha comido nada desde anoche. Irene tiene ___.", "answer": "tanta hambre como yo" },
+        { "id": "u24_2_9", "sentence": "9. Tengo dos corbatas; tú también tienes dos corbatas. Tengo ___.", "answer": "tantas corbatas como tú" },
+        { "id": "u24_2_10", "sentence": "10. Habéis recibido cinco postales este verano; yo he recibido tres. He recibido ___.", "answer": "menos postales que vosotros" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 24.3: Дополните ответы как в примере",
+      "tasks": [
+        { "id": "u24_3_1", "sentence": "1. –Felipe tiene dos hijos. –Yo tengo <u>más</u>. Tengo cuatro.", "answer": "más" },
+        { "id": "u24_3_2", "sentence": "2. –Tengo siete hermanos. –Yo tengo casi ___ tú. Tengo seis.", "answer": "tantos como" },
+        { "id": "u24_3_3", "sentence": "3. –Aurora tiene 30 días de vacaciones. –Yo no tengo ___. Tengo 22.", "answer": "tantos" },
+        { "id": "u24_3_4", "sentence": "4. –Tengo unos quinientos libros. –Yo no tengo ___. Tengo unos trescientos.", "answer": "tantos" },
+        { "id": "u24_3_5", "sentence": "5. –Tengo sueño. He dormido solo cuatro horas. –Yo tengo ___. He dormido solo dos horas.", "answer": "menos" },
+        { "id": "u24_3_6", "sentence": "6. –Hoy hay cerca de doscientos espectadores. –Ayer había ___. Había solo cincuenta.", "answer": "menos" },
+        { "id": "u24_3_7", "sentence": "7. –Hemos estado en diez países diferentes. –Yo he estado en ___. He estado en doce.", "answer": "menos" },
+        { "id": "u24_3_8", "sentence": "8. –Trabajo ocho horas al día. –Yo trabajo ___. También trabajo ocho.", "answer": "tantas como tú" }
+      ]
+    }
+  ]
+}

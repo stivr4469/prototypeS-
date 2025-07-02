@@ -1,0 +1,86 @@
+{
+  "lessonId": "B1_U81",
+  "title": "Урок 81: Presente de subjuntivo: неправильные глаголы (2)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в Presente de subjuntivo",
+      "content": [
+        { "text": "<strong>Формы Presente de Subjuntivo образуются от 1-го лица (yo) Presente de Indicativo.</strong><br><i>conozco → conozca, conozcas...<br>tengo → tenga, tengas...</i>" },
+        { "list": [
+          "<strong>-CONOCER:</strong> conozca, conozcas, conozca, conozcamos, conozcáis, conozcan<br><i>Otros: conducir, obedecer, parecer, reconocer, traducir</i>",
+          "<strong>-HUIR:</strong> huya, huyas, huya, huyamos, huyáis, huyan<br><i>Otros: concluir, construir, contribuir, destruir, influir</i>",
+          "<strong>-TRAER:</strong> traiga, traigas, traiga, traigamos, traigáis, traigan<br><i>Otros: caer(se)</i>",
+          "<strong>-DECIR:</strong> diga, digas, diga, digamos, digáis, digan",
+          "<strong>-HACER:</strong> haga, hagas, haga, hagamos, hagáis, hagan",
+          "<strong>-OÍR:</strong> oiga, oigas, oiga, oigamos, oigáis, oigan",
+          "<strong>-PONER:</strong> ponga, pongas, ponga, pongamos, pongáis, pongan",
+          "<strong>-SALIR:</strong> salga, salgas, salga, salgamos, salgáis, salgan",
+          "<strong>-TENER:</strong> tenga, tengas, tenga, tengamos, tengáis, tengan",
+          "<strong>-VENIR:</strong> venga, vengas, venga, vengamos, vengáis, vengan",
+          "<strong>-IR:</strong> vaya, vayas, vaya, vayamos, vayáis, vayan",
+          "<strong>-SABER:</strong> sepa, sepas, sepa, sepamos, sepáis, sepan",
+          "<strong>-HABER:</strong> haya"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование",
+      "content": [
+        { "text": "Используется с глаголами и конструкциями, выражающими:" },
+        { "list": [
+          "<strong>- желания:</strong> <i>¡Ojalá no <strong>haya</strong> más guerras!</i>",
+          "<strong>- вероятность:</strong> <i>–¿Estás esperando a Manuel? –Sí, pero puede que no <strong>venga</strong> hoy.</i>",
+          "<strong>- чувства:</strong> <i>Siento que Alberto no <strong>vaya</strong> a tu concierto, pero no se encuentra bien.</i>",
+          "<strong>- оценку действий:</strong> <i>Es lógico que <strong>construyan</strong> más carreteras.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 81.1: Дополните фразы с Presente de subjuntivo",
+      "tasks": [
+        { "id": "u81_1_1", "sentence": "1. Espero que Ana (traer) ___ algo de postre. Yo no he comprado nada.", "answer": "traiga" },
+        { "id": "u81_1_2", "sentence": "2. Me encanta que Álvaro (tener) ___ tantos amigos.", "answer": "tenga" },
+        { "id": "u81_1_3", "sentence": "3. –¿Dónde está Carla? –Pregúntale a Mario. Es probable que él lo (saber) ___.", "answer": "sepa" },
+        { "id": "u81_1_4", "sentence": "4. Luis y Pili quieren que (nosotros, ir) ___ de excursión este domingo. ¿Qué te parece?", "answer": "vayamos" },
+        { "id": "u81_1_5", "sentence": "5. Yo invito. No quiero que (ustedes, decir) ___ que no lo hemos celebrado.", "answer": "digan" },
+        { "id": "u81_1_6", "sentence": "6. Habla un poco más alto. Puede que no te (oír) ___.", "answer": "oiga" },
+        { "id": "u81_1_7", "sentence": "7. ¡Ojalá (hacer) ___ buen tiempo mañana! Queremos ir al campo.", "answer": "haga" },
+        { "id": "u81_1_8", "sentence": "8. No me gusta que (tú, conducir) ___ tan deprisa. Me pone nerviosa.", "answer": "conduzcas" },
+        { "id": "u81_1_9", "sentence": "9. Bájate de ahí, Raúl. No quiero que (tú, caerse) ___.", "answer": "te caigas" },
+        { "id": "u81_1_10", "sentence": "10. –¿Vais a estar en casa esta noche? –No lo sé. Puede que (salir) ___.", "answer": "salgamos" },
+        { "id": "u81_1_11", "sentence": "11. Les voy a presentar a María. Quiero que la (conocer) ___.", "answer": "conozcan" },
+        { "id": "u81_1_12", "sentence": "12. Siento que no (haber) ___ más helado, pero se ha acabado.", "answer": "haya" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 81.2: Объедините две фразы с que",
+      "tasks": [
+        { "id": "u81_2_1", "sentence": "1. Hay pobreza en el mundo. Me parece terrible. → Me parece terrible que ___ pobreza en el mundo.", "answer": "haya" },
+        { "id": "u81_2_2", "sentence": "2. Mi gato huye cuando ve a un perro. Es lógico. → Es lógico que mi gato ___ cuando ve a un perro.", "answer": "huya" },
+        { "id": "u81_2_3", "sentence": "3. Antonia no dice nunca la verdad. Me parece mal. → Me parece mal que Antonia no ___ nunca la verdad.", "answer": "diga" },
+        { "id": "u81_2_4", "sentence": "4. Luciano y Adolfo no saben usar un ordenador. Me parece increíble. → Me parece increíble que Luciano y Adolfo no ___ usar un ordenador.", "answer": "sepan" },
+        { "id": "u81_2_5", "sentence": "5. Pones siempre la mesa. Me parece bien. → Me parece bien que ___ siempre la mesa.", "answer": "pongas" },
+        { "id": "u81_2_6", "sentence": "6. Tenéis siempre hambre; trabajáis mucho. Es natural. → Es natural que ___ siempre hambre.", "answer": "tengáis" },
+        { "id": "u81_2_7", "sentence": "7. Susana no hace nunca la cama. No me parece bien. → No me parece bien que Susana no ___ nunca la cama.", "answer": "haga" },
+        { "id": "u81_2_8", "sentence": "8. Destruyen los bosques. Es una vergüenza. → Es una vergüenza que ___ los bosques.", "answer": "destruyan" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 81.3: Дополните диалоги подходящими глаголами",
+      "tasks": [
+        { "id": "u81_3_1", "sentence": "1. –Mira esos obreros. Se van a caer. –Es imposible que ___. Tienen cinturones de seguridad.", "answer": "se caigan" },
+        { "id": "u81_3_2", "sentence": "2. –Hay mucha gente en la exposición. –Es normal que ___ tanta gente. Es una pintora buenísima.", "answer": "vaya" },
+        { "id": "u81_3_3", "sentence": "3. –Elsa sale con Tomás. –No me gusta que ___ con ese chico. Es muy celoso.", "answer": "salga" },
+        { "id": "u81_3_4", "sentence": "4. –¡Cuidado! Te van a oír. –Es imposible que me ___.", "answer": "oigan" },
+        { "id": "u81_3_5", "sentence": "5. –¿Creéis que os puede reconocer? –Sí, tengo miedo de que nos ___.", "answer": "reconozca" },
+        { "id": "u81_3_6", "sentence": "6. –Gloria es educadísima. –Sí, me llama la atención que ___ tan educada.", "answer": "sea" }
+      ]
+    }
+  ]
+}

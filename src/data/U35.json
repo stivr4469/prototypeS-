@@ -1,0 +1,101 @@
+{
+  "lessonId": "A2_U35",
+  "title": "Урок 35: Местоимения прямого дополнения",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Что такое прямое дополнение?",
+      "content": [
+        { "text": "<strong>Me, te, lo, nos</strong> и др. используются как прямое дополнение глагола для обозначения человека, животного или предмета, который уже известен или был упомянут." },
+        { "text": "<i>Lola ama <strong>a Carlos</strong>. (A Carlos es el complemento directo.) → Lola <strong>lo</strong> ama.</i><br><i>No encuentro <strong>el pan</strong>. (El pan es el complemento directo.) → No <strong>lo</strong> encuentro.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы местоимений прямого дополнения",
+      "content": [
+        { "table": {
+            "headers": ["SINGULAR", "PLURAL"],
+            "rows": [
+              ["me (a mí)", "nos (a nosotros, a nosotras)"],
+              ["te (a ti)", "os (a vosotros, a vosotras)"],
+              ["lo (a él, a usted; masculino)<br>la (a ella, a usted; femenino;<br>una cosa, masculino)", "los (a ellos, a ustedes; masculino)<br>las (a ellas, a ustedes; femenino;<br>cosas, femenino)"]
+            ]
+          }
+        },
+        { "list": [
+          "<i>–¿<strong>Me</strong> quieres? No <strong>te</strong> conozco.</i>",
+          "<i>–¿<strong>Nos</strong> recuerdas? <strong>Nos</strong> conocimos en Mallorca. –¡Ah, sí! Ahora <strong>os</strong> recuerdo.</i>",
+          "<i>–¿Quieres este libro? –No, no <strong>lo</strong> quiero. Gracias.</i>",
+          "<i>–¿Quieres a tus padres? –Sí, <strong>los</strong> quiero.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN:</strong> masculino + femenino = plural masculino<br><i>–¿Ves a Marcelo y a Luisa? –No, no <strong>los</strong> vemos mucho.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Расположение и использование",
+      "content": [
+        { "text": "<strong>1. Расположение:</strong> обычно местоимение ставится перед глаголом.<br><i>(no) <strong>me, te, lo...</strong> + verbo<br>Yo <strong>os</strong> conozco. Vosotros sois los hermanos de Lucía.<br>¿Dónde está Marisa? No <strong>la</strong> veo.</i>" },
+        { "text": "<strong>2. Когда речь идет о людях, используются `a mí, a ti, a él...` помимо `me, te, lo...`:</strong><br>- чтобы прояснить, о ком речь: <i>Ayer <strong>las</strong> vi <strong>a ustedes</strong> en el parque. / Ayer <strong>las</strong> vi <strong>a ellas</strong> en el parque.</i><br>- для контраста: <i>Ramón ama a María, pero María no <strong>lo</strong> ama <strong>a él</strong>.</i><br>- для эмфазы: <i><strong>A mí</strong> no <strong>me</strong> conoce. (Puede que conozca a otros, pero a mí no.)<br><strong>A nosotros</strong> no <strong>nos</strong> ven. (Puede que vean a otros, pero a nosotros no.)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 35.1: Используйте lo, la, los, las для завершения фраз",
+      "tasks": [
+        { "id": "u35_1_1", "sentence": "1. ¿Dónde está Andrés? No ___ veo.", "answer": "lo" },
+        { "id": "u35_1_2", "sentence": "2. ¿Dónde están las cucharas? No ___ veo.", "answer": "las" },
+        { "id": "u35_1_3", "sentence": "3. ¿Dónde están tus amigos? No ___ veo.", "answer": "los" },
+        { "id": "u35_1_4", "sentence": "4. ¿Dónde está el teléfono? No ___ veo.", "answer": "lo" },
+        { "id": "u35_1_5", "sentence": "5. ¿Dónde está Julia? No ___ veo.", "answer": "la" },
+        { "id": "u35_1_6", "sentence": "6. ¿Dónde están tus padres? No ___ veo.", "answer": "los" },
+        { "id": "u35_1_7", "sentence": "7. ¿Dónde está la entrada? No ___ veo.", "answer": "la" },
+        { "id": "u35_1_8", "sentence": "8. ¿Dónde están las naranjas? No ___ veo.", "answer": "las" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 35.2: Дополните с me, te, lo...",
+      "tasks": [
+        { "id": "u35_2_1", "sentence": "1. Yo ___ conozco. Tú eres amigo de Ana.", "answer": "te" },
+        { "id": "u35_2_2", "sentence": "2. Yo ___ conozco. Ustedes son los padres de Jesús.", "answer": "os" },
+        { "id": "u35_2_3", "sentence": "3. Yo ___ conozco. Vosotros sois compañeros de Ramón.", "answer": "os" },
+        { "id": "u35_2_4", "sentence": "4. Yo ___ conozco. Usted es la madre de Rosario.", "answer": "la" },
+        { "id": "u35_2_5", "sentence": "5. Yo ___ conozco. Ustedes son las tías de Pepe.", "answer": "las" },
+        { "id": "u35_2_6", "sentence": "6. Yo ___ conozco. Vosotras sois amigas de Raquel.", "answer": "os" },
+        { "id": "u35_2_7", "sentence": "7. Yo ___ conozco. Usted es el padre de Pedro.", "answer": "lo" },
+        { "id": "u35_2_8", "sentence": "8. Yo ___ conozco. Tú vives en la calle Arenal.", "answer": "te" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 35.3: Используйте me, te, lo... и соответствующие формы для ответов",
+      "tasks": [
+        { "id": "u35_3_1", "sentence": "1. –¿Amas a Luis? –Sí, ___ amo.", "answer": "lo" },
+        { "id": "u35_3_2", "sentence": "2. –¿Quieres esta foto? –No, no ___ quiero.", "answer": "la" },
+        { "id": "u35_3_3", "sentence": "3. –¿Has comprado el periódico? –No, ___.", "answer": "no lo he comprado" },
+        { "id": "u35_3_4", "sentence": "4. –¿Nos quieres, mamá? –Sí, ___ mucho.", "answer": "os quiero" },
+        { "id": "u35_3_5", "sentence": "5. –¿Has visto mis zapatillas? –No, ___.", "answer": "no las he visto" },
+        { "id": "u35_3_6", "sentence": "6. –¿Me recuerdas? –Sí, ___ Tú eres Julián.", "answer": "te recuerdo." },
+        { "id": "u35_3_7", "sentence": "7. –¿Ves mucho a Pepe y a Luisa? –Sí, ___ mucho.", "answer": "los veo" },
+        { "id": "u35_3_8", "sentence": "8. –¿Te quiere Elena? –No, ___.", "answer": "no me quiere" },
+        { "id": "u35_3_9", "sentence": "9. –¿Conoces a los Sres. Pardo? –Sí, ___.", "answer": "los conozco" },
+        { "id": "u35_3_10", "sentence": "10. –¿Te conocen en esta tienda? –Sí, ___.", "answer": "me conocen" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 35.4: Дополните фразы",
+      "tasks": [
+        { "id": "u35_4_1", "sentence": "1. Yo conozco a esa chica, pero ella no ___ conoce ___.", "answer": "me, a mí" },
+        { "id": "u35_4_2", "sentence": "2. Desde aquí vemos a Roberto, pero él no ___ ve ___.", "answer": "nos, a nosotros" },
+        { "id": "u35_4_3", "sentence": "3. Teresa quiere a Alfredo, pero él no ___ quiere ___.", "answer": "la, a ella" },
+        { "id": "u35_4_4", "sentence": "4. Esas señoras me conocen, pero yo no ___ conozco ___.", "answer": "las, a ellas" },
+        { "id": "u35_4_5", "sentence": "5. Ustedes me conocen, pero yo no ___ conozco ___.", "answer": "os, a vosotros" },
+        { "id": "u35_4_6", "sentence": "6. Esos chicos conocen a Miguel, pero Miguel no ___ conoce ___.", "answer": "los, a ellos" }
+      ]
+    }
+  ]
+}

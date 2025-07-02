@@ -1,0 +1,95 @@
+{
+  "lessonId": "A2_U15",
+  "title": "Урок 15: Сравнительная степень прилагательных (1)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Сравнительные формы",
+      "content": [
+        { "text": "Формы <strong>más caro, más alta, menos trabajadora</strong> являются сравнительными формами прилагательных. Они используются для сравнения двух людей, животных или предметов." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование сравнительной степени",
+      "content": [
+        { "table": {
+            "headers": ["Степень", "Формула", "Примеры"],
+            "rows": [
+              ["<strong>Превосходство (+)</strong>", "<strong>más + adjetivo (+ que)</strong>", "Felipe es <strong>más alto que</strong> su hermana.<br>Y <strong>más fuerte</strong>.<br>Necesitamos un piso <strong>más grande</strong>."],
+              ["<strong>Меньшая степень (-)</strong>", "<strong>menos + adjetivo (+ que)</strong>", "Clara es <strong>menos trabajadora que</strong> Gilberto."]
+            ]
+          }
+        },
+        { "text": "<strong>Нерегулярные (неправильные) формы:</strong><br>+ viejo → <strong>mayor</strong><br>- viejo → <strong>menor</strong><br>+ bueno → <strong>mejor</strong><br>- bueno → <strong>peor</strong>" },
+        { "list": [
+            "<i>Eva es <strong>mayor</strong> que Javi, Javi es <strong>menor</strong> que Eva.</i>",
+            "<i>El coche de Ana es <strong>mejor</strong> que el de Álvaro.</i>",
+            "<i>El coche de Álvaro es <strong>peor</strong> que el de Ana.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Согласование и другие правила",
+      "content": [
+        { "text": "<strong>1. Прилагательное имеет ту же форму (мужской/женский род, ед./мн. число), что и предмет, к которому оно относится.</strong><br><i>Mis hermanas son <strong>más altas</strong> que yo.<br>Marta es <strong>menos trabajadora</strong> que Raúl.<br>Estas camisas son <strong>más caras</strong>.</i>" },
+        { "text": "<strong>НО:</strong> mayor/menor/mejor/peor → singular (masculino y femenino)<br>mayores/menores/mejores/peores → plural (masculino y femenino)<br><i>Eva es <strong>mayor</strong> que Javi, pero Javi es <strong>mayor</strong> que su hermano.<br>Estas camisas son <strong>más baratas</strong>, pero son <strong>peores</strong>.</i>" },
+        { "text": "<strong>2. Más/menos...que + личное местоимение</strong><br><i>Eres <strong>más fuerte que mí</strong>. → Eres más fuerte que <strong>yo</strong>.<br>Somos menos altos que vosotros.</i>" },
+        { "text": "<strong>3. Не всегда обязательно упоминать второго человека или предмет, с которым идет сравнение.</strong><br><i>Este piso es pequeño. Yo quiero uno <strong>más grande</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 15.1: Дополните фразы с más или menos",
+      "tasks": [
+        { "id": "u15_1_1", "sentence": "1. ¿Quién es (+ guapo) ___ guapo, Juan o su hermano?", "answer": "más" },
+        { "id": "u15_1_2", "sentence": "2. ¿Quién es (– caprichoso) ___ caprichoso, Alberto o Luisa?", "answer": "menos" },
+        { "id": "u15_1_3", "sentence": "3. ¿Qué ciudad es (+ antiguo) ___ antigua, Lima o Santiago?", "answer": "más" },
+        { "id": "u15_1_4", "sentence": "4. ¿Quién es (+ bueno) ___, Ronaldo o Rivaldo?", "answer": "mejor" },
+        { "id": "u15_1_5", "sentence": "5. ¿Qué país está (– poblado) ___ poblado, Venezuela o Colombia?", "answer": "menos" },
+        { "id": "u15_1_6", "sentence": "6. ¿Qué deporte es (– peligroso) ___, el esquí o el alpinismo?", "answer": "menos peligroso" },
+        { "id": "u15_1_7", "sentence": "7. ¿Qué es (+ malo) ___, estar enfermo o no tener dinero?", "answer": "peor" },
+        { "id": "u15_1_8", "sentence": "8. ¿Quién es (+ viejo) ___, Sofía o su esposo?", "answer": "mayor" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 15.2: Напишите сравнения",
+      "tasks": [
+        { "id": "u15_2_1", "sentence": "1. (Luis 1,90 cm; su hermano 1,82 cm) Luis es ___ su hermano.", "answer": "más alto que" },
+        { "id": "u15_2_2", "sentence": "2. (Uruguay 176 220 km²; Argentina, 2 766 890 km²) Uruguay es ___ Argentina.", "answer": "más pequeño que" },
+        { "id": "u15_2_3", "sentence": "3. (Paraguay, 5,5 millones de habitantes; Ecuador, 13 millones) Paraguay está ___ Ecuador.", "answer": "menos poblado que" },
+        { "id": "u15_2_4", "sentence": "4. (Luisa 19 años; Clara, 25 años) Luisa es ___ Clara.", "answer": "menor que" },
+        { "id": "u15_2_5", "sentence": "5. (fresas 3,50 euros/kilo; plátanos, 1,75 euros/kilo) Las fresas son ___ los plátanos.", "answer": "más caras que" },
+        { "id": "u15_2_6", "sentence": "6. (Amazonas 6 788 km; Paraná, 3 780 km) El Amazonas es ___ el Paraná.", "answer": "más largo que" },
+        { "id": "u15_2_7", "sentence": "7. (televisión 345 euros; radio, 60 euros) Esta televisión es ___ esta radio.", "answer": "más cara que" },
+        { "id": "u15_2_8", "sentence": "8. (Suiko, disco duro 20 GB; Misima, disco duro 80 GB) Los ordenadores Suiko son ___ los Misima.", "answer": "peores que" },
+        { "id": "u15_2_9", "sentence": "9. (león 80 km/h; canguro, 50 km/h) El canguro es ___ el león.", "answer": "más lento que" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 15.3",
+      "content": [
+        { "text": "<strong>Упражнение 15.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 15.4: Дополните фразы правильной сравнительной формой",
+      "tasks": [
+        { "id": "u15_4_1", "sentence": "1. Este piso es muy antiguo. Prefiero uno (antiguo) ___.", "answer": "menos antiguo" },
+        { "id": "u15_4_2", "sentence": "2. Esta casa es muy cara. Prefiero una (barato) ___.", "answer": "más barata" },
+        { "id": "u15_4_3", "sentence": "3. Estos pantalones son muy grandes. Necesito unos (pequeño) ___.", "answer": "más pequeños" },
+        { "id": "u15_4_4", "sentence": "4. Esta cama es incómoda. Prefiero una (cómodo) ___.", "answer": "más cómoda" },
+        { "id": "u15_4_5", "sentence": "5. Mi trabajo es muy malo. Quiero uno (bueno) ___.", "answer": "mejor" },
+        { "id": "u15_4_6", "sentence": "6. Este postre está muy dulce. Prefiero los postres (dulce) ___.", "answer": "menos dulces" },
+        { "id": "u15_4_7", "sentence": "7. Este libro es un poco aburrido. Prefiero uno (entretenido) ___.", "answer": "más entretenido" },
+        { "id": "u15_4_8", "sentence": "8. Esta falda es muy corta. Quiero una (largo) ___.", "answer": "más larga" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "lessonId": "B1_U111",
+  "title": "Урок 111: Предлоги движения и места",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлоги движения и места",
+      "content": [
+        { "text": "<strong>`a`, `hacia`, `hasta`, `de`, `desde`, `en`</strong> могут указывать на отношения движения или места." },
+        { "list": [
+          "<strong>- `a` указывает на пункт назначения.</strong><br><i>–¿Adónde vas? –Voy <strong>a</strong> la academia.</i><br><strong>a + el → al:</strong> <i>Voy <strong>al</strong> mercado.</i>",
+          "<strong>- `hacia` указывает на направление.</strong><br><i>Esta autopista va <strong>hacia</strong> el sur.</i>",
+          "<strong>- `hasta` указывает на конечную точку пути.</strong><br><i>Corrimos <strong>hasta</strong> la parada del autobús.</i>",
+          "<strong>- `de, desde` указывают на место происхождения или начальную точку пути.</strong><br><i>Han venido <strong>de/desde</strong> la playa en bicicleta.<br>–¿De dónde vienes? –<strong>De</strong> casa de Eva.<br>Не используется `desde`, когда важен источник, а не маршрут: Venimos <strong>del</strong> cine. (а не desde)</i>",
+          "<strong>- `de/desde... a/hasta` указывают начальную и конечную точки пути.</strong><br><i>Hay mucho camino <strong>de/desde</strong> la iglesia <strong>a/hasta</strong> el restaurante.</i>",
+          "<strong>- `en` указывает на статичное местоположение.</strong><br><i>Tengo sellos <strong>en</strong> el cajón.<br>Teresa vive <strong>en</strong> el quinto piso.</i><br><strong>НО:</strong> `a la entrada (del museo)`, `a la derecha (de la Gran Vía)`"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие предлоги",
+      "content": [
+        { "list": [
+          "<strong>- `sobre` указывает на расположение поверх чего-либо или кого-либо.</strong><br><i>Hay muchos papeles <strong>sobre</strong> la mesa.</i>",
+          "<strong>- `entre` указывает на промежуточное местоположение.</strong><br><i>La farmacia está <strong>entre</strong> el supermercado y el banco.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 111.1, 111.2, 111.3",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены, так как они требуют анализа изображений или составления свободных фраз.</strong>" }
+      ]
+    }
+  ]
+}

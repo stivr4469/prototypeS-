@@ -1,0 +1,92 @@
+{
+  "lessonId": "A2_U37",
+  "title": "Урок 37: Местоимения косвенного и прямого дополнения",
+  "level": "A2-B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Порядок местоимений",
+      "content": [
+        { "text": "В одном предложении могут быть два дополнения: косвенное (CI) и прямое (CD).<br><i>¿<strong>Le</strong> has dado <strong>tu teléfono</strong> a Rafa? → ¿<strong>Se lo</strong> has dado?</i>" },
+        { "text": "<strong>Формы и порядок местоимений в предложении:</strong>" },
+        { "table": {
+            "headers": ["PRONOMBRES DE CI (Косвенное)", "PRONOMBRES DE CD (Прямое)"],
+            "rows": [
+              [
+                "me (a mí)<br>te (a ti)<br><strong>se (a usted)</strong><br><strong>se (a él, a ella; a una cosa)</strong><br>nos (a nosotros, a nosotras)<br>os (a vosotros, a vosotras)<br><strong>se (a ustedes)</strong><br><strong>se (a ellos, a ellas; a unas cosas)</strong>",
+                "lo (masculino singular)<br>la (femenino singular)<br>los (masculino plural)<br>las (femenino plural)"
+              ]
+            ]
+          }
+        },
+        { "text": "<i>–¿<strong>Les</strong> has presentado <strong>tu novia</strong> a tus padres? –No, no <strong>se la</strong> he presentado.</i><br>(les CI + la CD → se la)" },
+        { "text": "<strong>ATENCIÓN:</strong><br>`Le, les` меняются на `se`, когда стоят перед `lo, la, los, las`.<br><i><strong>Le lo</strong> he dado. → <strong>Se lo</strong> he dado.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование",
+      "content": [
+        { "text": "<strong>1. `se` используется</strong>, помимо случая с дополнением, когда подлежащее не упоминается в первом лице.<br><i>–¿Qué has hecho con el coche? ¿<strong>Se lo</strong> has regalado a Pepe? –No, <strong>se lo</strong> he vendido.</i>" },
+        { "text": "<strong>2. `lo, la, los, las` относятся к предмету или лицу, о котором говорится в первую очередь.</strong><br><i>Esos libros se <strong>los</strong> regalé yo.</i>" },
+        { "text": "<strong>3. Когда речь идет о людях, используются `se` + `a mí, a ti, a él...` помимо `me, te, se...`:</strong><br>- чтобы прояснить, о ком речь:<br><i><strong>Se lo</strong> ha enseñado a él.<br><strong>Se lo</strong> ha enseñado a ella.<br><strong>Se lo</strong> ha enseñado a usted.<br><strong>Se lo</strong> ha enseñado a ustedes.<br><strong>Se lo</strong> ha enseñado a ellos.<br><strong>Se lo</strong> ha enseñado a ellas.</i><br>- для эмфазы:<br><i>–¿Te ha dado el dinero? –<strong>A mí</strong> no <strong>me lo</strong> ha dado.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 37.1: Дополните ответы с me, te, se... и lo, la, los, las",
+      "tasks": [
+        { "id": "u37_1_1", "sentence": "1. –¿Quién te ha regalado esos bombones? –___ ___ ha regalado Anita.", "answer": "Me los" },
+        { "id": "u37_1_2", "sentence": "2. –¿Quién les ha prestado el dinero a tus padres? –___ ___ ha prestado Juan.", "answer": "Se lo" },
+        { "id": "u37_1_3", "sentence": "3. –¿Quién os ha enviado ese paquete? –___ ___ ha enviado mi tía Rosa.", "answer": "Nos lo" },
+        { "id": "u37_1_4", "sentence": "4. –¿Quién me envía estas flores? –___ ___ envía Raúl.", "answer": "Te las" },
+        { "id": "u37_1_5", "sentence": "5. –¿Quién le ha regalado esa corbata, Antonio? –___ ___ ha regalado mi mujer.", "answer": "Se la" },
+        { "id": "u37_1_6", "sentence": "6. –¿Quién les ha enseñado el museo a ustedes? –___ ___ ha enseñado un guía turístico.", "answer": "Nos lo" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 37.2: Ответьте на вопросы",
+      "tasks": [
+        { "id": "u37_2_1", "sentence": "1. –¿Te ha dado Pepe el regalo? –No, ___.", "answer": "no me lo ha dado" },
+        { "id": "u37_2_2", "sentence": "2. –¿Os ha prestado Pablo el dinero? –Sí, ___.", "answer": "nos lo ha prestado" },
+        { "id": "u37_2_3", "sentence": "3. –¿Les ha presentado Sara su novio a sus padres? –No, ___.", "answer": "no se lo ha presentado" },
+        { "id": "u37_2_4", "sentence": "4. –¿Te ha enseñado a usted su casa Marta? –Sí, ___.", "answer": "me la ha enseñado" },
+        { "id": "u37_2_5", "sentence": "5. –¿Les ha presentado Hugo sus amigos a sus padres? –Sí, ___.", "answer": "se los ha presentado" },
+        { "id": "u37_2_6", "sentence": "6. –¿Le ha vendido Jesús su coche a Antonia? –No, ___.", "answer": "no se lo ha vendido" },
+        { "id": "u37_2_7", "sentence": "7. –¿Les ha enseñado a ustedes los cuadros Ramón? –Sí, ___.", "answer": "nos los ha enseñado" },
+        { "id": "u37_2_8", "sentence": "8. –¿Me ha traído Rita las entradas? –Sí, ___.", "answer": "te las ha traído" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 37.3: Дополните с me, te, se... и lo, la, los, las",
+      "tasks": [
+        { "id": "u37_3_1", "sentence": "1. Este paraguas (a él) ___ ___ regaló Andrea.", "answer": "se lo" },
+        { "id": "u37_3_2", "sentence": "2. Esta corbata (a mí) ___ ___ regaló mi novia.", "answer": "me la" },
+        { "id": "u37_3_3", "sentence": "3. Ese coche (a ellos) ___ ___ ha vendido un amigo.", "answer": "se lo" },
+        { "id": "u37_3_4", "sentence": "4. Esa lámpara (a nosotros) ___ ___ ha regalado una tía de Alberto.", "answer": "nos la" },
+        { "id": "u37_3_5", "sentence": "5. Esas flores (a ella) ___ ___ ha traído su novio.", "answer": "se las" },
+        { "id": "u37_3_6", "sentence": "6. Este paquete (a usted) ___ ___ ha traído un mensajero.", "answer": "se lo" },
+        { "id": "u37_3_7", "sentence": "7. Estos bombones (a ellas) ___ ___ ha comprado su hermano.", "answer": "se los" },
+        { "id": "u37_3_8", "sentence": "8. Este libro (a ti) ___ ___ ha traído Víctor.", "answer": "te lo" },
+        { "id": "u37_3_9", "sentence": "9. Esta carta (a mí) ___ ___ envía una amiga de Perú.", "answer": "me la" },
+        { "id": "u37_3_10", "sentence": "10. Estos helados (a vosotros) ___ ___ compro yo.", "answer": "os los" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 37.4: Ответьте на вопросы как в примере",
+      "tasks": [
+        { "id": "u37_4_1", "sentence": "1. –¿Te ha dado las entradas? –No, <u>a mí no me las ha dado</u>.", "answer": "a mí no me las ha dado" },
+        { "id": "u37_4_2", "sentence": "2. –¿Le ha dado a usted el dinero? –No, ___.", "answer": "a mí no me lo ha dado" },
+        { "id": "u37_4_3", "sentence": "3. –¿Os ha dado las llaves? –No, ___.", "answer": "a nosotros no nos las ha dado" },
+        { "id": "u37_4_4", "sentence": "4. –¿Me ha enviado el paquete? –No, ___, don Antonio.", "answer": "a ti no te lo ha enviado" },
+        { "id": "u37_4_5", "sentence": "5. –¿Nos han aprobado? –No, ___.", "answer": "a vosotros no os han aprobado" },
+        { "id": "u37_4_6", "sentence": "6. –¿Le han aprobado a Teresa? –Sí, ___.", "answer": "a ella se lo han aprobado" },
+        { "id": "u37_4_7", "sentence": "7. –¿Y lo han aprobado a Alfonso? –No, ___.", "answer": "a él no se lo han aprobado" },
+        { "id": "u37_4_8", "sentence": "8. –¿Nos han invitado a la fiesta? –No, ___.", "answer": "a vosotros no os han invitado" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lessonId": "A2_U56",
+  "title": "Урок 56: Presente de estar + герундий",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы estar + герундий",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) estoy", "(nosotros, -as) estamos"],
+              ["(tú) estás", "(vosotros, -as) estáis"],
+              ["(usted) está", "estudiando", "(ustedes) están", "escribiendo"],
+              ["(él, ella) está", "bebiendo", "(ellos, -as) están"]
+            ]
+          }
+        },
+        { "text": "<strong>Se usa estoy, estás... + gerundio:</strong>" },
+        { "list": [
+          "<strong>- для разговора о действиях, которые происходят в данный момент.</strong><br><i>–¿Qué <strong>estás haciendo</strong>? –<strong>Estoy escuchando</strong> un disco de salsa.</i>",
+          "<strong>- для разговора о временной, необычной ситуации, с выражениями времени:</strong> hoy, este mes, últimamente...<br><i>Luisa normalmente trabaja en España, pero este mes <strong>está trabajando</strong> en Argentina.<br>Este año <strong>estamos durmiendo</strong> mucho.</i>",
+          "<strong>- для усиления длительности или повторяемости действия:</strong> todo el rato, siempre, a todas horas, todo el día...<br><i>Antonio <strong>está siempre pensando</strong> en Belén.<br><strong>Estáis todo el día jugando</strong> y no estudiáis.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN:</strong><br>Verbos con se: lavarse, vestirse...<br><strong>`me, te, se, nos, os, se` + `presente de estar` + gerundio</strong><br><i>Me estoy duchando. / Se están vistiendo.</i><br><strong>`presente de estar` + gerundio -me, -te, -se, -nos, -os, -se</strong><br><i>Estoy duchándome. / Están vistiéndose.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 56.1",
+      "content": [
+        { "text": "<strong>Упражнение 56.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 56.2: Дополните фразы глаголами",
+      "tasks": [
+        { "id": "u56_2_1", "sentence": "1. –¿Dónde están tus padres? –___ pasando unos días en Potosí.", "answer": "Están" },
+        { "id": "u56_2_2", "sentence": "2. –¿Dónde están los niños? –___ en el parque.", "answer": "Están jugando" },
+        { "id": "u56_2_3", "sentence": "3. José y su hermano se quieren mucho, pero ___ siempre.", "answer": "están discutiendo" },
+        { "id": "u56_2_4", "sentence": "4. –¿Con quién ___ Teresa? –Con una vecina.", "answer": "está hablando" },
+        { "id": "u56_2_5", "sentence": "5. Esta semana ___ mucho calor.", "answer": "está haciendo" },
+        { "id": "u56_2_6", "sentence": "6. ¡Qué obsesión! Laura y tú ___ siempre ___ en salir.", "answer": "estáis, pensando" },
+        { "id": "u56_2_7", "sentence": "7. Ten cuidado, Arturo. Últimamente ___ muy poco.", "answer": "estás durmiendo" },
+        { "id": "u56_2_8", "sentence": "8. –¿Por qué no come Cristina hoy con nosotros? –___ en casa de una amiga.", "answer": "Está comiendo" },
+        { "id": "u56_2_9", "sentence": "9. –¿Dónde está Hans? –___ un curso de español en Perú.", "answer": "Está haciendo" },
+        { "id": "u56_2_10", "sentence": "10. Esta semana estamos de fiesta y ___ muy tarde.", "answer": "estamos acostándonos" },
+        { "id": "u56_2_11", "sentence": "11. –¿Qué ___? –Música cubana.", "answer": "estoy escuchando" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 56.3: Что происходит в данный момент?",
+      "tasks": [
+        { "id": "u56_3_1", "sentence": "1. (estudiar español) → <u>Estoy estudiando español</u>.", "answer": "Estoy estudiando español" },
+        { "id": "u56_3_2", "sentence": "2. (ducharse) → ___.", "answer": "No me estoy duchando" },
+        { "id": "u56_3_3", "sentence": "3. (escuchar música) → ___.", "answer": "Estoy escuchando música" },
+        { "id": "u56_3_4", "sentence": "4. (llover) → ___.", "answer": "Está lloviendo" },
+        { "id": "u56_3_5", "sentence": "5. (beber un zumo) → ___.", "answer": "Estoy bebiendo un zumo" },
+        { "id": "u56_3_6", "sentence": "6. (escribir) → ___.", "answer": "Estoy escribiendo" }
+      ]
+    }
+  ]
+}

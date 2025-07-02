@@ -1,0 +1,96 @@
+{
+  "lessonId": "A2_U40",
+  "title": "Урок 40: Возвратные и взаимные местоимения",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Возвратные местоимения",
+      "content": [
+        { "text": "<strong>Me, se</strong> и др. являются возвратными местоимениями. Они используются, чтобы указать, что действие глагола (ducharse, afeitarse) получает тот же человек, который его выполняет." },
+        { "list": [
+          "<i><strong>Me</strong> ducho.</i>",
+          "<i><strong>Me</strong> lavo el pelo. (una parte del cuerpo)</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы и сравнение",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) <strong>me</strong>", "(tú) <strong>te</strong>", "(usted) <strong>se</strong>", "(él, ella) <strong>se</strong>"],
+              ["(nosotros, -as) <strong>nos</strong>", "(vosotros, -as) <strong>os</strong>", "(ustedes) <strong>se</strong>", "(ellos, -as) <strong>se</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>Сравните (Compare):</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<i>Me afeito todas las mañanas.</i>", "<i>Afeito a unas seis personas todas las mañanas.</i>"],
+              ["<i>Rut se viste después de desayunar.</i>", "<i>Rut viste a los niños después de desayunar.</i>"],
+              ["<i>Antón y yo nos quemamos con unas cerillas.</i>", "<i>Ayer quemamos unos troncos en la chimenea.</i>"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Взаимные местоимения",
+      "content": [
+        { "text": "<strong>Nos, os, se</strong> используются также, чтобы указать, что действие совершается двумя или более людьми по отношению друг к другу (взаимное действие)." },
+        { "list": [
+          "<i><strong>Nos</strong> queremos. (Ella me quiere a mí y yo la quiero a ella.)</i>",
+          "<i>¿<strong>Os</strong> conocéis Marisa y tú? (¿Conoces tú a Marisa y te conoce ella a ti?)</i>",
+          "<i>Juan y su padre <strong>se</strong> entienden muy bien. (Juan entiende a su padre y su padre entiende a Juan.)</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 40.1: Дополните фразы с me, te, se... где необходимо",
+      "tasks": [
+        { "id": "u40_1_1", "sentence": "1. Rosa ___ cortó con un cuchillo ayer.", "answer": "se" },
+        { "id": "u40_1_2", "sentence": "2. Sandra ___ mira mucho al espejo.", "answer": "se" },
+        { "id": "u40_1_3", "sentence": "3. Juan ___ cortó el pan con su navaja.", "answer": "" },
+        { "id": "u40_1_4", "sentence": "4. No ___ mires tanto al espejo, Saúl.", "answer": "te" },
+        { "id": "u40_1_5", "sentence": "5. ¿Cuándo ___ duchan los niños?", "answer": "se" },
+        { "id": "u40_1_6", "sentence": "6. Mi hermana y yo ___ quemamos cocinando.", "answer": "nos" },
+        { "id": "u40_1_7", "sentence": "7. Roberto ___ ha quemado las cartas de Aurora.", "answer": "" },
+        { "id": "u40_1_8", "sentence": "8. Julio y Pedro ___ saludaron en la fiesta.", "answer": "se" },
+        { "id": "u40_1_9", "sentence": "9. ¿Quién ___ ha tirado mis gafas a la basura?", "answer": "" },
+        { "id": "u40_1_10", "sentence": "10. ¿Por qué ___ pone usted el sombrero?", "answer": "se" },
+        { "id": "u40_1_11", "sentence": "11. Mira. (Yo) ___ veo en el agua.", "answer": "me" },
+        { "id": "u40_1_12", "sentence": "12. ¿Qué ___ ves en el agua?", "answer": "" },
+        { "id": "u40_1_13", "sentence": "13. ¿Cuándo ___ lavas el pelo, Sonia?", "answer": "te" },
+        { "id": "u40_1_14", "sentence": "14. ¿Vosotros ___ afeitáis todos los días?", "answer": "os" },
+        { "id": "u40_1_15", "sentence": "15. Alicia ___ rompió una pierna esquiando.", "answer": "se" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 40.2: Перепишите фразы с nos, os или se. Обратите внимание на глагол.",
+      "tasks": [
+        { "id": "u40_2_1", "sentence": "1. Felipe saludó a David y David saludó a Felipe. → Felipe y David ___.", "answer": "se saludaron" },
+        { "id": "u40_2_2", "sentence": "2. Roque no habla a Julio y Julio no habla a Roque. → ___", "answer": "Roque y Julio no se hablan" },
+        { "id": "u40_2_3", "sentence": "3. Roque te quiere a ti y tú quieres a Roque. → ___", "answer": "Roque y tú os queréis" },
+        { "id": "u40_2_4", "sentence": "4. Sofía escribe a Lina y Lina escribe a Sofía. → ___", "answer": "Sofía y Lina se escriben" },
+        { "id": "u40_2_5", "sentence": "5. Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. → ___", "answer": "Andrés y yo nos conocemos muy bien" },
+        { "id": "u40_2_6", "sentence": "6. Rodrigo ayuda a su mujer y su mujer ayuda a Rodrigo. → ___", "answer": "Rodrigo y su mujer se ayudan" },
+        { "id": "u40_2_7", "sentence": "7. En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. → ___", "answer": "En Navidad, mi mujer y yo nos hacemos un regalo" },
+        { "id": "u40_2_8", "sentence": "8. Tus amigos te ven a ti y tú los ves a ellos los domingos. → ___", "answer": "Tus amigos y tú os veis los domingos" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 40.3",
+      "content": [
+        { "text": "<strong>Упражнение 40.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lessonId": "A2_U23",
+  "title": "Урок 23: alguien, algo, nadie, nada (Неопределённые местоимения 4)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Основные значения",
+      "content": [
+        { "text": "<strong>Alguien, algo, nadie</strong> и <strong>nada</strong> используются для обозначения людей или вещей с неопределенной идентичностью." },
+        { "list": [
+          "<strong>alguien</strong> = una persona (o varias), pero no se sabe quién. (кто-то)",
+          "<strong>algo</strong> = una cosa (o varias), pero no se sabe qué cosa. (что-то)",
+          "<strong>nadie</strong> = ninguna persona. (никто)",
+          "<strong>nada</strong> = ninguna cosa. (ничто)"
+        ]},
+        { "table": {
+            "headers": ["", "PERSONAS (люди)", "COSAS (вещи)"],
+            "rows": [
+              [
+                "<strong>Фразы утвердительные и вопросы</strong>",
+                "<strong>Alguien</strong> ha roto la silla.<br>¿Hay <strong>alguien</strong> ahí dentro?",
+                "Hay <strong>algo</strong> en la sopa.<br>¿Has dicho <strong>algo</strong>?"
+              ],
+              [
+                "<strong>Фразы отрицательные</strong>",
+                "<strong>Nadie</strong> ha venido nadie.<br>No ha venido <strong>nadie</strong>.",
+                "<strong>Nada</strong>.<br>No he dicho <strong>nada</strong>."
+              ]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN (двойное отрицание):</strong><br><strong>nadie, nada + verbo afirmativo</strong> → <i><strong>Nadie</strong> me ha visto. / <strong>Nada</strong> le importa.</i><br><strong>verbo negativo + nadie, nada</strong> → <i>No me ha visto <strong>nadie</strong>. / No le importa <strong>nada</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование с неисчисляемыми существительными",
+      "content": [
+        { "text": "<strong>`Algo de`, `nada de` + неисчисляемые существительные (agua, queso...)</strong> используются для указания на неопределенное количество." },
+        { "list": [
+            "<i>Hay <strong>algo de queso</strong> en la nevera. (un poco)</i>",
+            "<i>No hay <strong>nada de queso</strong>.</i>"
+        ]},
+        { "text": "<strong>`Algo` и `nada` могут использоваться самостоятельно</strong>, когда существительное, к которому они относятся, уже было упомянуто." },
+        { "list": [
+            "<i>–¿Tienes dinero? –Tengo <strong>algo</strong>.</i>",
+            "<i>–Pues yo no tengo <strong>nada</strong>.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 23.1",
+      "content": [
+        { "text": "<strong>Упражнение 23.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 23.2: Дополните фразы с alguien, algo, nadie или nada",
+      "tasks": [
+        { "id": "u23_2_1", "sentence": "1. Hay ___ esperándole en recepción.", "answer": "alguien" },
+        { "id": "u23_2_2", "sentence": "2. Me han dado ___ para ti.", "answer": "algo" },
+        { "id": "u23_2_3", "sentence": "3. ___ huele mal en la cocina.", "answer": "Algo" },
+        { "id": "u23_2_4", "sentence": "4. Hoy no he hecho ___.", "answer": "nada" },
+        { "id": "u23_2_5", "sentence": "5. ¿Ha visto ___ mi bolígrafo?", "answer": "alguien" },
+        { "id": "u23_2_6", "sentence": "6. ___ quiere acompañarme al cine.", "answer": "Nadie" },
+        { "id": "u23_2_7", "sentence": "7. Necesito que ___ me ayude с este ejercicio.", "answer": "alguien" },
+        { "id": "u23_2_8", "sentence": "8. Hay mucha gente en la calle. ¿Ha pasado ___?", "answer": "algo" },
+        { "id": "u23_2_9", "sentence": "9. No ha pasado ___. Ha sido una falsa alarma.", "answer": "nada" },
+        { "id": "u23_2_10", "sentence": "10. No hay ___ en casa de Tomás. No contestan el teléfono.", "answer": "nadie" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 23.3: Ответьте на вопросы, используя algo, nada или nada de",
+      "tasks": [
+        { "id": "u23_3_1", "sentence": "1. –¿Hay comida? –No queda ___ queso, pero queda ___ jamón.", "answer": "nada de, algo de" },
+        { "id": "u23_3_2", "sentence": "2. –¿Queda pan? –Queda ___, pero poco.", "answer": "algo" },
+        { "id": "u23_3_3", "sentence": "3. –¿Y leche? –No queda ___, pero queda ___ zumo.", "answer": "nada, algo de" },
+        { "id": "u23_3_4", "sentence": "4. –Necesitamos comprar comida. –Tenemos ___, pero poco.", "answer": "algo" },
+        { "id": "u23_3_5", "sentence": "5. –¿Qué podemos comprar? –Bueno, podemos comprar ___ pan y ___ queso.", "answer": "algo de, algo de" },
+        { "id": "u23_3_6", "sentence": "6. –¿Y fruta? –No podemos comprar ___ fruta. No tenemos suficiente dinero.", "answer": "nada de" }
+      ]
+    }
+  ]
+}

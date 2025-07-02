@@ -1,0 +1,62 @@
+{
+  "lessonId": "B1_U64",
+  "title": "Урок 64: Сравнение Pretérito indefinido и Imperfecto",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "table": {
+            "headers": ["PRETÉRITO INDEFINIDO", "PRETÉRITO IMPERFECTO"],
+            "rows": [
+              [
+                "<strong>1. Используется для разговора о действиях или ситуациях, произошедших в конкретный момент в прошлом.</strong><br><i>La semana pasada <strong>comí</strong> con Luis.</i><br><strong>Информирует о том, что произошло вчера, в прошлое воскресенье, на прошлой неделе...</strong><br><i>El domingo (pasado) <strong>fuimos</strong> al campo.<br>Aquella tarde <strong>dimos</strong> un paseo por el centro.</i>",
+                "<strong>1. Используется для разговора о привычных действиях в прошлом.</strong><br><i>De pequeña, <strong>comía</strong> mucho chocolate.</i><br><strong>Информирует о том, что происходило обычно, всегда, каждый день, по воскресеньям...</strong><br><i>Cuando era pequeño, <strong>íbamos</strong> siempre al campo los domingos.<br><strong>Dábamos</strong> un paseo todas las tardes.</i>"
+              ],
+              [
+                "<strong>2. Используется для разговора о завершенном действии или ситуации в прошлом.</strong><br><i>El verano pasado <strong>estuvimos</strong> en Managua.</i>",
+                "<strong>2. Используется для разговора о действии или ситуации, которая длилась в прошлом.</strong><br><i><strong>Estábamos</strong> en Managua...<br>...cuando <strong>comenzó</strong> la huelga.</i>"
+              ],
+              [
+                "<strong>3. Обычно используется для обозначения основных событий прошлого.</strong><br><i>Ayer <strong>fuimos</strong> a la playa...<br>Los ladrones <strong>entraron</strong>...<br>–¿Vio usted al culpable?<br>Cervantes <strong>fue</strong> un gran escritor. <strong>Nació</strong> en Alcalá de Henares en 1547...</i>",
+                "<strong>3. Обычно используется для обозначения обстоятельств, которые окружали основное событие прошлого.</strong><br><i>...<strong>Hacía</strong> mucho calor y <strong>había</strong> mucha gente.<br>...mientras <strong>dormíamos</strong> la siesta.<br>–Sí. <strong>Era</strong> alto, <strong>tenía</strong> los ojos verdes y <strong>llevaba</strong> una gorra negra.<br>...Su padre <strong>era</strong> cirujano.</i>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 64.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u64_1_1", "sentence": "1. Ayer no (fui/iba) a trabajar. (Estuve/Estaba) enfermo.", "options": ["fui, Estaba", "iba, Estuve"], "correctOption": "fui, Estaba" },
+        { "id": "u64_1_2", "sentence": "2. ¿(Fuiste/Ibas) mucho a la playa cuando (viviste/vivías) en Las Palmas?", "options": ["Fuiste, viviste", "Ibas, vivías"], "correctOption": "Ibas, vivías" },
+        { "id": "u64_1_3", "sentence": "3. El domingo pasado (estuvimos/estábamos) en la sierra. No (pudimos/podíamos) esquiar porque no (hubo/había) nieve.", "options": ["estuvimos, pudimos, había", "estábamos, podíamos, hubo"], "correctOption": "estuvimos, pudimos, había" },
+        { "id": "u64_1_4", "sentence": "4. Cuando (fui/era) joven, (fui/iba) mucho al cine.", "options": ["fui, iba", "era, iba"], "correctOption": "era, iba" },
+        { "id": "u64_1_5", "sentence": "5. Carolina (estuvo/estaba) en medio del campo cuando (empezó/empezaba) a llover.", "options": ["estuvo, empezó", "estaba, empezó"], "correctOption": "estaba, empezó" },
+        { "id": "u64_1_6", "sentence": "6. ¿Qué (hicisteis/hacías) el sábado pasado?", "options": ["hicisteis", "hacías"], "correctOption": "hicisteis" },
+        { "id": "u64_1_7", "sentence": "7. ¿Dónde (estuviste/estabas) cuando (empezó/empezaba) el partido?", "options": ["estuviste, empezó", "estabas, empezó"], "correctOption": "estabas, empezó" },
+        { "id": "u64_1_8", "sentence": "8. Anoche (vi/veía) a Marisa. (Llevó/Llevaba) un vestido precioso.", "options": ["vi, Llevaba", "veía, Llevó"], "correctOption": "vi, Llevaba" },
+        { "id": "u64_1_9", "sentence": "9. ¿Qué (hiciste/hacías) en la calle cuando te (vio/veía) Lucas?", "options": ["hiciste, vio", "hacías, veía"], "correctOption": "hacías, vio" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 64.2: Дополните диалоги",
+      "tasks": [
+        { "id": "u64_2_1", "sentence": "1. ¿Cuándo (conocer) ___ a Maruja? La (conocer) ___ cuando (vivir) ___ en Bogotá.", "answer": "conociste, conocí, vivía" },
+        { "id": "u64_2_2", "sentence": "2. ¿Dónde (ustedes, estar) ___ anoche? (Estar) ___ dormidos y (no, oír) ___ el teléfono.", "answer": "estaban, Estábamos, no oímos" },
+        { "id": "u64_2_3", "sentence": "3. ¿Qué (tú, hacer) ___ cuando (vivir) ___ en Ecuador? (Ser) ___ maestra. (No, tener) ___ trabajo allí. ¿Por qué (venirse) ___ a España?", "answer": "hacías, vivías, Era, No tenía, te viniste" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 64.3: Дополните историю",
+      "tasks": [
+        { "id": "u64_3_1", "sentence": "Una noche, cuando (tener) ___ once o doce años, mis padres (salir) ___ y me (dejar) ___ solo. (Estar) ___ feliz porque (sentirse) ___ adulto. Me (preparar) ___ algo para cenar, (ver) ___ la tele y sobre las doce (irse) ___ a mi habitación. De repente, (oír) ___ un ruido en el piso de abajo. (Cerrar) ___ con llave la puerta de mi habitación y (escuchar) ___. Al cabo de un rato (abrir) ___ la puerta y (bajar) ___ las escaleras con mucho miedo. (Haber) ___ algo que (moverse) ___ cerca de una ventana. De repente, una sombra negra (saltar) ___ sobre mí. (Ser) ___ un gato. (Desmayarse) ___ y cuando (regresar) ___, mis padres, me (encontrar) ___ tirado en el suelo.", "answer": "tenía, salieron, dejaron, Estaba, me sentía, Preparé, vi, me fui, oí, Cerré, escuché, abrí, bajé, Había, se movía, saltó, Era, Me desmayé, regresaron, encontraron" }
+      ]
+    }
+  ]
+}

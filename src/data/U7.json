@@ -1,0 +1,76 @@
+{
+  "lessonId": "A1_U7",
+  "title": "Урок 7: un perro / el perro. Сравнение артиклей",
+  "level": "A1-A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Сравнение неопределённого и определённого артиклей",
+      "content": [
+        { "table": {
+            "headers": ["Неопределённый артикль (ARTÍCULO INDETERMINADO)", "Определённый артикль (ARTÍCULO DETERMINADO)"],
+            "rows": [
+              [
+                "<strong>1. Используется, когда мы говорим о чём-то впервые, представляем новую для собеседника информацию.</strong><br><i>Tengo <strong>un loro</strong> y <strong>un perro</strong>.<br>Estoy leyendo <strong>un libro</strong> sobre <strong>un cantante</strong>.</i>",
+                "<strong>1. Используется, когда мы говорим о чём-то уже известном или упомянутом ранее.</strong><br><i><strong>El loro</strong> se llama Ricky y <strong>el perro</strong> se llama Trotski.<br><strong>El libro</strong> se titula Mi vida. <strong>La cantante</strong>...</i>"
+              ],
+              [
+                "<strong>2. Используется, чтобы обозначить человека, животное или предмет как одного из представителей своего класса или группы.</strong><br><i><strong>Un hijo</strong> de Andrés es médico. (У Андреса несколько сыновей.)<br>Tucumán es <strong>una ciudad</strong> de Argentina. (В Аргентине много городов.)<br>He visto <strong>una película</strong> de terror.<br>Necesito alquilar <strong>un coche</strong>. (любой)</i>",
+                "<strong>2. Используется, чтобы обозначить конкретного, определённого человека, животное или предмет.</strong><br><i><strong>La hija</strong> de Rosa es escritora. (У Росы только одна дочь.)<br>Buenos Aires es <strong>la capital</strong> de Argentina. (Столица только одна.)<br><strong>Los actores</strong> eran muy malos. (актёры того фильма)<br>Necesito arreglar <strong>el coche</strong>. (мой или конкретный)</i>"
+              ],
+              [
+                "<strong>3. Используется для указания количества.</strong><br><i><strong>Un melón</strong>, por favor.</i>",
+                "<strong>3. Используется для обозначения чего-то в общем, обобщённом смысле.</strong><br><i>Me encanta <strong>el melón</strong>.</i>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+        "type": "FillInTheBlanksComplex",
+        "title": "Упражнение 7.1: Дополните текст артиклями",
+        "tasks": [
+            { "id": "u7_1_1", "sentence": "He visto ___ película preciosa. Es ___ comedia. ___ actores son fabulosos. ___ película es sobre ___ médico que se enamora de ___ paciente. ___ médico no sabe cómo decírselo a ___ paciente. Esta tiene ___ hijo y ___ médico tiene ___ hija de ___ paciente y ___ hijo de ___ médico se conocen y se hacen amigos. ___ día dan ___ fiesta e invitan a sus padres a ___ fiesta. ___ película acaba con ___ boda de ___ padres.", "answers": ["una", "una", "Los", "La", "un", "una", "El", "la", "un", "una", "el", "la", "Un", "una", "la", "La", "la", "los"] },
+            { "id": "u7_1_2", "sentence": "Es ___ cuadro precioso. Se ve a ___ hombre y ___ mujer en ___ jardín. ___ hombre está leyendo ___ libro y ___ mujer está tumbada debajo de ___ árbol. En ___ ramas de ___ árbol hay ___ pájaros de muchos colores. ___ pájaros tienen ___ alas extendidas, parece que van a echarse a volar.", "answers": ["un", "un", "una", "un", "El", "un", "la", "un", "las", "el", "unos", "Los", "unas"] }
+        ]
+    },
+    {
+        "type": "MultipleChoice",
+        "title": "Упражнение 7.2: Выберите правильную форму",
+        "tasks": [
+            { "id": "u7_2_1", "sentence": "1. Chihuahua es (la/una) ciudad de México.", "options": ["la", "una"], "correctOption": "una" },
+            { "id": "u7_2_2", "sentence": "2. He visto (la/una) película de acción. (El/Un) personaje principal era (el/un) detective.", "options": ["la, El", "una, Un"], "correctOption": "una, Un" },
+            { "id": "u7_2_3", "sentence": "3. (La/Una) nueva película de Fernando Trueba es muy buena.", "options": ["La", "Una"], "correctOption": "La" },
+            { "id": "u7_2_4", "sentence": "4. Soy enfermero y trabajo en (el/un) hospital.", "options": ["el", "un"], "correctOption": "un" },
+            { "id": "u7_2_5", "sentence": "5. Estoy leyendo (el/un) libro sobre (el/un) rey Juan Carlos.", "options": ["un, el", "el, un"], "correctOption": "un, el" },
+            { "id": "u7_2_6", "sentence": "6. ¿Qué es eso? ¿Es (la/una) televisión portátil?", "options": ["la", "una"], "correctOption": "una" },
+            { "id": "u7_2_7", "sentence": "7. ¿Quién es (el/un) primer ministro?", "options": ["el", "un"], "correctOption": "el" },
+            { "id": "u7_2_8", "sentence": "8. Carmen trabaja en (el/un) hotel. Es recepcionista.", "options": ["el", "un"], "correctOption": "un" },
+            { "id": "u7_2_9", "sentence": "9. (La/Una) novia de Arturo es brasileña.", "options": ["La", "Una"], "correctOption": "La" },
+            { "id": "u7_2_10", "sentence": "10. (El/Un) Sol es (la/una) estrella.", "options": ["El, una", "Un, la"], "correctOption": "El, una" },
+            { "id": "u7_2_11", "sentence": "11. Paco es (el/un) nombre español.", "options": ["el", "un"], "correctOption": "un" },
+            { "id": "u7_2_12", "sentence": "12. –¿Dónde está Carlos? –En (la/una) cocina.", "options": ["la", "una"], "correctOption": "la" },
+            { "id": "u7_2_13", "sentence": "13. Vivo en (el/un) centro de Lima.", "options": ["el", "un"], "correctOption": "el" },
+            { "id": "u7_2_14", "sentence": "14. (La/Una) moto de Pedro es italiana.", "options": ["La", "Una"], "correctOption": "La" },
+            { "id": "u7_2_15", "sentence": "15. (La/Una) Luna gira alrededor de (la/una) Tierra.", "options": ["La, la", "Una, una"], "correctOption": "La, la" }
+        ]
+    },
+    {
+        "type": "FillInTheBlank",
+        "title": "Упражнение 7.3: Дополните с un, una, unos, unas или el, la, los, las",
+        "tasks": [
+            { "id": "u7_3_1", "sentence": "1. Me han regalado ___ bombones.", "answer": "unos" },
+            { "id": "u7_3_2", "sentence": "2. No me gusta ___ chocolate.", "answer": "el" },
+            { "id": "u7_3_3", "sentence": "3. ___ piña, por favor.", "answer": "Una" },
+            { "id": "u7_3_4", "sentence": "4. ___ piña es mi fruta preferida.", "answer": "La" },
+            { "id": "u7_3_5", "sentence": "5. Me encantan ___ cuadros de Dalí.", "answer": "los" },
+            { "id": "u7_3_6", "sentence": "6. ¿Te gustan ___ peras?", "answer": "las" },
+            { "id": "u7_3_7", "sentence": "7. Me he comprado ___ vaqueros.", "answer": "unos" },
+            { "id": "u7_3_8", "sentence": "8. Te he comprado ___ margaritas.", "answer": "unas" },
+            { "id": "u7_3_9", "sentence": "9. Quiero comprarme ___ pantalones cortos.", "answer": "unos" },
+            { "id": "u7_3_10", "sentence": "10. Me encanta ___ agua.", "answer": "el" }
+        ]
+    }
+  ]
+}

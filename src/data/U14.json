@@ -1,0 +1,68 @@
+{
+  "lessonId": "A2_U14",
+  "title": "Урок 14: una amiga chilena (Прилагательные национальности)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование женского рода и множественного числа",
+      "content": [
+        { "text": "Прилагательные национальности указывают на происхождение." },
+        { "table": {
+            "headers": ["Окончание", "MASCULINO", "FEMENINO", "PLURAL MASCULINO", "PLURAL FEMENINO"],
+            "rows": [
+              ["-o", "chilen<strong>o</strong>", "chilen<strong>a</strong>", "chilen<strong>os</strong>", "chilen<strong>as</strong>"],
+              ["-a, -e, -í", "belg<strong>a</strong><br>canadiens<strong>e</strong><br>marroqu<strong>í</strong>", "belg<strong>a</strong><br>canadiens<strong>e</strong><br>marroqu<strong>í</strong>", "belg<strong>as</strong><br>canadiens<strong>es</strong><br>marroqu<strong>íes</strong>", "belg<strong>as</strong><br>canadiens<strong>es</strong><br>marroqu<strong>íes</strong>"],
+              ["-consonante", "portugu<strong>és</strong><br>alem<strong>án</strong><br>españ<strong>ol</strong>", "portugues<strong>a</strong><br>aleman<strong>a</strong><br>español<strong>a</strong>", "portugues<strong>es</strong><br>aleman<strong>es</strong><br>español<strong>es</strong>", "portugues<strong>as</strong><br>aleman<strong>as</strong><br>español<strong>as</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>Примеры:</strong><br><i>Donoso es un escritor <strong>chileno</strong>. Isabel Allende es una escritora <strong>chilena</strong>. Los puros <strong>cubanos</strong> son de gran calidad.<br>La capital belga es Bruselas. Me encantan los bombones <strong>belgas</strong>.<br>La bandera canadiense es roja y blanca.<br>Bild es una revista <strong>alemana</strong>. A Carla le gusta mucho la comida <strong>española</strong>. Faro y Oporto son ciudades <strong>portuguesas</strong>.</i>" },
+        { "text": "<strong>ATENCIÓN (изменение ударения):</strong> portugués → portuguesa, portugueses, portuguesas; alemán → alemana, alemanes, alemanas." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Согласование и расположение",
+      "content": [
+        { "text": "<strong>1. Masculino + femenino = plural masculino.</strong><br><i>Iván es <strong>cubano</strong>. Haydée es <strong>cubana</strong>. → Iván y Haydée son <strong>cubanos</strong>.<br>Tengo unos sellos y unas monedas <strong>rusos</strong>.</i>" },
+        { "text": "<strong>2. Расположение прилагательного:</strong><br><strong>ser + adjetivo:</strong> Gabriel García Márquez es <strong>colombiano</strong>.<br><strong>nombre + adjetivo:</strong> La bandera argentina es azul y blanca.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 14.1: Дополните список",
+      "tasks": [
+        { "id": "u14_1_1", "sentence": "1. M: brasileño, F: ___, M PL: ___, F PL: ___", "answer": "brasileña,brasileños,brasileñas" },
+        { "id": "u14_1_2", "sentence": "2. M: costarricense, F: ___, M PL: ___, F PL: ___", "answer": "costarricense,costarricenses,costarricenses" },
+        { "id": "u14_1_3", "sentence": "3. M: escocés, F: ___, M PL: ___, F PL: ___", "answer": "escocesa,escoceses,escocesas" },
+        { "id": "u14_1_4", "sentence": "4. M: iraní, F: ___, M PL: ___, F PL: ___", "answer": "iraní,iraníes,iraníes" },
+        { "id": "u14_1_5", "sentence": "5. M: japonés, F: ___, M PL: ___, F PL: ___", "answer": "japonesa,japoneses,japonesas" },
+        { "id": "u14_1_6", "sentence": "6. M: nicaragüense, F: ___, M PL: ___, F PL: ___", "answer": "nicaragüense,nicaragüenses,nicaragüenses" },
+        { "id": "u14_1_7", "sentence": "7. M: venezolano, F: ___, M PL: ___, F PL: ___", "answer": "venezolana,venezolanos,venezolanas" },
+        { "id": "u14_1_8", "sentence": "8. M: vietnamita, F: ___, M PL: ___, F PL: ___", "answer": "vietnamita,vietnamitas,vietnamitas" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 14.2",
+      "content": [
+        { "text": "<strong>Упражнение 14.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 14.3: Дополните фразы существительным и прилагательным",
+      "tasks": [
+        { "id": "u14_3_1", "sentence": "1. El yen es la <u>moneda japonesa</u>.", "answer": "moneda japonesa" },
+        { "id": "u14_3_2", "sentence": "2. El dirham es la ___.", "answer": "moneda marroquí" },
+        { "id": "u14_3_3", "sentence": "3. Gabriel García Márquez es un ___.", "answer": "escritor colombiano" },
+        { "id": "u14_3_4", "sentence": "4. Burdeos es una ___.", "answer": "ciudad francesa" },
+        { "id": "u14_3_5", "sentence": "5. Julia Roberts es una ___.", "answer": "actriz estadounidense" },
+        { "id": "u14_3_6", "sentence": "6. Hanoi es la ___.", "answer": "capital vietnamita" },
+        { "id": "u14_3_7", "sentence": "7. Montreal y Edmonton son ___.", "answer": "ciudades canadienses" },
+        { "id": "u14_3_8", "sentence": "8. Lisboa es la ___.", "answer": "capital portuguesa" }
+      ]
+    }
+  ]
+}

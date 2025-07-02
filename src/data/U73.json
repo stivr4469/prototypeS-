@@ -1,0 +1,74 @@
+{
+  "lessonId": "B1_U73",
+  "title": "Урок 73: Утвердительный императив: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы утвердительного императива",
+      "content": [
+        { "text": "<strong>Abre, abrid</strong> и <strong>pasen</strong> — это формы утвердительного императива. Он используется, чтобы давать инструкции, советы, разрешения и т.д." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(tú)", "trabaj<strong>a</strong>", "com<strong>e</strong>", "viv<strong>e</strong>"],
+              ["(usted)", "trabaj<strong>e</strong>", "com<strong>a</strong>", "viv<strong>a</strong>"],
+              ["(vosotros, -as)", "trabaj<strong>ad</strong>", "com<strong>ed</strong>", "viv<strong>id</strong>"],
+              ["(ustedes)", "trabaj<strong>en</strong>", "com<strong>an</strong>", "viv<strong>an</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> Ver: ve, vea, ved, vean" },
+        { "text": "<strong>Орфографические изменения:</strong><br>- глаголы на `-gar`: pagar → pag<strong>a</strong>, pag<strong>ue</strong>, pag<strong>ad</strong>, pag<strong>uen</strong><br>- глаголы на `-ger`: escoger → escog<strong>e</strong>, escoj<strong>a</strong>, escog<strong>ed</strong>, escoj<strong>an</strong><br>- глаголы на `-car`: practicar → practic<strong>a</strong>, practi<strong>que</strong>, practic<strong>ad</strong>, practi<strong>quen</strong><br>- глаголы на `-zar`: cruzar → cruz<strong>a</strong>, cru<strong>ce</strong>, cruz<strong>ad</strong>, cru<strong>cen</strong>" },
+        { "text": "<strong>С возвратными местоимениями:</strong> <i><strong>Pasen</strong> ustedes, por favor. / <strong>Apaga</strong> la televisión y <strong>¡estudia!</strong></i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование утвердительного императива",
+      "content": [
+        { "text": "<strong>Используется для:</strong>" },
+        { "list": [
+          "<strong>- приказов и инструкций:</strong> <i><strong>Envíe</strong> esta carta, Sr. Aguayo, por favor. / <strong>Abra</strong> con cuidado. / ¡Policía! ¡<strong>Abran</strong> la puerta!</i>",
+          "<strong>- просьб и приглашений:</strong> <i><strong>Abre</strong> la puerta, por favor. / <strong>Coged</strong> un pastel. Están muy ricos.</i>",
+          "<strong>- предложений и советов:</strong> <i><strong>Come</strong> más. Estás muy delgado. / <strong>Trabaja</strong> o tendrás problemas.</i>",
+          "<strong>- разрешений:</strong> <i>–¿Puedo pasar? –Sí, por supuesto, <strong>pasa</strong>.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 73.1",
+      "content": [
+        { "text": "<strong>Упражнение 73.1 пропущено, так как оно полностью основано на анализе изображения.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 73.2: Что вы скажете в каждой ситуации?",
+      "tasks": [
+        { "id": "u73_2_1", "sentence": "1. (a un amigo) Están llamando. (Abrir) → ___, la puerta, por favor.", "answer": "Abre" },
+        { "id": "u73_2_2", "sentence": "2. (a unos niños) (Cruzar) ___ por el paso de cebra.", "answer": "Cruzad" },
+        { "id": "u73_2_3", "sentence": "3. (a unos amigos) La paella está riquísima. (Comer) ___ más.", "answer": "Comed" },
+        { "id": "u73_2_4", "sentence": "4. (a un amigo) (Hablar) ___ más bajo. No soy sorda.", "answer": "Habla" },
+        { "id": "u73_2_5", "sentence": "5. (a alguien de su familia) (Bajar) ___ la televisión. Está muy alta.", "answer": "Baja" },
+        { "id": "u73_2_6", "sentence": "6. (a un amigo) –¿Puedo llamar por teléfono? –Sí, por supuesto. (Llamar) ___.", "answer": "Llama" },
+        { "id": "u73_2_7", "sentence": "7. (a un niño) –¿Puedo comer otro pastel? –Sí, claro. (Comer) ___ todos los que quieras.", "answer": "Come" },
+        { "id": "u73_2_8", "sentence": "8. (a unos señores mayores) –¿Podemos pasar? –Sí, (pasar) ___ ustedes, por favor.", "answer": "pasen" },
+        { "id": "u73_2_9", "sentence": "9. (a unos desconocidos) (Cruzar) ___ por aquí; es más seguro.", "answer": "Crucen" },
+        { "id": "u73_2_10", "sentence": "10. (a unos clientes) (Pagar) ___ en la caja, por favor.", "answer": "Paguen" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 73.3: Дополните объявления",
+      "tasks": [
+        { "id": "u73_3_1", "sentence": "1. «Mes del ahorro en Supermás. (Comprar) ___ dos y (pagar) ___ uno.»", "answer": "Compre, pague" },
+        { "id": "u73_3_2", "sentence": "2. «(Visitar) ___ Andalucía. (Recorrer) ___ sus ciudades y sus pueblos. (Descansar) ___ en sus playas. (Vivir) ___ unos días mágicos.»", "answer": "Visite, Recorra, Descanse, Viva" },
+        { "id": "u73_3_3", "sentence": "3. «Restaurante Nuevo Mundo. Algo nuevo para usted. (Comer) ___ en un ambiente especial y (disfrutar) ___ de un espectáculo inolvidable. (Ver) ___ las mejores actuaciones de América Latina.»", "answer": "Coma, disfrute, Vea" },
+        { "id": "u73_3_4", "sentence": "4. «¿Te gustaría hablar español? (Estudiar) ___ con el revolucionario método Naturalia y (aprender) ___ español en diez meses.»", "answer": "Estudia, aprende" },
+        { "id": "u73_3_5", "sentence": "5. «¿No conoce usted América Latina? (Enviar) ___ una etiqueta de leche CAM a Radio Central. (Participar) ___ en nuestro concurso y (ganar) ___ un viaje a Perú para dos personas.»", "answer": "Envíe, Participe, gane" }
+      ]
+    }
+  ]
+}

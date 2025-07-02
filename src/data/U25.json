@@ -1,0 +1,79 @@
+{
+  "lessonId": "A2_U25",
+  "title": "Урок 25: Количественные числительные (1): 0-99",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Числительные от 0 до 99",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["0 cero", "11 once", "21 veintiuno/veintiún", "30 treinta", "60 sesenta"],
+              ["1 uno/un", "12 doce", "22 veintidós", "31 treinta y uno", "70 setenta"],
+              ["2 dos", "13 trece", "23 veintitrés", "32 treinta y dos", "80 ochenta"],
+              ["3 tres", "14 catorce", "24 veinticuatro", "40 cuarenta", "90 noventa"],
+              ["4 cuatro", "15 quince", "25 veinticinco", "43 cuarenta y tres", "99 noventa y nueve"],
+              ["5 cinco", "16 dieciséis", "26 veintiséis", "44 cuarenta y cuatro", ""],
+              ["6 seis", "17 diecisiete", "27 veintisiete", "50 cincuenta", ""],
+              ["7 siete", "18 dieciocho", "28 veintiocho", "56 cincuenta y seis", ""],
+              ["8 ocho", "19 diecinueve", "29 veintinueve", "", ""],
+              ["9 nueve", "20 veinte", "", "", ""],
+              ["10 diez", "", "", "", ""]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br><strong>uno, una</strong> → <i>–¿Cuántos años tienes? –Treinta y <strong>uno</strong>.<br>–¿Cuántas chicas hay en tu clase? Veinti<strong>una</strong>.</i><br><strong>un + nombre masculino</strong> → <i>En mi oficina hay veinti<strong>ún</strong> hombres.</i><br><strong>un + nombre femenino singular que empieza por 'a', 'ha'</strong> → <i>En esa montaña vive <strong>un</strong> águila.</i><br><strong>una + nombre femenino</strong> → <i>Tengo treinta y <strong>una</strong> libras.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование количественных числительных",
+      "content": [
+        { "text": "<strong>Используются для указания:</strong>" },
+        { "list": [
+          "<strong>- точного количества:</strong> <i>En mi clase hay <strong>catorce</strong> alumnos.<br>Solo tengo <strong>quince</strong> pesos.</i>",
+          "<strong>- мер, веса и расстояний:</strong> <i>Peso <strong>setenta y cinco</strong> kilos.</i>",
+          "<strong>- возраста:</strong> <i>–¿Cuántos años tienes? –<strong>Veinticuatro</strong>.</i>",
+          "<strong>- дат:</strong> <i>Hoy es <strong>cuatro</strong> de febrero. La boda es el <strong>día trece</strong>.</i>",
+          "<strong>- времени:</strong> <i>La hora: <strong>las tres y veinte</strong>. / <strong>Las quince veinte</strong>.</i>"
+        ]},
+        { "text": "<strong>- телефонных номеров:</strong><br><i>46596703 = cuatro, seis, cinco, nueve, seis, siete, cero, tres.<br>902 32 46 01 = nueve cero dos, treinta y dos, cuarenta y seis, cero uno.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 25.1: Напишите числительные словами",
+      "tasks": [
+        { "id": "u25_1_1", "sentence": "1. 21 euros", "answer": "Veintiún euros" },
+        { "id": "u25_1_2", "sentence": "2. 10 de enero", "answer": "diez de enero" },
+        { "id": "u25_1_3", "sentence": "3. 31 días", "answer": "treinta y un días" },
+        { "id": "u25_1_4", "sentence": "4. 49 kilos", "answer": "cuarenta y nueve kilos" },
+        { "id": "u25_1_5", "sentence": "5. 15 de diciembre", "answer": "quince de diciembre" },
+        { "id": "u25_1_6", "sentence": "6. 88 centímetros", "answer": "ochenta y ocho centímetros" },
+        { "id": "u25_1_7", "sentence": "7. 31 aulas", "answer": "treinta y un aulas" },
+        { "id": "u25_1_8", "sentence": "8. 28 de febrero", "answer": "veintiocho de febrero" },
+        { "id": "u25_1_9", "sentence": "9. 25 años", "answer": "veinticinco años" },
+        { "id": "u25_1_10", "sentence": "10. 61 semanas", "answer": "sesenta y un semanas" },
+        { "id": "u25_1_11", "sentence": "11. 1 de mayo", "answer": "uno de mayo" },
+        { "id": "u25_1_12", "sentence": "12. 45 kilómetros", "answer": "cuarenta y cinco kilómetros" },
+        { "id": "u25_1_13", "sentence": "13. 34 metros", "answer": "treinta y cuatro metros" },
+        { "id": "u25_1_14", "sentence": "14. 53 años", "answer": "cincuenta y tres años" },
+        { "id": "u25_1_15", "sentence": "15. 92 kilos", "answer": "noventa y dos kilos" },
+        { "id": "u25_1_16", "sentence": "16. 21 alumnas", "answer": "veintiuna alumnas" },
+        { "id": "u25_1_17", "sentence": "17. 5 de agosto", "answer": "cinco de agosto" },
+        { "id": "u25_1_18", "sentence": "18. 11 alumnos", "answer": "once alumnos" },
+        { "id": "u25_1_19", "sentence": "19. 76 años", "answer": "setenta y seis años" },
+        { "id": "u25_1_20", "sentence": "20. 51 libras", "answer": "cincuenta y una libras" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 25.2 и 25.3",
+      "content": [
+        { "text": "<strong>Упражнения 25.2 (время на часах) и 25.3 (номера телефонов) пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

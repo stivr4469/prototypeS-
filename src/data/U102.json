@@ -1,0 +1,86 @@
+{
+  "lessonId": "B1_U102",
+  "title": "Урок 102: Наречия времени (2): ya, todavía, aún",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: todavía, aún, ya no",
+      "content": [
+        { "text": "<strong>`Todavía`</strong> и <strong>`aún`</strong> указывают на то, что действие, начавшееся в прошлом, продолжается в настоящем.<br><i><strong>Todavía</strong> trabajo en el estudio de Mónica.<br>¿<strong>Aún</strong> estás aquí? Creía que te habías ido.</i>" },
+        { "text": "<strong>`Ya no`</strong> указывает, что предыдущее действие больше не происходит в настоящем.<br><i>Antes <strong>íbamos</strong> mucho a esquiar, pero <strong>ya no vamos</strong> casi nada.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: ya, todavía no, aún no",
+      "content": [
+        { "text": "<strong>`Ya`</strong> указывает, что действие или ситуация, о которой идет речь, произошли ранее.<br><i>Ya he terminado. Podemos marcharnos.</i>" },
+        { "text": "<strong>`Todavía/aún` с отрицанием</strong> указывают, что действие или ситуация, о которой идет речь, не произошли до или в момент речи.<br><i><strong>Aún</strong> no he acabado. Espéradme un momento.<br>¿<strong>Todavía</strong> no te has vestido? Vamos a llegar tarde.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Ya со значением будущего",
+      "content": [
+        { "text": "<strong>- `se usa ya` + `futuro simple` для обозначения будущего действия неопределенным образом.</strong><br><i>No te preocupes. <strong>Ya</strong> se arreglará todo. (en un momento futuro)</i>" },
+        { "text": "<strong>- `se usa ya` + `presente de indicativo` для обозначения действия, которое произойдет в ближайшем будущем, `a partir de ahora`.</strong><br><i>¡<strong>Ya</strong> (ahora) me acuerdo! Tú eres Armando.<br><strong>Ya</strong> no llueve. <strong>Ya</strong> (ahora, a partir de ahora) podemos salir.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 102.1: Дополните фразы с todavía, aún или ya no",
+      "tasks": [
+        { "id": "u102_1_1", "sentence": "1. No puedes irte. ___ te necesito.", "answer": "Todavía/Aún" },
+        { "id": "u102_1_2", "sentence": "2. –¿Está Berta? –No, ___ vive aquí.", "answer": "ya no" },
+        { "id": "u102_1_3", "sentence": "3. –¿Sigues jugando al tenis? –Sí, ___ juego de vez en cuando.", "answer": "todavía/aún" },
+        { "id": "u102_1_4", "sentence": "4. –¿Vas a la oficina? –No, ___ estoy de vacaciones.", "answer": "todavía/aún" },
+        { "id": "u102_1_5", "sentence": "5. Puedes irte. ___ te necesito.", "answer": "Ya no" },
+        { "id": "u102_1_6", "sentence": "6. –¿Me dejas la bici, Manuel? –Lo siento, ___ tengo bici. Se me rompió.", "answer": "ya no" },
+        { "id": "u102_1_7", "sentence": "7. –¿Sigue estudiando griego? –Sí, ___ lo estudio. Me encanta.", "answer": "todavía/aún" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 102.2: Прочитайте ответы и задайте вопросы",
+      "tasks": [
+        { "id": "u102_2_1", "sentence": "1. ¿___? –Sí, ya nos conocemos.", "answer": "Se conocen ya ustedes" },
+        { "id": "u102_2_2", "sentence": "2. ¿___? –Sí, ya lo sé.", "answer": "Lo sabes ya" },
+        { "id": "u102_2_3", "sentence": "3. ¿___? –No, aún no ha llegado Paloma.", "answer": "Ha llegado ya Paloma" },
+        { "id": "u102_2_4", "sentence": "4. ¿___? –No, todavía no hemos empezado las clases.", "answer": "Habéis empezado ya las clases" },
+        { "id": "u102_2_5", "sentence": "5. ¿___? –No, la comida no está lista todavía.", "answer": "Está ya lista la comida" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 102.3: Дополните фразы с ya, todavía no / aún no",
+      "tasks": [
+        { "id": "u102_3_1", "sentence": "1. Estoy esperando a Lidia desde las seis, pero ___ ha llegado.", "answer": "todavía no/aún no" },
+        { "id": "u102_3_2", "sentence": "2. Venid. ___ han abierto las puertas.", "answer": "Ya" },
+        { "id": "u102_3_3", "sentence": "3. –¿Qué quieres estudiar? –___ lo sé.", "answer": "Todavía no/Aún no" },
+        { "id": "u102_3_4", "sentence": "4. –¿Sabes que Lorenzo se marcha a Chile? –Sí, ___ lo sé.", "answer": "ya" },
+        { "id": "u102_3_5", "sentence": "5. –¿Has leído ___ el fichero que te mandé? –No, ___ lo he abierto.", "answer": "ya, todavía no/aún no" },
+        { "id": "u102_3_6", "sentence": "6. ¿___ has pagado el alquiler? Se va a enfadar el casero.", "answer": "Ya" },
+        { "id": "u102_3_7", "sentence": "7. –¿Ha vuelto ___ Pilar de México? –No, ___ ha vuelto.", "answer": "ya, todavía no/aún no" },
+        { "id": "u102_3_8", "sentence": "8. ___ sé dónde está Viña. Me lo ha dicho Tomás.", "answer": "Ya" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 102.4: Перепишите фразы с ya",
+      "tasks": [
+        { "id": "u102_4_1", "sentence": "1. Puedes llamar a partir de ahora. → ___.", "answer": "Ya puedes llamar" },
+        { "id": "u102_4_2", "sentence": "2. Dentro de unos días te llamaremos. → ___.", "answer": "Ya te llamaremos" },
+        { "id": "u102_4_3", "sentence": "3. No creo que venga ahora. → ___.", "answer": "Ya no creo que venga" },
+        { "id": "u102_4_4", "sentence": "4. Te diré algo más adelante. → ___.", "answer": "Ya te diré algo" },
+        { "id": "u102_4_5", "sentence": "5. Ahora lo entiendo. → ___.", "answer": "Ya lo entiendo" },
+        { "id": "u102_4_6", "sentence": "6. Hablaremos otro día. → ___.", "answer": "Ya hablaremos" },
+        { "id": "u102_4_7", "sentence": "7. A partir de ahora podemos comprar las entradas. → ___.", "answer": "Ya podemos comprar las entradas" },
+        { "id": "u102_4_8", "sentence": "8. Os contestaré más adelante. → ___.", "answer": "Ya os contestaré" },
+        { "id": "u102_4_9", "sentence": "9. Ahora hay que irse. → ___.", "answer": "Ya hay que irse" },
+        { "id": "u102_4_10", "sentence": "10. Hará buen tiempo más adelante. → ___.", "answer": "Ya hará buen tiempo" },
+        { "id": "u102_4_11", "sentence": "11. Encontrarán trabajo en el futuro. → ___.", "answer": "Ya encontrarán trabajo" }
+      ]
+    }
+  ]
+}

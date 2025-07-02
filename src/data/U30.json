@@ -1,0 +1,91 @@
+{
+  "lessonId": "A2_U30",
+  "title": "Урок 30: quién, qué... (Вопросительные местоимения 1)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Quién и qué",
+      "content": [
+        { "text": "<strong>Quién</strong> и <strong>qué</strong> — это вопросительные местоимения. Они используются, чтобы запросить информацию о людях, животных или предметах." },
+        { "table": {
+            "headers": [],
+            "rows": [
+              [
+                "<strong>(preposición: a, de, con... +)</strong>",
+                "<strong>quién / quiénes<br>qué + nombre</strong>"
+              ]
+            ]
+          }
+        },
+        { "list": [
+          "<i>¿<strong>Quién</strong> ha llamado por teléfono?</i>",
+          "<i>¿<strong>Quiénes</strong> son los ganadores?</i>",
+          "<i>¿<strong>Qué</strong> queso prefieres?</i>",
+          "<i>¿<strong>Con qué</strong> has hecho el caldo?</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN:</strong><br><strong>interrogativo sujeto (quién, qué) + verbo (+ complementos)</strong><br><i>¿<strong>Quién</strong> ha vendido el ordenador? / ¿<strong>Qué</strong> pasa?</i><br><br><strong>interrogativo complemento (a quién, qué...) + verbo + sujeto (+ complementos)</strong><br><i>¿<strong>A quién</strong> ha vendido Alejo el ordenador? / ¿<strong>Qué</strong> ha vendido Alejo?</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Правила использования",
+      "content": [
+        { "text": "<strong>1. Используется `quién` или `quiénes` для идентификации людей.</strong><br><i>–¿<strong>Quién</strong> es esa señora? –Es mi profesora de piano.<br>–¿<strong>Quiénes</strong> son los hermanos de Mercedes? –Los que están en la mesa del centro.<br>–¿<strong>Con quién</strong> está hablando Pablo? –Con un vecino.</i>" },
+        { "text": "<strong>2. Используется `qué` для запроса действий или вещей.</strong><br><i>–¿<strong>Qué</strong> tienes en la mano? –Unas monedas.<br>–¿<strong>Qué</strong> hacéis? –Estamos estudiando un poco.<br>–¿<strong>De qué</strong> están hablando? –De fútbol, como siempre.</i>" },
+        { "text": "<strong>3. Используется `qué` + существительное в ед. или мн. числе для запроса об определенном классе вещей или животных. (¿qué clase de...?)</strong><br><i>–¿<strong>Qué</strong> queso habéis comprado? (¿Qué clase de queso?) –Queso de bola.<br>–¿<strong>Qué</strong> animales viven en la tierra y en el agua? –Los anfibios.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 30.1: Составьте вопросы из слов",
+      "tasks": [
+        { "id": "u30_1_1", "sentence": "1. ¿tiene / en la mano / Julián / qué? → ___", "answer": "¿Qué tiene Julián en la mano?" },
+        { "id": "u30_1_2", "sentence": "2. ¿quién / Eloísa / está bailando / con? → ___", "answer": "¿Con quién está bailando Eloísa?" },
+        { "id": "u30_1_3", "sentence": "3. ¿ese anillo / para / es / quién? → ___", "answer": "¿Para quién es ese anillo?" },
+        { "id": "u30_1_4", "sentence": "4. ¿anoche / pasó / qué? → ___", "answer": "¿Qué pasó anoche?" },
+        { "id": "u30_1_5", "sentence": "5. ¿quién / esa bolsa / de / es? → ___", "answer": "¿De quién es esa bolsa?" },
+        { "id": "u30_1_6", "sentence": "6. ¿tus padres / te / qué / han regalado? → ___", "answer": "¿Qué te han regalado tus padres?" },
+        { "id": "u30_1_7", "sentence": "7. ¿la puerta / qué / has abierto / con? → ___", "answer": "¿Con qué has abierto la puerta?" },
+        { "id": "u30_1_8", "sentence": "8. ¿está escribiendo / una novela / quién? → ___", "answer": "¿Quién está escribiendo una novela?" },
+        { "id": "u30_1_9", "sentence": "9. ¿María / qué / quiere? → ___", "answer": "¿Qué quiere María?" },
+        { "id": "u30_1_10", "sentence": "10. ¿quiere / a María / quién? → ___", "answer": "¿Quién quiere a María?" },
+        { "id": "u30_1_11", "sentence": "11. ¿es / la sopa / qué / de? → ___", "answer": "¿De qué es la sopa?" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 30.2: Дополните вопросы с quién, quiénes или qué",
+      "tasks": [
+        { "id": "u30_2_1", "sentence": "1. ¿___ te ha regalado ese collar?", "answer": "Quién" },
+        { "id": "u30_2_2", "sentence": "2. ¿De ___ es esta pluma?", "answer": "quién" },
+        { "id": "u30_2_3", "sentence": "3. ¿___ miel tomas normalmente?", "answer": "Qué" },
+        { "id": "u30_2_4", "sentence": "4. ¿Con ___ fuiste a Bolivia?", "answer": "quién" },
+        { "id": "u30_2_5", "sentence": "5. ¿___ estás haciendo?", "answer": "Qué" },
+        { "id": "u30_2_6", "sentence": "6. ¿___ van a jugar en el equipo esta semana?", "answer": "Quiénes" },
+        { "id": "u30_2_7", "sentence": "7. ¿___ libros le gustan a Teresa?", "answer": "Qué" },
+        { "id": "u30_2_8", "sentence": "8. ¿Con ___ has abierto el paquete?", "answer": "qué" },
+        { "id": "u30_2_9", "sentence": "9. ¿A ___ visteis anoche en la fiesta?", "answer": "quién" },
+        { "id": "u30_2_10", "sentence": "10. ¿___ visteis anoche en la tele?", "answer": "Qué" },
+        { "id": "u30_2_11", "sentence": "11. ¿___ quería Julián?", "answer": "Qué" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 30.3: Сформулируйте вопросы к выделенной информации",
+      "tasks": [
+        { "id": "u30_3_1", "sentence": "1. –Ayer estuve con Águeda. –¿___ estuviste ayer?", "answer": "Con quién" },
+        { "id": "u30_3_2", "sentence": "2. –Esa silla está hecha de cuerda. –¿___ está hecha esa silla?", "answer": "De qué" },
+        { "id": "u30_3_3", "sentence": "3. –Normalmente comemos con pan de molde. –¿___ pan coméis?", "answer": "Qué" },
+        { "id": "u30_3_4", "sentence": "4. –Alfonso quiere comprarse un CD. –¿___ quiere comprarse Alfonso?", "answer": "Qué" },
+        { "id": "u30_3_5", "sentence": "5. –Estas gafas son de Pablo. –¿___ son esas gafas?", "answer": "De quién" },
+        { "id": "u30_3_6", "sentence": "6. –Georgina está trabajando con su madre. –¿___ está trabajando Georgina?", "answer": "Con quién" },
+        { "id": "u30_3_7", "sentence": "7. –Han ganado Eduardo y Marisa. –¿___ han ganado?", "answer": "Quiénes" },
+        { "id": "u30_3_8", "sentence": "8. –Mira. Esos chicos están bailando. –¿___ están haciendo esos chicos?", "answer": "Qué" },
+        { "id": "u30_3_9", "sentence": "9. –Belinda no quiere a Ariel. –¿___ no quiere Belinda?", "answer": "A quién" },
+        { "id": "u30_3_10", "sentence": "10. –Estas flores son para mi abuela. –¿___ son esas flores?", "answer": "Para quién" },
+        { "id": "u30_3_11", "sentence": "11. –Me han regalado unos bombones. –¿___ te han regalado?", "answer": "Qué" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "lessonId": "A1_U42",
+  "title": "Урок 42: Presente de indicativo глагола SER",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение глагола SER в настоящем времени",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) <strong>soy</strong>", "(nosotros, -as) <strong>somos</strong>"],
+              ["(tú) <strong>eres</strong>", "(vosotros, -as) <strong>sois</strong>"],
+              ["(usted) <strong>es</strong>", "(ustedes) <strong>son</strong>"],
+              ["(él, ella) <strong>es</strong>", "(ellos, -as) <strong>son</strong>"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование SER",
+      "content": [
+        { "text": "<strong>`Ser` используется для:</strong>" },
+        { "list": [
+          "<strong>- идентификации людей или предметов.</strong><br><i>Mira. <strong>Es</strong> Andrés. / ¿Qué <strong>es</strong> esto? –<strong>Es</strong> una cámara digital.</i>",
+          "<strong>- описания профессии, национальности или идеологии.</strong><br><i>Soy <strong>estudiante</strong>. / Chelo <strong>es</strong> peruana.</i>",
+          "<strong>- описания родственных связей или отношений.</strong><br><i>Luis y María <strong>son</strong> amigos. / Pedro y yo <strong>somos</strong> primos.</i>",
+          "<strong>- выражения постоянных качеств.</strong><br><i>Estos libros no <strong>son</strong> muy interesantes. / El coche de Eduardo <strong>es</strong> rojo.</i>",
+          "<strong>- указания времени, количества или цены.</strong><br><i>–¿Qué hora <strong>es</strong>? –<strong>Son</strong> las cinco. / –¿Qué día <strong>es</strong> hoy? –<strong>Es</strong> martes. / ¿Cuánto <strong>es</strong> esto? –<strong>Son</strong> sesenta euros.</i>",
+          "<strong>- указания места или момента события.</strong><br><i>¿Dónde <strong>es</strong> la fiesta? / El partido <strong>es</strong> a las diez.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN:</strong> Es la una. / Son las dos." },
+        { "text": "<strong>Также `ser` + `de` используется для указания:</strong><br>- происхождения: <i>¿De dónde <strong>son</strong> ustedes? <strong>Somos</strong> de Santander.</i><br>- материала: <i>Esta silla <strong>es de</strong> plástico.</i><br>- владения: <i>Ese coche <strong>es de</strong> Eduardo.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 42.1",
+      "content": [
+        { "text": "<strong>Упражнение 42.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 42.2: Дополните вопросы и ответы с soy, eres, es...",
+      "tasks": [
+        { "id": "u42_2_1", "sentence": "1. ¿De dónde ___ (tú)?", "answer": "eres" },
+        { "id": "u42_2_2", "sentence": "2. ¿De dónde ___ tus padres?", "answer": "son" },
+        { "id": "u42_2_3", "sentence": "3. ¿Cuántos ___ en tu familia?", "answer": "sois" },
+        { "id": "u42_2_4", "sentence": "4. ¿___ profesor?", "answer": "Es usted" },
+        { "id": "u42_2_5", "sentence": "5. ¿Qué hora ___?", "answer": "es" },
+        { "id": "u42_2_6", "sentence": "6. ¿Qué día ___ hoy?", "answer": "es" },
+        { "id": "u42_2_7", "sentence": "7. ¿___ Rosa y tú hermanos?", "answer": "Sois" },
+        { "id": "u42_2_8", "sentence": "8. ¿A qué hora ___ la clase?", "answer": "es" },
+        { "id": "u42_2_9", "sentence": "9. ¿Cuántos ___ en clase?", "answer": "sois" },
+        { "id": "u42_2_10", "sentence": "10. ¿De quién ___ estos libros?", "answer": "son" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 42.3: Напишите фразы с soy, eres, es... в утвердительной или отрицательной форме",
+      "tasks": [
+        { "id": "u42_3_1", "sentence": "1. Elsa y Tomás / chilenos → <u>Elsa y Tomás son chilenos</u>.", "answer": "Elsa y Tomás son chilenos" },
+        { "id": "u42_3_2", "sentence": "2. Usted / muy amable → ___.", "answer": "Usted es muy amable" },
+        { "id": "u42_3_3", "sentence": "3. Esa mesa / de cristal → ___.", "answer": "Esa mesa es de cristal" },
+        { "id": "u42_3_4", "sentence": "4. Mi hermano y yo / no / morenos → ___.", "answer": "Mi hermano y yo no somos morenos" },
+        { "id": "u42_3_5", "sentence": "5. Vosotros / muy alegres → ___.", "answer": "Vosotros sois muy alegres" },
+        { "id": "u42_3_6", "sentence": "6. Esos pantalones / no / de lana → ___.", "answer": "Esos pantalones no son de lana" },
+        { "id": "u42_3_7", "sentence": "7. Ese libro / de Marta → ___.", "answer": "Ese libro es de Marta" },
+        { "id": "u42_3_8", "sentence": "8. Ustedes / no / muy altos → ___.", "answer": "Ustedes no son muy altos" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lessonId": "B1_U91",
+  "title": "Урок 91: Условные предложения (1): реальные условия",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Условные предложения",
+      "content": [
+        { "text": "<strong>Si ganan este partido</strong> и <strong>si no llueve mañana</strong> — это условные предложения (oraciones condicionales). Они выражают условие для выполнения другого действия или ситуации, которое может быть реальным или нереальным." },
+        { "text": "`si + presente de indicativo → futuro simple`" },
+        { "text": "<strong>Условные предложения: возможные условия в настоящем или будущем.</strong><br>Когда мы говорим о реальной ситуации и реальной возможности того, что что-то произойдет или может произойти, мы используем следующие конструкции:" },
+        { "table": {
+            "headers": ["Условие (Condición)", "Следствие (consecuencia)"],
+            "rows": [
+              [
+                "<strong>Si + presente de indicativo</strong><br><i>Si <strong>acabo</strong> la carrera este año,<br>Si te <strong>gusta</strong> esa pluma,<br>Si <strong>vienen</strong> ustedes a Madrid,</i>",
+                "<strong>futuro simple, presente de indicativo o imperativo</strong><br><i><strong>podré</strong> trabajar en un bufete.<br>te la <strong>regalo</strong>.<br><strong>vengan</strong> a visitarnos.</i>"
+              ]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> Условное придаточное может стоять в конце предложения.<br><i><strong>Podemos irnos</strong> si no te gusta la película.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие случаи использования",
+      "content": [
+        { "text": "<strong>- Обычно используется `futuro simple` для обозначения следствия.</strong><br><i>Si no nos <strong>damos</strong> prisa, <strong>llegaremos</strong> tarde.</i>" },
+        { "text": "<strong>- Используется `presente de indicativo`, когда следствие очень вероятно или определено.</strong><br><i>Si <strong>encuentro</strong> otro trabajo, me <strong>cambio</strong>.<br>Si <strong>discutís</strong>, me <strong>voy</strong>.</i>" },
+        { "text": "<strong>- Используется `imperativo` для выражения приказа, просьбы или петиции.</strong><br><i>Si <strong>llaman</strong> de la oficina, <strong>avísame</strong>.</i>" },
+        { "text": "<strong>- Используется `si + presente de indicativo` для выражения общих истин или привычек.</strong><br><i>Si <strong>calientas</strong> el hielo, se <strong>derrite</strong>.<br>Si <strong>hace</strong> frío, no <strong>voy</strong> a la piscina.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 91.1: Дополните фразы",
+      "tasks": [
+        { "id": "u91_1_1", "sentence": "1. Si no vienes a clase, ___.", "answer": "no aprenderás" },
+        { "id": "u91_1_2", "sentence": "2. ___ mañana, haremos una excursión.", "answer": "Si no llueve" },
+        { "id": "u91_1_3", "sentence": "3. ___ beban algo.", "answer": "Si tienen sed" },
+        { "id": "u91_1_4", "sentence": "4. ___, nos casamos.", "answer": "Si encontramos piso" },
+        { "id": "u91_1_5", "sentence": "5. Si llama a Dolores. ___.", "answer": "no contesta" },
+        { "id": "u91_1_6", "sentence": "6. (yo) ___, ¿quién lo hará?", "answer": "Si no lo hago" },
+        { "id": "u91_1_7", "sentence": "7. ___ ve al médico.", "answer": "Si te encuentras mal" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 91.2: Дополните фразы глаголами из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> casarse, dar calambre, descansar, enfadarse, morirse, preocuparse, sentirse bien, tener que andar" }],
+      "tasks": [
+        { "id": "u91_2_1", "sentence": "1. Tranquilos. Si os cansáis, ___.", "answer": "descansad" },
+        { "id": "u91_2_2", "sentence": "2. Si Elisa me dice que sí, ___.", "answer": "nos casaremos" },
+        { "id": "u91_2_3", "sentence": "3. Tienes que cuidar las plantas. Si no las riegas, ___.", "answer": "se morirán" },
+        { "id": "u91_2_4", "sentence": "4. Si perdemos el autobús, ___.", "answer": "tendremos que andar" },
+        { "id": "u91_2_5", "sentence": "5. No he dormido mucho y si no duermo ocho horas, ___.", "answer": "no me sentiré bien" },
+        { "id": "u91_2_6", "sentence": "6. Si no visitamos a los achévarría cuando vayamos a México, ___.", "answer": "se enfadarán" },
+        { "id": "u91_2_7", "sentence": "7. Tengo mucho trabajo. Alfonso ___, si llego tarde.", "answer": "se preocupará" },
+        { "id": "u91_2_8", "sentence": "8. ¡No toques eso! Si lo tocas, te ___.", "answer": "dará calambre" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 91.3: Напишите условия и следствия",
+      "tasks": [
+        { "id": "u91_3_1", "sentence": "1. (Ganar este partido, Ríos / pasar a la final) → Si Ríos gana este partido, pasa a la final.", "answer": "" },
+        { "id": "u91_3_2", "sentence": "2. (No hacer buen tiempo / quedarse en casa (ellos)) → ___", "answer": "Si no hace buen tiempo, se quedarán en casa" },
+        { "id": "u91_3_3", "sentence": "3. (No correr (tú) / perder el autobús (tú)) → ___", "answer": "Si no corres, perderás el autobús" },
+        { "id": "u91_3_4", "sentence": "4. (Portarse bien (vosotros) / compraros un helado (yo)) → ___", "answer": "Si os portáis bien, os compraré un helado" },
+        { "id": "u91_3_5", "sentence": "5. (No estar (Alberto) / volver más tarde (nosotros)) → ___", "answer": "Si Alberto no está, volveremos más tarde" },
+        { "id": "u91_3_6", "sentence": "6. (Comerse esa fruta (ustedes) / ponerse malos (ustedes)) → ___", "answer": "Si se comen esa fruta, se pondrán malos" },
+        { "id": "u91_3_7", "sentence": "7. (Enfadarse (tú) / irse (yo)) → ___", "answer": "Si te enfadas, me iré" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 91.4",
+      "content": [
+        { "text": "<strong>Упражнение 91.4 пропущено, так как оно требует составления диалогов.</strong>" }
+      ]
+    }
+  ]
+}

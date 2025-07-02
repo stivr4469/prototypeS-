@@ -1,0 +1,92 @@
+{
+  "lessonId": "A1_U49",
+  "title": "Урок 49: Настоящее время: неправильные глаголы (1)",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в настоящем времени",
+      "content": [
+        { "text": "<strong>Спряжение глаголов e → ie</strong><br><i>Otros: empezar, fregar, pensar, regar, cerrar; -er: entender, perder; -ir: mentir, preferir</i>" },
+        { "table": {
+            "headers": ["(yo)", "(tú)", "(usted)", "(él, ella)", "(nosotros, -as)", "(vosotros, -as)", "(ustedes)", "(ellos, -as)"],
+            "rows": [
+              ["qu<strong>ie</strong>r-o", "qu<strong>ie</strong>r-es", "qu<strong>ie</strong>r-e", "qu<strong>ie</strong>r-e", "quer-emos", "quer-éis", "qu<strong>ie</strong>r-en", "qu<strong>ie</strong>r-en"]
+            ]
+          }
+        },
+        { "text": "<strong>Спряжение глаголов e → i</strong><br><i>Otros: elegir, conseguir, freír, medir, reír, repetir, seguir, sonreír</i>" },
+        { "table": {
+            "headers": ["(yo)", "(tú)", "(usted)", "(él, ella)", "(nosotros, -as)", "(vosotros, -as)", "(ustedes)", "(ellos, -as)"],
+            "rows": [
+              ["p<strong>i</strong>d-o", "p<strong>i</strong>d-es", "p<strong>i</strong>d-e", "p<strong>i</strong>d-e", "ped-imos", "ped-ís", "p<strong>i</strong>d-en", "p<strong>i</strong>d-en"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> venir: ven<strong>go</strong>, v<strong>ie</strong>nes, v<strong>ie</strong>ne, venimos, venís, v<strong>ie</strong>nen<br>decir: di<strong>go</strong>, d<strong>i</strong>ces, d<strong>i</strong>ce, decimos, decís, d<strong>i</strong>cen" },
+        { "text": "<strong>Спряжение глаголов o/u → ue</strong><br><i>Otros: -ar: comprobar, contar, costar, encontrar, recordar, sonar, volar; -er: morder, mover, volver, poder; -ir: morir</i>" },
+        { "table": {
+            "headers": ["", "dormir", "jugar"],
+            "rows": [
+              ["(yo)", "d<strong>ue</strong>rm-o", "j<strong>ue</strong>g-o"],
+              ["(tú)", "d<strong>ue</strong>rm-es", "j<strong>ue</strong>g-as"],
+              ["(usted)", "d<strong>ue</strong>rm-e", "j<strong>ue</strong>g-a"],
+              ["(él, ella)", "d<strong>ue</strong>rm-e", "j<strong>ue</strong>g-a"],
+              ["(nosotros, -as)", "dorm-imos", "jug-amos"],
+              ["(vosotros, -as)", "dorm-ís", "jug-áis"],
+              ["(ustedes)", "d<strong>ue</strong>rm-en", "j<strong>ue</strong>g-an"],
+              ["(ellos, -as)", "d<strong>ue</strong>rm-en", "j<strong>ue</strong>g-an"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> oler: huelo, hueles, huele, olemos, oléis, huelen" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Presente de indicativo",
+      "content": [
+        { "text": "Используется для:<br>- разговора о настоящем: <i>No <strong>juego</strong> muy bien al tenis.</i><br>- общих истин: <i>Las gallinas no <strong>vuelan</strong>.</i><br>- разговора о том, что происходит в момент речи: <i>¿En qué <strong>piensas</strong>?</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 49.1: Дополните фразы правильными формами глаголов",
+      "tasks": [
+        { "id": "u49_1_1", "sentence": "1. Antonio (querer) ___ ser médico.", "answer": "quiere" },
+        { "id": "u49_1_2", "sentence": "2. En verano (yo, regar) ___ las plantas todos los días.", "answer": "riego" },
+        { "id": "u49_1_3", "sentence": "3. La clase (empezar) ___ a las ocho.", "answer": "empieza" },
+        { "id": "u49_1_4", "sentence": "4. Luis y Pili (jugar) ___ muy mal al golf. Siempre (perder) ___.", "answer": "juegan, pierden" },
+        { "id": "u49_1_5", "sentence": "5. Los bancos (cerrar) ___ a las dos.", "answer": "cierran" },
+        { "id": "u49_1_6", "sentence": "6. (yo, pensar) ___ mucho en mis amigos.", "answer": "Pienso" },
+        { "id": "u49_1_7", "sentence": "7. Algunos alumnos (venir) ___ mucho a la biblioteca.", "answer": "vienen" },
+        { "id": "u49_1_8", "sentence": "8. Antonia (no mentir) ___ nunca. Siempre (decir) ___ la verdad.", "answer": "miente, dice" },
+        { "id": "u49_1_9", "sentence": "9. Estoy muy nerviosa. (no poder) ___ dormir.", "answer": "No puedo" },
+        { "id": "u49_1_10", "sentence": "10. ¿Cuánto (medir) ___ una jirafa?", "answer": "mide" },
+        { "id": "u49_1_11", "sentence": "11. A veces (yo, decir) ___ muchas tonterías.", "answer": "digo" },
+        { "id": "u49_1_12", "sentence": "12. ¿A qué velocidad (volar) ___ un avión?", "answer": "vuela" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 49.2: Дополните вопросы и ответы",
+      "tasks": [
+        { "id": "u49_2_1", "sentence": "1. –¿Cuánto (tú, medir) ___? –___ 1,75 metros.", "answer": "mides, Mido" },
+        { "id": "u49_2_2", "sentence": "2. –¿Cuántas horas (tú, dormir) ___ al día? –___ unas ocho horas.", "answer": "duermes, Duermo" },
+        { "id": "u49_2_3", "sentence": "3. –¿(preferir) ___ usted carne o pescado? –___ el pescado.", "answer": "Prefiere, Prefiero" },
+        { "id": "u49_2_4", "sentence": "4. –¿A qué hora (empezar) ___ ustedes a trabajar? –___ a las nueve.", "answer": "empiezan, Empezamos" },
+        { "id": "u49_2_5", "sentence": "5. –¿Quién (fregar) ___ los platos en tu casa? –Los ___ yo.", "answer": "friega, friego" },
+        { "id": "u49_2_6", "sentence": "6. –¿Qué (tú, querer) ___ ser de mayor? –___ ser arquitecto.", "answer": "quieres, Quiero" },
+        { "id": "u49_2_7", "sentence": "7. –¿A qué hora (tú, volver) ___ por la noche? –Normalmente ___ sobre las diez.", "answer": "vuelves, vuelvo" },
+        { "id": "u49_2_8", "sentence": "8. –¿Cómo (tú, ir) ___ a la academia? –___ en autobús.", "answer": "vas, Voy" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 49.3",
+      "content": [
+        { "text": "<strong>Упражнение 49.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

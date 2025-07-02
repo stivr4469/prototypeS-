@@ -1,0 +1,25 @@
+{
+  "lessonId": "B1_U115",
+  "title": "Урок 115: Глаголы с предлогами",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Глаголы с предлогами",
+      "content": [
+        { "text": "Многие глаголы требуют определенных предлогов для связи с другими глаголами, существительными или местоимениями." },
+        { "text": "<strong>Глаголы + a + инфинитив/существительное/местоимение:</strong><br>acostumbrarse, aficionarse, ayudar, dedicarse, aprender, atreverse, comenzar, decidirse, enseñar, esperar, negarse, volver, ir, venir<br><i>Nos hemos <strong>acostumbrado a</strong> las comidas de Toni.</i>" },
+        { "text": "<strong>Глаголы + de + инфинитив/существительное/местоимение:</strong><br>acordarse, arrepentirse, cansarse, reírse, alegrarse, dejar, tratar, desconfiar, disfrutar, divorciarse, enamorarse, morir<br><i>¿Te <strong>acuerdas de</strong> Constantino?</i>" },
+        { "text": "<strong>Глаголы + con + инфинитив/существительное/местоимение:</strong><br>conformarse, contar, contentarse, soñar, casarse, compararse, enfadarse<br><i>Me <strong>contento con</strong> ser feliz.</i>" },
+        { "text": "<strong>Глаголы + en + инфинитив/существительное/местоимение:</strong><br>confiar, creer, fijarse, transformarse, molestarse, quedar, tardar<br><i><strong>Confío en</strong> no equivocarme mucho.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 115.1, 115.2, 115.3, 115.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены.</strong>" }
+      ]
+    }
+  ]
+}

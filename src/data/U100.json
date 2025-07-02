@@ -1,0 +1,41 @@
+{
+  "lessonId": "B1_U100",
+  "title": "Урок 100: Наречия места",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия места",
+      "content": [
+        { "text": "<strong>`Aquí`</strong> и <strong>`enfrente`</strong> — это наречия места. Они дают информацию об обстоятельствах места и отвечают на вопросы `¿dónde?`, `¿adónde?`." },
+        { "list": [
+          "<strong>aquí, ahí, allí</strong><br><strong>aquí</strong> → cerca de mí (здесь, рядом со мной)<br><strong>ahí</strong> → cerca de usted (там, рядом с тобой)<br><strong>allí</strong> → lejos de mí y de usted (там, далеко от нас)",
+          "<strong>arriba, abajo...</strong><br>arriba / abajo, dentro / fuera, enfrente, delante / detrás",
+          "<strong>cerca, lejos, alrededor</strong><br><i>-¿Vives cerca? -No, vivo muy lejos.</i>"
+        ]},
+        { "text": "<strong>`Aquí, arriba...` обычно стоят в конце фразы.</strong><br><i>Este barrio tiene muchos parques alrededor.<br><strong>НО:</strong> Также могут стоять в начале фразы для эмфазы.<br>Aquí hay un zapato. ¿Dónde está el otro?</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Когда `aquí, arriba...` стоят в начале фразы, подлежащее идет после глагола.<br><i>Arriba <strong>las habitaciones están</strong>. → Arriba <strong>están las habitaciones</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 100.1 и 100.2",
+      "content": [
+        { "text": "<strong>Упражнения 100.1 и 100.2 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 100.3: Расположите слова и составьте фразы",
+      "tasks": [
+        { "id": "u100_3_1", "sentence": "1. mis padres / abajo / viven → Abajo ___.", "answer": "viven mis padres" },
+        { "id": "u100_3_2", "sentence": "2. cerca / Elena / vive → ___.", "answer": "Elena vive cerca" },
+        { "id": "u100_3_3", "sentence": "3. la mesa / fuera / sacad → ___.", "answer": "Sacad la mesa fuera" },
+        { "id": "u100_3_4", "sentence": "4. aquí / Benito / trabaja → ___.", "answer": "Aquí trabaja Benito" },
+        { "id": "u100_3_5", "sentence": "5. lejos / mi oficina / está → ___.", "answer": "Mi oficina está lejos" },
+        { "id": "u100_3_6", "sentence": "6. abajo / yo / duermo → ___.", "answer": "Yo duermo abajo" },
+        { "id": "u100_3_7", "sentence": "7. allí / la cafetería / está → ___.", "answer": "Allí está la cafetería" }
+      ]
+    }
+  ]
+}

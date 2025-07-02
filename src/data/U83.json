@@ -1,0 +1,76 @@
+{
+  "lessonId": "B1_U83",
+  "title": "Урок 83: Pretérito imperfecto de subjuntivo: неправильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в Imperfecto de subjuntivo",
+      "content": [
+        { "text": "<strong>e → i:</strong> pedir → pidiera, -iese<br><i>Otros: elegir, sentir...</i>" },
+        { "text": "<strong>o → u:</strong> dormir → durmiera, -iese<br><i>Otros: morir</i>" },
+        { "text": "<strong>Другие неправильные глаголы (основа от 3-го лица мн.ч. Indefinido):</strong><br>dar → dieran → diera, -ese<br>estar → estuvieron → estuviera, -ese<br>haber → hubieron → hubiera, -ese<br>hacer → hicieron → hiciera, -ese<br>poder → pudieron → pudiera, -ese<br>poner → pusieron → pusiera, -ese<br>querer → quisieron → quisiera, -ese<br>saber → supieron → supiera, -ese<br>tener → tuvieron → tuviera, -ese<br>venir → vinieron → viniera, -ese<br>caer → cayeron → cayera, -ese<br>leer → leyeron → leyera, -ese<br>oír → oyeron → oyera, -ese<br>huir → huyeron → huyera, -ese<br>traducir² → tradujeron → tradujera, -ese<br>decir → dijeron → dijera, -ese<br>ir/ser → fueron → fuera, -ese<br>reír³ → rieron → riera, -ese" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование",
+      "content": [
+        { "text": "<strong>1. Пожелания (с quién).</strong><br><i>¡Quién <strong>pudiera</strong> nadar como tú!</i>" },
+        { "text": "<strong>2. С глаголами и конструкциями в прошлом или условном наклонении, которые указывают на:</strong><br>- волеизъявление или влияние: <i>Cuando era pequeña, mis padres querían que <strong>fuera</strong> pianista.</i><br>- чувства: <i>Me extrañó que no <strong>vinieseis</strong> a mi fiesta.</i><br>- оценку действий или ситуаций: <i>Era lógico que se <strong>sintiera</strong> triste. Se había ido Hugo.</i><br>- вероятность: <i>Puede que Juan <strong>supiera</strong> que había examen, pero no dijo nada.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 83.1: Напишите фразы с quién и Imperfecto de subjuntivo",
+      "tasks": [
+        { "id": "u83_1_1", "sentence": "1. A alguien le gustaría ser más alto. → ¡Quién ___ más alto!", "answer": "fuera" },
+        { "id": "u83_1_2", "sentence": "2. A alguien le gustaría poder vivir en Guatemala, pero lo ve difícil. → ¡Quién ___ vivir en Guatemala!", "answer": "pudiera" },
+        { "id": "u83_1_3", "sentence": "3. A alguien le gustaría saber hablar chino, pero lo ve difícil. → ¡Quién ___ hablar chino!", "answer": "supiera" },
+        { "id": "u83_1_4", "sentence": "4. A alguien le gustaría tener tanta suerte como un amigo, pero lo ve difícil. → ¡Quién ___ tanta suerte!", "answer": "tuviera" },
+        { "id": "u83_1_5", "sentence": "5. A alguien le gustaría estar ahora de vacaciones, pero no lo está. → ¡Quién ___ de vacaciones!", "answer": "estuviera" },
+        { "id": "u83_1_6", "sentence": "6. A alguien le gustaría conducir un coche de carreras, pero lo ve difícil. → ¡Quién ___ un coche de carreras!", "answer": "condujera" },
+        { "id": "u83_1_7", "sentence": "7. A alguien le gustaría sonreír siempre, pero no es posible. → ¡Quién ___ siempre!", "answer": "sonriera" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 83.2: Дополните фразы глаголами из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> caerse, dar, haber, hacer, leer, oír, pedir, poder, sentir, ser, tener, traducir, traer" }],
+      "tasks": [
+        { "id": "u83_2_1", "sentence": "1. Era imposible que se ___ las maletas. Estaban bien sujetas.", "answer": "cayeran" },
+        { "id": "u83_2_2", "sentence": "2. Sería maravilloso que ___ mucho trabajo. Podríamos ahorrar para un piso.", "answer": "hubiera" },
+        { "id": "u83_2_3", "sentence": "3. Me llamó la atención que le ___ el diccionario a Gabriel. No sois amigos.", "answer": "pidiera" },
+        { "id": "u83_2_4", "sentence": "4. ¿Por qué habéis traído pasteles? No era necesario que ___ nada.", "answer": "trajerais" },
+        { "id": "u83_2_5", "sentence": "5. El profesor no quería que ___ las frases.", "answer": "tradujéramos" },
+        { "id": "u83_2_6", "sentence": "6. Perdonen, pero preferiría que no ___ fuego aquí.", "answer": "hicieran" },
+        { "id": "u83_2_7", "sentence": "7. Me encantaría que ___ pasar unos días conmigo. Lo paso muy bien con vosotras.", "answer": "pudierais" },
+        { "id": "u83_2_8", "sentence": "8. Josefina sintió mucho que no te ___ el empleo. –Puede que lo ___ pero no me dijo nada.", "answer": "dieran, sintiera" },
+        { "id": "u83_2_9", "sentence": "9. Mi padre esperaba que ___ abogado como él, pero yo no quise.", "answer": "fuera" },
+        { "id": "u83_2_10", "sentence": "10. Sería bueno que ___ más, niños. Leer es importante.", "answer": "leyerais" },
+        { "id": "u83_2_11", "sentence": "11. –¿Por qué no vinieron cuando los llamé? –Puede que no te ___.", "answer": "oyeran" },
+        { "id": "u83_2_12", "sentence": "12. Me gustaría que ___ menos violencia en el mundo.", "answer": "hubiera" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 83.3: Объедините две фразы с que",
+      "tasks": [
+        { "id": "u83_3_1", "sentence": "1. No vinisteis a la fiesta. Me extrañó. → Me extrañó que no ___ a la fiesta.", "answer": "vinierais" },
+        { "id": "u83_3_2", "sentence": "2. Nos hicieron una foto. Nos gustó. → ___", "answer": "Nos gustó que nos hicieran una foto" },
+        { "id": "u83_3_3", "sentence": "3. Elegiste mi clase. Me alegré de ello. → ___", "answer": "Me alegré de que eligieras mi clase" },
+        { "id": "u83_3_4", "sentence": "4. Rafa tuvo que irse. Lo sentimos. → ___", "answer": "Sentimos que Rafa tuviera que irse" },
+        { "id": "u83_3_5", "sentence": "5. Raúl no vino a mi fiesta. No me importó. → ___", "answer": "No me importó que Raúl no viniera a mi fiesta" },
+        { "id": "u83_3_6", "sentence": "6. Gisele dijo que yo había mentido. Me molestó. → ___", "answer": "Me molestó que Gisele dijera que yo había mentido" },
+        { "id": "u83_3_7", "sentence": "7. Te reíste de mi caso. No me gustó. → ___", "answer": "No me gustó que te rieras de mi caso" },
+        { "id": "u83_3_8", "sentence": "8. No me hiciste caso. Me molestó. → ___", "answer": "Me molestó que no me hicieras caso" },
+        { "id": "u83_3_9", "sentence": "9. Jesús y Luis durmieron ocho horas. Me extrañó. → ___", "answer": "Me extrañó que Jesús y Luis durmieran ocho horas" },
+        { "id": "u83_3_10", "sentence": "10. Tus hermanas no quisieron salir con nosotras. Me pareció lógico. → ___", "answer": "Me pareció lógico que tus hermanas no quisieran salir con nosotras" },
+        { "id": "u83_3_11", "sentence": "11. Los niños nos dieron la bienvenida. Nos encantó. → ___", "answer": "Nos encantó que los niños nos dieran la bienvenida" },
+        { "id": "u83_3_12", "sentence": "12. Alberto hizo la cena. Nos extrañó. → ___", "answer": "Nos extrañó que Alberto hiciera la cena" },
+        { "id": "u83_3_13", "sentence": "13. Su perro se murió joven. Lo sintió. → ___", "answer": "Sintió que su perro se muriera joven" },
+        { "id": "u83_3_14", "sentence": "14. Construyeron un cine en su barrio. Se alegró mucho. → ___", "answer": "Se alegró mucho de que construyeran un cine en su barrio" }
+      ]
+    }
+  ]
+}

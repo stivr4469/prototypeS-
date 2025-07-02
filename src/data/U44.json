@@ -1,0 +1,98 @@
+{
+  "lessonId": "A2_U44",
+  "title": "Урок 44: Сравнение SER и ESTAR",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение SER и ESTAR",
+      "content": [
+        { "table": {
+            "headers": ["SER", "ESTAR"],
+            "rows": [
+              [
+                "<strong>Используется для описания постоянных характеристик или качеств.</strong><br><i>María <strong>es</strong> muy activa. (Es así normalmente.)<br>Julián <strong>es</strong> alegre. (Es así normalmente.)<br>El hielo <strong>es</strong> frío.</i>",
+                "<strong>Используется для описания временных или аномальных состояний или качеств.</strong><br><i>Hoy <strong>está</strong> cansada. (solo hoy)<br>Hoy no <strong>está</strong> alegre. <strong>Está</strong> triste.<br>Este café <strong>está</strong> frío.</i>"
+              ],
+              [
+                "<i>Sofía <strong>es</strong> delgada. (Es así siempre.)<br>Ana <strong>es</strong> muy elegante.</i>",
+                "<strong>НО:</strong> `Estar` используется для обозначения изменений.<br><i><strong>Estás</strong> muy delgado, Pedro.</i><br><strong>Также `estar` используется для усиления момента.</strong><br><i><strong>Estás</strong> muy elegante con ese vestido.</i>"
+              ],
+              [
+                "<strong>Используется для указания места или момента события.</strong><br><i>La boda <strong>es</strong> en la iglesia de Santa Marta, a las cinco.</i>",
+                "<strong>Используется для указания местоположения кого-либо или чего-либо.</strong><br><i>La iglesia de Santa Marta <strong>está</strong> en la Plaza de Córdoba.</i>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Прилагательные с разным значением с SER и ESTAR",
+      "content": [
+        { "list": [
+          "Este perro <strong>es muy malo</strong>. (travieso - злой, непослушный)<br>Pepe <strong>está malo</strong>. (enfermo - болен)",
+          "<strong>ser aburrido</strong> = de mal comportamiento o mala calidad<br><strong>estar aburrido</strong> = no tener nada para divertirse",
+          "<strong>ser bueno</strong> = de buen comportamiento, de buena calidad<br><strong>estar bueno</strong> = sabroso o recuperado de una enfermedad",
+          "<strong>ser listo</strong> = astuto, inteligente<br><strong>estar listo</strong> = preparado",
+          "<strong>ser moreno</strong> = tener el pelo oscuro<br><strong>estar moreno</strong> = bronceado",
+          "<strong>ser rico</strong> = tener dinero<br><strong>estar rico</strong> = sabroso"
+        ]}
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 44.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u44_1_1", "sentence": "1. (Soy/Estoy) cansado.", "options": ["Soy", "Estoy"], "correctOption": "Estoy" },
+        { "id": "u44_1_2", "sentence": "2. Este café (es/está) muy caliente.", "options": ["es", "está"], "correctOption": "está" },
+        { "id": "u44_1_3", "sentence": "3. Algunas rosas (son/están) blancas.", "options": ["son", "están"], "correctOption": "son" },
+        { "id": "u44_1_4", "sentence": "4. Esos cristales (son/están) sucios.", "options": ["son", "están"], "correctOption": "están" },
+        { "id": "u44_1_5", "sentence": "5. Este árbol (es/está) muerto.", "options": ["es", "está"], "correctOption": "está" },
+        { "id": "u44_1_6", "sentence": "6. Ana y Sergio (son/están) casados.", "options": ["son", "están"], "correctOption": "están" },
+        { "id": "u44_1_7", "sentence": "7. Las margaritas (son/están) amarillas y blancas.", "options": ["son", "están"], "correctOption": "son" },
+        { "id": "u44_1_8", "sentence": "8. ¡Qué guapa (eres/estás) con ese sombrero, Lola!", "options": ["eres", "estás"], "correctOption": "estás" },
+        { "id": "u44_1_9", "sentence": "9. Hoy no (soy/estoy) alegre.", "options": ["soy", "estoy"], "correctOption": "estoy" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 44.2: Дополните фразы с формами ser или estar",
+      "tasks": [
+        { "id": "u44_2_1", "sentence": "1. Las serpientes ___ peligrosas.", "answer": "son" },
+        { "id": "u44_2_2", "sentence": "2. Este libro ___ muy interesante.", "answer": "es" },
+        { "id": "u44_2_3", "sentence": "3. La nieve ___ blanca.", "answer": "es" },
+        { "id": "u44_2_4", "sentence": "4. No os sentéis en esas sillas. ___ sucias.", "answer": "Están" },
+        { "id": "u44_2_5", "sentence": "5. Juan ___ muy guapo con uniforme.", "answer": "está" },
+        { "id": "u44_2_6", "sentence": "6. La sopa ___ fría. Caliéntala un poco.", "answer": "está" },
+        { "id": "u44_2_7", "sentence": "7. Los plátanos ___ amarillos.", "answer": "están" },
+        { "id": "u44_2_8", "sentence": "8. ¡Qué guapo ___ Francisco! Tiene unos ojos grandísimos.", "answer": "es" },
+        { "id": "u44_2_9", "sentence": "9. Flor y Pili ___ muy guapas con el nuevo peinado.", "answer": "están" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 44.3: Дополните фразы с формами ser или estar",
+      "tasks": [
+        { "id": "u44_3_1", "sentence": "1. ¿Dónde ___ la fiesta?", "answer": "es" },
+        { "id": "u44_3_2", "sentence": "2. El examen ___ a las diez.", "answer": "es" },
+        { "id": "u44_3_3", "sentence": "3. ¿Dónde ___ mis gafas?", "answer": "están" },
+        { "id": "u44_3_4", "sentence": "4. Mañana ___ mi cumpleaños.", "answer": "es" },
+        { "id": "u44_3_5", "sentence": "5. El examen ___ en el aula 15.", "answer": "es" },
+        { "id": "u44_3_6", "sentence": "6. ¿Cuándo ___ la boda?", "answer": "es" },
+        { "id": "u44_3_7", "sentence": "7. ¿Dónde ___ la discoteca Futuro?", "answer": "está" },
+        { "id": "u44_3_8", "sentence": "8. El examen ___ encima de la mesa.", "answer": "está" },
+        { "id": "u44_3_9", "sentence": "9. El concierto ___ en el Teatro Real.", "answer": "es" },
+        { "id": "u44_3_10", "sentence": "10. El Teatro Real ___ en la Plaza de la Ópera.", "answer": "está" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 44.4",
+      "content": [
+        { "text": "<strong>Упражнение 44.4 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

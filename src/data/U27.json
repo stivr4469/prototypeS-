@@ -1,0 +1,101 @@
+{
+  "lessonId": "A2_U27",
+  "title": "Урок 27: Порядковые числительные",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Что такое порядковые числительные?",
+      "content": [
+        { "text": "<strong>Cuarto</strong> и <strong>segunda</strong> — это порядковые числительные. Они используются, чтобы указать порядок в классификации или последовательности." },
+        { "list": [
+            "<i>Yo vivo allí, en <strong>el cuarto</strong> piso.</i>",
+            "<i>Javier acabó <strong>sexto</strong> en el maratón.</i>",
+            "<i>Ángeles tiene siete hermanos. Ella es <strong>la segunda</strong>.</i>",
+            "<i>Ana es mi <strong>tercera</strong> profesora de español.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы порядковых числительных",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["1.º/1.ª primero/primer, primera", "6.º/6.ª sexto, sexta"],
+              ["2.º/2.ª segundo, segunda", "7.º/7.ª séptimo, séptima"],
+              ["3.º/3.ª tercero/tercer, tercera", "8.º/8.ª octavo, octava"],
+              ["4.º/4.ª cuarto, cuarta", "9.º/9.ª noveno, novena"],
+              ["5.º/5.ª quinto, quinta", "10.º/10.ª décimo, décima"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br><strong>primero, tercero + существительное мужского рода ед.ч.</strong> → `primer`, `tercer`<br><i>El <strong>primer</strong> tren sale a las 7.20.<br>Hoy es nuestro <strong>tercer</strong> día en Bolivia.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование порядковых числительных",
+      "content": [
+        { "list": [
+            "<strong>- Начиная с 11-го, обычно используются количественные числительные.</strong><br><i>Alfonso <strong>XIII (trece)</strong> es el abuelo de Juan Carlos I (primero).<br>La oficina de Maribel está en el piso <strong>diecisiete</strong>.</i>",
+            "<strong>- Порядковые числительные имеют форму мужского/женского рода и ед./мн. числа в зависимости от существительного, к которому они относятся.</strong><br><i>Las oficinas de Intersa están en la <strong>segunda</strong> planta.<br>Chus y yo quedamos <strong>segundos</strong> en un campeonato de tenis.</i>",
+            "<strong>- В некоторых случаях порядковые числительные могут стоять после существительного.</strong><br><i>Vivo en el segundo piso. / Vivo en el piso <strong>segundo</strong>.</i><br><strong>НО:</strong> Не с именами собственными.<br><i>Carlos V (quinto)</i>",
+            "<strong>- Порядковые числительные могут использоваться самостоятельно, если ясно, к чему они относятся.</strong><br><i>El Universidad de Chile va <strong>primero</strong> en la liga.<br>–¿Por qué capítulo vas? –Por el <strong>quinto</strong>.</i>",
+            "<strong>- При написании цифрами используется `º` для мужского рода и `ª` для женского. Также используются римские цифры.</strong><br><i>Fernando III<br>Capítulo VIII</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 27.1: Дополните фразы, используя информацию с вывесок",
+      "tasks": [
+        { "id": "u27_1_1", "sentence": "1. Antonio Oliva vive en el ___ piso.", "answer": "segundo" },
+        { "id": "u27_1_2", "sentence": "2. Las oficinas de Servicios de Gas están en el ___.", "answer": "undécimo" },
+        { "id": "u27_1_3", "sentence": "3. La sastrería Moderna está en la ___ planta.", "answer": "décima" },
+        { "id": "u27_1_4", "sentence": "4. Hay un despacho de abogados en el ___ piso.", "answer": "tercero" },
+        { "id": "u27_1_5", "sentence": "5. La familia Molina Cardoso vive en el ___.", "answer": "duodécimo" },
+        { "id": "u27_1_6", "sentence": "6. La gestoría Salvado está en el ___ piso.", "answer": "primero" },
+        { "id": "u27_1_7", "sentence": "7. Las oficinas de Hispanosa están en el piso ___.", "answer": "duodécimo" },
+        { "id": "u27_1_8", "sentence": "8. La academia Cervantes está en la ___ planta.", "answer": "cuarta" },
+        { "id": "u27_1_9", "sentence": "9. Julia Salinas vive en el piso ___.", "answer": "séptimo" },
+        { "id": "u27_1_10", "sentence": "10. La editorial Mundisa está en el ___ piso.", "answer": "noveno" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 27.2: Напишите имена персон словами",
+      "tasks": [
+        { "id": "u27_2_1", "sentence": "1. Juan Carlos I", "answer": "Juan Carlos primero" },
+        { "id": "u27_2_2", "sentence": "2. Isabel I", "answer": "Isabel primera" },
+        { "id": "u27_2_3", "sentence": "3. Juan XXIII", "answer": "Juan veintitrés" },
+        { "id": "u27_2_4", "sentence": "4. Alfonso XII", "answer": "Alfonso doce" },
+        { "id": "u27_2_5", "sentence": "5. Luis XV", "answer": "Luis quince" },
+        { "id": "u27_2_6", "sentence": "6. Iván IV", "answer": "Iván cuarto" },
+        { "id": "u27_2_7", "sentence": "7. Margarita II", "answer": "Margarita segunda" },
+        { "id": "u27_2_8", "sentence": "8. Pío XI", "answer": "Pío once" },
+        { "id": "u27_2_9", "sentence": "9. Juana III", "answer": "Juana tercera" },
+        { "id": "u27_2_10", "sentence": "10. Juan Pablo II", "answer": "Juan Pablo segundo" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 27.3: Напишите числительные из скобок словами",
+      "tasks": [
+        { "id": "u27_3_1", "sentence": "1. Estudio (2.º) ___ curso de Arquitectura.", "answer": "segundo" },
+        { "id": "u27_3_2", "sentence": "2. Enero es el (1.º) ___ mes del año.", "answer": "primer" },
+        { "id": "u27_3_3", "sentence": "3. Estoy leyendo un libro con (15) ___ capítulos. Voy por el capítulo (11.º) ___.", "answer": "quince, undécimo" },
+        { "id": "u27_3_4", "sentence": "4. El Valencia es el (1.º) ___ en la Liga de fútbol.", "answer": "primero" },
+        { "id": "u27_3_5", "sentence": "5. Javi es el (3.º) ___ de sus hermanos.", "answer": "tercero" },
+        { "id": "u27_3_6", "sentence": "6. Ellas han sido las (1.ª) ___ en llegar.", "answer": "primeras" },
+        { "id": "u27_3_7", "sentence": "7. La ñ es la letra (15.ª) ___ del alfabeto.", "answer": "decimoquinta" },
+        { "id": "u27_3_8", "sentence": "8. El despacho de José está en el (8.º) ___ piso.", "answer": "octavo" },
+        { "id": "u27_3_9", "sentence": "9. Tuerza por la (2.ª) ___ calle a la izquierda.", "answer": "segunda" },
+        { "id": "u27_3_10", "sentence": "10. Nos vamos de vacaciones la (3.ª) ___ semana de agosto.", "answer": "tercera" },
+        { "id": "u27_3_11", "sentence": "11. El siglo XVIII ___ fue el Siglo de las Luces.", "answer": "dieciocho" },
+        { "id": "u27_3_12", "sentence": "12. Tina y Carla acabaron (4.ªs) ___ en el campeonato de tenis.", "answer": "cuartas" }
+      ]
+    }
+  ]
+}

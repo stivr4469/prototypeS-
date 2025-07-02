@@ -1,0 +1,73 @@
+{
+  "lessonId": "B1_U89",
+  "title": "Урок 89: Косвенная речь (2): вопросы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Косвенная речь: вопросы",
+      "content": [
+        { "text": "<strong>`Si vas a ir a la sierra el domingo` и `cuándo íbamos a reunirnos` — это примеры вопросов в косвенной речи.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>preguntar</strong>", "+ si<br>+ interrogativo", "Me preguntó <strong>si</strong> tenía novio.<br>Le pregunté <strong>cómo</strong> se llamaba su hermano.<br>Me preguntó <strong>dónde</strong> vivía."]
+            ]
+          }
+        },
+        { "text": "<strong>Наиболее частый глагол для введения косвенных вопросов — `preguntar`. Также могут использоваться `querer saber`, `desear saber`, `(me, te...) gustaría saber`.</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Изменение времен в косвенных вопросах",
+      "content": [
+        { "table": {
+            "headers": ["Прямая речь", "Косвенная речь"],
+            "rows": [
+              ["- `Quiere saber... / Ha preguntado...`<br>... si <strong>hablas</strong> español.<br>... qué <strong>estás haciendo</strong>.", "- `Quería saber... / Preguntó...`<br>... si <strong>hablabas/hablas</strong> español.<br>... qué <strong>estabas/estás</strong> haciendo."],
+              ["- `Quiere saber... / Ha preguntado...`<br>... si <strong>ha acabado</strong> el cuadro.<br>... adónde <strong>fuimos</strong> el domingo.", "- `Quería saber... / Preguntó...`<br>... si <strong>había acabado</strong> el cuadro.<br>... adónde <strong>habíamos ido</strong> el domingo."],
+              ["- `Quiere saber... / Ha preguntado...`<br>... cuándo <strong>será</strong> el examen.<br>... si <strong>vamos</strong> a ir a la sierra el domingo.", "- `Quería saber... / Preguntó...`<br>... cuándo <strong>sería/será</strong> el examen.<br>... si <strong>íbamos</strong> a ir a la sierra el domingo."],
+              ["- `Quiere saber... / Ha preguntado...`<br>... si <strong>sería</strong> mejor quedar otro día.<br>... qué <strong>haríamos</strong> en caso de que hiciera mal tiempo.", "- `Quería saber... / Preguntó...`<br>... si <strong>sería</strong> mejor quedar otro día.<br>... qué <strong>haríamos</strong> en caso de que hiciera mal tiempo."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 89.1: Дополните сообщения автоматического ответчика",
+      "tasks": [
+        { "id": "u89_1_1", "sentence": "1. (Raquel a Patricia: ¿Dónde ha comprado el libro sobre Cuba?) → Patricia, soy Raquel. Quiero saber ___.", "answer": "dónde has comprado el libro sobre Cuba" },
+        { "id": "u89_1_2", "sentence": "2. (Su padre a Fermín: ¿Cuándo le va a devolver el coche?) → ___", "answer": "Fermín, soy su padre. Quiero saber cuándo me va a devolver el coche" },
+        { "id": "u89_1_3", "sentence": "3. (Ernesto a Susana: ¿Va a venir al concierto esta noche?) → ___", "answer": "Susana, soy Ernesto. Quiero saber si va a venir al concierto esta noche" },
+        { "id": "u89_1_4", "sentence": "4. (Fede a Toni: ¿Dónde vive Laura?) → ___", "answer": "Toni, soy Fede. Quiero saber dónde vive Laura" },
+        { "id": "u89_1_5", "sentence": "5. (Ismael a su madre: ¿Puede cuidar a los niños esta noche?) → ___", "answer": "Mamá, soy Ismael. Quiero saber si puede cuidar a los niños esta noche" },
+        { "id": "u89_1_6", "sentence": "6. (Lolo a Ana: ¿Está ocupada el sábado?) → ___", "answer": "Ana, soy Lolo. Quiero saber si está ocupada el sábado" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 89.2: Дополните фразы с глаголом в скобках",
+      "tasks": [
+        { "id": "u89_2_1", "sentence": "1. El domingo vi a Carlos y le pregunté (“¿Tienes novia?”) si ___ novia.", "answer": "tenía" },
+        { "id": "u89_2_2", "sentence": "2. Ayer me llamó Jesús. Quería saber (“¿Cuándo lo vas a llamar?”) ___.", "answer": "cuándo lo iba a llamar" },
+        { "id": "u89_2_3", "sentence": "3. Hace unos días me llamó Ana. Quería saber (“¿Qué hace Ramón?”) ___.", "answer": "qué hacía Ramón" },
+        { "id": "u89_2_4", "sentence": "4. Ayer vi a Lola. Me preguntó (“¿Qué vais a hacer este verano?”) ___.", "answer": "qué íbamos a hacer ese verano" },
+        { "id": "u89_2_5", "sentence": "5. Esta mañana llamó Alberto. Quería saber (“¿Os gustaría salir el sábado?”) ___.", "answer": "si nos gustaría salir el sábado" },
+        { "id": "u89_2_6", "sentence": "6. Ayer tuve carta de Ángela. Quería saber (“¿Por qué has dejado el trabajo?”) ___.", "answer": "por qué había dejado el trabajo" },
+        { "id": "u89_2_7", "sentence": "7. El lunes llamé al administrador para preguntarle (“¿Quién pagará el arreglo de la cocina?”) ___.", "answer": "quién pagaría el arreglo de la cocina" },
+        { "id": "u89_2_8", "sentence": "8. Ayer tuvimos una llamada de la policía. Querían saber (“¿Han visto a alguien sospechoso por el barrio?”) ___.", "answer": "si habíamos visto a alguien sospechoso por el barrio" },
+        { "id": "u89_2_9", "sentence": "9. Esta mañana me preguntó Luisa (“¿Te llamó Ángel anoche?”) ___.", "answer": "si me había llamado Ángel anoche" },
+        { "id": "u89_2_10", "sentence": "10. Ayer le pregunté a Adolfo (“¿Dónde conociste a Silvia?”) ___.", "answer": "dónde había conocido a Silvia" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 89.3",
+      "content": [
+        { "text": "<strong>Упражнение 89.3 пропущено, так как оно требует свободного составления рассказа.</strong>" }
+      ]
+    }
+  ]
+}

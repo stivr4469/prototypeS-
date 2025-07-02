@@ -1,0 +1,79 @@
+{
+  "lessonId": "A2_U53",
+  "title": "Урок 53: Возвратные глаголы (1)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение возвратных глаголов",
+      "content": [
+        { "table": {
+            "headers": ["", "-ar (levantarse)", "-er (atreverse)", "-ir (aburrirse)"],
+            "rows": [
+              ["(yo)", "me levanto", "me atrevo", "me aburro"],
+              ["(tú)", "te levantas", "te atreves", "te aburres"],
+              ["(usted)", "se levanta", "se atreve", "se aburre"],
+              ["(él, ella)", "se levanta", "se atreve", "se aburre"],
+              ["(nosotros, -as)", "nos levantamos", "nos atrevemos", "nos aburrimos"],
+              ["(vosotros, -as)", "os levantáis", "os atrevéis", "os aburrís"],
+              ["(ustedes)", "se levantan", "se atreven", "se aburren"],
+              ["(ellos, -as)", "se levantan", "se atreven", "se aburren"]
+            ]
+          }
+        },
+        { "text": "<strong>Другие неправильные возвратные глаголы:</strong><br>- `e → ie`: divertirse: me divierto, te diviertes, se divierte...<br>- `e → i`: vestirse: me visto, te vistes, se viste...<br>- `o → ue`: acostarse: me acuesto, te acuestas, se acuesta..." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование возвратных глаголов",
+      "content": [
+        { "text": "<strong>Возвратные глаголы используются, чтобы указать, что действие или его эффект направлены на самого исполнителя.</strong>" },
+        { "list": [
+            "<strong>- всё тело:</strong> <i>Luis <strong>se lava</strong>, <strong>se afeita</strong> y luego <strong>se viste</strong>.</i>",
+            "<strong>- часть тела или предмет одежды:</strong> <i>Siempre me lavo la cara con agua fría. / Laura se pinta las uñas. / Los niños se manchan mucho la ropa.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 53.1",
+      "content": [
+        { "text": "<strong>Упражнение 53.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 53.2: Дополните фразы глаголами из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> aburrirse, afeitarse, atreverse, cansarse, lavarse, mancharse, pintarse, ponerse, subirse, divertirse" }],
+      "tasks": [
+        { "id": "u53_2_1", "sentence": "1. Javi ___ con un jabón especial.", "answer": "se lava" },
+        { "id": "u53_2_2", "sentence": "2. (yo) ___ traje para ir a trabajar.", "answer": "Me pongo" },
+        { "id": "u53_2_3", "sentence": "3. Los gatos ___ a los árboles.", "answer": "se suben" },
+        { "id": "u53_2_4", "sentence": "4. José ___ todavía. No tiene barba.", "answer": "se afeita" },
+        { "id": "u53_2_5", "sentence": "5. Susana ___ los ojos algunas veces.", "answer": "se pinta" },
+        { "id": "u53_2_6", "sentence": "6. Ángel y yo ___ mucho en las fiestas.", "answer": "nos divertimos" },
+        { "id": "u53_2_7", "sentence": "7. Pepe es muy sucio. ___ mucho la ropa.", "answer": "Se mancha" },
+        { "id": "u53_2_8", "sentence": "8. Alberto es muy tímido. ___ a hablar con Sarita.", "answer": "No se atreve" },
+        { "id": "u53_2_9", "sentence": "9. A Iván no le gusta el cine; ___ mucho cuando va.", "answer": "se aburre" },
+        { "id": "u53_2_10", "sentence": "10. Mi hermana y yo ___ el pelo todos los días.", "answer": "nos lavamos" },
+        { "id": "u53_2_11", "sentence": "11. Los canguros ___ con las patas cuando los atacan.", "answer": "se defienden" },
+        { "id": "u53_2_12", "sentence": "12. Mi abuela ___ cuando sube escaleras.", "answer": "se cansa" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 53.3: Дополните вопросы и ответы",
+      "tasks": [
+        { "id": "u53_3_1", "sentence": "1. –¿A qué hora (tú, levantarse) ___? –___ a las siete.", "answer": "te levantas, Me levanto" },
+        { "id": "u53_3_2", "sentence": "2. –¿(tú, ponerse) ___ pijama para dormir? –No, ___ camisón.", "answer": "Te pones, me pongo" },
+        { "id": "u53_3_3", "sentence": "3. –¿(vosotros, bañarse) ___ en el mar en verano? –No, pero ___ en la piscina.", "answer": "Os bañáis, nos bañamos" },
+        { "id": "u53_3_4", "sentence": "4. –¿Qué (vosotros, ponerse) ___ los domingos? –___ ropa normal: vaqueros y una camisa.", "answer": "os ponéis, Nos ponemos" },
+        { "id": "u53_3_5", "sentence": "5. –¿Con qué (afeitarse) ___ usted? –___ con maquinilla eléctrica.", "answer": "se afeita, Me afeito" },
+        { "id": "u53_3_6", "sentence": "6. –¿(usted, vestirse) ___ antes o después de desayunar? –___ después de desayunar.", "answer": "Se viste, Me visto" },
+        { "id": "u53_3_7", "sentence": "7. –¿A qué hora (levantarse) ___ ustedes los domingos? –___ temprano, sobre las nueve.", "answer": "se levantan, Nos levantamos" },
+        { "id": "u53_3_8", "sentence": "8. –¿Y a qué hora (ustedes, acostarse) ___? –___ también temprano, sobre las diez.", "answer": "se acuestan, Nos acostamos" }
+      ]
+    }
+  ]
+}

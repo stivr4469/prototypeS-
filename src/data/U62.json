@@ -1,0 +1,76 @@
+{
+  "lessonId": "B1_U62",
+  "title": "Урок 62: Сравнение Pretérito perfecto и Pretérito indefinido",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "table": {
+            "headers": ["PRETÉRITO PERFECTO", "PRETÉRITO INDEFINIDO"],
+            "rows": [
+              [
+                "<strong>1. Используется для действий, произошедших в период, который еще не закончился для говорящего: `hace un rato, hace una hora...`, `hoy`, `esta mañana`, `este mes`, `este año`.</strong><br><i><strong>Hemos visto</strong> a Antonio Banderas! (hace un momento)<br>Hoy <strong>he tenido</strong> dos exámenes.<br>¿Qué <strong>habéis hecho</strong> este verano?<br><strong>Hemos ido</strong> a la playa. Nos <strong>hemos divertido</strong> mucho.</i>",
+                "<strong>1. Используется для действий, произошедших в период, который уже закончился для говорящего: `hace una semana, hace un mes...`, `ayer`, `el mes pasado`, `aquel verano...`</strong><br><i>Hace una semana <strong>vimos</strong> a Antonio Banderas.<br>Ayer <strong>tuve</strong> dos exámenes.<br>¿Qué <strong>hicisteis</strong> el verano pasado?<br><strong>Fuimos</strong> a la playa. Nos <strong>divertimos</strong> mucho.</i>"
+              ],
+              [
+                "<strong>2. Используется для разговора об опыте, без указания конкретного момента.</strong><br><i>–¿<strong>Has estado</strong> alguna vez en Cuzco?<br>–No <strong>he viajado</strong> nunca en avión.</i>",
+                "<strong>2. Используется, когда указывается точный момент, когда произошло действие.</strong><br><i><strong>Hace tres años</strong> estuve en Cuzco.<br><strong>El mes pasado</strong> viajé en avión por primera vez.</i>"
+              ],
+              [
+                "<strong>3. Используется, чтобы сказать или спросить, произошло ли действие до настоящего момента или еще нет: `ya` или `todavía no`.</strong><br><i>¿Ya <strong>has visitado</strong> La Guaira?<br>Todavía no <strong>hemos visitado</strong> La Guaira.</i>",
+                "<strong>3. El año pasado estuve en Chile.</strong>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 62.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u62_1_1", "sentence": "1. (Hemos estado/estuvimos) con Rosa hace poco.", "options": ["Hemos estado", "estuvimos"], "correctOption": "Hemos estado" },
+        { "id": "u62_1_2", "sentence": "2. Hoy no (he ido/fui) a trabajar.", "options": ["he ido", "fui"], "correctOption": "he ido" },
+        { "id": "u62_1_3", "sentence": "3. ¿Cuándo (ha nacido/nació) tu hijo mayor?", "options": ["ha nacido", "nació"], "correctOption": "nació" },
+        { "id": "u62_1_4", "sentence": "4. (Hemos estado/Estuvimos) en México el verano de 1998.", "options": ["Hemos estado", "Estuvimos"], "correctOption": "Estuvimos" },
+        { "id": "u62_1_5", "sentence": "5. ¿(Han comido/Comieron) alguna vez ceviche?", "options": ["Han comido", "Comieron"], "correctOption": "Han comido" },
+        { "id": "u62_1_6", "sentence": "6. Este invierno no (ha nevado/nevó) mucho.", "options": ["ha nevado", "nevó"], "correctOption": "ha nevado" },
+        { "id": "u62_1_7", "sentence": "7. (Has visto/Viste) ya el vídeo que te presté?", "options": ["Has visto", "Viste"], "correctOption": "Has visto" },
+        { "id": "u62_1_8", "sentence": "8. Peter no (ha estudiado/estudió) nunca español.", "options": ["ha estudiado", "estudió"], "correctOption": "ha estudiado" },
+        { "id": "u62_1_9", "sentence": "9. Amalia y sus padres (han venido/vinieron) a España hace tres años.", "options": ["han venido", "vinieron"], "correctOption": "vinieron" },
+        { "id": "u62_1_10", "sentence": "10. Todavía no (he visto/vi) la última exposición de Barceló.", "options": ["he visto", "vi"], "correctOption": "he visto" },
+        { "id": "u62_1_11", "sentence": "11. ¿(Has trabajado/Trabajaste) alguna vez en una película?", "options": ["Has trabajado", "Trabajaste"], "correctOption": "Has trabajado" },
+        { "id": "u62_1_12", "sentence": "12. Cuando nos casamos, (hemos hecho/hicimos) un viaje por América Central.", "options": ["hemos hecho", "hicimos"], "correctOption": "hicimos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 62.2: Дополните фразы с pretérito perfecto или pretérito indefinido",
+      "tasks": [
+        { "id": "u62_2_1", "sentence": "1. ¿(ustedes, montar) ___ alguna vez en globo?", "answer": "Han montado" },
+        { "id": "u62_2_2", "sentence": "2. Mi hermana (tener) ___ un niño hace poco.", "answer": "tuvo" },
+        { "id": "u62_2_3", "sentence": "3. Rosana nos (invitar) ___ a su chalé el fin de semana pasado.", "answer": "invitó" },
+        { "id": "u62_2_4", "sentence": "4. Este año (haber) ___ menos accidentes en las carreteras.", "answer": "ha habido" },
+        { "id": "u62_2_5", "sentence": "5. El siglo pasado (haber) ___ dos guerras mundiales.", "answer": "hubo" },
+        { "id": "u62_2_6", "sentence": "6. –¿(tú, ver) ___ a Ana? –Sí, la (ver) ___ el domingo.", "answer": "Has visto, vi" },
+        { "id": "u62_2_7", "sentence": "7. –¿(vosotras, estar) ___ alguna vez en América del Sur? –Sí, ___ hace cuatro años en Uruguay.", "answer": "Habéis estado, estuvimos" },
+        { "id": "u62_2_8", "sentence": "8. –¿(tú, sacar) ___ las entradas para el partido? –Por supuesto. Las (yo, comprar) ___ hace dos semanas.", "answer": "Has sacado, compré" },
+        { "id": "u62_2_9", "sentence": "9. –¿Qué (ustedes, hacer) ___ este verano? –En julio (estar) ___ en Cancún. Lo (pasar) ___ estupendamente.", "answer": "han hecho, estuvimos, pasamos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 62.3: Дополните диалог",
+      "tasks": [
+        { "id": "u62_3_1", "sentence": "1. (estar, Barcelona) ¿<u>Habéis estado ya en Barcelona?</u> (miércoles) Sí, ___ el miércoles.", "answer": "estuvimos" },
+        { "id": "u62_3_2", "sentence": "2. (probar, el cocido) ¿___? No, todavía no ___ en Barcelona.", "answer": "Habéis probado ya el cocido, lo hemos probado" },
+        { "id": "u62_3_3", "sentence": "3. (visitar, Museo del Prado) ¿___? (lunes) Sí, ___ el lunes.", "answer": "Habéis visitado el Museo del Prado, lo visitamos" },
+        { "id": "u62_3_4", "sentence": "4. (comprar, los regalos) ¿___? (martes por la mañana) Sí, ___ el martes por la mañana.", "answer": "Habéis comprado ya los regalos, los compramos" },
+        { "id": "u62_3_5", "sentence": "5. (ir, a Sevilla) ¿___? No, ___ todavía.", "answer": "Habéis ido ya a Sevilla, no hemos ido" },
+        { "id": "u62_3_6", "sentence": "6. (ayer) Sí, ___.", "answer": "fuimos" }
+      ]
+    }
+  ]
+}

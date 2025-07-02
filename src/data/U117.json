@@ -1,0 +1,24 @@
+{
+  "lessonId": "B1_U117",
+  "title": "Урок 117: Придаточные цели",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Придаточные цели",
+      "content": [
+        { "text": "`Para estudiar` и `para que lo conozcáis` — это придаточные цели. Они указывают, зачем что-то делается." },
+        { "text": "<strong>- `para` + инфинитив</strong><br><i>Anoche me llamó Juan <strong>para quedar</strong> el domingo.</i><br><strong>- `para que` + сослагательное наклонение</strong><br><i>Me gustaría ver a Dolores <strong>para que</strong> me <strong>cuente</strong> la fiesta.</i>" },
+        { "text": "<strong>- Обычно используется `para` + инфинитив, когда подлежащее в обеих частях предложения одно и то же.</strong><br><i>Llamé (yo) a Antonio <strong>para invitarle</strong> (yo) a la fiesta.</i>" },
+        { "text": "<strong>- Обычно используется `para que` + сослагательное наклонение, когда подлежащие в обеих частях предложения разные.</strong><br><i>Fito ha cerrado (él) la puerta <strong>para que</strong> no le <strong>molesten</strong> (ellos) a sus padres.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 117.1, 117.2, 117.3, 117.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены.</strong>" }
+      ]
+    }
+  ]
+}

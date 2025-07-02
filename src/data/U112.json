@@ -1,0 +1,30 @@
+{
+  "lessonId": "B1_U112",
+  "title": "Урок 112: Составные предлоги места",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Составные предлоги",
+      "content": [
+        { "text": "<strong>`Encima de`</strong> и <strong>`dentro de`</strong> — это составные предлоги. Они используются, чтобы указать на положение одного человека, животного или предмета по отношению к другому." },
+        { "list": [
+          "<strong>- encima de, debajo de</strong><br><i>No dejéis nada <strong>encima de</strong> las sillas.</i>",
+          "<strong>- dentro de, fuera de</strong><br><i>El abrigo está <strong>dentro del</strong> armario.</i>",
+          "<strong>- cerca de, lejos de</strong><br><i>Rosa vive <strong>cerca del</strong> centro.</i>",
+          "<strong>- frente a/enfrente de</strong><br><i>Aurelio vive <strong>enfrente de</strong> un parque.</i>",
+          "<strong>- junto a/al lado de</strong><br><i>Hay una papelería <strong>junto a</strong> la academia.</i>",
+          "<strong>- alrededor de</strong><br><i>Hay muchas tiendas <strong>alrededor de</strong> la plaza.</i>",
+          "<strong>- delante de, detrás de</strong><br><i>No me dejes ver. Estás siempre <strong>delante del</strong> televisor.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 112.1, 112.2, 112.3",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены, так как они требуют анализа изображений и составления свободных фраз.</strong>" }
+      ]
+    }
+  ]
+}

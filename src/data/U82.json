@@ -1,0 +1,86 @@
+{
+  "lessonId": "B1_U82",
+  "title": "Урок 82: Pretérito imperfecto de subjuntivo: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы Pretérito imperfecto de subjuntivo",
+      "content": [
+        { "text": "<strong>Comiéramos</strong> и <strong>pintara</strong> — это формы прошедшего несовершенного времени сослагательного наклонения (pretérito imperfecto de subjuntivo)." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(yo)", "trabaj<strong>ara</strong>, -ase¹", "com<strong>iera</strong>, -iese", "viv<strong>iera</strong>, -iese"],
+              ["(tú)", "trabaj<strong>aras</strong>, -ases", "com<strong>ieras</strong>, -ieses", "viv<strong>ieras</strong>, -ieses"],
+              ["(usted)", "trabaj<strong>ara</strong>, -ase", "com<strong>iera</strong>, -iese", "viv<strong>iera</strong>, -iese"],
+              ["(él, ella)", "trabaj<strong>ara</strong>, -ase", "com<strong>iera</strong>, -iese", "viv<strong>iera</strong>, -iese"],
+              ["(nosotros, -as)", "trabaj<strong>áramos</strong>, -ásemos", "com<strong>iéramos</strong>, -iésemos", "viv<strong>iéramos</strong>, -iésemos"],
+              ["(vosotros, -as)", "trabaj<strong>arais</strong>, -aseis", "com<strong>ierais</strong>, -ieseis", "viv<strong>ierais</strong>, -ieseis"],
+              ["(ustedes)", "trabaj<strong>aran</strong>, -asen", "com<strong>ieran</strong>, -iesen", "viv<strong>ieran</strong>, -iesen"],
+              ["(ellos, -as)", "trabaj<strong>aran</strong>, -asen", "com<strong>ieran</strong>, -iesen", "viv<strong>ieran</strong>, -iesen"]
+            ]
+          }
+        },
+        { "text": "<small>¹ Формы на -ase, -iese... используются реже, чем формы на -ara, -iera...</small>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Pretérito imperfecto de subjuntivo",
+      "content": [
+        { "text": "<strong>1. Может относиться к прошлому, настоящему или будущему.</strong><br><i>Pasado: Ayer te llamé a casa. Quería que me <strong>ayudaras</strong> a preparar el examen.<br>Presente: ¿Estás ocupado? Me gustaría que <strong>vieras</strong> algo.<br>Futuro: El médico me ha dicho que me gustaría que <strong>vinierais</strong> a casa.</i>" },
+        { "text": "<strong>2. Используется с глаголами и конструкциями, выражающими пожелания или гипотетические ситуации в настоящем или будущем.</strong><br><i>¡Quién <strong>viviera</strong> cien años! (желание, которое трудно или невозможно исполнить)<br>¡Quién <strong>conociera</strong> el futuro! (желание, которое невозможно исполнить)</i>" },
+        { "text": "<strong>3. Используется с глаголами и выражениями в прошлом или в условном наклонении, которые указывают на:</strong><br>- волеизъявление или влияние: <i>El jefe <strong>prohibió</strong> que <strong>usáramos</strong> los móviles.</i><br>- чувства: <i>No me <strong>gustó</strong> que no me <strong>invitaran</strong>.</i><br>- оценку действий или ситуаций: <i>Era lógico que Goyo <strong>protestase</strong> por la película.</i><br>- вероятность: <i>Era imposible que Pedra <strong>encontrase</strong> empleo.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 82.1: ¿Qué diría? Напишите фразы",
+      "tasks": [
+        { "id": "u82_1_1", "sentence": "1. Le gustaría bailar como un amigo suyo, pero lo ve difícil. → ¡Quién ___ como tú!", "answer": "bailara" },
+        { "id": "u82_1_2", "sentence": "2. Le gustaría comer como un amigo suyo, pero lo ve difícil. → ¡Quién ___ así!", "answer": "comiera" },
+        { "id": "u82_1_3", "sentence": "3. Le gustaría hablar italiano como unos amigos suyos, pero lo ve difícil. → ¡Quién ___ italiano!", "answer": "hablara" },
+        { "id": "u82_1_4", "sentence": "4. Le gustaría escribir como García Márquez, pero lo ve difícil. → ¡Quién ___ como él!", "answer": "escribiera" },
+        { "id": "u82_1_5", "sentence": "5. Le gustaría jugar al ajedrez como Karpov, pero lo ve difícil. → ¡Quién ___ al ajedrez como él!", "answer": "jugara" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 82.2: Дополните фразы с Imperfecto de subjuntivo",
+      "content": [{ "text": "<strong>Глаголы:</strong> ayudar, cantar, comer, comprar, enterarse, jugar, lavar, llamar, llegar, perder, recibir, vivir" }],
+      "tasks": [
+        { "id": "u82_2_1", "sentence": "1. Cuando era pequeño mis padres querían que ___ al tenis.", "answer": "jugara" },
+        { "id": "u82_2_2", "sentence": "2. ¿Vas a ponerte a lavar el coche? Preferiría que lo ___ en otro momento.", "answer": "lavaras" },
+        { "id": "u82_2_3", "sentence": "3. ¿Ya estáis aquí? Esperaba que ___ más tarde.", "answer": "llegarais" },
+        { "id": "u82_2_4", "sentence": "4. Gracias por el regalo, Andrés. No era necesario que ___ nada.", "answer": "compraras" },
+        { "id": "u82_2_5", "sentence": "5. Era imposible que no ___ nadie. Lo dijo en voz alta.", "answer": "se enterara" },
+        { "id": "u82_2_6", "sentence": "6. Rodrigo quería que le ___.", "answer": "ayudara" },
+        { "id": "u82_2_7", "sentence": "7. Me encantaría que ustedes ___ en esta casa.", "answer": "vivieran" },
+        { "id": "u82_2_8", "sentence": "8. Antonia nos despertó a las siete. Tenía miedo de que ___ el avión.", "answer": "perdiéramos" },
+        { "id": "u82_2_9", "sentence": "9. Todo el mundo esperaba que ___ en la fiesta, pero tenía mal la voz.", "answer": "cantara" },
+        { "id": "u82_2_10", "sentence": "10. –¿Por qué no vinieron a la cena? –Puede que no ___ la invitación.", "answer": "recibieran" },
+        { "id": "u82_2_11", "sentence": "11. Me encantó que me ___. Tenía muchas ganas de veros.", "answer": "llamaras" },
+        { "id": "u82_2_12", "sentence": "12. El año pasado el director nos prohibió que ___ en clase.", "answer": "comiéramos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 82.3: Объедините две фразы с que",
+      "tasks": [
+        { "id": "u82_3_1", "sentence": "1. Mauro no aprobó el carné de conducir. Lo sentimos. → Sentimos que Mauro no ___ el carné de conducir.", "answer": "aprobara" },
+        { "id": "u82_3_2", "sentence": "2. Balbina encontró trabajo. Me alegré. → ___", "answer": "Me alegré de que Balbina encontrara trabajo" },
+        { "id": "u82_3_3", "sentence": "3. No me llamasteis el domingo. Me extrañó. → ___", "answer": "Me extrañó que no me llamarais el domingo" },
+        { "id": "u82_3_4", "sentence": "4. Juan y Alicia se acordaron de nosotros. Nos gustó. → ___", "answer": "Nos gustó que Juan y Alicia se acordaran de nosotros" },
+        { "id": "u82_3_5", "sentence": "5. Mi hermana se llevó el coche. No me importó. → ___", "answer": "No me importó que mi hermana se llevara el coche" },
+        { "id": "u82_3_6", "sentence": "6. No aprobaste. Lo sentí. → ___", "answer": "Sentí que no aprobaras" },
+        { "id": "u82_3_7", "sentence": "7. No hablaste con Blas. Me pareció mal. → ___", "answer": "Me pareció mal que no hablaras con Blas" },
+        { "id": "u82_3_8", "sentence": "8. No invitasteis a Sonia. No me gustó. → ___", "answer": "No me gustó que no invitarais a Sonia" },
+        { "id": "u82_3_9", "sentence": "9. Mis hermanos no salieron anoche. Me extrañó. → ___", "answer": "Me extrañó que mis hermanos no salieran anoche" },
+        { "id": "u82_3_10", "sentence": "10. Armando quiere trabajar con nosotros. Nos gustó. → ___", "answer": "Nos gustó que Armando quisiera trabajar con nosotros" },
+        { "id": "u82_3_11", "sentence": "11. Mis padres nos regalaron una alfombra. Nos encantó. → ___", "answer": "Nos encantó que mis padres nos regalaran una alfombra" },
+        { "id": "u82_3_12", "sentence": "12. La empresa pagó la comida. Nos extrañó. → ___", "answer": "Nos extrañó que la empresa pagara la comida" }
+      ]
+    }
+  ]
+}

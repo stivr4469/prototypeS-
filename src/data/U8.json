@@ -1,0 +1,82 @@
+{
+  "lessonId": "A2_U8",
+  "title": "Урок 8: Определённый артикль с именами собственными",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Артикль с именами людей",
+      "content": [
+        { "text": "<strong>Артикли el, la, los, las используются с именами людей, когда перед именем стоит титул или обращение.</strong>" },
+        { "text": "Используется с señor, señora, señorita, doctor, doctora, presidente, presidenta... + (nombre +) apellido.<br><i><strong>El señor Alonso</strong> es mi jefe.<br><strong>La señora Gómez</strong> es mi jefa.<br><strong>La doctora Blanco</strong> trabaja en este hospital.</i>" },
+        { "text": "<strong>НО: Артикль НЕ используется, когда мы обращаемся к человеку напрямую.</strong><br><i>Buenos días, <strong>señor Alonso</strong>.<br>Una llamada para usted, <strong>doctora Blanco</strong>.</i>" },
+        { "text": "<strong>Артикль НЕ используется с don / doña + имя.</strong><br><i><strong>Julián</strong> es mi primo.<br><strong>Doña Rosa</strong> es maestra.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Артикль с географическими названиями",
+      "content": [
+        { "text": "<strong>Артикли el, la, los, las используются с названиями мест:</strong>" },
+        { "list": [
+          "<strong>улиц, площадей, проспектов, отелей, музеев...</strong><br><i>Marta vive en la <strong>avenida de América</strong>.<br>Hay un cine nuevo en la <strong>calle Bolívar</strong>.<br>el <strong>(hotel) Ritz</strong><br>el <strong>(cine) Gran Vía</strong><br>el <strong>(teatro) Buenos Aires</strong><br>el <strong>(Museo del) Prado</strong><br>la <strong>(Universidad) Autónoma</strong><br>el <strong>(hospital) Sotomayor</strong></i>",
+          "<strong>рек, озер, морей, океанов, групп островов, гор, пустынь...</strong><br><i>el <strong>(río) Tajo</strong>, el <strong>Amazonas</strong><br>el <strong>(lago) Titicaca</strong><br>el <strong>(mar) Mediterráneo</strong>, el <strong>Caribe</strong><br>el <strong>(océano) Pacífico</strong>, el <strong>Atlántico</strong><br>las <strong>(islas) Canarias</strong>, las <strong>Antillas</strong><br>los <strong>(montes) Pirineos</strong>, los <strong>Andes</strong><br>el <strong>(desierto del) Sahara</strong></i>"
+        ]},
+        { "text": "<strong>НО: Артикль НЕ используется с названиями большинства островов.</strong><br><i>Mallorca, Sicilia, Santo Domingo</i>" },
+        { "text": "<strong>ВНИМАНИЕ: Артикль НЕ используется с названиями городов, регионов, провинций, автономий, стран, континентов...</strong><br>– <strong>Ciudades:</strong> Barcelona, París, Santiago de Chile, Buenos Aires.<br>– <strong>Países, regiones...:</strong> España, Alemania, Bolivia, Francia; Galicia, Andalucía, California.<br>– <strong>Continentes:</strong> África, América del Sur." },
+        { "text": "<strong>НО (исключения):</strong><br>– <strong>Ciudades:</strong> La Habana, El Escorial, La Haya, La Paz, Las Palmas, Los Ángeles, El Cairo.<br>– <strong>Países y regiones:</strong> El Salvador, (la) India, (los) Estados Unidos, La Mancha, La Rioja, La Pampa." }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 8.1: Дополните с el, la, los, las где необходимо",
+      "tasks": [
+        { "id": "u8_1_1", "sentence": "1. ¿Dónde vive ___ don José?", "answer": "" },
+        { "id": "u8_1_2", "sentence": "2. –Buenas tardes, ___ señor Alfonsín. –Buenas tardes, ___ Elena.", "answer": "," },
+        { "id": "u8_1_3", "sentence": "3. ___ doctora Castro está en la sexta planta.", "answer": "La" },
+        { "id": "u8_1_4", "sentence": "4. ¿Quién es ___ señora Jiménez?", "answer": "la" },
+        { "id": "u8_1_5", "sentence": "5. Aquí trabaja ___ Josefa.", "answer": "" },
+        { "id": "u8_1_6", "sentence": "6. –Buenos días, ___ doctor Rojo. –Buenos días, ___ María.", "answer": "," }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 8.2",
+      "content": [
+        { "text": "<strong>Упражнение 8.2 пропущено, так как оно полностью основано на анализе карты.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 8.3: Дополните с los nombres y el, la, los, las когда необходимо",
+      "tasks": [
+        { "id": "u8_3_1", "sentence": "1. (Habana, Cuba) ___ Habana es la capital de ___ Cuba.", "answer": "La," },
+        { "id": "u8_3_2", "sentence": "2. (India, Asia) ___ está en ___.", "answer": "La India,Asia" },
+        { "id": "u8_3_3", "sentence": "3. (Islas Galápagos, Ecuador) ___ están en ___.", "answer": "Las Islas Galápagos,Ecuador" },
+        { "id": "u8_3_4", "sentence": "4. (Salvador, Guatemala, Honduras) ___ tiene frontera con ___ y ___.", "answer": "El Salvador,Guatemala,Honduras" },
+        { "id": "u8_3_5", "sentence": "5. (Ángeles, California) ___ está en ___.", "answer": "Los Ángeles,California" },
+        { "id": "u8_3_6", "sentence": "6. (Lago Titicaca, Perú, Bolivia) ___ está entre ___ y ___.", "answer": "El Lago Titicaca,Perú,Bolivia" },
+        { "id": "u8_3_7", "sentence": "7. (Amazonas, América del Sur) ___ es el río más largo de ___.", "answer": "El Amazonas,América del Sur" },
+        { "id": "u8_3_8", "sentence": "8. (Jamaica, mar Caribe) ___ está en ___.", "answer": "Jamaica,el mar Caribe" },
+        { "id": "u8_3_9", "sentence": "9. (Puerto Rico, Islas Antillas) ___ es una de ___.", "answer": "Puerto Rico,las Islas Antillas" },
+        { "id": "u8_3_10", "sentence": "10. (Francia, Europa) ___ es un país de ___.", "answer": "Francia,Europa" },
+        { "id": "u8_3_11", "sentence": "11. (Pampa, Argentina) ___ es una región de ___.", "answer": "La Pampa,Argentina" },
+        { "id": "u8_3_12", "sentence": "12. (Pirineos, España, Francia) ___ separan ___ de ___.", "answer": "Los Pirineos,España,Francia" }
+      ]
+    },
+    {
+        "type": "MultipleChoice",
+        "title": "Упражнение 8.4: Выберите правильную форму",
+        "tasks": [
+            { "id": "u8_4_1", "sentence": "1. ¿Has estado en (el/ø) Museo del Prado?", "options": ["el", "ø"], "correctOption": "el" },
+            { "id": "u8_4_2", "sentence": "2. (El/ø) Felipe estudia en (la/ø) Universidad de Alcalá.", "options": ["ø, la", "El, la"], "correctOption": "ø, la" },
+            { "id": "u8_4_3", "sentence": "3. (La/ø) doctora Soria trabaja en (el/ø) Hospital Doce de Octubre.", "options": ["La, el", "ø, el"], "correctOption": "La, el" },
+            { "id": "u8_4_4", "sentence": "4. El hermano de Ana vive en (la/ø) Paz.", "options": ["la", "ø"], "correctOption": "la" },
+            { "id": "u8_4_5", "sentence": "5. (El/ø) Cairo es la capital de (el/ø) Egipto.", "options": ["El, ø", "ø, el"], "correctOption": "El, ø" },
+            { "id": "u8_4_6", "sentence": "6. (El/ø) Pancho vive en (el/ø) Monterrey.", "options": ["ø, ø", "El, el"], "correctOption": "ø, ø" },
+            { "id": "u8_4_7", "sentence": "7. Este queso es de (la/ø) Mancha.", "options": ["la", "ø"], "correctOption": "la" },
+            { "id": "u8_4_8", "sentence": "8. (El/ø) cine Cartago está en (la/ø) calle Buenos Aires.", "options": ["El, la", "ø, la"], "correctOption": "El, la" }
+        ]
+    }
+  ]
+}

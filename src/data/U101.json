@@ -1,0 +1,78 @@
+{
+  "lessonId": "B1_U101",
+  "title": "Урок 101: Наречия времени (1)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия времени",
+      "content": [
+        { "text": "<strong>Anteayer, ayer, anoche...</strong> — это наречия времени. Они дают информацию о том, когда происходит действие, и отвечают на вопрос `¿cuándo?`." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование",
+      "content": [
+        { "list": [
+          "<strong>- entonces, luego, después</strong><br><i>`entonces` (= en ese momento): Le pregunté por Paula y <strong>entonces</strong> me contó toda la historia.</i><br><i>`luego` (=después de, más tarde) и `después` (=más tarde) относятся к моменту, последующему за моментом речи.<br>Ahora tengo clase. Nos vemos <strong>luego</strong>. / Me voy. <strong>Después</strong> te llamo.</i>",
+          "<strong>- pronto, temprano, tarde</strong><br><i>`pronto` = en poco tiempo, poco tiempo después: Hemos corrido y hemos llegado <strong>pronto</strong>.</i><br><i>`temprano` = a primeras horas del día o de la noche: Abel se levanta <strong>temprano</strong>, a las seis.</i><br><i>`tarde` = a últimas horas del día o de la noche: Ayer cenamos muy <strong>tarde</strong>, a las doce.</i>"
+        ]},
+        { "text": "<strong>Сравните (Compare):</strong><br><i>–¿Se ha ido María? –Sí, pero <strong>vuelve pronto</strong>. (poco tiempo después)<br>–Mamá, nos vamos. –<strong>Volved temprano</strong>. (a primera hora de la noche)</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Когда `cuando, ahora, hoy...` стоят в начале фразы, подлежащее обычно идет после глагола.<br><i>Ayer <strong>Pablo llegó</strong>. → Ayer <strong>llegó Pablo</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 101.1: Замените подчеркнутые слова наречиями из списка",
+      "content": [{ "text": "<strong>Слова для справок:</strong> anoche, anteayer, ayer, hoy, mañana, pasado mañana" }],
+      "tasks": [
+        { "id": "u101_1_1", "sentence": "1. <u>El lunes 12</u> voy al médico. → ___ voy al médico.", "answer": "Pasado mañana" },
+        { "id": "u101_1_2", "sentence": "2. <u>El sábado 10</u> he quedado con Eloísa. → ___ he quedado con Eloísa.", "answer": "Hoy" },
+        { "id": "u101_1_3", "sentence": "3. <u>El jueves 8</u> estuve en León. → ___ estuve en León.", "answer": "Anteayer" },
+        { "id": "u101_1_4", "sentence": "4. <u>El domingo 11</u> vamos a hacer una merienda en el campo. → ___ vamos a hacer una merienda en el campo.", "answer": "Mañana" },
+        { "id": "u101_1_5", "sentence": "5. <u>El viernes 9 por la noche</u> salimos a cenar con unos amigos. → ___ salimos a cenar con unos amigos.", "answer": "Ayer por la noche" },
+        { "id": "u101_1_6", "sentence": "6. <u>El viernes 9</u> recibí una postal de Miguel. → ___ recibí una postal de Miguel.", "answer": "Ayer" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 101.2: Расположите слова и составьте фразы",
+      "tasks": [
+        { "id": "u101_2_1", "sentence": "1. pasado mañana / Emma / se marcha → ___.", "answer": "Pasado mañana se marcha Emma" },
+        { "id": "u101_2_2", "sentence": "2. mañana / el jefe / en la oficina / no estará → ___.", "answer": "Mañana no estará el jefe en la oficina" },
+        { "id": "u101_2_3", "sentence": "3. ayer / Olga / me llamó → ___.", "answer": "Ayer me llamó Olga" },
+        { "id": "u101_2_4", "sentence": "4. pasado mañana / mis padres / llegan → ___.", "answer": "Pasado mañana llegan mis padres" },
+        { "id": "u101_2_5", "sentence": "5. ahora / Concha / no está → ___.", "answer": "Ahora no está Concha" },
+        { "id": "u101_2_6", "sentence": "6. y / entonces / el espectáculo / sonaron unas trompetas / empezó → ___.", "answer": "Y entonces sonaron unas trompetas y empezó el espectáculo" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 101.3: Выберите правильную форму",
+      "tasks": [
+        { "id": "u101_3_1", "sentence": "1. No te preocupes. Estoy segura de que nos veremos (temprano/pronto).", "options": ["temprano", "pronto"], "correctOption": "pronto" },
+        { "id": "u101_3_2", "sentence": "2. Mañana nos tenemos que levantar (temprano/tarde). El avión sale a las siete.", "options": ["temprano", "tarde"], "correctOption": "temprano" },
+        { "id": "u101_3_3", "sentence": "3. Primero iremos a Mendoza y (entonces/después) a Bariloche.", "options": ["entonces", "después"], "correctOption": "después" },
+        { "id": "u101_3_4", "sentence": "4. Llamamos al timbre y (entonces/después) salió el marido de Tere.", "options": ["entonces", "después"], "correctOption": "entonces" },
+        { "id": "u101_3_5", "sentence": "5. Estoy acabando un trabajo, pero si quieres nos vemos (entonces/luego).", "options": ["entonces", "luego"], "correctOption": "luego" },
+        { "id": "u101_3_6", "sentence": "6. Habéis llegado (tarde/temprano). La película ya ha empezado.", "options": ["tarde", "temprano"], "correctOption": "tarde" },
+        { "id": "u101_3_7", "sentence": "7. Daos prisa. Los invitados van a llegar (temprano/pronto).", "options": ["temprano", "pronto"], "correctOption": "pronto" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 101.4: Замените подчеркнутые слова подходящими синонимами",
+      "tasks": [
+        { "id": "u101_4_1", "sentence": "1. Tienen que hacer el proyecto <u>en poco tiempo</u>. → ___", "answer": "pronto" },
+        { "id": "u101_4_2", "sentence": "2. Mañana nos tenemos que levantar <u>a primera hora del día</u>. → ___", "answer": "temprano" },
+        { "id": "u101_4_3", "sentence": "3. Estaba hablando con Josefina y <u>en ese momento</u> llegó Roberto. → ___", "answer": "entonces" },
+        { "id": "u101_4_4", "sentence": "4. Ahora tengo trabajo, te llamaré <u>después del trabajo</u>. → ___", "answer": "luego" },
+        { "id": "u101_4_5", "sentence": "5. Era <u>una hora avanzada de la noche</u>, pero llamamos a una ambulancia y vino <u>en muy poco tiempo</u>. → ___", "answer": "tarde, pronto" },
+        { "id": "u101_4_6", "sentence": "6. Hoy quiero cenar y acostarme <u>antes de lo normal</u>. Estoy cansado. → ___", "answer": "temprano" },
+        { "id": "u101_4_7", "sentence": "7. Ahora no tenemos hambre. Comeremos <u>más tarde</u>. → ___", "answer": "después" },
+        { "id": "u101_4_8", "sentence": "8. Apagaron las luces y <u>en ese momento</u> se oyó una voz. → ___", "answer": "entonces" }
+      ]
+    }
+  ]
+}

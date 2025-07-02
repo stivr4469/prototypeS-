@@ -1,0 +1,66 @@
+{
+  "lessonId": "B1_U87",
+  "title": "Урок 87: Сравнение Indicativo и Subjuntivo",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "table": {
+            "headers": ["INDICATIVO", "SUBJUNTIVO"],
+            "rows": [
+              [
+                "<strong>1. Используется в утвердительных фразах с выражениями мнения и уверенности: `creer, pensar, opinar, parecer, estar seguro de, recordar`.</strong><br><i>Doctor, ¿cree que <strong>estoy</strong> enfermo?<br>Me parece que <strong>va</strong> a nevar.<br>Recuerdo que el año pasado <strong>visitamos</strong> el desierto de Atacama.</i>",
+                "<strong>1. Используется в отрицательных фразах с выражениями мнения и уверенности: `creer, pensar, opinar, parecer, estar seguro de, recordar`.</strong><br><i>Pues yo no creo que <strong>esté</strong> enfermo.<br>A mí no me parece que <strong>vaya</strong> a nevar.<br>No recuerdo que el año pasado <strong>visitáramos</strong> el desierto de Atacama.</i>"
+              ],
+              [
+                "<strong>2. С выражениями `es verdad/cierto/evidente, está claro`.</strong><br><i>¿Es verdad que Ángel <strong>es</strong> actor?<br>Estaba claro que Julián <strong>mentía</strong>.</i>",
+                "<strong>2. С выражениями `(no) es verdad/cierto/evidente, está claro` и др.</strong><br><i>¡Qué va! No es verdad que <strong>sea</strong> actor.<br>Para mí no estaba claro que <strong>mintiera</strong>.</i>"
+              ],
+              [
+                "<strong>3. Используется в относительных придаточных, когда речь о ком-то или чем-то конкретном и известном.</strong><br><i>Blanca es la persona que <strong>cuida</strong> a los niños.<br>Conozco a un chico que <strong>toca</strong> el oboe.</i>",
+                "<strong>3. Используется в относительных придаточных, когда речь о ком-то или чем-то неизвестном или неопределенном.</strong><br><i>Necesito una persona que <strong>cuide</strong> a los niños.<br>¿Hay algún país que no <strong>tenga</strong> ejército?</i>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 87.1: Дополните диалоги",
+      "tasks": [
+        { "id": "u87_1_1", "sentence": "1. –Yo creo que Federico tiene novia. –Pues yo no creo que la ___.", "answer": "tenga" },
+        { "id": "u87_1_2", "sentence": "2. –Yo creo que Graciela es peruana. –Pues yo no creo que lo ___.", "answer": "sea" },
+        { "id": "u87_1_3", "sentence": "3. –Recuerdo que a Héctor le gustaba dibujar. –Pues yo no recuerdo que le ___.", "answer": "gustara" },
+        { "id": "u87_1_4", "sentence": "4. –¿Crees que Alejandra ___? –No, no creo que pueda hacer este trabajo.", "answer": "puede" },
+        { "id": "u87_1_5", "sentence": "5. –Creo que el Sr. Garrido ___ –Pues yo no creo que esté enfadado.", "answer": "está enfadado." },
+        { "id": "u87_1_6", "sentence": "6. –Pienso que Susana ___ –Pues yo no pienso que sea muy cariñosa.", "answer": "es muy cariñosa." },
+        { "id": "u87_1_7", "sentence": "7. –¿Ustedes no creen que aquí ___? –No, no creemos que haga mucho calor.", "answer": "hace mucho calor" },
+        { "id": "u87_1_8", "sentence": "8. –¡Qué suerte tiene Adela! –Pues a mí no me parece que la ___.", "answer": "tenga" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 87.2: Дополните фразы",
+      "tasks": [
+        { "id": "u87_2_1", "sentence": "1. Dicen que Alfonso es agresivo, pero no es verdad que lo ___.", "answer": "sea" },
+        { "id": "u87_2_2", "sentence": "2. Dicen que no hace frío, pero está claro que lo ___.", "answer": "hace" },
+        { "id": "u87_2_3", "sentence": "3. Dijeron que no había mucha gente, pero es evidente que ___ mucha.", "answer": "había" },
+        { "id": "u87_2_4", "sentence": "4. Dijeron que Tomás fue el culpable, pero no estaba claro que lo ___.", "answer": "fuera" },
+        { "id": "u87_2_5", "sentence": "5. Dices que Concha tiene mal genio, pero no es cierto que lo ___.", "answer": "tenga" },
+        { "id": "u87_2_6", "sentence": "6. –¿Es cierto que ___ Paco? –No, regresa la semana que viene.", "answer": "ha regresado" },
+        { "id": "u87_2_7", "sentence": "7. ___ Matemáticas. Estudiaba Física.", "answer": "Es verdad que no sabe" },
+        { "id": "u87_2_8", "sentence": "8. Es falso que Emilio ___ veinticinco años. Tiene treinta.", "answer": "tenga" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 87.3 и 87.4",
+      "content": [
+        { "text": "<strong>Упражнения 87.3 и 87.4 пропущены, так как они требуют свободного составления предложений.</strong>" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lessonId": "B1_U84",
+  "title": "Урок 84: Выражение желаний",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Способы выражения желаний",
+      "content": [
+        { "text": "Для выражения желаний можно использовать следующие конструкции:" },
+        { "text": "<strong>1. Некоторые глаголы или выражения, которые указывают на желание + инфинитив или сослагательное наклонение.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["querer<br>desear<br>tener ganas de", "+ infinitivo", "Quiero que me ayudes, Jorge.<br>Hoy no deseo ver a nadie. Estoy triste.<br>Tengo ganas de que trabajen mis hijos."],
+              ["", "+ que + subjuntivo", "Tengo ganas de que trabajen mis hijos."]
+            ]
+          }
+        },
+        { "text": "<strong>- Конструкции с `querer, desear, preferir, esperar, rogar, soñar con, tener ganas de, (me, te...) gustaría, (me, te...) importaría`.</strong>" },
+        { "text": "<strong>- Используется инфинитив, когда оба глагола относятся к одному и тому же лицу.</strong><br><i>Matías, prefiero (yo) que me lo digas (tú) ahora.<br>Espero que <strong>haga</strong> buen tiempo el domingo.</i>" },
+        { "text": "<strong>- Используется сослагательное наклонение, когда глаголы относятся к разным лицам.</strong><br><i>De pequeña, Elisa soñaba (ella) con ser (ella) escritora.</i>" },
+        { "text": "<strong>2. `¡Que` + presente de subjuntivo для выражения желания, направленного на другое лицо в настоящем или будущем.</strong><br><i>¡Que <strong>tengáis</strong> buen viaje! (Os deseo que tengáis buen viaje.)<br>¡Que Ángel <strong>apruebe</strong>! (Deseo que Ángel apruebe.)</i>" },
+        { "text": "<strong>3. `Ojalá` + presente de subjuntivo для выражения сильного желания или надежды.</strong><br><i>¡Ojalá <strong>haga</strong> buen tiempo mañana! Estoy harto de lluvia. (Espero que haga buen tiempo y lo considero posible.)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 84.1: Дополните фразы с инфинитивом или presente de subjuntivo",
+      "tasks": [
+        { "id": "u84_1_1", "sentence": "1. Espero (yo, encontrar) ___ trabajo pronto.", "answer": "encontrar" },
+        { "id": "u84_1_2", "sentence": "2. Espero que me (tú, llamar) ___ cuando vengas a Lima.", "answer": "llames" },
+        { "id": "u84_1_3", "sentence": "3. ¿Quieres (tú, comer) ___ algo?", "answer": "comer" },
+        { "id": "u84_1_4", "sentence": "4. –Tengo hambre. –¿Quieres que te (yo, preparar) ___ algo de comer?", "answer": "prepare" },
+        { "id": "u84_1_5", "sentence": "5. Me gustaría (yo, conocer) ___ a tus padres.", "answer": "conocer" },
+        { "id": "u84_1_6", "sentence": "6. Aléjate un poco. Prefiero que no nos (ellos, ver) ___ juntos. ¡Es una sorpresa!", "answer": "vean" },
+        { "id": "u84_1_7", "sentence": "7. Te ruego que no me (tú, esperar) ___. Prefiero (quedarse) ___ en casa.", "answer": "esperes, quedarme" },
+        { "id": "u84_1_8", "sentence": "8. De pequeño, soñaba con (yo, poder) ___ viajar por el espacio.", "answer": "poder" },
+        { "id": "u84_1_9", "sentence": "9. Voy a sentarme un poco. Tengo ganas de (yo, descansar) ___.", "answer": "descansar" },
+        { "id": "u84_1_10", "sentence": "10. –¿Le esperamos? –No, prefiero que (ustedes, irse) ___. Voy a acabar tarde.", "answer": "se vayan" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 84.2: Напишите фразы как в примере",
+      "tasks": [
+        { "id": "u84_2_1", "sentence": "1. Alberto querría (yo, trabajar con él) → Alberto querría que <u>trabajara con él</u>.", "answer": "trabajara con él" },
+        { "id": "u84_2_2", "sentence": "2. Espero (no llover mañana) → ___", "answer": "que no llueva mañana" },
+        { "id": "u84_2_3", "sentence": "3. ¿Os importaría (yo, invitar a Laura a la fiesta) → ___?", "answer": "que invitara a Laura a la fiesta" },
+        { "id": "u84_2_4", "sentence": "4. Felipe nos rogó (nosotros, no dejarle solo) → ___", "answer": "que no le dejáramos solo" },
+        { "id": "u84_2_5", "sentence": "5. Sebastián prefiere (ustedes, esperar en su casa) → ___", "answer": "que esperen en su casa" },
+        { "id": "u84_2_6", "sentence": "6. Me gustaría (el mundo, ser más justo) → ___", "answer": "que el mundo fuera más justo" },
+        { "id": "u84_2_7", "sentence": "7. Tengo ganas de (vosotros, venir) → ___", "answer": "que vengáis" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 84.3 и 84.4",
+      "content": [
+        { "text": "<strong>Упражнения 84.3 и 84.4 пропущены, так как они требуют свободного составления предложений, что сложно реализовать в текущем формате.</strong>" }
+      ]
+    }
+  ]
+}

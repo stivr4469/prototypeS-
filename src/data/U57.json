@@ -1,0 +1,78 @@
+{
+  "lessonId": "A2_U57",
+  "title": "Урок 57: Сравнение Presente de Indicativo и Estar + герундий",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "table": {
+            "headers": ["PRESENTE DE INDICATIVO", "ESTAR + GERUNDIO"],
+            "rows": [
+              [
+                "<strong>Используется для разговора о привычных действиях.</strong><br><i>Hago gimnasia todas las mañanas.</i>",
+                "<strong>Используется для разговора о кратких действиях, которые происходят в момент речи.</strong><br><i>Estoy haciendo un rompecabezas.</i>"
+              ],
+              [
+                "<strong>Используется для разговора об общих или универсальных истинах.</strong><br><i>En Galicia <strong>llueve</strong> mucho.<br>En Acapulco <strong>hace</strong> calor en verano.</i>",
+                "<strong>Используется для разговора о временных, не привычных действиях, с выражениями времени `esta semana, este mes, últimamente...`</strong><br><i>No salgas ahora. <strong>Está lloviendo</strong> mucho.<br>Este verano <strong>está haciendo</strong> frío.<br>Esta semana <strong>estoy trabajando</strong> en Iquique.</i>"
+              ]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br>Обычно не используется `estar` + герундий с глаголами `ir` и `venir`.<br><i>Vamos a Viña todos los años. / –¿Adónde vais? –Vamos a la playa.<br>Los cigüeñas vienen a España en primavera.</i>" },
+        { "text": "<strong>С глаголами чувственного восприятия, понимания, желания и т.д. (`conocer, comprender, entender, querer, necesitar, amar, preferir, odiar, parecer, tener, llevar`)</strong><br><i>Alicia no <strong>lleva</strong> nunca vaqueros.<br>Rodrigo <strong>tiene</strong> dos hermanos. / ¿Qué <strong>tienes</strong> dinero? Necesito 50 euros.</i>" },
+        { "text": "<strong>С глаголами `ver` и `oír` (когда они не означают `mirar` или `escuchar`).</strong><br><i>Félix no <strong>oye</strong> nada por el oído izquierdo.<br><strong>PERO:</strong> Estoy <strong>oyendo</strong> la radio. (escuchando)</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 57.1",
+      "content": [
+        { "text": "<strong>Упражнение 57.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 57.2: Дополните фразы Presente de indicativo или estar + герундий",
+      "tasks": [
+        { "id": "u57_2_1", "sentence": "1. En el desierto de Atacama (no llover) ___ nunca.", "answer": "no llueve" },
+        { "id": "u57_2_2", "sentence": "2. Este invierno no (hacer) ___ mucho frío.", "answer": "está haciendo" },
+        { "id": "u57_2_3", "sentence": "3. ¿Me dejas un paraguas? (Llover) ___ mucho.", "answer": "Está lloviendo" },
+        { "id": "u57_2_4", "sentence": "4. –¿Está Rosa? –Sí, pero (dormir) ___.", "answer": "está durmiendo" },
+        { "id": "u57_2_5", "sentence": "5. Los vegetarianos (no comer) ___ carne.", "answer": "no comen" },
+        { "id": "u57_2_6", "sentence": "6. –¿(tú, tocar) ___ algún instrumento? –Sí, (tocar) ___ el violín.", "answer": "tocas, toco" },
+        { "id": "u57_2_7", "sentence": "7. –¿Qué (cantar) ___ Carlos? –Un tango.", "answer": "está cantando" },
+        { "id": "u57_2_8", "sentence": "8. Algunos bebés (llorar) ___ mucho.", "answer": "lloran" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 57.3: Выберите правильную форму",
+      "tasks": [
+        { "id": "u57_3_1", "sentence": "1. ¿Adónde (vais/estáis yendo)?", "options": ["vais", "estáis yendo"], "correctOption": "vais" },
+        { "id": "u57_3_2", "sentence": "2. ¿(Oyes/Estás oyendo) algo?", "options": ["Oyes", "Estás oyendo"], "correctOption": "Oyes" },
+        { "id": "u57_3_3", "sentence": "3. ¿Qué (quieres/estás queriendo)?", "options": ["quieres", "estás queriendo"], "correctOption": "quieres" },
+        { "id": "u57_3_4", "sentence": "4. No (entiendo/estoy entendiendo). ¿Puedes repetir?", "options": ["entiendo", "estoy entendiendo"], "correctOption": "entiendo" },
+        { "id": "u57_3_5", "sentence": "5. –¿Dónde están tus padres? –(Viajan/Están viajando) por América.", "options": ["Viajan", "Están viajando"], "correctOption": "Están viajando" },
+        { "id": "u57_3_6", "sentence": "6. Esta semana no (estudio/estoy estudiando) mucho.", "options": ["estudio", "estoy estudiando"], "correctOption": "estoy estudiando" },
+        { "id": "u57_3_7", "sentence": "7. Está muy oscuro. No (veo/estoy viendo) nada.", "options": ["veo", "estoy viendo"], "correctOption": "veo" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 57.4: Дополните фразы Presente de indicativo или estar + герундий",
+      "tasks": [
+        { "id": "u57_4_1", "sentence": "1. –¿Adónde (ir) ___? –(Ir) ___ a casa.", "answer": "vas, Voy" },
+        { "id": "u57_4_2", "sentence": "2. ¿(tú, conocer) ___ a esa chica?", "answer": "conoces" },
+        { "id": "u57_4_3", "sentence": "3. ¿Qué (tú, tener) ___ en la mano?", "answer": "tienes" },
+        { "id": "u57_4_4", "sentence": "4. –¿Qué (tú, ver) ___? –Un concurso.", "answer": "estás viendo" },
+        { "id": "u57_4_5", "sentence": "5. No (oír) ___ nada. Tengo que ir al médico.", "answer": "oigo" },
+        { "id": "u57_4_6", "sentence": "6. –Mira. Lola (llevar) ___ un vestido de lunares. –Sí, (parecer) ___ una bailaora.", "answer": "lleva, parece" },
+        { "id": "u57_4_7", "sentence": "7. –¿Qué (querer) ___ ustedes? –(Necesitar) ___ cucharas.", "answer": "quieren, Necesitamos" },
+        { "id": "u57_4_8", "sentence": "8. –¿De dónde (tú, venir) ___? (Tener) ___ mala cara. –Sí, (venir) ___ del dentista.", "answer": "vienes, Tienes, vengo" }
+      ]
+    }
+  ]
+}

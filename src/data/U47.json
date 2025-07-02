@@ -1,0 +1,79 @@
+{
+  "lessonId": "A2_U47",
+  "title": "Урок 47: Сравнение HAY и ESTAR",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение HAY и ESTAR",
+      "content": [
+        { "table": {
+            "headers": ["HAY", "ESTAR"],
+            "rows": [
+              [
+                "<strong>1. Используется для указания на существование кого-либо или чего-либо неизвестного (новая информация).</strong><br><i><strong>Hay</strong> un señor que quiere hablar con usted. (No sé quién es ese señor.)<br><strong>Hay</strong> un restaurante nuevo en el barrio. (No conozco ese restaurante.)</i>",
+                "<strong>1. Используется для указания местоположения кого-либо или чего-либо известного (ранее упомянутого).</strong><br><i><strong>Está</strong> en la recepción. (El señor del que le he hablado.)<br><strong>Está</strong> en la calle Apodaca. (El restaurante del que te he hablado.)</i>"
+              ],
+              [
+                "<strong>2. Используется для указания на существование чего-либо в неопределенном месте.</strong><br><i><strong>Hay</strong> un cine en la calle Monterrey.<br>En Madrid <strong>hay</strong> muchos museos.</i>",
+                "<strong>2. Используется для указания местоположения чего-либо уникального или конкретного.</strong><br><i>El cine América <strong>está</strong> en la calle Monterrey.<br>El Museo del Prado <strong>está</strong> en Madrid.</i>"
+              ],
+              [
+                "<strong>3. Используется для вопроса о существовании чего-либо неизвестного.</strong><br><i>–Perdone, ¿dónde <strong>hay</strong> una farmacia?<br>(No conozco ninguna farmacia en este barrio.)<br>¿Dónde <strong>hay</strong> un restaurante?</i>",
+                "<strong>3. Используется для вопроса о местоположении чего-либо известного.</strong><br><i>–Oye, Marta, ¿dónde <strong>está</strong> la farmacia de tu tía?<br>(Sé que tu tía tiene una farmacia.)<br>¿Dónde <strong>está</strong> Casa Pepe?</i>"
+              ]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br>Не используются `el/la/los/las`, `mi/tu/su/...` с `hay`.<br><i><strong>Hay</strong> el Museo del Táchira en la Hacienda Paranillo. → El Museo del Táchira <strong>está</strong> en la Hacienda Paranillo.<br><strong>Hay</strong> un museo en la Hacienda Paranillo O El Museo del Táchira <strong>está</strong> en la Hacienda Paranillo.<br>¿Dónde <strong>hay</strong> parada de autobús? → ¿Dónde <strong>hay</strong> una parada de autobús? O ¿Dónde <strong>está</strong> la parada de autobús más próxima?<br>–¿Dónde <strong>hay</strong> mis herramientas? → ¿Dónde <strong>están</strong> mis herramientas? (Tengo herramientas, pero no sé dónde están.)</i>" },
+        { "text": "<strong>Hay + singular o plural</strong><br><i><strong>Hay</strong> un supermercado en el pueblo.</i><br><strong>Singular + está<br>Plural + están</strong><br><i>El supermercado <strong>está</strong> en la plaza.<br>Los bares <strong>están</strong> en el centro.</i>" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 47.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u47_1_1", "sentence": "1. (Hay/Está) un paquete para ti. (Hay/Está) en tu habitación.", "options": ["Hay, Está", "Está, Hay"], "correctOption": "Hay, Está" },
+        { "id": "u47_1_2", "sentence": "2. ¿Cuántos alumnos (hay/están) en tu clase?", "options": ["hay", "están"], "correctOption": "hay" },
+        { "id": "u47_1_3", "sentence": "3. –¿(Hay/Está) pan? –Sí, (hay/está) en la despensa.", "options": ["Hay, está", "Está, hay"], "correctOption": "Hay, está" },
+        { "id": "u47_1_4", "sentence": "4. –¿(Hay/Está) algo para comer? –Sí, (hay/está) queso en la nevera.", "options": ["Hay, hay", "Está, está"], "correctOption": "Hay, hay" },
+        { "id": "u47_1_5", "sentence": "5. ¿Qué (hay/está) en esa caja?", "options": ["hay", "está"], "correctOption": "hay" },
+        { "id": "u47_1_6", "sentence": "6. ¿(Hay/Está) una estación de metro por aquí?", "options": ["Hay", "Está"], "correctOption": "Hay" },
+        { "id": "u47_1_7", "sentence": "7. La cafetería del hospital (hay/está) en el sótano.", "options": ["hay", "está"], "correctOption": "está" },
+        { "id": "u47_1_8", "sentence": "8. En este edificio (hay/están) dos oficinas. (Hay/Están) en el primer piso.", "options": ["hay, Están", "están, Hay"], "correctOption": "hay, Están" },
+        { "id": "u47_1_9", "sentence": "9. (Hay/Está) un ratón en mi habitación. (Hay/Está) debajo de la cama.", "options": ["Hay, Está", "Está, Hay"], "correctOption": "Hay, Está" },
+        { "id": "u47_1_10", "sentence": "10. (Hay/Están) muchos museos en Barcelona.", "options": ["Hay", "Están"], "correctOption": "Hay" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 47.2",
+      "content": [
+        { "text": "<strong>Упражнение 47.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 47.3: Дополните фразы с hay, está или están",
+      "tasks": [
+        { "id": "u47_3_1", "sentence": "1. ___ diez alumnos en mi clase.", "answer": "Hay" },
+        { "id": "u47_3_2", "sentence": "2. ¿Dónde ___ la casa de tu abuelo?", "answer": "está" },
+        { "id": "u47_3_3", "sentence": "3. ___ un cine nuevo en mi barrio. ___ en la calle de Bravo Murillo.", "answer": "Hay, Está" },
+        { "id": "u47_3_4", "sentence": "4. Perdone, ¿___ la calle 67 por aquí?", "answer": "está" },
+        { "id": "u47_3_5", "sentence": "5. Mis compañeros ___ en la cafetería.", "answer": "están" },
+        { "id": "u47_3_6", "sentence": "6. ¿Dónde ___ la parada del 61?", "answer": "está" },
+        { "id": "u47_3_7", "sentence": "7. ___ un departamento nuevo en la empresa. ___ en el piso cuarto.", "answer": "Hay, Está" },
+        { "id": "u47_3_8", "sentence": "8. ¿___ leche? –Sí, ___ un litro. ___ en la nevera.", "answer": "Hay, hay, Está" },
+        { "id": "u47_3_9", "sentence": "9. ¿Dónde ___ una parada de taxis?", "answer": "hay" },
+        { "id": "u47_3_10", "sentence": "10. En mi pueblo ___ dos piscinas. ___ en las afueras.", "answer": "hay, Están" },
+        { "id": "u47_3_11", "sentence": "11. ¿Dónde ___ la posada La Montaña?", "answer": "está" },
+        { "id": "u47_3_12", "sentence": "12. ¿___ una papelería por aquí?", "answer": "Hay" },
+        { "id": "u47_3_13", "sentence": "13. ___ unas cartas para usted. ___ en el salón.", "answer": "Hay, Están" },
+        { "id": "u47_3_14", "sentence": "14. En mi calle ___ un hotel. ___ cerca de mi casa.", "answer": "hay, Está" },
+        { "id": "u47_3_15", "sentence": "15. En Bogotá ___ un museo del oro.", "answer": "hay" },
+        { "id": "u47_3_16", "sentence": "16. ¿Dónde ___ mis llaves?", "answer": "están" },
+        { "id": "u47_3_17", "sentence": "17. En Lima ___ muchos edificios antiguos. ___ todos en el centro.", "answer": "hay, Están" }
+      ]
+    }
+  ]
+}

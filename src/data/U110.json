@@ -1,0 +1,31 @@
+{
+  "lessonId": "B1_U110",
+  "title": "Урок 110: Предлоги времени",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлоги времени",
+      "content": [
+        { "list": [
+          "<strong>a + horas</strong>: <i>Te espero <strong>a las cinco</strong>.</i>",
+          "<strong>por + partes del día</strong>: <i>Ahora estoy trabajando <strong>por las tardes</strong>.</i><br><strong>НО:</strong> por la / de noche, de día, de madrugada, a las siete de la mañana.",
+          "<strong>en + meses, estaciones y años</strong>: <i>Elisa y Armando se casan <strong>en</strong> enero.<br>Mi cumpleaños es <strong>en</strong> verano.<br>Colón llegó a América <strong>en</strong> 1492.</i>",
+          "<strong>en + momento</strong>: <i>En este momento no puedo atenderte.</i>",
+          "<strong>hasta</strong> indica el momento final de una acción o situación.<br><i>Estaré en casa <strong>hasta</strong> las ocho.</i>",
+          "<strong>desde</strong> indica el momento inicial de una acción o situación.<br><i>Amanda no me llama <strong>desde</strong> Navidad.</i>",
+          "<strong>de... a y desde... hasta...</strong> indican el momento inicial y final de una acción o situación.<br><i>Lucía vivió en Panamá <strong>de</strong> 1990 <strong>a</strong> 2001.<br>Natalia tiene clases <strong>desde</strong> las cinco <strong>hasta</strong> las siete.</i>",
+          "<strong>durante, antes de, después de</strong><br><i>Estuvieron hablando <strong>durante</strong> toda la película.<br><strong>Antes del</strong> partido. / <strong>Después del</strong> partido.</i>",
+          "<strong>dentro de + período de tiempo</strong> для обозначения будущего.<br><i>Te llamo <strong>dentro de</strong> dos días.<br>Vuelvo <strong>dentro de</strong> cinco minutos.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 110.1, 110.2, 110.3, 110.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены, так как они требуют анализа изображений или составления свободных фраз.</strong>" }
+      ]
+    }
+  ]
+}

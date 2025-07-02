@@ -1,0 +1,98 @@
+{
+  "lessonId": "A1_U3",
+  "title": "Урок 3: Единственное и множественное число (Singular, plural)",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование множественного числа (Formación del plural)",
+      "content": [
+        { "text": "<strong>Singular</strong> используется для обозначения одного предмета (niño, gato, mesa). <strong>Plural</strong> — для обозначения более чем одного (niños, gatos, mesas)." },
+        { "table": {
+            "headers": ["Окончание в ед.ч. (SINGULAR)", "Изменение (PLURAL)", "Примеры (EJEMPLOS)"],
+            "rows": [
+              ["-a, -e, -i, -o, -u", "+ S", "casa → casas, libro → libros"],
+              ["-á, -é, -ó, -ú", "+ S", "café → cafés, menú → menús"],
+              ["-consonante", "+ ES", "frijol → frijoles, reloj → relojes, mes → meses"],
+              ["-í, -y", "+ ES", "rubí → rubíes, ley → leyes"],
+              ["-as, -es, -is, -os, -us <br> (в словах из двух и более слогов)", "no cambian (не меняются)", "(el) lunes → (los) lunes, (el) paraguas → (los) paraguas"],
+              ["-z", "-z > C + ES", "actriz → actrices, pez → peces"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> autobús → autobuses, televisión → televisiones." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие случаи",
+      "content": [
+        { "text": "<strong>Некоторые существительные имеют только форму множественного числа:</strong>" },
+        { "table": {
+            "headers": ["SINGULAR", "PLURAL"],
+            "rows": [
+              ["(нет)", "tijeras"],
+              ["(нет)", "gafas"],
+              ["(нет)", "pantalones"],
+              ["(нет)", "vaqueros"]
+            ]
+          }
+        },
+        { "text": "<strong>Masculino + femenino = plural masculino</strong>" },
+        { "list": [
+          "padre + madre = <strong>padres</strong>. <i>Los padres de Miguel se llaman Antonio y Pilar.</i>",
+          "hijo(s) + hija(s) = <strong>hijos</strong>. <i>Julia tiene tres hijos.</i>",
+          "rey + reina = <strong>reyes</strong>. <i>Los reyes de España son Juan Carlos y Sofía.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 3.1: Напишите множественное число",
+      "tasks": [
+        { "id": "u3_1_1", "sentence": "1. mujer → ___", "answer": "mujeres" },
+        { "id": "u3_1_2", "sentence": "2. pez → ___", "answer": "peces" },
+        { "id": "u3_1_3", "sentence": "3. autobús → ___", "answer": "autobuses" },
+        { "id": "u3_1_4", "sentence": "4. actriz → ___", "answer": "actrices" },
+        { "id": "u3_1_5", "sentence": "5. habitación → ___", "answer": "habitaciones" },
+        { "id": "u3_1_6", "sentence": "6. mamá → ___", "answer": "mamás" },
+        { "id": "u3_1_7", "sentence": "7. pantalones → ___", "answer": "pantalones" },
+        { "id": "u3_1_8", "sentence": "8. hotel → ___", "answer": "hoteles" },
+        { "id": "u3_1_9", "sentence": "9. universidad → ___", "answer": "universidades" },
+        { "id": "u3_1_10", "sentence": "10. televisión → ___", "answer": "televisiones" },
+        { "id": "u3_1_11", "sentence": "11. niño → ___", "answer": "niños" },
+        { "id": "u3_1_12", "sentence": "12. hermana → ___", "answer": "hermanas" },
+        { "id": "u3_1_13", "sentence": "13. león → ___", "answer": "leones" },
+        { "id": "u3_1_14", "sentence": "14. día → ___", "answer": "días" },
+        { "id": "u3_1_15", "sentence": "15. clase → ___", "answer": "clases" },
+        { "id": "u3_1_16", "sentence": "16. foto → ___", "answer": "fotos" },
+        { "id": "u3_1_17", "sentence": "17. banana → ___", "answer": "bananas" },
+        { "id": "u3_1_18", "sentence": "18. jueves → ___", "answer": "jueves" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 3.2",
+      "content": [
+        { "text": "<strong>Упражнение 3.2 пропущено, так как оно полностью основано на анализе изображения.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 3.3: Замените подчеркнутые слова как в примере",
+      "tasks": [
+        { "id": "u3_3_1", "sentence": "1. Amalia tiene <u>un hijo y dos hijas</u>. → Amalia tiene ___.", "answer": "tres hijos" },
+        { "id": "u3_3_2", "sentence": "2. <u>El abuelo y la abuela</u> de Marta viven en Caracas. → ___ de Marta viven en Caracas.", "answer": "Los abuelos" },
+        { "id": "u3_3_3", "sentence": "3. <u>Un amigo y una amiga</u> míos están en Chile. → ___ míos están en Chile.", "answer": "Dos amigos" },
+        { "id": "u3_3_4", "sentence": "4. <u>Mi hermano y mi hermana</u> son médicos. → ___ son médicos.", "answer": "Mis hermanos" },
+        { "id": "u3_3_5", "sentence": "5. <u>Mi padre y mi madre</u> son muy altos. → ___ son muy altos.", "answer": "Mis padres" },
+        { "id": "u3_3_6", "sentence": "6. <u>El rey y la reina</u> de España viven en Madrid. → ___ de España viven en Madrid.", "answer": "Los reyes" },
+        { "id": "u3_3_7", "sentence": "7. En mi clase hay <u>tres alumnos y cinco alumnas</u>. → En mi clase hay ___.", "answer": "ocho alumnos" },
+        { "id": "u3_3_8", "sentence": "8. En mi escuela hay <u>un profesor y dos profesoras</u>. → En mi escuela hay ___.", "answer": "tres profesores" },
+        { "id": "u3_3_9", "sentence": "9. He mandado un correo electrónico a <u>mi tío y a mi tía</u>. → He mandado un correo electrónico a ___.", "answer": "mis tíos" },
+        { "id": "u3_3_10", "sentence": "10. Es una compañía de ballet con <u>un bailarín y dos bailarinas</u>. → Es una compañía de ballet con ___.", "answer": "tres bailarines" }
+      ]
+    }
+  ]
+}

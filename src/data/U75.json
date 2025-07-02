@@ -1,0 +1,59 @@
+{
+  "lessonId": "B1_U75",
+  "title": "Урок 75: Императив: неправильные глаголы (1)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в императиве",
+      "content": [
+        { "text": "<strong>e → i</strong><br><i>Otros: conseguir, corregir, elegir, freír, medir, reír, repetir, seguir, servir, sonreír.</i>" },
+        { "table": { "headers": [], "rows": [["", "pedir"], ["(tú)", "p<strong>i</strong>de / no p<strong>i</strong>das"], ["(usted)", "p<strong>i</strong>da / no p<strong>i</strong>da"], ["(vosotros, -as)", "pedid / no pidáis"], ["(ustedes)", "p<strong>i</strong>dan / no p<strong>i</strong>dan"]] } },
+        { "text": "<strong>ATENCIÓN:</strong><br>- глаголы на -gir: elegir → elig<strong>e</strong>, elij<strong>a</strong>, eleg<strong>id</strong>, elij<strong>an</strong>; no elij<strong>as</strong>, no elij<strong>a</strong>, no elij<strong>áis</strong>, no elij<strong>an</strong><br>- глаголы на -guir: seguir → sig<strong>ue</strong>, sig<strong>a</strong>, segu<strong>id</strong>, sig<strong>an</strong>; no sig<strong>as</strong>, no sig<strong>a</strong>, no sig<strong>áis</strong>, no sig<strong>an</strong>" },
+        { "text": "<strong>e → ie</strong><br><i>Otros: calentar, despertar, empezar, encender, fregar, pensar, regar, defender, entender</i>" },
+        { "table": { "headers": [], "rows": [["", "cerrar", "encender"], ["(tú)", "c<strong>ie</strong>rra / no c<strong>ie</strong>rres", "enc<strong>ie</strong>nde / no enc<strong>ie</strong>ndas"], ["(usted)", "c<strong>ie</strong>rre / no c<strong>ie</strong>rra", "enc<strong>ie</strong>nda / no enc<strong>ie</strong>nda"], ["(vosotros, -as)", "cerrad / no cerréis", "encended / no encendáis"], ["(ustedes)", "c<strong>ie</strong>rren / no c<strong>ie</strong>rren", "enc<strong>ie</strong>ndan / no enc<strong>ie</strong>ndan"]] } },
+        { "text": "<strong>ATENCIÓN:</strong> mentir: miente, mienta, mentid, mientan; no mientas, no mienta, no mintáis, no mientan." },
+        { "text": "<strong>o, u → ue</strong><br><i>Otros: comprobar, contar, encontrar, recordar, volar, morder, mover</i>" },
+        { "table": { "headers": [], "rows": [["", "soñar", "mover", "jugar"], ["(tú)", "s<strong>ue</strong>ña / no s<strong>ue</strong>ñes", "m<strong>ue</strong>ve / no m<strong>ue</strong>vas", "j<strong>ue</strong>ga / no j<strong>ue</strong>gues"], ["(usted)", "s<strong>ue</strong>ñe / no s<strong>ue</strong>ñe", "m<strong>ue</strong>va / no m<strong>ue</strong>va", "j<strong>ue</strong>gue / no j<strong>ue</strong>gue"], ["(vosotros, -as)", "soñad / no soñéis", "moved / no mováis", "jugad / no juguéis"], ["(ustedes)", "s<strong>ue</strong>ñen / no s<strong>ue</strong>ñen", "m<strong>ue</strong>van / no m<strong>ue</strong>van", "j<strong>ue</strong>guen / no j<strong>ue</strong>guen"]] } },
+        { "text": "<strong>ATENCIÓN:</strong> dormir: duerme, duerma, dormid, duerman; no duermas, no duerma, no durmáis, no duerman" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 75.1: Дополните записку с инструкциями",
+      "tasks": [
+        { "id": "u75_1_1", "sentence": "1. (cerrar) ___ todas las ventanas cuando salgas.", "answer": "Cierra" },
+        { "id": "u75_1_2", "sentence": "2. (regar) ___ las plantas todos los días; una vez a la semana es suficiente.", "answer": "Riega" },
+        { "id": "u75_1_3", "sentence": "3. (cerrar) ___ la llave del gas cuando acabes de cocinar.", "answer": "Cierra" },
+        { "id": "u75_1_4", "sentence": "4. (conectar) ___ los platos en el lavavajillas.", "answer": "Conecta" },
+        { "id": "u75_1_5", "sentence": "5. (conectar) ___ la alarma cuando salgas.", "answer": "Conecta" },
+        { "id": "u75_1_6", "sentence": "6. (encender) ___ el calentador una hora antes de ducharte.", "answer": "Enciende" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 75.2",
+      "content": [
+        { "text": "<strong>Упражнение 75.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 75.3: Что вы скажете в каждой ситуации?",
+      "tasks": [
+        { "id": "u75_3_1", "sentence": "1. (a su familia) (Empezar) ___ a comer. Yo llegaré un poco tarde.", "answers": ["Empezad"] },
+        { "id": "u75_3_2", "sentence": "2. (a un amigo) (Elegir) ___ un libro. Te lo regalo.", "answers": ["Elige"] },
+        { "id": "u75_3_3", "sentence": "3. (a un alumno) (Contar) ___ hasta veinte en español.", "answers": ["Cuenta"] },
+        { "id": "u75_3_4", "sentence": "4. (a alguien de su familia) (Encender) ___ la luz. Está muy oscuro.", "answers": ["Enciende"] },
+        { "id": "u75_3_5", "sentence": "5. (a un camarero) (No, calentar) ___ la leche. La quiero fría.", "answers": ["No caliente"] },
+        { "id": "u75_3_6", "sentence": "6. (a unos amigos) (Sonreír) ___. Os voy a hacer una foto.", "answers": ["Sonreíd"] },
+        { "id": "u75_3_7", "sentence": "7. (a unos niños) (no, mentir) ___ a los mayores. Decir mentiras no está bien.", "answers": ["No mintáis"] },
+        { "id": "u75_3_8", "sentence": "8. (a unos alumnos) (Corregir) ___ el ejercicio.", "answers": ["Corregid"] },
+        { "id": "u75_3_9", "sentence": "9. (a un amigo) (No, comprobar) ___ las respuestas.", "answers": ["No compruebes"] },
+        { "id": "u75_3_10", "sentence": "10. (a un amigo) (No, probar) ___ el libro y (escuchar) ___.", "answers": ["No pruebes", "escucha"] },
+        { "id": "u75_3_11", "sentence": "11. (a un amigo) (Freír) ___ más carne, por favor. Tengo mucha hambre.", "answers": ["Fríe"] },
+        { "id": "u75_3_12", "sentence": "12. (a un desconocido) (Cruzar) ___ esta calle y (seguir) ___ todo recto.", "answers": ["Cruce", "siga"] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lessonId": "A2_U32",
+  "title": "Урок 32: cuándo, dónde... (Вопросительные местоимения 3)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Вопросительные слова",
+      "content": [
+        { "text": "<strong>dónde, cuándo, cuánto, cómo, por qué, para qué</strong> — это вопросительные слова." },
+        { "text": "<strong>- `dónde` используется, чтобы спросить о месте.</strong><br><i>–¿<strong>Dónde</strong> vive Graciela? –En Rosario.</i><br><i>–¿<strong>Por dónde</strong> pasa el Guadalquivir? –Por Sevilla.</i>" },
+        { "text": "<strong>- `cuándo` используется, чтобы спросить о моменте совершения действия.</strong><br><i>–¿<strong>Cuándo</strong> se casa Sebastián? –El mes que viene.</i><br><i>–¿<strong>Desde cuándo</strong> estudias español? –Desde hace un año.</i>" },
+        { "text": "<strong>- `cuánto, -a, -os, -as` используется, чтобы спросить о количестве.</strong><br><i>–¿<strong>Cuántos</strong> años tiene Rosario? –Doce.</i><br><i>–¿<strong>Con cuántos</strong> amigos vas?</i>" },
+        { "text": "<strong>- `cómo` используется, чтобы спросить:</strong><br>   - об образе действия: <i>¿<strong>Cómo</strong> conduce Alberto? –Bastante mal.</i><br>   - о состоянии или самочувствии: <i>¿<strong>Cómo</strong> está la madre de Julia? –Ya está mejor.</i><br>   - о характеристиках: <i>¿<strong>Cómo</strong> son los padres de Aurora? –Son muy simpáticos.</i>" },
+        { "text": "<strong>- `por qué` используется, чтобы спросить о причине или мотиве.</strong><br><i>–¿<strong>Por qué</strong> no viniste ayer? –Estaba un poco cansada.</i>" },
+        { "text": "<strong>- `para qué` используется, чтобы спросить о цели или финальном назначении.</strong><br><i>–¿<strong>Para qué</strong> quieres la plancha? –Quiero plancharme una camisa.</i>" },
+        { "text": "<strong>ATENCIÓN:</strong> interrogativo (dónde, cuándo...) + verbo + sujeto<br><i>¿<strong>Dónde</strong> vive Graciela? / ¿<strong>Por qué</strong> se ríe Juanjo?</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 32.1: Составьте вопросы из слов",
+      "tasks": [
+        { "id": "u32_1_1", "sentence": "1. ¿en Santander / cuándo / hasta / vais a estar? → ___", "answer": "¿Hasta cuándo vais a estar en Santander?" },
+        { "id": "u32_1_2", "sentence": "2. ¿a Brasil / cómo / Javier / fue? → ___", "answer": "¿Cómo fue Javier a Brasil?" },
+        { "id": "u32_1_3", "sentence": "3. ¿los niños / lloran / por qué? → ___", "answer": "¿Por qué lloran los niños?" },
+        { "id": "u32_1_4", "sentence": "4. ¿itrabajar / Sebastián / dónde? → ___", "answer": "¿Dónde trabaja Sebastián?" },
+        { "id": "u32_1_5", "sentence": "5. ¿este botón / para qué / sirve? → ___", "answer": "¿Para qué sirve este botón?" },
+        { "id": "u32_1_6", "sentence": "6. ¿dónde / Peter / de / es? → ___", "answer": "¿De dónde es Peter?" },
+        { "id": "u32_1_7", "sentence": "7. ¿la comida / para / es / cuántos? → ___", "answer": "¿Para cuántos es la comida?" },
+        { "id": "u32_1_8", "sentence": "8. ¿están / los enfermos / cómo? → ___", "answer": "¿Cómo están los enfermos?" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 32.2: Сформулируйте вопросы к выделенной информации",
+      "tasks": [
+        { "id": "u32_2_1", "sentence": "1. –<u>El año pasado</u> estuve en Antigua. –¿___ estuviste en Antigua?", "answer": "Cuándo" },
+        { "id": "u32_2_2", "sentence": "2. –El domingo vamos a ir <u>al campo</u>. –¿___ vais a ir el domingo?", "answer": "Adónde" },
+        { "id": "u32_2_3", "sentence": "3. –El novio de Carla es <u>muy agradable</u>. –¿___ es el novio de Carla?", "answer": "Cómo" },
+        { "id": "u32_2_4", "sentence": "4. –Necesito <u>veinte</u> pesos. –¿___ pesos necesitas?", "answer": "Cuántos" },
+        { "id": "u32_2_5", "sentence": "5. –Normalmente estudio <u>por la tarde</u>. –¿___ estudias?", "answer": "Cuándo" },
+        { "id": "u32_2_6", "sentence": "6. –Ramón está <u>en la playa</u>. –¿___ está Ramón?", "answer": "Dónde" },
+        { "id": "u32_2_7", "sentence": "7. –Necesito un cuchillo <u>para la carne</u>. –¿___ necesitas un cuchillo?", "answer": "Para qué" },
+        { "id": "u32_2_8", "sentence": "8. –No pude venir anoche. <u>Estaba cansado</u>. –¿___ no pudiste venir anoche?", "answer": "Por qué" },
+        { "id": "u32_2_9", "sentence": "9. –Vivo en Quito <u>desde 1999</u>. –¿___ vives en Quito?", "answer": "Desde cuándo" },
+        { "id": "u32_2_10", "sentence": "10. –Martina es <u>de Bolivia</u>. –¿___ es Martina?", "answer": "De dónde" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 32.3: Дополните интервью",
+      "tasks": [
+        { "id": "u32_3_1", "sentence": "1. –¿___ vive actualmente? –En Barcelona.", "answer": "Dónde" },
+        { "id": "u32_3_2", "sentence": "2. –¿___ vive allí? –Me gusta la ciudad.", "answer": "Por qué" },
+        { "id": "u32_3_3", "sentence": "3. –¿___ está aprendiendo español? –Quiero trabajar en España.", "answer": "Por qué" },
+        { "id": "u32_3_4", "sentence": "4. –¿___ empezó a estudiarlo? –Hace seis meses.", "answer": "Cuándo" },
+        { "id": "u32_3_5", "sentence": "5. –¿___ empieza el rodaje de la próxima película? –Dentro de una semana.", "answer": "Cuándo" },
+        { "id": "u32_3_6", "sentence": "6. –¿___ va a ser? –En Brasil y Paraguay.", "answer": "Dónde" },
+        { "id": "u32_3_7", "sentence": "7. –¿___ se va a titular la película? –Ruta peligrosa.", "answer": "Cómo" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 32.4: Дополните с cuánto, cuánta, cuántos или cuántas",
+      "tasks": [
+        { "id": "u32_4_1", "sentence": "1. –¿___ años tienes? –Veinticuatro.", "answer": "Cuántos" },
+        { "id": "u32_4_2", "sentence": "2. –¿___ tiempo necesitas para hacer la comida? –Una hora.", "answer": "Cuánto" },
+        { "id": "u32_4_3", "sentence": "3. –En mi clase hay muy pocas chicas. –¿___ hay?", "answer": "Cuántas" },
+        { "id": "u32_4_4", "sentence": "4. –¿___ se tarda en hacer el test? –Media hora.", "answer": "Cuánto" },
+        { "id": "u32_4_5", "sentence": "5. –___ gente ha venido a la conferencia? –Unas treinta personas.", "answer": "Cuánta" }
+      ]
+    }
+  ]
+}

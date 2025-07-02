@@ -1,0 +1,24 @@
+{
+  "lessonId": "B1_U116",
+  "title": "Урок 116: Союзы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Союзы",
+      "content": [
+        { "text": "<strong>`Y`</strong> и <strong>`pero`</strong> — это союзы. Они служат для соединения и связи фраз или частей фраз." },
+        { "text": "<strong>`y, ni` соединяют однородные элементы или идеи.</strong><br>- `y` и утвердительные идеи: <i>Me gusta la carne. Me gusta el pescado. → Me gustan la carne y el pescado.</i><br>- `y` → `e`, если следующее слово начинается на `i-`/`hi-`: <i>Sara e Isabel son de Sandra.</i><br>- `ni` и отрицательные идеи: <i>No me gusta el té. No me gusta el café. → No me gusta el té ni el café.</i>" },
+        { "text": "<strong>`o` соединяет альтернативные или приблизительные варианты.</strong><br><i>¿Quieres fruta o un dulce?<br>- `o` → `u`, если следующее слово начинается на `o-`/`ho-`: No sé si siento amor u odio.</i>" },
+        { "text": "<strong>`pero, sino` соединяют противоположные идеи.</strong><br>- `pero`: <i>Enrique es inteligente. Enrique es perezoso. → Enrique es inteligente, pero perezoso.</i><br>- `sino` используется после отрицания для исправления или уточнения: <i>Adriana no es argentina, sino peruana.<br>No solo no vino, sino que tampoco llamó.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 116.1, 116.2, 116.3, 116.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены.</strong>" }
+      ]
+    }
+  ]
+}

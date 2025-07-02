@@ -1,0 +1,24 @@
+{
+  "lessonId": "B1_U108",
+  "title": "Урок 108: Наречия отрицания",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия отрицания",
+      "content": [
+        { "text": "<strong>No, nunca</strong> и <strong>jamás</strong> — это наречия отрицания. Они используются для отрицания действия или ситуации." },
+        { "text": "<strong>`no` - самое распространенное наречие отрицания.</strong><br><i>–¿Vas a venir mañana? –<strong>No</strong>, no puedo. Lo siento.<br>–¿Estás cansado? –<strong>No</strong>.</i>" },
+        { "text": "<strong>`nunca`, `jamás` - никогда.</strong><br><i>`Nunca`, `jamás` могут использоваться отдельно в предложении или с `no`.<br><strong>Nunca</strong> se levantan antes de las nueve. / No se levantan <strong>nunca</strong> antes de las nueve.</i>" },
+        { "text": "<strong>`tampoco` - тоже не.</strong><br><i>–Alberto no quiere ir a la playa. –Y tampoco quiere ir a la piscina.<br>–No ha venido Carlos. –Y no ha venido Lidia <strong>tampoco</strong>. / Y <strong>tampoco</strong> ha venido Lidia.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 108.1, 108.2, 108.3, 108.4",
+      "content": [
+        { "text": "<strong>Упражнения этого урока пропущены, так как они требуют составления свободных отрицательных предложений, что сложно реализовать в текущем формате.</strong>" }
+      ]
+    }
+  ]
+}

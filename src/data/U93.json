@@ -1,0 +1,79 @@
+{
+  "lessonId": "B1_U93",
+  "title": "Урок 93: Инфинитив",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Что такое инфинитив?",
+      "content": [
+        { "text": "<strong>Conducir</strong> и <strong>descansar</strong> — это формы инфинитива. Инфинитив — это форма глагола, которая дается в словарях. Он выражает значение глагола." },
+        { "list": [
+          "<i>Vivir v. Tener vida / comer v. Tomar alimento</i>"
+        ]},
+        { "text": "Инфинитивы оканчиваются на <strong>-ar, -er, -ir/ír</strong>." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование инфинитива",
+      "content": [
+        { "text": "<strong>1. Может использоваться как существительное мужского рода в ед.ч.</strong><br><i>El <strong>tabaco</strong> es malo. = <strong>Fumar</strong> es malo.<br>Las <strong>compras</strong> son aburridas. = <strong>Comprar</strong> es aburrido.</i>" },
+        { "text": "<strong>2. Инфинитив — это форма многих глаголов. Иногда два глагола могут идти вместе, один за другим.</strong><br><i>verbo + infinitivo: Por fin <strong>he conseguido terminar</strong> el proyecto.</i><br><i>verbo + a/de/con/de/en... + infinitivo: De pequeña, <strong>soñaba con ser</strong> bailarina.</i>" },
+        { "text": "<strong>- algunos verbos + infinitivo:</strong> conseguir, dejar (=permitir), esperar, hacer (=obligar), necesitar, oír, poder, preferir, querer, saber, ver...<br><i>No nos <strong>dejan usar</strong> el móvil en clase. <strong>Necesitamos cambiar</strong> dinero.</i>" },
+        { "text": "<strong>- algunos verbos + preposición + infinitivo:</strong><br><strong>a + infinitivo:</strong> aprender, empezar, enseñar, ir, salir, venir...<br><i>Estoy <strong>aprendiendo a conducir</strong>. ¿<strong>Salimos a dar</strong> una vuelta?</i><br><strong>de + infinitivo:</strong> acordarse, encargarse, olvidarse, tratar...<br><i>Me <strong>olvidé de despertarte</strong>.</i><br><strong>en + infinitivo:</strong> dudar, insistir, interesarse...<br><i>Si tienes algún problema, no <strong>dudes en llamarme</strong>.</i><br><strong>con + infinitivo:</strong> amenazar, soñar...<br><i>Nos <strong>ha amenazado con contarle</strong> todo a Teresa.</i>" },
+        { "text": "<strong>3. Может использоваться вместо императива для дачи инструкций и запретов, обычно в письменных текстах.</strong><br><i>No <strong>entrar</strong>. (No entren.)<br><strong>instrucciones:</strong> asar dos pimientos y pelarlos...</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 93.1: Замените подчеркнутые слова инфинитивами",
+      "tasks": [
+        { "id": "u93_1_1", "sentence": "1. <u>Las mentiras</u> pueden ser dañinas. → ___ puede ser dañino.", "answer": "Mentir" },
+        { "id": "u93_1_2", "sentence": "2. <u>La vida</u> es una lucha. → ___ es una lucha.", "answer": "Vivir" },
+        { "id": "u93_1_3", "sentence": "3. <u>Los viajes</u> en avión son cansados. → ___ en avión es cansado.", "answer": "Viajar" },
+        { "id": "u93_1_4", "sentence": "4. <u>La confianza</u> en los amigos da tranquilidad. → ___ en los amigos da tranquilidad.", "answer": "Confiar" },
+        { "id": "u93_1_5", "sentence": "5. Me gusta <u>el baile</u>. → Me gusta ___.", "answer": "bailar" },
+        { "id": "u93_1_6", "sentence": "6. A veces son necesarios <u>los cambios</u>. → A veces es necesario ___.", "answer": "cambiar" },
+        { "id": "u93_1_7", "sentence": "7. Nos encantan <u>los juegos</u>. → Nos encanta ___.", "answer": "jugar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 93.2: Объедините фразы",
+      "tasks": [
+        { "id": "u93_2_1", "sentence": "1. He hablado con Raquel. Lo he conseguido. → He conseguido ___ con Raquel.", "answer": "hablar" },
+        { "id": "u93_2_2", "sentence": "2. Regresasteis tarde. Os oímos. → ___", "answer": "Os oímos regresar tarde" },
+        { "id": "u93_2_3", "sentence": "3. No digo nada. Lo prefiero. → ___", "answer": "Prefiero no decir nada" },
+        { "id": "u93_2_4", "sentence": "4. No salgo por la noche. Mis padres no me dejan. → ___", "answer": "Mis padres no me dejan salir por la noche" },
+        { "id": "u93_2_5", "sentence": "5. No como carne de cerdo. No puedo. → ___", "answer": "No puedo comer carne de cerdo" },
+        { "id": "u93_2_6", "sentence": "6. Bebo mucha agua. Lo necesito. → ___", "answer": "Necesito beber mucha agua" },
+        { "id": "u93_2_7", "sentence": "7. No molesto. Espero. → ___", "answer": "Espero no molestar" },
+        { "id": "u93_2_8", "sentence": "8. Apagaste la luz. Te vi. → ___", "answer": "Te vi apagar la luz" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 93.3: Дополните фразы с a, de, en, con, если необходимо",
+      "tasks": [
+        { "id": "u93_3_1", "sentence": "1. ¿Cuándo empiezas ___ estudiar informática?", "answer": "a" },
+        { "id": "u93_3_2", "sentence": "2. ¿Quieren ___ tomar algo?", "answer": "" },
+        { "id": "u93_3_3", "sentence": "3. Julia y Arturo vienen ___ estar esta noche.", "answer": "de" },
+        { "id": "u93_3_4", "sentence": "4. ¿Quién se encarga ___ las entradas?", "answer": "de pagar" },
+        { "id": "u93_3_5", "sentence": "5. Los padres de Arturo le hacen ___ en casa a las diez.", "answer": "estar" },
+        { "id": "u93_3_6", "sentence": "6. Pepe insiste ___ el la comida.", "answer": "en pagar" },
+        { "id": "u93_3_7", "sentence": "7. Cuando era pequeño, Tomás soñaba ___ bombero.", "answer": "con ser" },
+        { "id": "u93_3_8", "sentence": "8. ¿Por qué no me enseñas ___?", "answer": "a pescar" },
+        { "id": "u93_3_9", "sentence": "9. ¿Saben ___ español?", "answer": "hablar" },
+        { "id": "u93_3_10", "sentence": "10. Fidel va ___ los domingos.", "answer": "a nadar" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 93.4",
+      "content": [
+        { "text": "<strong>Упражнение 93.4 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

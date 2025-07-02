@@ -1,0 +1,60 @@
+{
+  "lessonId": "B1_U120",
+  "title": "Урок 120: Уступительные придаточные",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Уступительные придаточные",
+      "content": [
+        { "text": "`Aunque llueva mañana` и `a pesar de que no estudia` — это уступительные придаточные. Они сообщают о препятствии или возражении, реальном или возможном, для действия, которое, тем не менее, не мешает его реализации." },
+        { "table": {
+            "headers": ["Уступительные придаточные", ""],
+            "rows": [
+              ["aunque<br>a pesar de que<br>por más que<br>por mucho que", "+ indicativo<br>+ subjuntivo", "<strong>Aunque</strong> Clara es muy simpática, no tiene muchos amigos.<br><strong>A pesar de que</strong> trabajes mucho, no te subirán el sueldo."]
+            ]
+          }
+        },
+        { "text": "<strong>- `indicativo` используется, когда препятствие или возражение реально.</strong><br><i>(Paco) <strong>Aunque</strong> Ronaldo <strong>juega</strong> (Sé que juega) muy bien, no me gusta.<br><strong>Aunque</strong> Alicia no me <strong>quiere</strong>, yo la <strong>quiero</strong> a ella.</i>" },
+        { "text": "<strong>- `subjuntivo` используется, когда препятствие или возражение гипотетическое.</strong><br><i><strong>Aunque corras</strong> mucho, no me <strong>ganarás</strong>.<br><strong>Aunque</strong> Alicia no me <strong>quiera</strong>, pero no lo sé o no lo considero cierto.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 120.1: Соедините две части предложений",
+      "tasks": [
+        { "id": "u120_1_1", "sentence": "1. Tengo que trabajar → ___", "answer": "a. aunque no os apetezca mucho" },
+        { "id": "u120_1_2", "sentence": "2. Elena tiene que trabajar → ___", "answer": "b. por mucho que ahorre" },
+        { "id": "u120_1_3", "sentence": "3. Tenemos que comer patatas → ___", "answer": "c. aunque comieras poco" },
+        { "id": "u120_1_4", "sentence": "4. Tendréis que comer la sopa → ___", "answer": "d. a pesar de no tener muchas ganas" },
+        { "id": "u120_1_5", "sentence": "5. No me podré comprar esa casa → ___", "answer": "e. a pesar de que no tiene muchas ganas" },
+        { "id": "u120_1_6", "sentence": "6. No me puedo comprar un coche → ___", "answer": "f. aunque comas poco" },
+        { "id": "u120_1_7", "sentence": "7. Algo te sentó mal → ___", "answer": "g. aunque no nos apetece mucho" },
+        { "id": "u120_1_8", "sentence": "8. Esta comida te puede sentar mal → ___", "answer": "h. por mucho que ahorro" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 120.2: Дополните фразы глаголами в правильной форме",
+      "tasks": [
+        { "id": "u120_2_1", "sentence": "1. Aunque me (llamar) ___ Roberto, no le contestaré.", "answer": "llame" },
+        { "id": "u120_2_2", "sentence": "2. A pesar de (trabajar) ___ mucho, ganamos poco.", "answer": "trabajar" },
+        { "id": "u120_2_3", "sentence": "3. Por mucho que (correr) ___, llegaréis tarde.", "answer": "corráis" },
+        { "id": "u120_2_4", "sentence": "4. Aunque hoy (levantarse) ___ tarde, tengo sueño.", "answer": "me he levantado" },
+        { "id": "u120_2_5", "sentence": "5. A pesar de (jugar) ___ bien, perdieron el partido.", "answer": "jugar" },
+        { "id": "u120_2_6", "sentence": "6. Tengo frío a pesar de que (hacer) ___ sol.", "answer": "hace" },
+        { "id": "u120_2_7", "sentence": "7. Aunque normalmente (ir) ___ andando, hoy prefiero ir en autobús.", "answer": "voy" },
+        { "id": "u120_2_8", "sentence": "8. Por más que (gritar) ___, no les van a oír.", "answer": "gritéis" },
+        { "id": "u120_2_9", "sentence": "9. Aunque (hacer) ___ muy buen tiempo, no pudimos bañarnos.", "answer": "hacía" },
+        { "id": "u120_2_10", "sentence": "10. A pesar de que (llover) ___ intensamente, tuvimos que jugar el partido.", "answer": "llovía" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 120.3 и 120.4",
+      "content": [
+        { "text": "<strong>Упражнения 120.3 и 120.4 пропущены, так как они требуют свободного составления предложений.</strong>" }
+      ]
+    }
+  ]
+}

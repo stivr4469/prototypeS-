@@ -1,0 +1,84 @@
+{
+  "lessonId": "B1_U79",
+  "title": "Урок 79: Presente de subjuntivo: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы Presente de subjuntivo",
+      "content": [
+        { "text": "<strong>Trabajes, comáis</strong> и <strong>esté</strong> — это формы настоящего времени сослагательного наклонения (presente de subjuntivo)." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(yo)", "trabaj<strong>e</strong>", "com<strong>a</strong>", "viv<strong>a</strong>"],
+              ["(tú)", "trabaj<strong>es</strong>", "com<strong>as</strong>", "viv<strong>as</strong>"],
+              ["(usted)", "trabaj<strong>e</strong>", "com<strong>a</strong>", "viv<strong>a</strong>"],
+              ["(él, ella)", "trabaj<strong>e</strong>", "com<strong>a</strong>", "viv<strong>a</strong>"],
+              ["(nosotros, -as)", "trabaj<strong>emos</strong>", "com<strong>amos</strong>", "viv<strong>amos</strong>"],
+              ["(vosotros, -as)", "trabaj<strong>éis</strong>", "com<strong>áis</strong>", "viv<strong>áis</strong>"],
+              ["(ustedes)", "trabaj<strong>en</strong>", "com<strong>an</strong>", "viv<strong>an</strong>"],
+              ["(ellos, -as)", "trabaj<strong>en</strong>", "com<strong>an</strong>", "viv<strong>an</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN (неправильные):</strong><br><strong>dar:</strong> dé, des, dé, demos, deis, den<br><strong>estar:</strong> esté, estés, esté, estemos, estéis, estén<br><strong>ser:</strong> sea, seas, sea, seamos, seáis, sean<br><strong>ver:</strong> vea, veas, vea, veamos, veáis, vean" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Presente de subjuntivo",
+      "content": [
+        { "text": "<strong>1. Может относиться к настоящему или будущему.</strong><br><i>Presente: Puede que Sonia <strong>esté</strong> ahora en casa.<br>Futuro: Mi padre quiere que le <strong>ayude</strong> mañana.</i>" },
+        { "text": "<strong>2. Используется с глаголами и конструкциями, выражающими желания.</strong><br><i>¿Puedes venir a Sonia? Quiero que me <strong>ayudes</strong>.<br>Juan ha tenido un accidente. ¡Ojalá no <strong>sea</strong> grave!</i>" },
+        { "text": "<strong>3. Используется с глаголами и выражениями, выражающими вероятность.</strong><br><i>Es probable que el Boca Juniors <strong>gane</strong> la copa este año.<br>–¿Te ha llamado Adela? –No. Quizás me <strong>llame</strong> esta noche.</i>" },
+        { "text": "<strong>4. Используется с глаголами и выражениями, выражающими различные чувства (радость, досада, удивление, страх...).</strong><br><i>Me gusta que <strong>seáis</strong> educados, niños.<br>Tengo miedo de que me <strong>echen</strong> del trabajo.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 79.1: Дополните фразы с Presente de subjuntivo",
+      "tasks": [
+        { "id": "u79_1_1", "sentence": "1. ¿Tienes un momento, Carlos? Quiero que me (tú, ayudar) ___.", "answer": "ayudes" },
+        { "id": "u79_1_2", "sentence": "2. Ha llamado el Sr. Cabrera. Quiere que (nosotros, trabajar) ___ el sábado.", "answer": "trabajemos" },
+        { "id": "u79_1_3", "sentence": "3. Rosa quiere que le (yo, prestar) ___ el coche el domingo.", "answer": "preste" },
+        { "id": "u79_1_4", "sentence": "4. No me gusta que (tú, estar) ___ triste, Pedro.", "answer": "estés" },
+        { "id": "u79_1_5", "sentence": "5. Espero que me (ustedes, escribir) ___ cuando lleguen a Santo Domingo.", "answer": "escriban" },
+        { "id": "u79_1_6", "sentence": "6. Ha llamado Lolita. Quiere que (nosotros, comer) ___ fuera el domingo.", "answer": "comamos" },
+        { "id": "u79_1_7", "sentence": "7. Me gusta que la gente (leer) ___.", "answer": "lea" },
+        { "id": "u79_1_8", "sentence": "8. A Marisa no le gusta que Gregorio la (llamar) ___ todos los días.", "answer": "llame" },
+        { "id": "u79_1_9", "sentence": "9. ¡Ojalá (vosotros, ser) ___ felices!", "answer": "seáis" },
+        { "id": "u79_1_10", "sentence": "10. Espero que (llegar) ___ pronto tus amigos. Estoy cansada de esperar.", "answer": "lleguen" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 79.2: Дополните ответы с Presente de subjuntivo",
+      "tasks": [
+        { "id": "u79_2_1", "sentence": "1. –¿Dónde está Belén? –No sé. Puede que ___ en su despacho.", "answer": "esté" },
+        { "id": "u79_2_2", "sentence": "2. –¿Has visto a Juan? –No, pero quizás lo ___ mañana.", "answer": "vea" },
+        { "id": "u79_2_3", "sentence": "3. –¿Han llamado tus padres? –No. Puede que ___ hoy.", "answer": "llamen" },
+        { "id": "u79_2_4", "sentence": "4. –¿Qué vas a estudiar, Graciela? –No sé todavía. Es probable que ___ Derecho.", "answer": "estudie" },
+        { "id": "u79_2_5", "sentence": "5. –¿Abren hoy los bancos? –No. Puede que no ___ hoy. Es sábado.", "answer": "abran" },
+        { "id": "u79_2_6", "sentence": "6. –¿Dónde están tus hermanas? –No sé. Puede que ___ en el jardín.", "answer": "estén" },
+        { "id": "u79_2_7", "sentence": "7. –¿Cuándo os casáis? –No estamos seguros. Puede que ___ el año que viene.", "answer": "nos casemos" },
+        { "id": "u79_2_8", "sentence": "8. –¿Te van a dar el trabajo que te prometieron? –No sé. Es probable que no me lo ___.", "answer": "den" },
+        { "id": "u79_2_9", "sentence": "9. –¿Cuándo se marchan ustedes? –No sé. Puede que ___ mañana.", "answer": "nos marchemos" },
+        { "id": "u79_2_10", "sentence": "10. –¿Vais a ganar el torneo? –No sé. Es probable que no lo ___.", "answer": "ganemos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 79.3: Перепишите фразы, как в примере",
+      "tasks": [
+        { "id": "u79_3_1", "sentence": "1. Agustín bebe demasiada cola. A Sonia no le gusta. → A Sonia no le gusta que Agustín ___ demasiada cola.", "answer": "beba" },
+        { "id": "u79_3_2", "sentence": "2. Jaime y Yolanda son amables. A Pilar le gusta. → ___", "answer": "A Pilar le gusta que Jaime y Yolanda sean amables" },
+        { "id": "u79_3_3", "sentence": "3. Ernestina vive en el extranjero. A Lorenzo no le gusta. → ___", "answer": "A Lorenzo no le gusta que Ernestina viva en el extranjero" },
+        { "id": "u79_3_4", "sentence": "4. Jacinta es cariñosa. A Mario le encanta. → ___", "answer": "A Mario le encanta que Jacinta sea cariñosa" },
+        { "id": "u79_3_5", "sentence": "5. Lolo da muchas fiestas. A Tomás no le gusta. → ___", "answer": "A Tomás no le gusta que Lolo dé muchas fiestas" },
+        { "id": "u79_3_6", "sentence": "6. Ves muchas películas de terror. A tu padre no le gusta. → ___", "answer": "A tu padre no le gusta que veas muchas películas de terror" },
+        { "id": "u79_3_7", "sentence": "7. Trabajáis mucho. A vuestro profesor le encanta. → ___", "answer": "A vuestro profesor le encanta que trabajéis mucho" }
+      ]
+    }
+  ]
+}

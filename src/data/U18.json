@@ -1,0 +1,103 @@
+{
+  "lessonId": "A2_U18",
+  "title": "Урок 18: mi, tu, su... (Притяжательные местоимения 1)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Притяжательные местоимения-прилагательные (краткая форма)",
+      "content": [
+        { "text": "<strong>Mi, tu, nuestro</strong> и другие формы являются притяжательными местоимениями. Они используются для указания на владение или другие типы отношений с людьми, животными или предметами: семья, происхождение и т.д." },
+        { "list": [
+            "<i><strong>Mi</strong> madre trabaja en un laboratorio.</i>",
+            "<i>Jimena tiene un pequeño chalé en <strong>su</strong> pueblo.</i>",
+            "<i>–¿Dónde es la fiesta? –En <strong>mi</strong> casa.</i>",
+            "<i>–¿Cuál es <strong>tu</strong> color preferido? –El blanco.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы притяжательных местоимений",
+      "content": [
+        { "table": {
+            "headers": ["Владелец", "SINGULAR (ед.ч.)", "PLURAL (мн.ч.)"],
+            "rows": [
+              ["", "<strong>MASCULINO</strong>", "<strong>FEMENINO</strong>", "<strong>MASCULINO</strong>", "<strong>FEMENINO</strong>"],
+              ["yo", "mi", "mi", "mis", "mis"],
+              ["tú", "tu", "tu", "tus", "tus"],
+              ["usted<br>él, ella", "su", "su", "sus", "sus"],
+              ["nosotros, -as", "nuestro", "nuestra", "nuestros", "nuestras"],
+              ["vosotros, -as", "vuestro", "vuestra", "vuestros", "vuestras"],
+              ["ustedes<br>ellos, ellas", "su", "su", "sus", "sus"]
+            ]
+          }
+        },
+        { "text": "<strong>`Mi, tu, su...` всегда ставятся перед существительным.</strong><br><i>¿Quién es <strong>tu</strong> profesor?<br>Ayer vi a Ignacio con <strong>sus</strong> primas.<br>¿Dónde están <strong>vuestras</strong> cosas?</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Формы `su, sus` могут иметь несколько значений. Для уточнения используются конструкции `de él, de ella, de usted, de ellos, de ellas, de ustedes`.<br><i><strong>su</strong>, <strong>sus</strong> = de él; de ella; de usted; de ellos; de ellas; de ustedes<br>Abel, es <strong>su</strong> mujer. (de él / de usted?)</i>" },
+        { "text": "<strong>В общем смысле, ситуация указывает, к кому относится `su, sus`.</strong><br><i>Mire, don Raúl. Ahí va Jorge con <strong>sus</strong> hijas. (Рауль знает, что это дочери Хорхе, а не его собственные или чьи-то еще.)</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Особые случаи использования",
+      "content": [
+        { "text": "<strong>Используются `el, la, los, las` (а не `mi, tu, su...`) с частями тела, предметами одежды и другими личными вещами.</strong>" },
+        { "list": [
+          "Me duele <strong>la</strong> cabeza. → Me duele <s>mi</s> cabeza.",
+          "Quítate <strong>el</strong> abrigo. → Quítate <s>tu</s> abrigo.",
+          "Tengo que lavar <strong>el</strong> coche. → Tengo que lavar <s>mi</s> coche."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 18.1: Дополните фразы с mi, tu, su...",
+      "content": [{ "text": "<strong>Контекст древа:</strong> Семья Suárez: Lucas + María = Arturo, Carlota. Семья Salina: Julio + Rosario = Carmelo, Justa. Arturo женился на Begoña. Carlota замужем за Alfonso. Carmelo женат на Blanca, у них дети Lucía и Emilio. Justa замужем за Lupe." }],
+      "tasks": [
+        { "id": "u18_1_1", "sentence": "1. ARTURO: ¿Cómo se llaman ___ padres, Blanca?", "answer": "tus" },
+        { "id": "u18_1_2", "sentence": "2. EMILIO: ___ hermanas se llaman Blanca y Lucía.", "answer": "Mis" },
+        { "id": "u18_1_3", "sentence": "3. CARLOTA: ¿Cómo se llama ___ mujer, don Carmelo?", "answer": "su" },
+        { "id": "u18_1_4", "sentence": "4. BLANCA y Lucía: ___ abuela se llama Rosario.", "answer": "Nuestra" },
+        { "id": "u18_1_5", "sentence": "5. EMILIO: Arturo, Carlota, ¿cómo se llaman ___ abuelos?", "answer": "vuestros" },
+        { "id": "u18_1_6", "sentence": "6. ALFONSO: ___ madre se llama María.", "answer": "Mi" },
+        { "id": "u18_1_7", "sentence": "7. BLANCA: ¿Cómo se llama ___ tía, Arturo?", "answer": "tu" },
+        { "id": "u18_1_8", "sentence": "8. CARLOTA: ¿Cómo se llaman ___ hijos, don Julio?", "answer": "sus" },
+        { "id": "u18_1_9", "sentence": "9. CARMELO y LUPE: ___ padres se llaman Julio y Rosario.", "answer": "Nuestros" },
+        { "id": "u18_1_10", "sentence": "10. ARTURO: Blanca, Lucía, ¿cómo se llama ___ madre?", "answer": "vuestra" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 18.2: Дополните фразы с mi, tu, su...",
+      "tasks": [
+        { "id": "u18_2_1", "sentence": "1. –¿Cuál es ___ color preferido, Berta? –El azul.", "answer": "tu" },
+        { "id": "u18_2_2", "sentence": "2. Mi hermano y yo jugamos mucho al tenis. Es ___ deporte preferido.", "answer": "nuestro" },
+        { "id": "u18_2_3", "sentence": "3. La señora Valverde y ___ hijas son muy agradables.", "answer": "sus" },
+        { "id": "u18_2_4", "sentence": "4. –¿Dónde están Sol y Rocío? –En ___ casa.", "answer": "su" },
+        { "id": "u18_2_5", "sentence": "5. Anoche fui al cine con ___ padre y ___ hermanos.", "answer": "mi, mis" },
+        { "id": "u18_2_6", "sentence": "6. Jorge, Juan, ¿dónde están ___ libros?", "answer": "vuestros" },
+        { "id": "u18_2_7", "sentence": "7. –¿Cuál es ___ comida preferida, Enrique? –La paella.", "answer": "tu" },
+        { "id": "u18_2_8", "sentence": "8. Ayer conocí a ___ padres, Verónica. Son muy simpáticos.", "answer": "tus" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 18.3: Выберите правильную форму",
+      "tasks": [
+        { "id": "u18_3_1", "sentence": "1. Me estoy lavando (mi/el) pelo.", "options": ["mi", "el"], "correctOption": "el" },
+        { "id": "u18_3_2", "sentence": "2. Átate (tus/los) zapatos.", "options": ["tus", "los"], "correctOption": "los" },
+        { "id": "u18_3_3", "sentence": "3. Rodrigo trabaja con (su/el) padre.", "options": ["su", "el"], "correctOption": "su" },
+        { "id": "u18_3_4", "sentence": "4. Tenéis (vuestros/los) ojos rojos.", "options": ["vuestros", "los"], "correctOption": "los" },
+        { "id": "u18_3_5", "sentence": "5. (Mis/Los) tíos viven en Puerto Rico.", "options": ["Mis", "Los"], "correctOption": "Mis" },
+        { "id": "u18_3_6", "sentence": "6. Le di (mi/la) mano.", "options": ["mi", "la"], "correctOption": "la" },
+        { "id": "u18_3_7", "sentence": "7. (Su/La) abuela tiene 85 años.", "options": ["Su", "La"], "correctOption": "Su" },
+        { "id": "u18_3_8", "sentence": "8. Tienes una mancha en (tu/la) nariz.", "options": ["tu", "la"], "correctOption": "la" },
+        { "id": "u18_3_9", "sentence": "9. Quitaos (vuestras/las) chaquetas.", "options": ["vuestras", "las"], "correctOption": "las" },
+        { "id": "u18_3_10", "sentence": "10. Al señor Alfonsín se le ha estropeado (su/el) coche.", "options": ["su", "el"], "correctOption": "el" }
+      ]
+    }
+  ]
+}

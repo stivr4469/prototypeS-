@@ -1,0 +1,81 @@
+{
+  "lessonId": "B1_U105",
+  "title": "Урок 105: Сравнение форм выражения степени качества или количества",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: muy, mucho, mucha, muchos, muchas...",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>muy<br>bastante<br>poco<br>demasiado</strong>", "+ adjetivo/adverbio", "Luisa es <strong>muy</strong> inteligente.<br>Alberto cocina <strong>bastante</strong> bien.<br>Jorge es <strong>poco</strong> estudioso.<br>Habéis llegado <strong>demasiado</strong> tarde."],
+              ["<strong>mucho<br>bastante<br>poco<br>demasiado</strong>", "verbo +", "Clara trabaja <strong>mucho</strong>.<br>Consuelo sale <strong>bastante</strong>.<br>Ignacio come <strong>poco</strong>.<br>Rodri habla <strong>demasiado</strong>."],
+              ["<strong>mucho, -a, -os, -as<br>bastante, -es<br>poco, -a, -os, -as<br>demasiado, -a, -os, -as</strong>", "+ nombre", "Clara trabaja <strong>muchas</strong> horas.<br>Tiene <strong>bastantes</strong> amigos.<br>Ignacio come <strong>poca</strong> carne.<br>Bebes <strong>demasiada</strong> leche."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: -ísimo",
+      "content": [
+        { "text": "<strong>`–ísimo` используется для выражения очень высокой степени.</strong><br><i>Alonso conduce rapid<strong>ísimo</strong>. (muy rápido)</i>" },
+        { "text": "<strong>Образование прилагательных и наречий на `-ísimo`:</strong><br>- прилагательное (гласная) + `-ísimo, -a, -os, -as`: listo → list<strong>ísimo</strong>, -a, -os, -as<br>- difícil + `-ísimo, -a, -os, -as`: dificil<strong>ísimo</strong>, -a, -os, -as<br>- mucho + `-o` + `-ísimo, -a, -os, -as`: muchísimo, -a, -os, -as<br>- наречие (гласная) + `-ísimo`: tarde → tard<strong>ísimo</strong><br>- наречие (`-mente`) + `-ísima`: fácil → facil<strong>ísimamente</strong>" },
+        { "text": "<strong>ATENCIÓN:</strong> feliz → felicísimo, blanco → blanquísimo, amigo → amiguísimo, antiguo → antiquísimo, amable → amabilísimo, joven → jovencísimo" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 105.1: Перепишите фразы, добавив muy или mucho",
+      "tasks": [
+        { "id": "u105_1_1", "sentence": "1. Esta novela es buena. → Esta novela es ___ buena.", "answer": "muy" },
+        { "id": "u105_1_2", "sentence": "2. Esther duerme. → Esther duerme ___.", "answer": "mucho" },
+        { "id": "u105_1_3", "sentence": "3. Mi casa está lejos. → Mi casa está ___ lejos.", "answer": "muy" },
+        { "id": "u105_1_4", "sentence": "4. Raúl prepara bien la carne. → Raúl prepara ___ bien la carne.", "answer": "muy" },
+        { "id": "u105_1_5", "sentence": "5. Me parezco a mi madre. → Me parezco ___ a mi madre.", "answer": "mucho" },
+        { "id": "u105_1_6", "sentence": "6. Hacer ejercicio es sano. → Hacer ejercicio es ___ sano.", "answer": "muy" },
+        { "id": "u105_1_7", "sentence": "7. Juan llega siempre tarde. → Juan llega siempre ___ tarde.", "answer": "muy" },
+        { "id": "u105_1_8", "sentence": "8. Eva gasta poco. → Eva no gasta ___.", "answer": "mucho" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 105.2: Дополните фразы словами в скобках",
+      "tasks": [
+        { "id": "u105_2_1", "sentence": "1. Ernesto tiene (mucho) ___ hermanos.", "answer": "muchos" },
+        { "id": "u105_2_2", "sentence": "2. Felisa vive (bastante) ___ lejos.", "answer": "bastante" },
+        { "id": "u105_2_3", "sentence": "3. Hoy hay (bastante) ___ estrellas en el cielo.", "answer": "bastantes" },
+        { "id": "u105_2_4", "sentence": "4. No me gusta Eduardo. Es (demasiado) ___ orgulloso.", "answer": "demasiado" },
+        { "id": "u105_2_5", "sentence": "5. Queda (poco) ___ leche. Hay que comprar.", "answer": "poca" },
+        { "id": "u105_2_6", "sentence": "6. Has comprado (demasiado) ___ fruta.", "answer": "demasiada" },
+        { "id": "u105_2_7", "sentence": "7. Eduardo habla (demasiado) ___. Siempre mete la pata.", "answer": "demasiado" },
+        { "id": "u105_2_8", "sentence": "8. Esteban sale (poco) ___. Estudia (mucho) ___.", "answer": "poco, mucho" },
+        { "id": "u105_2_9", "sentence": "9. He visto esta película (mucho) ___ veces.", "answer": "muchas" },
+        { "id": "u105_2_10", "sentence": "10. Hemos llegado (demasiado) ___ temprano. Aún no han abierto.", "answer": "demasiado" },
+        { "id": "u105_2_11", "sentence": "11. Últimamente leo (poco) ___. No tengo (mucho) ___ tiempo.", "answer": "poco, mucho" },
+        { "id": "u105_2_12", "sentence": "12. No veo a Ruth. Hay (demasiado) ___ gente.", "answer": "demasiada" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 105.3: Замените подчеркнутые выражения на формы с -ísimo",
+      "tasks": [
+        { "id": "u105_3_1", "sentence": "1. Alfonso es un chico <u>muy aburrido</u>. → Alfonso es un chico ___.", "answer": "aburridísimo" },
+        { "id": "u105_3_2", "sentence": "2. Olga es una chica <u>muy interesante</u>. → ___", "answer": "interesantísima" },
+        { "id": "u105_3_3", "sentence": "3. Roberto camina <u>muy lentamente</u>. → ___", "answer": "lentísimamente" },
+        { "id": "u105_3_4", "sentence": "4. Daniel me golpeó <u>muy fuerte</u>. → ___", "answer": "fuertísimo" },
+        { "id": "u105_3_5", "sentence": "5. Héctor es <u>muy amigo mío</u>. → ___", "answer": "amiguísimo" },
+        { "id": "u105_3_6", "sentence": "6. Este edificio es <u>muy antiguo</u>. → ___", "answer": "antiquísimo" },
+        { "id": "u105_3_7", "sentence": "7. Estoy leyendo una novela <u>muy buena</u>. → ___", "answer": "buenísima" },
+        { "id": "u105_3_8", "sentence": "8. Los hermanos de Lola son <u>muy educados</u>. → ___", "answer": "eduquísimos" },
+        { "id": "u105_3_9", "sentence": "9. Miriam explica <u>muy claramente</u>. → ___", "answer": "clarísimamente" },
+        { "id": "u105_3_10", "sentence": "10. Durante la semana tengo <u>muy poco</u> tiempo libre. → ___", "answer": "poquísimo" },
+        { "id": "u105_3_11", "sentence": "11. Paula y Gloria son <u>muy amables</u>. → ___", "answer": "amabilísimas" },
+        { "id": "u105_3_12", "sentence": "12. Los padres de Aurora son <u>muy jóvenes</u>. → ___", "answer": "jovencísimos" }
+      ]
+    }
+  ]
+}

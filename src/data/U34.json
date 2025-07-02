@@ -1,0 +1,66 @@
+{
+  "lessonId": "A2_U34",
+  "title": "Урок 34: Личные местоимения (подлежащие)",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы личных местоимений",
+      "content": [
+        { "text": "<strong>ATENCIÓN:</strong> masculino + femenino = plural masculino<br><i>Luisa, José y <strong>yo</strong> → <strong>nosotros</strong><br>Luisa, José y <strong>tú</strong> → <strong>vosotros</strong><br>Luisa y José → <strong>ellos</strong></i>" },
+        { "text": "<strong>`Tú`, `usted`, `vosotros`, `ustedes`</strong>" },
+        { "table": {
+            "headers": ["", "В неформальной обстановке", "В формальной обстановке"],
+            "rows": [
+              ["<strong>España</strong>", "tú, vosotros, vosotras", "usted, ustedes"],
+              ["<strong>América Latina¹</strong>", "tú/usted, ustedes", "usted, ustedes"]
+            ]
+          }
+        },
+        { "text": "<small>¹ В некоторых зонах Испании (Канары и юг Полуострова) также используется `ustedes` вместо `vosotros`.</small>" },
+        { "text": "В некоторых странах Латинской Америки, таких как Аргентина, Парагвай и Уругвай, используется `vos` вместо `tú`." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование личных местоимений",
+      "content": [
+        { "text": "<strong>1. Обычно нет необходимости использовать `yo, tú, ellos...` с глаголами.</strong><br><i><strong>Vivo</strong> en Bogotá. (а не <s>Yo vivo</s>...)<br>¿Cómo <strong>te llamas</strong>? (а не ¿Cómo <s>tú te llamas</s>?)</i>" },
+        { "text": "<strong>НО: `Usted, ustedes` используются чаще.</strong><br><i>Arlindo, ¿dónde vive <strong>usted</strong>?<br>–<strong>Usted</strong> no es peruano, ¿verdad? –No, soy boliviano.</i>" },
+        { "text": "<strong>2. Используются `yo, tú, ellos...`:</strong><br>- для контраста: <i><strong>Yo</strong> compro fruta y <strong>tú</strong> te la comes.</i><br>- для эмфазы: <i><strong>Yo</strong> quiero trabajar, pero mis padres quieren que estudie.</i><br>- чтобы прояснить, о ком идет речь: <i>Mira, allí van Silvia y Jorge. <strong>Él</strong> es de Arequipa y <strong>ella</strong> es de Lima.</i><br>- когда вы говорите, что вы и кто-то другой похожи: <i>Mi padre y <strong>yo</strong> somos buenos amigos.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 34.1 и 34.2",
+      "content": [
+        { "text": "<strong>Упражнения 34.1 и 34.2 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 34.3: Прочитайте информацию и дополните фразы",
+      "content": [{ "text": "<strong>Информация:</strong><br>Pep: español, de Barcelona, periodista.<br>Concha: mexicana, de Mérida, enfermera.<br>Adriana: argentina, de Córdoba, estudiante.<br>Gabriel: mexicano, de Monterrey, estudiante.<br>Rosita: mexicana, de Mérida, estudiante."}],
+      "tasks": [
+        { "id": "u34_3_1", "sentence": "1. PEP: Concha y ___, somos españoles.", "answer": "yo" },
+        { "id": "u34_3_2", "sentence": "2. CONCHA: Gabriel y Rosita son mexicanos. ___ es de Mérida y ___ es de Monterrey.", "answer": "Ella, él" },
+        { "id": "u34_3_3", "sentence": "3. GABRIEL: ¿De dónde es Adriana? PEP: ___ es argentina.", "answer": "Ella" },
+        { "id": "u34_3_4", "sentence": "4. ROSITA: Concha y ___ somos estudiantes. ___ es española y ___ soy mexicana.", "answer": "yo, Ella, yo" },
+        { "id": "u34_3_5", "sentence": "5. ADRIANA: ¿De dónde son Pep y Concha? GABRIEL: ___ son españoles. ___ es estudiante y ___ es periodista.", "answer": "Ellos, ella, él" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 34.4: Дополните фразы личным местоимением, если необходимо",
+      "tasks": [
+        { "id": "u34_4_1", "sentence": "1. –¿De dónde sois Adolfo y ___? –___ somos de Uruguay.", "answer": "tú, Nosotros" },
+        { "id": "u34_4_2", "sentence": "2. –¿Dónde vives ___? –___ vivo en Murcia. ¿Y ___? –___ vivo en Granada.", "answer": "tú, ,tú," },
+        { "id": "u34_4_3", "sentence": "3. –Perdone, ¿de dónde son ___? –___ somos de Arequipa.", "answer": "ustedes, Nosotros" },
+        { "id": "u34_4_4", "sentence": "4. Estudiamos Medicina.", "answer": "" },
+        { "id": "u34_4_5", "sentence": "5. ___ quiero un café, y ___ ¿qué queréis?", "answer": "Yo, vosotros" },
+        { "id": "u34_4_6", "sentence": "6. Mira, Lucía y Ana. ___ son amigas de Bianca.", "answer": "Ellas" },
+        { "id": "u34_4_7", "sentence": "7. ___ quiero ser abogada, pero mis padres quieren que estudie Medicina.", "answer": "Yo" }
+      ]
+    }
+  ]
+}

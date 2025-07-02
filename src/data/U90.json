@@ -1,0 +1,59 @@
+{
+  "lessonId": "B1_U90",
+  "title": "Урок 90: Косвенная речь (3): приказы и просьбы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Косвенная речь: приказы и просьбы",
+      "content": [
+        { "text": "<strong>`Que venga`, `que vayas`</strong> и <strong>`que no comamos`</strong> — это примеры приказов и просьб в косвенной речи." },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>Dice que... / Me ha dicho que...<br>Me ha pedido que...</strong>", "+ presente de subjuntivo", "El director dice que <strong>vayas</strong> ahora.<br>Luis me ha pedido que le <strong>enseñe</strong> a conducir."],
+              ["<strong>Dijo que...<br>Me pidió que...</strong>", "+ pretérito imperfecto de subjuntivo", "Luisa dijo que la <strong>llamara</strong> hoy.<br>Ramsés me pidió que le <strong>ayudara</strong>."]
+            ]
+          }
+        },
+        { "text": "<strong>- Наиболее частые глаголы для передачи приказов: `decir` (= ordenar, no informar). Также могут использоваться `mandar, ordenar, exigir`.</strong><br><i>Alicia me ha dicho que <strong>deje</strong> de trabajar tanto.</i>" },
+        { "text": "<strong>- Наиболее частые глаголы для передачи просьб: `pedir`. Также могут использоваться `aconsejar, advertir, rogar` и `sugerir`.</strong><br><i>Esteban me aconsejó que no le <strong>dijera</strong> a nadie que lo había visto.</i>" },
+        { "text": "<strong>- Когда вводный глагол стоит в presente или pretérito perfecto, приказ или просьба могут относиться к presente или futuro.</strong><br><i>Rafa dice que <strong>apagues</strong> la tele, que quiere estudiar. (presente)<br>Rosario me ha pedido que la <strong>despierte</strong> a las ocho mañana. (futuro)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 90.1: Передайте приказы и просьбы в косвенной речи",
+      "tasks": [
+        { "id": "u90_1_1", "sentence": "1. “¡Que venga Aurora!” (La directora) → La directora dice que ___ Aurora.", "answer": "venga" },
+        { "id": "u90_1_2", "sentence": "2. “¿Me puedes ayudar?” (Raquel) → Raquel me ha pedido que la ___.", "answer": "ayude" },
+        { "id": "u90_1_3", "sentence": "3. “Escribid más claro.” (El profesor) → El profesor ha dicho que ___ más claro.", "answer": "escribamos" },
+        { "id": "u90_1_4", "sentence": "4. “Llámane el lunes.” (Roberto) → Roberto me ha dicho que le ___ el lunes.", "answer": "llame" },
+        { "id": "u90_1_5", "sentence": "5. “Llévame unas bolsas a casa, por favor.” (Mi madre) → Mi madre me ha pedido que le ___ unas bolsas a casa.", "answer": "lleve" },
+        { "id": "u90_1_6", "sentence": "6. “¿Puedes explicarme esta lección?” (Ramón) → Ramón me ha pedido que le ___ esta lección.", "answer": "explique" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 90.2: Дополните ответы глаголами из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> aparcar, dar, dejar, ir, querer, traer, volver" }],
+      "tasks": [
+        { "id": "u90_2_1", "sentence": "1. –¿Adónde vas, Fede? –El director dice que ___.", "answer": "vaya" },
+        { "id": "u90_2_2", "sentence": "2. –¿Qué es eso? –Unos libros. Mar me ha pedido que te los ___.", "answer": "traiga" },
+        { "id": "u90_2_3", "sentence": "3. –¿Ya no sales con Paz? –No, me dijo que no ___ a llamarla.", "answer": "volviera" },
+        { "id": "u90_2_4", "sentence": "4. –¿Por qué corres? –Dice Marisa que nos ___ prisa, que vamos a llegar tarde.", "answer": "demos" },
+        { "id": "u90_2_5", "sentence": "5. –¿Por qué se enfadó Paco? –Porque me pidió que le ___ la moto y le dije que no.", "answer": "dejara" },
+        { "id": "u90_2_6", "sentence": "6. –¿Vienes a la academia? –No, el profesor me dijo que ___ hoy más tarde.", "answer": "fuera" },
+        { "id": "u90_2_7", "sentence": "7. –¿Por qué estás tan contenta, Pili? –Porque me han pedido que ___ a Venezuela.", "answer": "vaya" },
+        { "id": "u90_2_8", "sentence": "8. –¿Qué te dijo ayer Raúl Torres? –Que no ___ más en su plaza de garaje.", "answer": "aparcara" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 90.3 и 90.4",
+      "content": [
+        { "text": "<strong>Упражнения 90.3 и 90.4 пропущены, так как они требуют свободного составления предложений.</strong>" }
+      ]
+    }
+  ]
+}

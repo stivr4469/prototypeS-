@@ -1,0 +1,78 @@
+{
+  "lessonId": "A2_U54",
+  "title": "Урок 54: Сравнение глаголов с 'se' и без",
+  "level": "A2-B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "table": {
+            "headers": ["Глаголы БЕЗ ME, TE, SE...", "Глаголы С ME, TE, SE..."],
+            "rows": [
+              [
+                "<strong>Действие или эффект глагола получает другой человек или предмет, а не тот, кто его выполняет.</strong><br><i>Lavo el pelo a las clientas.</i>",
+                "<strong>Действие или эффект глагола получает тот же человек, который его выполняет, или часть его тела/одежды.</strong><br><i>Me lavo el pelo todos los días.</i>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Глаголы с разным значением",
+      "content": [
+        { "text": "<strong>Некоторые глаголы имеют разное значение с `se` и без него.</strong>" },
+        { "list": [
+          "<strong>despedir</strong> = echar de un trabajo (уволить)<br><strong>despedirse</strong> = decir adiós, irse de un trabajo voluntariamente (прощаться, увольняться по собственному желанию)",
+          "<strong>dormir</strong> = descansar (спать)<br><strong>dormirse</strong> = quedarse dormido, aburrirse (засыпать, скучать)",
+          "<strong>dejar</strong> = prestar (оставлять, одалживать)<br><strong>dejarse</strong> = olvidarse (забывать)",
+          "<strong>encontrar</strong> = hallar, descubrir (находить)<br><strong>encontrarse</strong> = reunirse, sentirse (встречаться, чувствовать себя)",
+          "<strong>ir</strong> = dirigirse, asistir (идти)<br><strong>irse</strong> = marcharse (уходить)",
+          "<strong>llamar</strong> = telefonear (звонить)<br><strong>llamarse</strong> = tener un nombre (называться)",
+          "<strong>parecer</strong> = tener apariencia (казаться)<br><strong>parecerse</strong> = ser similar (быть похожим)"
+        ]},
+        { "text": "<strong>Примеры:</strong><br><i>Ana <strong>duerme</strong> siete horas al día. / Ana <strong>se duerme</strong> en la ópera.<br>¿Me <strong>dejas</strong> este libro? / ¡Idiota! Me <strong>he dejado</strong> el libro.<br>No <strong>encontramos</strong> las entradas. / Ayer <strong>nos encontramos</strong> con Pepa en el supermercado.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 54.1",
+      "content": [
+        { "text": "<strong>Упражнение 54.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 54.2: Дополните фразы глаголами из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> aburrirse, acostar, acostarse, divertir, lavar, lavarse, mirar, vestirse" }],
+      "tasks": [
+        { "id": "u54_2_1", "sentence": "1. Felipe ___ viendo la tele.", "answer": "se aburre" },
+        { "id": "u54_2_2", "sentence": "2. (yo) ___ las manos antes de las comidas.", "answer": "Me lavo" },
+        { "id": "u54_2_3", "sentence": "3. Clara ___ a los niños después de desayunar y después ___ ella.", "answer": "viste, se viste" },
+        { "id": "u54_2_4", "sentence": "4. (yo) ___ muy tarde los sábados por la noche.", "answer": "Me acuesto" },
+        { "id": "u54_2_5", "sentence": "5. Alicia ___ las blusas a mano.", "answer": "lava" },
+        { "id": "u54_2_6", "sentence": "6. Juan ___ a sus hijos a las diez de la noche.", "answer": "acuesta" },
+        { "id": "u54_2_7", "sentence": "7. Miguel ___ mucho en el espejo.", "answer": "se mira" },
+        { "id": "u54_2_8", "sentence": "8. Los payasos ___ a los niños.", "answer": "divierten" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 54.3: Выберите правильную форму",
+      "tasks": [
+        { "id": "u54_3_1", "sentence": "1. (Llamo/Me llamo) Andrés.", "options": ["Llamo", "Me llamo"], "correctOption": "Me llamo" },
+        { "id": "u54_3_2", "sentence": "2. Tania siempre (despide/se despide) con un beso.", "options": ["despide", "se despide"], "correctOption": "se despide" },
+        { "id": "u54_3_3", "sentence": "3. ¿A quién (pareces/te pareces), a tu padre o a tu madre?", "options": ["pareces", "te pareces"], "correctOption": "te pareces" },
+        { "id": "u54_3_4", "sentence": "4. (Vamos/Nos vamos) al cine dos veces al mes.", "options": ["Vamos", "Nos vamos"], "correctOption": "Vamos" },
+        { "id": "u54_3_5", "sentence": "5. Rita (parece/se parece) muy amable.", "options": ["parece", "se parece"], "correctOption": "parece" },
+        { "id": "u54_3_6", "sentence": "6. ¡Hasta luego! (Vamos/Nos vamos) al cine.", "options": ["Vamos", "Nos vamos"], "correctOption": "Nos vamos" },
+        { "id": "u54_3_7", "sentence": "7. Anoche (encontré/me encontré) con Marina en la discoteca.", "options": ["encontré", "me encontré"], "correctOption": "me encontré" },
+        { "id": "u54_3_8", "sentence": "8. No (encuentro/me encuentro) mis gafas.", "options": ["encuentro", "me encuentro"], "correctOption": "encuentro" },
+        { "id": "u54_3_9", "sentence": "9. ¿Cuántas horas (duermes/te duermes) al día?", "options": ["duermes", "te duermes"], "correctOption": "duermes" },
+        { "id": "u54_3_10", "sentence": "10. Siempre (dejo/me dejo) las llaves en casa.", "options": ["dejo", "me dejo"], "correctOption": "me dejo" }
+      ]
+    }
+  ]
+}

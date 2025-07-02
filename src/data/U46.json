@@ -1,0 +1,105 @@
+{
+  "lessonId": "A1_U46",
+  "title": "Урок 46: Безличная форма HAY",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: HAY с исчисляемыми существительными",
+      "content": [
+        { "text": "<strong>Hay un vaso en la mesa. / Hay cinco alumnos en clase. / No hay leche.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>hay</strong><br>+ un, una + nombre contable singular<br>+ uno, una", "<strong>Hay</strong> un pájaro en el balcón.<br>–¿<strong>Hay</strong> un hotel por aquí? –<strong>Hay</strong> uno en la calle Arenal."],
+              ["<strong>hay</strong><br>+ dos, tres...; muchos, pocos... + nombre contable plural", "<strong>Hay</strong> naranjas en la nevera.<br>En mi calle <strong>hay</strong> muchos árboles.<br>¿<strong>Hay</strong> muchos cines en tu barrio? –<strong>Hay</strong> tres."],
+              ["¿<strong>cuántos, cuántas</strong> + nombre contable plural<br>+ <strong>hay</strong>?", "–¿<strong>Cuántos</strong> chicos <strong>hay</strong> en tu clase? –<strong>Hay</strong> nueve."],
+              ["<strong>no hay</strong><br>(+ ningún, ninguna) + nombre contable singular", "No <strong>hay</strong> ningún hotel en esta calle.<br>En Santa Marta no <strong>hay</strong> aeropuerto."],
+              ["<strong>no hay</strong><br>(+ muchos) + nombre contable plural", "En mi calle no <strong>hay</strong> árboles.<br>En mi barrio no <strong>hay</strong> muchos bares."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: HAY с неисчисляемыми существительными",
+      "content": [
+        { "text": "<strong>Hay + nombres no contables (pan, agua...)</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>hay</strong><br>(+ mucho, poco...) + nombre no contable", "<strong>Hay</strong> agua en el suelo.<br>No <strong>hay</strong> mucha mantequilla."],
+              ["(no) <strong>hay</strong><br>+ mucho, poco", "–¿<strong>Hay</strong> pan? –No <strong>hay</strong> mucho."],
+              ["¿<strong>cuánto, cuánta</strong> + nombre no contable + <strong>hay</strong>?", "–¿<strong>Cuánta</strong> leche <strong>hay</strong> en la nevera?"]
+            ]
+          }
+        },
+        { "text": "<strong>`Hay` используется для:</strong><br>- указания или вопроса о существовании чего-либо или кого-либо в неопределенном месте. <i>¿<strong>Hay</strong> una frutería por aquí? / –Hay pan (en casa)? –Sí, <strong>hay</strong> dos barras.</i><br>- вопроса о существовании чего-либо или кого-либо с неизвестным местонахождением. <i>¿Dónde <strong>hay</strong> un estanco? (No conozco el barrio y no sé si hay un estanco.)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 46.1: ¿Qué hay en la habitación?",
+      "tasks": [
+        { "id": "u46_1_1", "sentence": "1. (mesa) <u>Hay una mesa</u>.", "answer": "Hay una mesa" },
+        { "id": "u46_1_2", "sentence": "2. (espejo) ___.", "answer": "No hay espejo" },
+        { "id": "u46_1_3", "sentence": "3. (alfombra) ___.", "answer": "Hay una alfombra" },
+        { "id": "u46_1_4", "sentence": "4. (sillas) ___.", "answer": "Hay dos sillas" },
+        { "id": "u46_1_5", "sentence": "5. (lámpara) ___.", "answer": "Hay una lámpara" },
+        { "id": "u46_1_6", "sentence": "6. (televisor) ___.", "answer": "No hay televisor" },
+        { "id": "u46_1_7", "sentence": "7. (reloj) ___.", "answer": "Hay un reloj" },
+        { "id": "u46_1_8", "sentence": "8. (cuadros) ___.", "answer": "Hay dos cuadros" },
+        { "id": "u46_1_9", "sentence": "9. (cojín) ___.", "answer": "No hay cojín" },
+        { "id": "u46_1_10", "sentence": "10. (sillón) ___.", "answer": "Hay un sillón" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 46.2: Прочитайте информацию и напишите фразы",
+      "content": [{ "text": "<strong>Ciudad Nueva:</strong><br>colegios: 5, cines: 1, hospitales: no, polideportivos: 1, parques: 2, estaciones de ferrocarril: no, estaciones de autobús: 1, hoteles: no, iglesias: 2, bibliotecas: 1"}],
+      "tasks": [
+        { "id": "u46_2_1", "sentence": "1. ___.", "answer": "Hay cinco colegios" },
+        { "id": "u46_2_2", "sentence": "2. ___.", "answer": "Hay un cine" },
+        { "id": "u46_2_3", "sentence": "3. ___.", "answer": "No hay hospitales" },
+        { "id": "u46_2_4", "sentence": "4. ___.", "answer": "Hay un polideportivo" },
+        { "id": "u46_2_5", "sentence": "5. ___.", "answer": "Hay dos parques" },
+        { "id": "u46_2_6", "sentence": "6. ___.", "answer": "No hay estaciones de ferrocarril" },
+        { "id": "u46_2_7", "sentence": "7. ___.", "answer": "Hay una estación de autobús" },
+        { "id": "u46_2_8", "sentence": "8. ___.", "answer": "No hay hoteles" },
+        { "id": "u46_2_9", "sentence": "9. ___.", "answer": "Hay dos iglesias" },
+        { "id": "u46_2_10", "sentence": "10. ___.", "answer": "Hay una biblioteca" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 46.3: ¿Qué hay en la nevera?",
+      "tasks": [
+        { "id": "u46_3_1", "sentence": "1. (leche) <u>Hay leche</u>.", "answer": "Hay leche" },
+        { "id": "u46_3_2", "sentence": "2. (agua) ___.", "answer": "Hay agua" },
+        { "id": "u46_3_3", "sentence": "3. (mantequilla) ___.", "answer": "Hay mantequilla" },
+        { "id": "u46_3_4", "sentence": "4. (queso) ___.", "answer": "Hay queso" },
+        { "id": "u46_3_5", "sentence": "5. (seis huevos) ___.", "answer": "Hay seis huevos" },
+        { "id": "u46_3_6", "sentence": "6. (uvas) ___.", "answer": "Hay uvas" },
+        { "id": "u46_3_7", "sentence": "7. (naranjas) ___.", "answer": "Hay naranjas" },
+        { "id": "u46_3_8", "sentence": "8. (plátanos) ___.", "answer": "Hay plátanos" },
+        { "id": "u46_3_9", "sentence": "9. (zumo de naranja) ___.", "answer": "No hay zumo de naranja" },
+        { "id": "u46_3_10", "sentence": "10. (yogures) ___.", "answer": "Hay yogures" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 46.4: Дополните диалоги",
+      "tasks": [
+        { "id": "u46_4_1", "sentence": "1. –¿Dónde (buzón)? –Hay un buzón. ¿–(uno)? Hay uno en la esquina.", "answer": "hay un buzón,Hay" },
+        { "id": "u46_4_2", "sentence": "2. En mi barrio (no, metro) ___.", "answer": "no hay metro" },
+        { "id": "u46_4_3", "sentence": "3. –¿Dónde (estanco)? –(uno) ___ a cien metros.", "answer": "hay un estanco,Hay uno" },
+        { "id": "u46_4_4", "sentence": "4. –¿(muchas tiendas) ___ en tu barrio? –No, (no, muchas) ___.", "answer": "Hay muchas tiendas,no hay muchas" },
+        { "id": "u46_4_5", "sentence": "5. –¿Cuántos (huevos) ___ en la nevera? –___ ninguno.", "answer": "hay,No hay" },
+        { "id": "u46_4_6", "sentence": "6. –¿Cuánta (leche) ___? –(un litro) ___.", "answer": "hay,Hay un litro" },
+        { "id": "u46_4_7", "sentence": "7. –¿(cafetería) ___ por aquí? –Sí, (una) ___ en la Plaza Mayor.", "answer": "Hay alguna cafetería,hay una" },
+        { "id": "u46_4_8", "sentence": "8. –¿Cuántos (yogures) ___ en la nevera? –(tres) ___.", "answer": "hay,Hay tres" }
+      ]
+    }
+  ]
+}

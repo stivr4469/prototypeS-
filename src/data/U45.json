@@ -1,0 +1,56 @@
+{
+  "lessonId": "A1_U45",
+  "title": "Урок 45: Presente de indicativo глагола TENER",
+  "level": "A1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение глагола TENER в настоящем времени",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) <strong>tengo</strong>", "(nosotros, -as) <strong>tenemos</strong>"],
+              ["(tú) <strong>tienes</strong>", "(vosotros, -as) <strong>tenéis</strong>"],
+              ["(usted) <strong>tiene</strong>", "(ustedes) <strong>tienen</strong>"],
+              ["(él, ella) <strong>tiene</strong>", "(ellos, -as) <strong>tienen</strong>"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование TENER",
+      "content": [
+        { "text": "<strong>`Tener` используется для:</strong>" },
+        { "list": [
+          "<strong>- указания на владение.</strong><br><i>¿<strong>Tienes</strong> dinero? / <strong>Tengo</strong> un ordenador nuevo. / Luis no <strong>tiene</strong> coche.</i>",
+          "<strong>- запроса чего-либо (в вопросах).</strong><br><i>–¿<strong>Tienes</strong> un lápiz? –Sí, pero lo necesito.</i>",
+          "<strong>- разговора о семье.</strong><br><i>Cristina <strong>tiene</strong> siete hermanos.<br>¿Cuántos hijos <strong>tenéis</strong>? –No <strong>tenemos</strong> hijos.</i>",
+          "<strong>- указания возраста.</strong><br><i>¿Cuántos años <strong>tienes</strong>? / Mis abuelos <strong>tienen</strong> noventa años.</i>",
+          "<strong>- описания людей, вещей или мест.</strong><br><i>Enrique <strong>tiene</strong> los ojos verdes. / Mi casa no <strong>tiene</strong> jardín.</i>",
+          "<strong>- выражения некоторых физических и эмоциональных состояний.</strong><br><i>hambre, sed, frío, calor, miedo, sueño, fiebre, gripe...<br><strong>Tienes</strong> mala cara. / ¿<strong>Tienes</strong> fiebre?</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 45.1: Дополните фразы с tengo, tienes, tiene... в утвердительной или отрицательной форме",
+      "tasks": [
+        { "id": "u45_1_1", "sentence": "1. PEPA: Jorge ___ treinta y un años, Julio y Margarita ___ veintitrés y yo ___ veintiocho.", "answer": "tiene, tienen, tengo" },
+        { "id": "u45_1_2", "sentence": "2. JORGE: Margarita ___ dos hermanos, Pepa ___ una hermana y Julio y yo ___ dos hermanos.", "answer": "tiene, tiene, tenemos" },
+        { "id": "u45_1_3", "sentence": "3. MARGARITA: Pepa y Jorge ___ tres hijos, pero Julio y yo ___ hijos.", "answer": "tienen, no tenemos" },
+        { "id": "u45_1_4", "sentence": "4. PEPA: Yo ___ los ojos marrones. Los ___ verdes.", "answer": "tengo, tengo" },
+        { "id": "u45_1_5", "sentence": "5. JULIO: Jorge ___ los ojos negros y Margarita y yo los ___ marrones.", "answer": "tiene, tenemos" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 45.2 и 45.3",
+      "content": [
+        { "text": "<strong>Упражнения 45.2 и 45.3 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

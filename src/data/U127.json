@@ -1,0 +1,77 @@
+{
+  "lessonId": "B1_U127",
+  "title": "Unidad 144: Dice que vive... Dijo que vivía... Estilo indirecto (1)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Estilo indirecto",
+      "content": [
+        { "text": "<strong>Dice que no puede venir, que tiene un poco de fiebre</strong> y <strong>dijo que no podía venir que tenía un poco de fiebre</strong> son ejemplos de estilo indirecto." },
+        { "text": "Se usa el estilo indirecto cuando nos referimos a lo dicho por otros o por nosotros mismos en otro momento sin repetir exactamente las mismas palabras." },
+        { "text": "Al transmitir las palabras de otros hay que tener cuidado con algunos cambios lógicos. <br><i>\"Soy el pintor. No puedo ir este mes.\" → Dígale a su madre que la <strong>llamaré</strong> cuando (yo) <strong>pueda</strong>.</i><br><i>\"Mamá, es el pintor.\" → Dice que no puede venir este mes, que <strong>te llamará</strong> cuando (él) <strong>pueda</strong>.</i>" },
+        { "text": "El verbo más común para introducir informaciones en estilo indirecto es <strong>decir</strong>. También se pueden usar <strong>comentar, afirmar, añadir, explicar</strong> o verbos como <strong>asegurar, prometer...</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Los tiempos verbales en el estilo indirecto: algunos ejemplos",
+      "content": [
+        { "text": "<strong>- Cuando se habla del presente.</strong>" },
+        { "table": {
+            "headers": ["Dice que... / Ha dicho que...", ""],
+            "rows": [
+              ["... vive en Guadalajara.", "... <strong>vive</strong> en Guadalajara."],
+              ["... está estudiando mucho.", "... <strong>está estudiando</strong> mucho."]
+            ]
+          }
+        },
+        { "text": "<strong>- Cuando se habla del pasado.</strong>" },
+        { "table": {
+            "headers": ["Dijo que...", ""],
+            "rows": [
+              ["... vive en Guadalajara.", "... <strong>vivía/vive</strong> en Guadalajara."],
+              ["... está estudiando mucho.", "... <strong>estaba/está</strong> estudiando mucho."],
+              ["... ha podido hacerlo.", "... <strong>había/ha podido</strong> hacerlo."],
+              ["... no pudo venir porque estaba enferma.", "... no <strong>había podido/pudo</strong> venir porque <strong>estaba</strong> enferma."],
+              ["... te espero esta noche en su casa.", "... me <strong>esperaba/espera</strong> esa noche en su casa."],
+              ["... lo hará cuando tenga tiempo.", "... lo <strong>haría</strong> cuando <strong>tuviera</strong> tiempo."],
+              ["... iba a hacerlo otro día.", "... <strong>iba</strong> a hacerlo otro día."],
+              ["... sería más feliz con otro trabajo.", "... <strong>sería</strong> más feliz con otro trabajo."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Ejercicio 88.1: Transmita las informaciones telefónicas. Haga los cambios necesarios.",
+      "tasks": [
+        { "id": "u88_1_1", "sentence": "1. “Soy el fontanero. Dígale a su padre que no puedo ir hasta la semana que viene.” → Ha dicho que ___.", "answer": "es el fontanero y que no puede ir hasta la semana que viene" },
+        { "id": "u88_1_2", "sentence": "2. “Soy Sebastián. Dile a don Anselmo que no puedo ir hoy, que mi mujer va a dar a luz.” → ___.", "answer": "Dice que es Sebastián y que no puede ir hoy, que su mujer va a dar a luz" },
+        { "id": "u88_1_3", "sentence": "3. “Soy Chema. Dile a Guillermo que he quedado con Andrea en mi casa.” → ___.", "answer": "Ha dicho que es Chema y que ha quedado con Andrea en su casa" },
+        { "id": "u88_1_4", "sentence": "4. “Soy Luciano. Dile a Marga que me espere, que voy hacia allí.” → ___.", "answer": "Dice que es Luciano y que la espere, que va hacia allí" },
+        { "id": "u88_1_5", "sentence": "5. “Soy el pintor. Dígale a la señora que mañana le envío el presupuesto.” → ___.", "answer": "Dice que es el pintor y que mañana le envía el presupuesto" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Ejercicio 88.2: Complete las respuestas.",
+      "tasks": [
+        { "id": "u88_2_1", "sentence": "1. –¿Crees que Ana me quiere? –Sí, me aseguró que ___.", "answer": "te quería" },
+        { "id": "u88_2_2", "sentence": "2. –¿Sabes si Julio va a ir a Argentina este verano? –Sí, me comentó que ___.", "answer": "iba a ir" },
+        { "id": "u88_2_3", "sentence": "3. –¿Sabes si tus hermanas vieron a Gloria en Murcia? –Sí, me dijeron que la ___.", "answer": "vieron" },
+        { "id": "u88_2_4", "sentence": "4. –¿Estás seguro de que Nati ha comprado las entradas? –Sí, me aseguró que las ___.", "answer": "había comprado" },
+        { "id": "u88_2_5", "sentence": "5. –¿Estás seguro de que Pili y Luis quieren invitarnos? –Sí, me dijeron que ___.", "answer": "querían invitarnos" },
+        { "id": "u88_2_6", "sentence": "6. –¿Sabes si a Albertina le gustaría salir mañana? –Sí, me dijo que le ___.", "answer": "gustaría" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Nota: Ejercicio 88.3",
+      "content": [
+        { "text": "<strong>El ejercicio 88.3 se omite por estar basado en el análisis de una imagen.</strong>" }
+      ]
+    }
+  ]
+}

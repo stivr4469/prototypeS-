@@ -1,0 +1,61 @@
+{
+  "lessonId": "B1_U69",
+  "title": "Урок 69: Конструкция ir a + инфинитив",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Presente de indicativo глагола ir + a + инфинитив",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) voy", "(nosotros, -as) vamos"],
+              ["(tú) vas", "+ a +", "trabajar", "(vosotros, -as) vais"],
+              ["(usted) va", "comer", "(ustedes) van"],
+              ["(él, ella) va", "vivir", "(ellos, -as) van"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br>Verbos con se → Laura y Jaime <strong>se van a casar</strong> este verano. / Laura y Jaime <strong>van a casarse</strong> este verano." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование ir a + инфинитив",
+      "content": [
+        { "text": "<strong>1. Используется для разговора о намерениях или планах на ближайшее будущее.</strong> Информирует о том, что планируется сделать `esta tarde`, `esta noche`, `mañana`, `este verano`...<br><i>Tengo sueño. <strong>Voy a acostarme</strong>.<br>–¿Qué <strong>vas a hacer</strong> esta noche?<br>–¿Cuáles son tus planes para esta noche?<br>–<strong>Voy a ir</strong> al cine.</i>" },
+        { "text": "<strong>2. Используется для обозначения того, что, по нашему мнению, точно произойдет в настоящем, судя по обстоятельствам.</strong><br><i>Esa niña <strong>va a caerse</strong> de la silla.<br>Escucha. <strong>Va a hablar</strong> el presidente.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 69.1 и 69.4",
+      "content": [
+        { "text": "<strong>Упражнения 69.1 и 69.4 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 69.2: ¿Qué van a hacer?",
+      "tasks": [
+        { "id": "u69_2_1", "sentence": "1. El coche está sucio. Lo ___.", "answer": "voy a lavar" },
+        { "id": "u69_2_2", "sentence": "2. Tengo hambre. ___ algo.", "answer": "Voy a comer" },
+        { "id": "u69_2_3", "sentence": "3. Estamos cansados. ___.", "answer": "Vamos a acostarnos" },
+        { "id": "u69_2_4", "sentence": "4. Tengo sed. ___ algo.", "answer": "Voy a beber" },
+        { "id": "u69_2_5", "sentence": "5. Mañana tenemos un examen. ___ un poco.", "answer": "Vamos a estudiar" },
+        { "id": "u69_2_6", "sentence": "6. ___ la calefacción. Tengo frío.", "answer": "Voy a encender" },
+        { "id": "u69_2_7", "sentence": "7. Estoy aburrido. ___ una película.", "answer": "Voy a ver" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 69.3: Дополните диалоги",
+      "tasks": [
+        { "id": "u69_3_1", "sentence": "1. –¿Qué (hacer) ___ este verano? –Los niños (pasar) ___ unos días en un campamento, y Celia y yo (ir) ___ a Marbella. –¿Y dónde (alojarse) ___? –En un chalé alquilado. Lo (compartir) ___ con unos amigos.", "answer": "vais a hacer, van a pasar, vamos a ir, vais a alojaros, vamos a compartir" },
+        { "id": "u69_3_2", "sentence": "2. –¿Cuándo (arreglar) ___ tu habitación, Marta? –Hoy no puedo. (ir) ___ a la fiesta de Sandra. Es su cumpleaños. –¿Y qué le (regalar) ___? –No lo sé. Ahora le (comprar) ___ algo.", "answer": "vas a arreglar, Voy a ir, vas a regalar, voy a comprar" },
+        { "id": "u69_3_3", "sentence": "3. –¿Cuándo (ver) ___ a Luchi? –El domingo. (Salir) ___ con ella y con Elena. –¿Adónde (ir) ___? –(Cenar) ___ fuera.", "answer": "vas a ver, Voy a salir, vais a ir, Vamos a cenar" }
+      ]
+    }
+  ]
+}

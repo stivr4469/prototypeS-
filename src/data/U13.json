@@ -1,0 +1,78 @@
+{
+  "lessonId": "A2_U13",
+  "title": "Урок 13: un coche pequeño (Качественные прилагательные)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование женского рода и множественного числа",
+      "content": [
+        { "text": "Качественные прилагательные (pequeño, alta, cansados) добавляют информацию о человеке, животном или предмете." },
+        { "table": {
+            "headers": ["", "MASCULINO", "FEMENINO", "PLURAL MASCULINO", "PLURAL FEMENINO"],
+            "rows": [
+              ["<strong>-o</strong>", "un coche pequeñ<strong>o</strong>", "una casa pequeñ<strong>a</strong>", "unos chicos alt<strong>os</strong>", "unas chicas alt<strong>as</strong>"],
+              ["<strong>-e</strong>", "un chico inteligent<strong>e</strong>", "una chica inteligent<strong>e</strong>", "unos pantalones verd<strong>es</strong>", "unas flores verd<strong>es</strong>"],
+              ["<strong>-consonante</strong>", "un chico jov<strong>en</strong>", "una chica jov<strong>en</strong>", "unos calcetines azul<strong>es</strong>", "unas camisas azul<strong>es</strong>"],
+              ["<strong>-or, -án, -ón, -ín</strong>", "un chico encantad<strong>or</strong>", "una chica encantad<strong>ora</strong>", "unos hombres charlatan<strong>es</strong>", "unas mujeres charlatan<strong>as</strong>"],
+              ["<strong>PERO:</strong>", "un gorro marr<strong>ón</strong>", "una bufanda marr<strong>ón</strong>", "unos pantalones marron<strong>es</strong>", "unas faldas marron<strong>es</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN (исключения во мн.ч.):</strong> feliz → felices, joven → jóvenes, charlatán → charlatana, marrón → marrones." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Согласование и расположение прилагательных",
+      "content": [
+        { "text": "<strong>Прилагательное всегда имеет тот же род (мужской/женский) и число (единственное/множественное), что и существительное, к которому оно относится.</strong><br><i>Yo soy <strong>moreno</strong>. / Yo soy <strong>morena</strong>.<br>Susana y Elena son muy <strong>trabajadoras</strong>.<br>Me he comprado unos zapatos <strong>negros</strong>.<br>En Guatemala hay ruinas muy <strong>antiguas</strong>.</i>" },
+        { "text": "<strong>ATENCIÓN:</strong> Если прилагательное относится к существительным мужского и женского рода одновременно, оно ставится в мужском роде множественного числа.<br><i>Antonio y Marta son <strong>altos</strong> y <strong>morenos</strong>.<br>Gabi lleva una camisa y un pantalón <strong>negros</strong>.</i>" },
+        { "text": "<strong>Расположение прилагательного:</strong>" },
+        { "list": [
+          "<strong>ser/estar + adjetivo:</strong> <i>Roberto es <strong>simpático</strong>. Juan está muy <strong>delgado</strong>.</i>",
+          "<strong>nombre + adjetivo:</strong> <i>María tiene los ojos <strong>azules</strong>.</i>",
+          "<strong>PERO: buen/buena и mal/mala + nombre:</strong> <i>Julio es un <strong>buen</strong> escritor. Luisa es una <strong>buena</strong> profesora. Felipe es un <strong>mal</strong> ejemplo para sus hijos. Tengo una <strong>mala</strong> noticia.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 13.1: Дополните фразы правильной формой прилагательных",
+      "tasks": [
+        { "id": "u13_1_1", "sentence": "1. Vivo en un piso (pequeño) ___.", "answers": ["pequeño"] },
+        { "id": "u13_1_2", "sentence": "2. Rosa tiene los ojos (verde) ___. Es (rubio) ___ y tiene el pelo (corto) ___ y (rizado) ___. Es muy (simpático) ___ y (alegre) ___, y muy (charlatán) ___.", "answers": ["verdes", "rubia", "corto", "rizado", "simpática", "alegre", "charlatana"] },
+        { "id": "u13_1_3", "sentence": "3. Gerardo y Ana son muy (inteligente) ___.", "answers": ["inteligentes"] },
+        { "id": "u13_1_4", "sentence": "4. Me gustan las rosas (blanco) ___.", "answers": ["blancas"] },
+        { "id": "u13_1_5", "sentence": "5. Don Santiago es una persona (encantador) ___.", "answers": ["encantadora"] },
+        { "id": "u13_1_6", "sentence": "6. Chus y Lolo no son (feliz) ___. Están siempre (enfadado) ___.", "answers": ["felices", "enfadados"] },
+        { "id": "u13_1_7", "sentence": "7. Me he comprado una camisa (rojo) ___ y unos pantalones (gris) ___.", "answers": ["roja", "grises"] },
+        { "id": "u13_1_8", "sentence": "8. Eduardo es (alto) ___ y (fuerte) ___. Es (moreno) ___ y tiene los ojos (negro) ___.", "answers": ["alto", "fuerte", "moreno", "negros"] },
+        { "id": "u13_1_9", "sentence": "9. Begoña lleva una falda (marrón) ___ y una blusa (amarillo) ___.", "answers": ["marrón", "amarilla"] },
+        { "id": "u13_1_10", "sentence": "10. Concha y Rodrigo son muy (simpático) ___ y muy (trabajador) ___. Además son muy (amable) ___.", "answers": ["simpáticos", "trabajadores", "amables"] },
+        { "id": "u13_1_11", "sentence": "11. Las hijas de Andrés son muy (joven) ___.", "answers": ["jóvenes"] }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 13.2",
+      "content": [
+        { "text": "<strong>Упражнение 13.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 13.3: Дополните фразы существительным и прилагательным",
+      "tasks": [
+        { "id": "u13_3_1", "sentence": "1. Susana tiene los <u>ojos azules</u>.", "answer": "ojos azules" },
+        { "id": "u13_3_2", "sentence": "2. La amapola es una ___.", "answer": "flor roja" },
+        { "id": "u13_3_3", "sentence": "3. El español es un ___.", "answer": "idioma fácil" },
+        { "id": "u13_3_4", "sentence": "4. Don Tomás es un ___.", "answer": "profesor bueno" },
+        { "id": "u13_3_5", "sentence": "5. La ___ de Peter es la tortilla de patatas.", "answer": "comida preferida" },
+        { "id": "u13_3_6", "sentence": "6. En Toledo hay muchos ___.", "answer": "edificios antiguos" },
+        { "id": "u13_3_7", "sentence": "7. Esta camisa y estos pantalones están muy viejos. Necesito ___.", "answer": "ropa nueva" },
+        { "id": "u13_3_8", "sentence": "8. Mi ___ es el rojo.", "answer": "color preferido" }
+      ]
+    }
+  ]
+}

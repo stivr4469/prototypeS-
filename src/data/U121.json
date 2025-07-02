@@ -1,0 +1,59 @@
+{
+  "lessonId": "B1_U121",
+  "title": "Урок 121: Придаточные следствия",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Придаточные следствия",
+      "content": [
+        { "text": "`Por eso está en forma` и `(tanta gente que) no pudimos entrar en el museo` — это придаточные следствия. Они указывают на следствие или результат другого действия или ситуации." },
+        { "table": {
+            "headers": ["Формы выражения следствия или результата", ""],
+            "rows": [
+              ["por eso<br>así que<br>por (lo) tanto<br>de modo que<br>de manera que", "+ indicativo", "La semana pasada estuve muy ocupado, <strong>por eso</strong> no te llamé."],
+              ["tanto<br>tanto, -a, -os, -as<br>tan poco<br>tan poco, -a, -os, -as", "+ nombre<br>+ que + indicativo", "Corre <strong>tanto que</strong> gana todas las carreras.<br>Maite tiene <strong>tantos</strong> amigos <strong>que</strong> nunca está en casa."],
+              ["tan + adjetivo<br>tan + adverbio", "+ que + indicativo", "Lourdes es <strong>tan</strong> culta <strong>que</strong> entiende de todo.<br>Me siento <strong>tan</strong> mal <strong>que</strong> me voy a acostar."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 121.1: Объедините две фразы",
+      "tasks": [
+        { "id": "u121_1_1", "sentence": "1. No podremos quedar con Pedro. Esta noche hay partido. (así que) → ___.", "answer": "Esta noche hay partido, así que no podremos quedar con Pedro" },
+        { "id": "u121_1_2", "sentence": "2. Nos acostamos. Era muy tarde. (de manera que) → ___.", "answer": "Era muy tarde, de manera que nos acostamos" },
+        { "id": "u121_1_3", "sentence": "3. Me levanté tarde. No sonó el despertador. (por eso) → ___.", "answer": "No sonó el despertador, por eso me levanté tarde" },
+        { "id": "u121_1_4", "sentence": "4. Estábamos aburridos. Nos fuimos a dar una vuelta. (así que) → ___.", "answer": "Estábamos aburridos, así que nos fuimos a dar una vuelta" },
+        { "id": "u121_1_5", "sentence": "5. No te puedo decir nada. Aún no ha llamado Teresa. (por tanto) → ___.", "answer": "Aún no ha llamado Teresa, por tanto no te puedo decir nada" },
+        { "id": "u121_1_6", "sentence": "6. No me funcionaba el móvil. No pude llamarte. (por eso) → ___.", "answer": "No me funcionaba el móvil, por eso no pude llamarte" },
+        { "id": "u121_1_7", "sentence": "7. Será mejor cenar fuera. No hay mucha comida en casa. (así que) → ___.", "answer": "No hay mucha comida en casa, así que será mejor cenar fuera" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 121.2: Выберите правильную форму",
+      "tasks": [
+        { "id": "u121_2_1", "sentence": "1. Hizo un día (tan/tanto) bueno que comimos en el jardín.", "options": ["tan", "tanto"], "correctOption": "tan" },
+        { "id": "u121_2_2", "sentence": "2. (Tan/Tanto) cansado que me acosté temprano.", "options": ["Tan", "Tanto"], "correctOption": "Tan" },
+        { "id": "u121_2_3", "sentence": "3. Estudia (tanto/tan poco) que no puede aprobar.", "options": ["tanto", "tan poco"], "correctOption": "tan poco" },
+        { "id": "u121_2_4", "sentence": "4. Hablas español (tan/tanto) bien que pareces española.", "options": ["tan", "tanto"], "correctOption": "tan" },
+        { "id": "u121_2_5", "sentence": "5. Tengo (tanta/tanto) sed que me bebería toda la botella de agua.", "options": ["tanta", "tanto"], "correctOption": "tanta" },
+        { "id": "u121_2_6", "sentence": "6. La sopa estaba (tan/tanto) salada que no se podía tomar.", "options": ["tan", "tanto"], "correctOption": "tan" },
+        { "id": "u121_2_7", "sentence": "7. Teníamos (tanto/tan poco) tiempo que no pudimos preparar las maletas.", "options": ["tanto", "tan poco"], "correctOption": "tan poco" },
+        { "id": "u121_2_8", "sentence": "8. Ruperto estudia (tan/tanto) que va a enfermar.", "options": ["tan", "tanto"], "correctOption": "tanto" },
+        { "id": "u121_2_9", "sentence": "9. Había (tanta/tanto) gente que no pudimos ver nada.", "options": ["tanta", "tanto"], "correctOption": "tanta" },
+        { "id": "u121_2_10", "sentence": "10. Somos (tantos/tan pocos) en clase que practicamos muchísimo.", "options": ["tantos", "tan pocos"], "correctOption": "tan pocos" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 121.3 и 121.4",
+      "content": [
+        { "text": "<strong>Упражнения 121.3 и 121.4 пропущены, так как они требуют свободного составления предложений.</strong>" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lessonId": "B1_U95",
+  "title": "Урок 95: Выражения с инфинитивом (2)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение долженствования и необходимости",
+      "content": [
+        { "list": [
+          "<strong>- tener que, deber, haber de + infinitivo</strong> для выражения обязательства или необходимости.<br><i>Este domingo <strong>tengo que trabajar</strong>.<br>Ayer <strong>tuve que quedarme</strong> en la oficina hasta las diez.</i>",
+          "<strong>- se usa deber + infinitivo</strong> для выражения совета.<br><i><strong>Debes llamar</strong> a Rubén. Se lo prometiste.</i>",
+          "<strong>- no tener que + infinitivo</strong> указывает на отсутствие необходимости.<br><i>Mañana no <strong>tengo que madrugar</strong>. Es fiesta.</i>",
+          "<strong>- no deber + infinitivo</strong> указывает на совет не делать чего-либо.<br><i>No <strong>debemos irnos</strong> ahora. Es demasiado pronto.</i>",
+          "<strong>- deber de + infinitivo</strong> выражает предположение или догадку.<br><i><strong>Debe de ser</strong> extranjero. Casi no habla español. (Supongo que es extranjero.)</i>",
+          "<strong>- se usa haber que + infinitivo</strong> для выражения общей или безличной необходимости.<br><i>Para viajar a Egipto <strong>hay que tener</strong> un visado.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение разрешения или запрета",
+      "content": [
+        { "list": [
+          "<strong>- poder + infinitivo</strong> для выражения разрешения или запрета.<br><i>¿<strong>Puedo abrir</strong> la ventana?<br>Aquí no <strong>podemos aparcar</strong>. Está prohibido.</i>",
+          "<strong>- se usa se puede / no se puede + infinitivo</strong> для обозначения общего или безличного разрешения или запрета.<br><i>En este museo no <strong>se pueden hacer</strong> fotos.</i>",
+          "<strong>- se usa no poder</strong> для выражения предположения или догадки о том, что говорящий считает невозможным.<br><i>No <strong>puede ser</strong> Juan. Se fue ayer a Cali. (Es imposible que sea Juan.)</i>"
+        ]},
+        { "text": "<strong>Сравните (Compare):</strong><br><i>No <strong>debe de trabajar</strong> aquí. No lleva uniforme. (Supongo que no trabaja aquí.)<br>No <strong>puede trabajar</strong> aquí. No ha terminado la carrera. (Es imposible que trabaje aquí.)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 95.1: Дополните фразы с tener que, deber, no tener que или no deber",
+      "tasks": [
+        { "id": "u95_1_1", "sentence": "1. ___ hacerme unas gafas nuevas. Con estas no veo bien.", "answer": "Tengo que" },
+        { "id": "u95_1_2", "sentence": "2. ___ ir a ver a Santi. Le va a gustar veros.", "answer": "Deberíais" },
+        { "id": "u95_1_3", "sentence": "3. ¡Qué bien! Hoy ___ fregar los platos. Le toca a Ramón.", "answer": "no tengo que" },
+        { "id": "u95_1_4", "sentence": "4. Esta noche ___ hacer yo la cena. No está Pablo.", "answer": "tengo que" },
+        { "id": "u95_1_5", "sentence": "5. ___ hablar con la boca llena, Carlitos.", "answer": "No debes" },
+        { "id": "u95_1_6", "sentence": "6. Cuando era pequeño, ___ andar tres kilómetros para ir al colegio.", "answer": "tenía que" },
+        { "id": "u95_1_7", "sentence": "7. ¿___ trabajar mañana, Gerardo?", "answer": "Tienes que" },
+        { "id": "u95_1_8", "sentence": "8. Ayer no ___ ir a clase. Fue fiesta.", "answer": "tuve que" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 95.2: Дополните с haber que",
+      "tasks": [
+        { "id": "u95_2_1", "sentence": "1. Si hay un accidente, ___ llamar a una ambulancia.", "answer": "hay que" },
+        { "id": "u95_2_2", "sentence": "2. En el futuro ___ hablar varios idiomas.", "answer": "habrá que" },
+        { "id": "u95_2_3", "sentence": "3. Ayer ___ rescatar a dos personas de un incendio.", "answer": "hubo que" },
+        { "id": "u95_2_4", "sentence": "4. Cuando yo iba al colegio, ___ llamar de usted a los profesores.", "answer": "había que" },
+        { "id": "u95_2_5", "sentence": "5. ___ ayudar a las personas mayores.", "answer": "Hay que" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 95.3: Замените подчеркнутые выражения на tener que или haber que",
+      "tasks": [
+        { "id": "u95_3_1", "sentence": "1. <u>Es necesario que eche</u> gasolina al coche. → ___ gasolina al coche.", "answer": "Tengo que echar" },
+        { "id": "u95_3_2", "sentence": "2. Para ir a la universidad <u>es necesario coger</u> el autobús 53. → ___", "answer": "hay que coger" },
+        { "id": "u95_3_3", "sentence": "3. En mi colegio <u>era obligatorio levantarse</u> cuando entraba el profesor. → ___", "answer": "teníamos que levantarnos" },
+        { "id": "u95_3_4", "sentence": "4. <u>No es necesario que lleves</u> corbata en la oficina. → ___", "answer": "No tienes que llevar" },
+        { "id": "u95_3_5", "sentence": "5. Para viajar a algunos países <u>es obligatorio vacunarse</u> contra la fiebre amarilla. → ___", "answer": "hay que vacunarse" },
+        { "id": "u95_3_6", "sentence": "6. Si hay un incendio, <u>es necesario llamar</u> a los bomberos. → ___", "answer": "hay que llamar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 95.4: Дополните фразы с poder в утвердительной или отрицательной форме",
+      "tasks": [
+        { "id": "u95_4_1", "sentence": "1. Lo siento. ___ hacer fuego aquí. Está prohibido.", "answer": "No se puede" },
+        { "id": "u95_4_2", "sentence": "2. David, ¿nos ___ ir a casa?", "answer": "podemos" },
+        { "id": "u95_4_3", "sentence": "3. ¿Sabes si ___ usar el móvil en la academia?", "answer": "se puede" },
+        { "id": "u95_4_4", "sentence": "4. ___ recibir mensajes personales en los ordenadores de la empresa.", "answer": "No se pueden" },
+        { "id": "u95_4_5", "sentence": "5. Os ___ llevar mi coche esta noche si queréis.", "answer": "podéis" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 95.5: Замените подчеркнутые выражения на deber de или no poder",
+      "tasks": [
+        { "id": "u95_5_1", "sentence": "1. <u>Supongo que es muy tarde</u>. No hay gente por la calle. → ___ ser muy tarde.", "answer": "Debe de" },
+        { "id": "u95_5_2", "sentence": "2. <u>Es imposible que Lupe esté enferma</u>. Acabo de verla en el cine. → Lupe ___ estar enferma.", "answer": "no puede" },
+        { "id": "u95_5_3", "sentence": "3. <u>Supongo que no está casado</u>. Va siempre solo. → No ___ estar casado.", "answer": "debe de" },
+        { "id": "u95_5_4", "sentence": "4. <u>Supongo que Norma y Sandra están fuera</u>. No cogen el teléfono. → ___ estar fuera.", "answer": "Deben de" },
+        { "id": "u95_5_5", "sentence": "5. <u>Es imposible que tengáis hambre</u>. Acabáis de comer. → No ___ tener hambre.", "answer": "podéis" }
+      ]
+    }
+  ]
+}

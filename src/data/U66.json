@@ -1,0 +1,68 @@
+{
+  "lessonId": "B1_U66",
+  "title": "Урок 66: Pretérito pluscuamperfecto",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы Pretérito pluscuamperfecto",
+      "content": [
+        { "text": "<strong>Había cerrado</strong> и <strong>se había afeitado</strong> — это формы давнопрошедшего времени (pretérito pluscuamperfecto)." },
+        { "text": "<strong>`pretérito imperfecto de haber` + `participio` (причастие)</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) había", "(nosotros, -as) habíamos"],
+              ["(tú) habías", "trabajado", "(vosotros, -as) habíais"],
+              ["(él, ella, usted) había", "comido, vivido", "(ellos, -as, ustedes) habían"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Pretérito pluscuamperfecto",
+      "content": [
+        { "text": "<strong>1. Используется для обозначения прошлого действия, которое завершилось до другого прошлого действия.</strong><br><i>(1) el banco cerró → (2) llegué al banco<br>Cuando <strong>llegué</strong> al banco (2), ya <strong>había cerrado</strong> (1).<br><br>(1) el tren se fue → (2) llegamos a la estación<br>Cuando <strong>llegamos</strong> a la estación (2), el tren se <strong>había ido</strong> ya (1).</i>" },
+        { "text": "<strong>2. Используется для объяснения результатов или последствий другого прошлого действия.</strong><br><i>–¿Por qué suspendiste? –No <strong>había estudiado</strong> nada.</i>" },
+        { "text": "<strong>3. Используется, чтобы сказать или спросить, было ли действие совершено до определенного момента в прошлом.</strong><br><i>Cuando <strong>conocí</strong> a Teresa, ya <strong>había tenido</strong> el niño.<br>Cuando Helga <strong>vino</strong> a España, ¿<strong>había estudiado</strong> ya algo de español?</i>" },
+        { "text": "<strong>4. Используется с `todavía no / no... todavía` для обозначения действия, которое еще не произошло в определенный момент прошлого.</strong><br><i>Cuando Mariano y Concha <strong>se conocieron</strong>, Concha todavía no <strong>había acabado</strong> la carrera.<br>Cuando <strong>llamé</strong> a casa de Antonio, no se <strong>había levantado</strong> todavía.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 66.1: Составьте одно предложение из двух",
+      "tasks": [
+        { "id": "u66_1_1", "sentence": "1. La reunión acabó. Llegué a la oficina. → Cuando llegué a la oficina, la reunión ___.", "answer": "había acabado" },
+        { "id": "u66_1_2", "sentence": "2. El avión se fue. Llegamos al aeropuerto. → ___.", "answer": "Cuando llegamos al aeropuerto, el avión ya se había ido" },
+        { "id": "u66_1_3", "sentence": "3. Cerraron las tiendas. Aurora quiso comprar comida. → ___.", "answer": "Cuando Aurora quiso comprar comida, ya habían cerrado las tiendas" },
+        { "id": "u66_1_4", "sentence": "4. Cené. Sonia me llamó. → ___.", "answer": "Cuando Sonia me llamó, yo ya había cenado" },
+        { "id": "u66_1_5", "sentence": "5. Hubo un accidente. Nos pararon en la carretera. → ___.", "answer": "Nos pararon en la carretera porque había habido un accidente" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 66.2: Соедините фразы с их последствиями",
+      "content": [{ "text": "<strong>Последствия:</strong> a. No pudieron entrar en casa. b. Aprobó todo. c. Tuvieron que volver a casa. d. No pude comprar nada. e. No pudimos comer en casa. f. Te desmayaste. g. No pude hablar con él. h. No la reconocimos. i. Llegó tarde." }],
+      "tasks": [
+        { "id": "u66_2_1", "sentence": "1. No pude comprar nada porque ___.", "answer": "me había dejado la tarjeta de crédito" },
+        { "id": "u66_2_2", "sentence": "2. ___ porque se habían dejado las luces encendidas.", "answer": "Tuvieron que volver a casa" },
+        { "id": "u66_2_3", "sentence": "3. ___ porque se habían dejado las llaves dentro.", "answer": "No pudieron entrar en casa" },
+        { "id": "u66_2_4", "sentence": "4. ___ porque no habíamos reservado mesa.", "answer": "No pudimos comer en casa" },
+        { "id": "u66_2_5", "sentence": "5. ___ porque había estudiado mucho.", "answer": "Aprobó todo" },
+        { "id": "u66_2_6", "sentence": "6. ___ porque habías tenido un pequeño accidente.", "answer": "Te desmayaste" },
+        { "id": "u66_2_7", "sentence": "7. ___ porque ya se había ido.", "answer": "No pude hablar con él" },
+        { "id": "u66_2_8", "sentence": "8. ___ porque se había cortado el pelo.", "answer": "No la reconocimos" },
+        { "id": "u66_2_9", "sentence": "9. ___ porque no había comprado comida.", "answer": "Llegó tarde" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 66.3",
+      "content": [
+        { "text": "<strong>Упражнение 66.3 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    }
+  ]
+}

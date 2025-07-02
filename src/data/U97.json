@@ -1,0 +1,96 @@
+{
+  "lessonId": "B1_U97",
+  "title": "Урок 97: Глаголы + инфинитив или сослагательное наклонение",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Глагол + инфинитив или сослагательное наклонение",
+      "content": [
+        { "text": "<strong>1. Некоторые глаголы могут сопровождаться другим глаголом в инфинитиве, когда оба глагола относятся к одному и тому же лицу.</strong><br><i>Preferimos (nosotros) <strong>comer</strong> (nosotros) en casa.<br>A Ester le gustaría (ella) <strong>dormir</strong> (ella) sola.</i>" },
+        { "text": "<strong>2. Когда два глагола относятся к разным лицам, второй глагол ставится в `que + subjuntivo`.</strong><br><i>Preferimos (nosotros) que <strong>lo hagas</strong> (tú).<br>Espero (yo) que <strong>se levanten</strong> (ellos) temprano.</i>" },
+        { "text": "<strong>3. `Presente de subjuntivo` используется, если действие относится к настоящему или будущему.</strong><br><i>Me encanta (a mí) que <strong>estéis</strong> (vosotros) aquí.</i>" },
+        { "text": "<strong>4. `Pretérito imperfecto de subjuntivo` используется, если действие относится к прошлому или условному наклонению.</strong><br><i>Preferí (yo) que lo <strong>hicieran</strong> ellos.<br>Me encantaría (a mí) que <strong>arreglasen</strong> (ellos) la lavadora.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Compare:",
+      "content": [
+        { "table": {
+            "headers": ["Инфинитив: оба глагола к одному лицу", "Subjuntivo: глаголы к разным лицам"],
+            "rows": [
+              [
+                "Necesito (yo) <strong>alquilar</strong> (yo) un coche.<br>Nos gustaría (a nosotros) <strong>conocer</strong> (nosotros) Guatemala.",
+                "Necesito (yo) que me <strong>prestes</strong> (tú) el coche.<br>Nos gustaría (a nosotros) que <strong>conocieran</strong> (ustedes) Guatemala."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие глаголы",
+      "content": [
+        { "text": "<strong>- С некоторыми глаголами (`dejar, permitir, prohibir`) можно использовать инфинитив или сослагательное наклонение, когда глаголы относятся к разным лицам.</strong><br><i>El director no <strong>deja comer</strong> en las aulas. / El director no <strong>deja que comamos</strong> en las aulas.<br>Te <strong>prohíbo salir</strong>. / Te <strong>prohíbo que salgas</strong>.</i>" },
+        { "text": "<strong>- `Acordarse de, recordar, olvidarse de, olvidar` + инфинитив или сослагательное наклонение, когда глаголы относятся к разным лицам.</strong><br><i>Acuérdate (tú) de <strong>comprar</strong> (tú) el pan, Tomás.<br>No olvides (tú) <strong>echar</strong> (tú) la llave.<br><br>Miguel, acuérdate (tú) de que es mi cumpleaños mañana.<br>No olvidéis (vosotros) que <strong>tenemos</strong> (nosotros) una reunión a las once.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 97.1: Дополните фразы с инфинитивом или presente de subjuntivo",
+      "tasks": [
+        { "id": "u97_1_1", "sentence": "1. Espero que Enrique me (devolver) ___ la cámara pronto.", "answer": "devuelva" },
+        { "id": "u97_1_2", "sentence": "2. No quiero (gastar) ___ demasiado dinero en el coche.", "answer": "gastar" },
+        { "id": "u97_1_3", "sentence": "3. Prefiero que (hacer) ___ calor en verano.", "answer": "haga" },
+        { "id": "u97_1_4", "sentence": "4. Mi médico siempre me aconseja que (comer) ___ más.", "answer": "coma" },
+        { "id": "u97_1_5", "sentence": "5. ¿Necesitas que te (echar) ___ una mano?", "answer": "eche" },
+        { "id": "u97_1_6", "sentence": "6. Elsa prefiere (tener) ___ los sábados libres.", "answer": "tener" },
+        { "id": "u97_1_7", "sentence": "7. Siempre intentáis que (conducir) ___ yo.", "answer": "conduzca" },
+        { "id": "u97_1_8", "sentence": "8. ¿Qué queréis que (llevar) ___ yo a la fiesta?", "answer": "lleve" },
+        { "id": "u97_1_9", "sentence": "9. No necesitan que nadie las (ayudar) ___.", "answer": "ayude" },
+        { "id": "u97_1_10", "sentence": "10. ¿Me dejas (usar) ___ tu móvil?", "answer": "usar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 97.2: Дополните фразы",
+      "tasks": [
+        { "id": "u97_2_1", "sentence": "1. Me gustaría que el Ayuntamiento hiciera en su ciudad? → Me gustaría que ___ más árboles.", "answer": "plantara" },
+        { "id": "u97_2_2", "sentence": "2. Me gustaría que (hacer parques) ___.", "answer": "hiciera parques" },
+        { "id": "u97_2_3", "sentence": "3. Me gustaría que (poner autobuses) ___.", "answer": "pusiera autobuses" },
+        { "id": "u97_2_4", "sentence": "4. Me gustaría que (limpiar las calles) ___.", "answer": "limpiara las calles" },
+        { "id": "u97_2_5", "sentence": "5. Me gustaría que (bajar los impuestos) ___.", "answer": "bajara los impuestos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 97.3: Дополните фразы с infinitivo, presente или pretérito imperfecto de subjuntivo",
+      "content": [{ "text": "<strong>Глаголы:</strong> acompañar, ayudar, hablar, hacer, ir, jugar, nadar" }],
+      "tasks": [
+        { "id": "u97_3_1", "sentence": "1. Ángeles no quiso que yo la ___ al médico.", "answer": "acompañara" },
+        { "id": "u97_3_2", "sentence": "2. Si no os importa, preferiría que ___ en otra parte.", "answer": "jugarais" },
+        { "id": "u97_3_3", "sentence": "3. ¿A quién le gustaría ___ un viaje por la Baja California?", "answer": "hacer" },
+        { "id": "u97_3_4", "sentence": "4. Mónica me ha pedido que la ___ a pintar su piso.", "answer": "ayude" },
+        { "id": "u97_3_5", "sentence": "5. Antes me avergonzaba de ___ mal español.", "answer": "hablar" },
+        { "id": "u97_3_6", "sentence": "6. Mis amigos insistieron en que (yo) ___ a un concurso de televisión.", "answer": "fuera" },
+        { "id": "u97_3_7", "sentence": "7. Mi padre me enseñó a ___ cuando tenía ocho años.", "answer": "nadar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 97.4: Напишите фразы с этими словами",
+      "tasks": [
+        { "id": "u97_4_1", "sentence": "1. Me gustaría / Antonio / ser / amable. → Me gustaría que Antonio ___ más amable.", "answer": "fuera" },
+        { "id": "u97_4_2", "sentence": "2. Luisa no quiso / salir / el domingo. → ___", "answer": "Luisa no quiso salir el domingo" },
+        { "id": "u97_4_3", "sentence": "3. Mario se ha acostumbrado / a / Lupe / hacer la comida. → ___", "answer": "Mario se ha acostumbrado a que Lupe haga la comida" },
+        { "id": "u97_4_4", "sentence": "4. Recordad / mis padres / llegar / esta noche. → ___", "answer": "Recordad que mis padres llegan esta noche" },
+        { "id": "u97_4_5", "sentence": "5. La profesora no deja / usar / el diccionario / en clase. → ___", "answer": "La profesora no deja usar el diccionario en clase" },
+        { "id": "u97_4_6", "sentence": "6. Ayer me olvidé / de / llamar / a Carolina. → ___", "answer": "Ayer me olvidé de llamar a Carolina" },
+        { "id": "u97_4_7", "sentence": "7. El director prohibió / llamar a móviles / desde la oficina. → ___", "answer": "El director prohibió que se llamara a móviles desde la oficina" },
+        { "id": "u97_4_8", "sentence": "8. No te olvides / de / nosotros / ir al teatro / mañana. → ___", "answer": "No te olvides de que nosotros vamos al teatro mañana" }
+      ]
+    }
+  ]
+}

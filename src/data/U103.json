@@ -1,0 +1,46 @@
+{
+  "lessonId": "B1_U103",
+  "title": "Урок 103: Наречия и выражения частоты",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия и выражения частоты",
+      "content": [
+        { "text": "`Nunca` и `todos los días` — это выражения частоты. Они указывают на частоту, с которой что-то происходит, и отвечают на вопрос `¿con qué frecuencia?`" },
+        { "list": [
+          "<strong>100%:</strong> siempre",
+          "<strong>80%:</strong> normalmente, casi siempre",
+          "<strong>60%:</strong> a menudo, frecuentemente",
+          "<strong>30%:</strong> a veces, de vez en cuando",
+          "<strong>5%:</strong> casi nunca",
+          "<strong>0%:</strong> nunca"
+        ]},
+        { "text": "<strong>- `Siempre`, `a veces`... могут стоять в начале или в конце фразы, или перед глаголом.</strong><br><i><strong>Siempre</strong> estudio por la noche. / Luis <strong>siempre</strong> estudia por la noche.<br>Trabajo <strong>a veces</strong> por la tarde.</i>" },
+        { "text": "<strong>- `Normalmente` обычно ставится в начале фразы.</strong><br><i><strong>Normalmente</strong>, los sábados salgo con mis amigos.</i>" },
+        { "text": "<strong>- `Casi nunca, nunca` + глагол в утвердительной форме. / `verbo en negativo` + `casi nunca / nunca`.</strong><br><i><strong>Nunca</strong> voy a la ópera. / <strong>No voy nunca</strong> a la ópera.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражения частоты с другими конструкциями",
+      "content": [
+        { "list": [
+          "<strong>todos los días / meses / años...</strong><br><i>Me levanto <strong>temprano todos los días</strong>.</i>",
+          "<strong>todas las noches / mañanas / tardes...</strong><br><i><strong>Todas las noches</strong> antes de acostarme <strong>leo</strong> un rato.</i>",
+          "<strong>(todos) los días / martes...</strong><br><i><strong>Voy</strong> a clase de guitarra <strong>(todos) los martes</strong>.</i>",
+          "<strong>una vez, dos/tres... veces + al día / mes / año... / a la semana</strong><br><i><strong>Nos reunimos una vez al mes</strong>.<br><strong>Limpiamos</strong> la casa <strong>dos veces a la semana</strong>.</i>",
+          "<strong>un día / dos días...</strong><br><i><strong>Como</strong> en casa de mis padres <strong>un día a la semana</strong>.</i>"
+        ]},
+        { "text": "<strong>- `Todos los días, una vez al año...` могут стоять в начале или в конце фразы, или поодиночке.</strong><br><i><strong>Todos los veranos</strong> nos reunimos toda la familia.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 103.1, 103.2, 103.3, 103.4",
+      "content": [
+        { "text": "<strong>Упражнения этого урока пропущены, так как они требуют субъективной оценки частоты или составления свободных предложений, что сложно реализовать в текущем формате.</strong>" }
+      ]
+    }
+  ]
+}

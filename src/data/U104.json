@@ -1,0 +1,54 @@
+{
+  "lessonId": "B1_U104",
+  "title": "Урок 104: Наречия количества",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия количества",
+      "content": [
+        { "text": "<strong>Mucho, bastante</strong> и <strong>demasiado</strong> — это наречия количества. Они указывают на разную степень интенсивности по отношению к словам, которые они определяют." },
+        { "text": "<strong>1. `muy, bastante...` с прилагательными и наречиями</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>muy<br>bastante<br>algo<br>un poco<br>poco<br>demasiado<br>nada</strong>", "+ adjetivo<br><br>+ adverbio", "Fidel cocina <strong>muy bien</strong>.<br>Julia y su hermano son <strong>bastante diferentes</strong>.<br>Es <strong>algo tarde</strong>.<br>Este ejercicio es <strong>un poco difícil</strong>.<br>Susana es <strong>poco cariñosa</strong>.<br>Este hotel es <strong>demasiado caro</strong>.<br>Gema no es <strong>nada egoísta</strong>."]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br>`Algo` и `un poco` имеют положительное значение. `Poco` имеет отрицательное значение.<br><i>Soy <strong>algo / un poco</strong> tímida. (Soy tímida.)<br>Soy <strong>poco</strong> tímida. (No soy tímida.)</i>" },
+        { "text": "<strong>2. `mucho, bastante...` с глаголами</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["verbo +", "<strong>mucho<br>bastante<br>algo<br>poco<br>demasiado<br>nada</strong>", "Beatriz trabaja <strong>mucho</strong>.<br>Ernesto piensa <strong>bastante</strong>.<br>Nati estudia <strong>algo</strong>, pero poco.<br>Este tren corre <strong>poco</strong>.<br>Felipe duerme <strong>demasiado</strong>.<br>Juan no come <strong>nada</strong>."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 104.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u104_1_1", "sentence": "1. Me encanta esta novela. Es extraordinaria. Es (muy/poco) buena.", "options": ["muy", "poco"], "correctOption": "muy" },
+        { "id": "u104_1_2", "sentence": "2. No se puede oír nada. La música está (algo/bastante) alta.", "options": ["algo", "bastante"], "correctOption": "bastante" },
+        { "id": "u104_1_3", "sentence": "3. Roberto no es (poco/nada) alegre. Nunca quiere salir.", "options": ["poco", "nada"], "correctOption": "nada" },
+        { "id": "u104_1_4", "sentence": "4. Este libro no es (bastante/nada) caro. Solo cuesta cinco euros.", "options": ["bastante", "nada"], "correctOption": "nada" },
+        { "id": "u104_1_5", "sentence": "5. Rubén es (demasiado/poco) sincero. A veces, es mejor no decir toda la verdad.", "options": ["demasiado", "poco"], "correctOption": "demasiado" },
+        { "id": "u104_1_6", "sentence": "6. Silvia se lleva (muy/demasiado) bien con su hermana. Se ayudan mucho.", "options": ["muy", "demasiado"], "correctOption": "muy" },
+        { "id": "u104_1_7", "sentence": "7. Es (algo/poco) tarde. Deberíamos irnos.", "options": ["algo", "poco"], "correctOption": "algo" },
+        { "id": "u104_1_8", "sentence": "8. Tomás es (poco/un poco) cariñoso. Nunca da un beso a nadie.", "options": ["poco", "un poco"], "correctOption": "poco" },
+        { "id": "u104_1_9", "sentence": "9. Ricardo está (poco/un poco) débil. Debería hacer algo de ejercicio.", "options": ["poco", "un poco"], "correctOption": "un poco" },
+        { "id": "u104_1_10", "sentence": "10. Ayer estuve con Elisa y la encontré (bastante/poco) nerviosa. No paraba de hablar.", "options": ["bastante", "poco"], "correctOption": "bastante" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 104.2 и 104.3",
+      "content": [
+        { "text": "<strong>Упражнения 104.2 и 104.3 пропущены, так как они основаны на анализе изображений и свободном составлении фраз.</strong>" }
+      ]
+    }
+  ]
+}

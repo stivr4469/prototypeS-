@@ -1,0 +1,80 @@
+{
+  "lessonId": "B1_U58",
+  "title": "Урок 58: Pretérito indefinido: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение правильных глаголов в Pretérito indefinido",
+      "content": [
+        { "text": "<strong>Saliste, me quedé, vi</strong> и <strong>nació</strong> — это формы простого прошедшего времени (pretérito indefinido)." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(yo)", "trabaj<strong>é</strong>", "com<strong>í</strong>", "viv<strong>í</strong>"],
+              ["(tú)", "trabaj<strong>aste</strong>", "com<strong>iste</strong>", "viv<strong>iste</strong>"],
+              ["(usted)", "trabaj<strong>ó</strong>", "com<strong>ió</strong>", "viv<strong>ió</strong>"],
+              ["(él, ella)", "trabaj<strong>ó</strong>", "com<strong>ió</strong>", "viv<strong>ió</strong>"],
+              ["(nosotros, -as)", "trabaj<strong>amos</strong>", "com<strong>imos</strong>", "viv<strong>imos</strong>"],
+              ["(vosotros, -as)", "trabaj<strong>asteis</strong>", "com<strong>isteis</strong>", "viv<strong>isteis</strong>"],
+              ["(ustedes)", "trabaj<strong>aron</strong>", "com<strong>ieron</strong>", "viv<strong>ieron</strong>"],
+              ["(ellos, -as)", "trabaj<strong>aron</strong>", "com<strong>ieron</strong>", "viv<strong>ieron</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong><br>- глаголы на -d-ar → d-í, d-iste, d-io...<br>- глаголы на -c-ar: sacar → (yo) saqu<strong>é</strong>, (tú) sacaste, (él, ella) sacó...<br>- глаголы на -z-ar: empezar → (yo) empec<strong>é</strong>, (tú) empezaste, (él, ella) empezó...<br>- глаголы на -g-ar: llegar → (yo) llegu<strong>é</strong>, (tú) llegaste, (él, ella) llegó..." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Pretérito indefinido",
+      "content": [
+        { "text": "<strong>Используется для разговора о действиях или ситуациях, произошедших в конкретный момент в прошлом: `terminado`, `anoche`, `ayer`, `el jueves (pasado)`, `la semana pasada`, `hace dos meses`, `en 1995`...</strong><br><i>Anoche no <strong>salimos</strong>. Nos <strong>quedamos</strong> en casa a descansar.<br>Mis padres <strong>vivieron</strong> en Quito desde 1990 hasta 2005.<br>La Primera Guerra Mundial <strong>empezó</strong> en 1914 y <strong>acabó</strong> en 1918.<br>De joven, <strong>viví</strong> cuatro años en México.</i>" },
+        { "text": "<strong>- Может использоваться для описания последовательности завершенных действий.</strong><br><i>Cuando <strong>acabó</strong> la película, <strong>encendieron</strong> las luces.<br>El profesor <strong>entró</strong> en el aula, <strong>abrió</strong> el libro y <strong>empezó</strong> a explicar.</i>" },
+        { "text": "<strong>- Используется в повествованиях и биографиях.</strong><br><i>Miguel Ángel Asturias <strong>nació</strong> en Guatemala en 1899. <strong>Estudió</strong> Derecho en su país y pronto se <strong>interesó</strong> por las antiguas religiones y culturas de América Central. <strong>Publicó</strong> su primer libro, Leyendas de Guatemala, en Madrid, en 1930. <strong>Recibió</strong> el Premio Nobel de Literatura en 1967.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 58.1: Дополните фразы с Pretérito indefinido",
+      "tasks": [
+        { "id": "u58_1_1", "sentence": "1. Pablo y Mar (casarse) ___ hace tres meses.", "answers": ["se casaron"] },
+        { "id": "u58_1_2", "sentence": "2. El domingo por la mañana (yo, no salir) ___, (levantarse) ___ tarde, (lavarse) ___ el pelo, (desayunar) ___ y (escribir) ___ algunas cartas.", "answers": ["no salí", "me levanté", "me lavé", "desayuné", "escribí"] },
+        { "id": "u58_1_3", "sentence": "3. El año pasado (nosotros, ver) ___ a Mercedes Sosa en directo.", "answers": ["vimos"] },
+        { "id": "u58_1_4", "sentence": "4. Yolanda y Arturo (vivir) ___ en Argentina hasta 1998.", "answers": ["vivieron"] },
+        { "id": "u58_1_5", "sentence": "5. –¿Qué os (pasar) ___ ayer? –(No sonar) ___ el despertador y (llegar) ___ tarde.", "answers": ["pasó", "No sonó", "llegamos"] },
+        { "id": "u58_1_6", "sentence": "6. –¿Cuándo (conocerse) ___ Gala y tú? –(Conocerse) ___ en 1999, durante un viaje a Santo Domingo.", "answers": ["os conocisteis", "Nos conocimos"] },
+        { "id": "u58_1_7", "sentence": "7. –¿A qué hora (acabar) ___ la fiesta anoche? –No lo sé. Yo (acostarse) ___ a las doce.", "answers": ["acabó", "me acosté"] },
+        { "id": "u58_1_8", "sentence": "8. ¿(tú, salir) ___ el domingo?", "answers": ["Saliste"] }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 58.2: Дополните вопросы",
+      "tasks": [
+        { "id": "u58_2_1", "sentence": "1. Ayer conocí a Donato. → ¿A quién ___ ayer?", "answer": "conociste" },
+        { "id": "u58_2_2", "sentence": "2. El domingo dimos un paseo por el Malecón. → ¿Por dónde ___ un paseo el domingo?", "answer": "disteis" },
+        { "id": "u58_2_3", "sentence": "3. De joven, viví seis meses en Chile. → ¿Dónde ___ de joven?", "answer": "viviste" },
+        { "id": "u58_2_4", "sentence": "4. El año pasado trabajé en una academia. → ¿Dónde ___ el año pasado?", "answer": "trabajaste" },
+        { "id": "u58_2_5", "sentence": "5. Anoche hablé con Alicia. → ¿Con quién ___ anoche?", "answer": "hablaste" },
+        { "id": "u58_2_6", "sentence": "6. La semana pasada comimos en un mesón. → ¿Dónde ___ la semana pasada?", "answer": "comisteis" },
+        { "id": "u58_2_7", "sentence": "7. El sábado pasamos el día con Araceli. → ¿Con quién ___ el día el sábado?", "answer": "pasasteis" },
+        { "id": "u58_2_8", "sentence": "8. Di una fiesta hace una semana. → ¿Cuándo ___ una fiesta?", "answer": "diste" }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 58.3: Дополните историю с Pretérito indefinido",
+      "tasks": [
+        { "id": "u58_3_1", "sentence": "Una noche me (despertar) ___ un ruido. (levantarse) ___ y (acercarse) ___ a la ventana. En la calle (ver) ___ una figura vestida de blanco. Cuando la figura me (ver) ___, me (llamar) ___ con la mano. (Dar) ___ un grito y la figura (alejarse) ___. (Regresar) ___ a la cama, (apagar) ___ la luz y (acostarse) ___. Nunca más (volver) ___ a verla.", "answers": ["despertó", "me levanté", "me acerqué", "vi", "vio", "llamó", "Di", "se alejó", "Regresé", "apagué", "me acosté", "volví"] }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 58.4: Дополните биографию Исабель Альенде",
+      "tasks": [
+        { "id": "u58_4_1", "sentence": "Isabel Allende es chilena, pero (nacer) ___ en Lima, Perú, el 2 de agosto de 1942. En 1945 su madre (regresar) ___ a Chile con Isabel y sus hermanos. En 1962 (casarse) ___ por primera vez y al año siguiente (nacer) ___ su hija Paula. En 1975, dos años después del golpe militar en Chile, (refugiarse) ___ en Caracas, Venezuela. Aquí (escribir) ___ su gran éxito, La casa de los espíritus. En 1987 (trasladarse) ___ a los Estados Unidos, donde reside actualmente.", "answers": ["nació", "regresó", "se casó", "nació", "se refugió", "escribió", "se trasladó"] }
+      ]
+    }
+  ]
+}

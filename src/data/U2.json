@@ -1,0 +1,88 @@
+{
+  "lessonId": "A1_U2",
+  "title": "Урок 2: Мужской и женский род (2)",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Род неодушевленных предметов",
+      "content": [
+        {
+          "text": "Род неодушевленных существительных в испанском языке в основном определяется по окончанию слова."
+        },
+        {
+          "text": "Мужской род (masculino):",
+          "points": [
+            "Слова, оканчивающиеся на -o: el libro (книга), el cuaderno (тетрадь).",
+            "Слова греческого происхождения на -ma: el problema (проблема), el sistema (система), el idioma (язык)."
+          ]
+        },
+        {
+          "text": "Женский род (femenino):",
+          "points": [
+            "Большинство слов, оканчивающихся на -a: la mesa (стол), la ventana (окно).",
+            "Слова с окончаниями -ción, -sión, -dad: la canción (песня), la pasión (страсть), la bondad (доброта)."
+          ]
+        },
+        {
+          "text": "Исключения, которые важно запомнить:",
+          "points": [
+            "Мужской род на -a: el día (день), el mapa (карта), el sofá (диван).",
+            "Женский род на -o: la mano (рука), la foto (фотография), la radio (радио)."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ClassifyItems",
+      "title": "Упражнение 2.1: Распределите слова по роду",
+      "columns": [
+        {"title": "EL...", "id": "el"},
+        {"title": "LA...", "id": "la"}
+      ],
+      "items": [
+        {"word": "atención", "correctColumn": "la"},
+        {"word": "cama", "correctColumn": "la"},
+        {"word": "casa", "correctColumn": "la"},
+        {"word": "cine", "correctColumn": "el"},
+        {"word": "ciudad", "correctColumn": "la"},
+        {"word": "cuaderno", "correctColumn": "el"},
+        {"word": "cumpleaños", "correctColumn": "el"},
+        {"word": "día", "correctColumn": "el"},
+        {"word": "expresión", "correctColumn": "la"},
+        {"word": "foto", "correctColumn": "la"},
+        {"word": "habitación", "correctColumn": "la"},
+        {"word": "hotel", "correctColumn": "el"},
+        {"word": "idioma", "correctColumn": "el"},
+        {"word": "lámpara", "correctColumn": "la"},
+        {"word": "lápiz", "correctColumn": "el"},
+        {"word": "leche", "correctColumn": "la"},
+        {"word": "libro", "correctColumn": "el"},
+        {"word": "luz", "correctColumn": "la"},
+        {"word": "mano", "correctColumn": "la"},
+        {"word": "minuto", "correctColumn": "el"},
+        {"word": "museo", "correctColumn": "el"},
+        {"word": "noche", "correctColumn": "la"},
+        {"word": "página", "correctColumn": "la"},
+        {"word": "planeta", "correctColumn": "el"},
+        {"word": "problema", "correctColumn": "el"},
+        {"word": "radio", "correctColumn": "la"},
+        {"word": "teatro", "correctColumn": "el"},
+        {"word": "universidad", "correctColumn": "la"},
+        {"word": "vaso", "correctColumn": "el"},
+        {"word": "ventana", "correctColumn": "la"},
+        {"word": "viernes", "correctColumn": "el"}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 2.2: Дополните таблицы с животными",
+      "tasks": [
+        {"id": "u2_2_1", "sentence": "el gato → la ___", "answers": ["gata"]},
+        {"id": "u2_2_2", "sentence": "el perro → la ___", "answers": ["perra"]},
+        {"id": "u2_2_3", "sentence": "el león → la ___", "answers": ["leona"]},
+        {"id": "u2_2_4", "sentence": "el gallo → la ___", "answers": ["gallina"]},
+        {"id": "u2_2_5", "sentence": "el elefante → la ___", "answers": ["elefanta"]}
+      ]
+    }
+  ]
+}

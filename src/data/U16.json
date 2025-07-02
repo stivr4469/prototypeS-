@@ -1,0 +1,100 @@
+{
+  "lessonId": "A2_U16",
+  "title": "Урок 16: Сравнительная степень равенства",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Сравнительные формы равенства",
+      "content": [
+        { "text": "Формы <strong>tan alto, tan grande, igual de grande</strong> являются сравнительными выражениями. Они используются, чтобы указать на одинаковое качество у двух или более людей, животных или предметов." },
+        { "list": [
+            "<i>Sonia es <strong>igual de guapa que</strong> su madre.</i>",
+            "<i>El tren no es <strong>tan rápido como</strong> el avión.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование сравнительной степени равенства",
+      "content": [
+        { "table": {
+            "headers": ["Степень", "Формула", "Примеры"],
+            "rows": [
+              ["<strong>Равенство (=)</strong>", "<strong>tan + adjetivo + como</strong><br><br><strong>igual de + adjetivo (+ que)</strong>", "Soy <strong>tan alto como</strong> tú, pero no soy <strong>tan fuerte</strong>.<br>Un toro no es <strong>tan rápido como</strong> un caballo.<br><br>Soy <strong>igual de alto que</strong> mi hermana.<br>Mi hermana y yo somos <strong>igual de altos</strong>."]
+            ]
+          }
+        },
+        { "text": "<strong>Прилагательное имеет ту же форму (мужской/женский род, ед./мн. число), что и предмет, к которому оно относится.</strong><br><i>Mi piso es <strong>igual de pequeño que</strong> el tuyo.<br>Mi hermana es <strong>tan alta como</strong> yo.<br>Sonia y su madre son <strong>igual de guapas</strong>.<br>Estos televisores no son <strong>tan caros</strong>.</i>" },
+        { "text": "<strong>`que/como` + личное местоимение</strong><br><i>Los hijos de Andrés no son <strong>tan guapos como</strong> él.<br>Yo soy <strong>igual de trabajadora que</strong> vosotros.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Compare:",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>–Juani es simpática.</strong><br>–Pues Loli es <strong>tan simpática</strong>.<br>–Pues Loli es <strong>tan simpática como</strong> ella. / Pues Loli es <strong>igual de simpática</strong>.", "<strong>–Felipe es muy trabajador.</strong><br>–Pues sus hermanos no son <strong>tan trabajadores</strong>. / Pues sus hermanos no son <strong>tan trabajadores como</strong> él. / Pues sus hermanos no son <strong>igual de trabajadores</strong>."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "ВНИМАНИЕ (ATENCIÓN):",
+      "content": [
+        { "text": "Обычно предпочитается конструкция `no tan + adjetivo positivo`, вместо `más + adjetivo negativo` или `menos + adjetivo positivo`.<br><i>Adolfo es <strong>más feo que</strong> Jorge. → Adolfo no es <strong>tan guapo como</strong> Jorge.<br>Luisa es <strong>menos fuerte que</strong> Ana. → Luisa no es <strong>tan fuerte como</strong> Ana.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 16.1: Дополните фразы, используя слова из списка и сравнительные конструкции",
+      "content": [{ "text": "<strong>alegre    alto    caro    inteligente    joven    rápido</strong>" }],
+      "tasks": [
+        { "id": "u16_1_1", "sentence": "(David, 52 años; Alonso, 40 años) David ___ Alonso.", "answer": "no es tan joven como" },
+        { "id": "u16_1_2", "sentence": "(Ana, 1,72 m; María, 1,72 m) Ana y María ___ altas.", "answer": "son igual de" },
+        { "id": "u16_1_3", "sentence": "(Darío, 90/100; Margarita, 90/100) Darío y Margarita ___.", "answer": "son igual de inteligentes" },
+        { "id": "u16_1_4", "sentence": "(naranjas, 2,20 euros el kilo; manzanas, 1,90 euros el kilo) Las manzanas ___ las naranjas.", "answer": "no son tan caras como" },
+        { "id": "u16_1_5", "sentence": "(Antonio, 100 m/9,5 s; Paco, 100 m/ 9,5 s) Antonio y Paco ___.", "answer": "son igual de rápidos" },
+        { "id": "u16_1_6", "sentence": "(Esther, alegre ++; Pilar, alegre +) Pilar ___ Esther.", "answer": "no es tan alegre como" },
+        { "id": "u16_1_7", "sentence": "(Fermín, 1,75 m; Álvaro, 1,78 m) Fermín ___ Álvaro.", "answer": "no es tan alto como" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 16.2",
+      "content": [
+        { "text": "<strong>Упражнение 16.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 16.3: Перепишите фразы, используя сравнение равенства",
+      "tasks": [
+        { "id": "u16_3_1", "sentence": "Jorge es más feo que yo. → Jorge ___ yo.", "answer": "no es tan guapo como" },
+        { "id": "u16_3_2", "sentence": "Elio es más bajo que su padre. → Elio ___ su padre.", "answer": "no es tan alto como" },
+        { "id": "u16_3_3", "sentence": "La silla es más incómoda que el sillón. → La silla ___ el sillón.", "answer": "no es tan cómoda como" },
+        { "id": "u16_3_4", "sentence": "Vosotras sois más simpáticas que Hugo. → Hugo ___ vosotras.", "answer": "no es tan simpático como" },
+        { "id": "u16_3_5", "sentence": "Eres más fuerte que yo. → Yo ___ tú.", "answer": "no soy tan fuerte como" },
+        { "id": "u16_3_6", "sentence": "6. Él es peor que Rinaldo. → Él ___ Rinaldo.", "answer": "no es tan bueno como" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 16.4: Дополните диалоги",
+      "tasks": [
+        { "id": "u16_4_1", "sentence": "–Luis es muy listo. –Pues su hermano es ___ él.", "answer": "igual de listo/tan listo como" },
+        { "id": "u16_4_2", "sentence": "–Rosario es muy elegante. –Pues sus hijas no son ___.", "answer": "tan elegantes" },
+        { "id": "u16_4_3", "sentence": "–Jesús es muy simpático. –Pues su hermana no es ___.", "answer": "tan simpática" },
+        { "id": "u16_4_4", "sentence": "–Los peruanos son muy amables. –Pues los colombianos son ___.", "answer": "igual de amables" },
+        { "id": "u16_4_5", "sentence": "–Esta cama es muy cómoda. –Pues la mía no es ___.", "answer": "tan cómoda" },
+        { "id": "u16_4_6", "sentence": "–Juan es muy amable. –Pues sus hijos no son ___.", "answer": "tan amables" },
+        { "id": "u16_4_7", "sentence": "–Este piso es viejo. –Pues el mío es ___.", "answer": "igual de viejo" },
+        { "id": "u16_4_8", "sentence": "–Elvira es muy guapa. –Pues sus hermanas son ___.", "answer": "igual de guapas" }
+      ]
+    }
+  ]
+}

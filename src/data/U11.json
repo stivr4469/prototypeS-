@@ -1,0 +1,91 @@
+{
+  "lessonId": "A2_U11",
+  "title": "Урок 11: el rojo, uno rojo (Опущение существительного)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Опущение существительного с артиклями",
+      "content": [
+        { "text": "Артикли `el, la, los, las` и `un, una, unos, unas` могут использоваться без существительного, когда из контекста понятно, о каком предмете или явлении идет речь." },
+        { "text": "<strong>`el, la, los, las` + `uno, una, unos, unas` + прилагательное</strong>" },
+        { "list": [
+            "–¿Qué camisa te gusta más? –<strong>La verde</strong>. (вместо 'la camisa verde')",
+            "–¿Qué tipo de zapatos quiere? –Quiero <strong>unos cómodos</strong>. (вместо 'unos zapatos cómodos')",
+            "–¿Quién es don Tomás? –<strong>El delgado</strong>. (вместо 'el señor delgado')"
+          ]
+        },
+        { "text": "<strong>Сравните (Compare):</strong>" },
+        { "table": {
+            "headers": ["Определённый артикль", "Неопределённый артикль"],
+            "rows": [
+                [
+                    "Используется `el, la, los, las`, когда речь о чём-то конкретном или специфическом:<br>–¿Quién es Susi? –<strong>La alta</strong>. (та самая высокая девушка)",
+                    "Используется `un, una, unos, unas`, когда речь о классе или типе объектов:<br>–¿Qué tipo de coche busca? –<strong>Uno pequeño</strong>. (какой-нибудь маленький автомобиль)"
+                ]
+            ]
+        }},
+        { "text": "<strong>ВНИМАНИЕ (ATENCIÓN):</strong><br>Форма прилагательного (мужской, женский, ед.ч. или мн.ч.) должна совпадать с формой существительного, которое оно заменяет.<br><i>–¿Qué zapatillas te gustan más? –<strong>Las rojas</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие конструкции для опущения существительного",
+      "content": [
+        { "text": "<strong>1. `el, la, los, las` + `de` + существительное = владение, ситуация, материал</strong>" },
+        { "list": [
+          "Mi coche es peor que <strong>el de</strong> mi hermano. (= el coche de mi hermano)",
+          "–¿Quién es Alicia? –<strong>La del</strong> vestido blanco. (= la chica del vestido blanco)",
+          "Esas gafas no me gustan. Prefiero <strong>las de</strong> la derecha. (= las gafas de la derecha)",
+          "–¿Qué pendientes te vas a poner? –<strong>Los de</strong> oro. (= los pendientes de oro)"
+        ]},
+        { "text": "<strong>2. `lo` + прилагательное мужского рода в ед.ч. = `la cosa` (вещь, дело)</strong>" },
+        { "list": [
+          "<strong>Lo bueno</strong> del verano son las vacaciones. (= la cosa buena del verano)",
+          "<strong>Lo mejor</strong> de Perú es la gente. (= la mejor cosa de Perú)",
+          "Me gusta <strong>lo salado</strong>. (= las cosas saladas)",
+          "<strong>Lo más bonito</strong> de la vida son los amigos. (= la cosa más bonita)"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 11.1: Дополните фразы с el, la, los, las или un, una, unos, unas и прилагательными",
+      "tasks": [
+        { "id": "u11_1_1", "sentence": "1. ¿Qué zapatos prefieres, (negro, blanco) ___ o ___?", "answers": ["los negros", "los blancos"] },
+        { "id": "u11_1_2", "sentence": "2. –¿Qué tipo de cuaderno quiere? –(pequeño) ___.", "answers": ["Uno pequeño"] },
+        { "id": "u11_1_3", "sentence": "3. –¿Te gustan estos sombreros? –(negro, marrón) Me gusta ___, pero no ___.", "answers": ["el negro", "el marrón"] },
+        { "id": "u11_1_4", "sentence": "4. –¿Qué pantalones prefieres? –(rojo) ___. (blanco) ___ son muy caros.", "answers": ["Los rojos", "Los blancos"] },
+        { "id": "u11_1_5", "sentence": "5. ¿Ves a esas dos chicas? (alto) ___ es Marta.", "answers": ["La alta"] },
+        { "id": "u11_1_6", "sentence": "6. –¿Qué tipo de libro quieres leer? –(entretenido) ___.", "answers": ["Uno entretenido"] },
+        { "id": "u11_1_7", "sentence": "7. ¿Qué manzanas prefiere, (verde) ___ o (rojo) ___?", "answers": ["las verdes", "las rojas"] },
+        { "id": "u11_1_8", "sentence": "8. Esta taza está sucia. Dame (limpio) ___, por favor.", "answers": ["una limpia"] },
+        { "id": "u11_1_9", "sentence": "9. ¿Qué clase de cámara quiere? –Quiero (bueno) ___, aunque sea cara.", "answers": ["una buena"] },
+        { "id": "u11_1_10", "sentence": "10. –¿Tienes ordenador? –Sí, tengo (portátil) ___.", "answers": ["uno portátil"] }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 11.2",
+      "content": [
+        { "text": "<strong>Упражнение 11.2 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 11.3: Дополните фразы с el, la, los, las или lo",
+      "tasks": [
+        { "id": "u11_3_1", "sentence": "1. ¿Qué es (mejor) ___ de Cuba?", "answers": ["lo mejor"] },
+        { "id": "u11_3_2", "sentence": "2. ¿Qué naranjas prefiere, (caro, barato) ___ o ___?", "answers": ["las caras", "las baratas"] },
+        { "id": "u11_3_3", "sentence": "3. No me gusta (amargo) ___.", "answers": ["lo amargo"] },
+        { "id": "u11_3_4", "sentence": "4. (barato) ___ es siempre caro.", "answers": ["Lo barato"] },
+        { "id": "u11_3_5", "sentence": "5. ¿Veis a aquel grupo de chicas? Mis hermanas son (moreno) ___.", "answers": ["las morenas"] },
+        { "id": "u11_3_6", "sentence": "6. (importante) ___ es ser feliz.", "answers": ["Lo importante"] },
+        { "id": "u11_3_7", "sentence": "7. (malo) ___ del invierno es el frío.", "answers": ["Lo malo"] },
+        { "id": "u11_3_8", "sentence": "8. ¿Qué pendientes te gustan más, (largo, corto) ___ o ___?", "answers": ["los largos", "los cortos"] },
+        { "id": "u11_3_9", "sentence": "9. –¿Qué coche es el tuyo? –(pequeño) ___.", "answers": ["El pequeño"] },
+        { "id": "u11_3_10", "sentence": "10. (pequeño) ___ es hermoso.", "answers": ["Lo pequeño"] }
+      ]
+    }
+  ]
+}

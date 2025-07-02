@@ -1,0 +1,37 @@
+{
+  "lessonId": "B1_U113",
+  "title": "Урок 113: Предлоги (4)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлог `a`",
+      "content": [
+        { "text": "<strong>Используется `a`:</strong><br>- перед косвенным дополнением. <i>Le he regalado mi portátil <strong>a</strong> Pedro.</i><br>- перед прямым дополнением, если это конкретный человек, животное или персонифицированный предмет. <i>Anoche vimos <strong>a</strong> Elena en el concierto.</i><br><strong>НО:</strong> не используется, если прямое дополнение — неопределенный человек. <i>Necesito <strong>un</strong> médico.</i><br>- для обозначения цели движения. <i>El fontanero ha venido <strong>a</strong> arreglar el baño.</i><br>- для указания способа или инструмента. <i>Hoy hemos comido calamares <strong>a</strong> la romana.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлог `de`",
+      "content": [
+        { "text": "<strong>Используется `de`:</strong><br>- для обозначения владения. <i>Este es el despacho <strong>de</strong> Elvira.</i><br>- для обозначения происхождения. <i>Esos señores son <strong>de</strong> Costa Rica.</i><br>- для обозначения материала, темы или содержания. <i>Me encantan las tartas <strong>de</strong> chocolate.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлоги `para`, `en`, `sobre`",
+      "content": [
+        { "text": "<strong>`para`:</strong> для обозначения цели. <i>Necesito gafas de sol (gafas <strong>para</strong> protegerme del sol)</i>" },
+        { "text": "<strong>`en`:</strong> с видами транспорта. <i>El viaje al Machu Picchu se hace <strong>en</strong> tren y <strong>en</strong> autobús.</i><br><strong>НО:</strong> a pie, a caballo" },
+        { "text": "<strong>`sobre`:</strong> для указания приблизительности или темы. <i>El cartero suele llegar <strong>sobre</strong> las diez. / Mañana hay una conferencia <strong>sobre</strong> la globalización.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 113.1, 113.2, 113.3, 113.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены.</strong>" }
+      ]
+    }
+  ]
+}

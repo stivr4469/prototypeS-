@@ -1,0 +1,78 @@
+{
+  "lessonId": "A2_U36",
+  "title": "Урок 36: Местоимения косвенного дополнения",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Что такое косвенное дополнение?",
+      "content": [
+        { "text": "<strong>Me, te, le, nos</strong> и др. используются как косвенное дополнение глагола для обозначения человека, животного или предмета, который уже известен или был упомянут." },
+        { "text": "<i>Luis ha regalado un reloj <strong>a Chus</strong>. (A Chus es el complemento indirecto.) → Luis <strong>le</strong> ha regalado un reloj.</i><br><i>He preguntado <strong>a Ana</strong> por sus padres. (A Ana es el complemento indirecto.) → <strong>Le</strong> he preguntado por sus padres.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы местоимений косвенного дополнения",
+      "content": [
+        { "table": {
+            "headers": ["SINGULAR", "PLURAL"],
+            "rows": [
+              ["me (a mí)", "nos (a nosotros, a nosotras)"],
+              ["te (a ti)", "os (a vosotros, a vosotras)"],
+              ["le (a él; a ella; a usted; a una cosa)", "les (a ellos; a ellas; a ustedes; a unas cosas)"]
+            ]
+          }
+        },
+        { "list": [
+          "<i>–Ayer vi a Rodolfo. –¿<strong>Le</strong> dijiste que quiero verlo?</i>",
+          "<i>–¿Qué os ha preguntado Leonor? –<strong>Nos</strong> ha preguntado dónde vivimos.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Расположение и использование",
+      "content": [
+        { "text": "<strong>1. Расположение:</strong> обычно местоимение ставится перед глаголом.<br><i>(no) <strong>me, te, le...</strong> + verbo<br>–¿Qué te ha dicho el médico? –<strong>Me</strong> ha dicho que estoy bien.<br>–¿Qué te ha preguntado Charo? –No <strong>me</strong> ha preguntado nada.</i>" },
+        { "text": "<strong>2. Когда речь идет о людях, используются `a mí, a ti, a él...` помимо `me, te, le...`:</strong><br>- чтобы прояснить, о ком речь: <i><strong>Le</strong> dije que no era verdad. (¿A usted, a él, a ella?) → <strong>Le</strong> dije <strong>a él</strong> que no era verdad.</i><br>- для эмфазы: <i>–¿Te ha dado el dinero? –<strong>A mí</strong> no <strong>me</strong> ha dado nada. (Puede que lo haya dado a otros, pero a mí no.)</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Обычно, когда речь идет о людях, используются `se, me, te, le...`, помимо `a la persona`, когда она упоминается впервые.<br><i>–¿<strong>Le</strong> has regalado algo a Pedro? –Sí, <strong>le</strong> he regalado una cartera.<br>–¿Qué <strong>le</strong> has regalado a tu familia? –A Juana <strong>le</strong> he regalado un collar y a los niños <strong>les</strong> he comprado juguetes.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 36.1",
+      "content": [
+        { "text": "<strong>Упражнение 36.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 36.2: Ответьте на вопросы по модели",
+      "tasks": [
+        { "id": "u36_2_1", "sentence": "1. ¿Qué te han dicho? → <u>No me han dicho nada</u>.", "answer": "No me han dicho nada" },
+        { "id": "u36_2_2", "sentence": "2. ¿Qué le ha dicho a usted? → ___", "answer": "No me ha dicho nada" },
+        { "id": "u36_2_3", "sentence": "3. ¿Qué os ha dado? → ___", "answer": "No nos ha dado nada" },
+        { "id": "u36_2_4", "sentence": "4. ¿Qué le han preguntado a Susana? → ___", "answer": "No le han preguntado nada" },
+        { "id": "u36_2_5", "sentence": "5. ¿Qué me ha dicho? → ___", "answer": "No te ha dicho nada" },
+        { "id": "u36_2_6", "sentence": "6. ¿Qué nos han preguntado? → ___", "answer": "No os han preguntado nada" },
+        { "id": "u36_2_7", "sentence": "7. ¿Qué te ha vendido? → ___", "answer": "No me ha vendido nada" },
+        { "id": "u36_2_8", "sentence": "8. ¿Qué les han dado a ustedes? → ___", "answer": "No nos han dado nada" },
+        { "id": "u36_2_9", "sentence": "9. ¿Qué le han preguntado a Alberto? → ___", "answer": "No le han preguntado nada" },
+        { "id": "u36_2_10", "sentence": "10. ¿Qué les han regalado a tus hijas? → ___", "answer": "No les han regalado nada" }
+      ]
+    },
+    {
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 36.3: Напишите вопросы и ответы как в примере",
+      "tasks": [
+        { "id": "u36_3_1", "sentence": "1. ¿Te digo algo Luis? / A mí no me dijo nada", "answers": [] },
+        { "id": "u36_3_2", "sentence": "2. (a ustedes) ¿___? / A nosotros no ___ nada", "answers": ["Les digo algo a ustedes", "nos dijo"] },
+        { "id": "u36_3_3", "sentence": "3. (a Marcela) ¿___? / A ella no ___ nada", "answers": ["Le digo algo a Marcela", "le dijo"] },
+        { "id": "u36_3_4", "sentence": "4. (a Tomás) ¿___? / A él no ___ nada", "answers": ["Le digo algo a Tomás", "le dijo"] },
+        { "id": "u36_3_5", "sentence": "5. (a usted) ¿___? / A mí no ___ nada", "answers": ["Le digo algo a usted", "me dijo"] },
+        { "id": "u36_3_6", "sentence": "6. ¿Me ha comprado algo Yvonne? / ___", "answers": ["Sí, te ha comprado algo"] }
+      ]
+    }
+  ]
+}

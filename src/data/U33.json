@@ -1,0 +1,85 @@
+{
+  "lessonId": "A2_U33",
+  "title": "Урок 33: ¡qué!, ¡cuánto!, ¡cómo!... (Восклицания)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Восклицательные слова",
+      "content": [
+        { "text": "<strong>Qué, cuánto</strong> и <strong>cómo</strong> являются восклицательными словами. Они используются для выражения различных чувств: радости, удивления, восхищения, разочарования..." },
+        { "list": [
+            "<strong>sorpresa:</strong> ¡Qué casa más grande! Pensé que sería más pequeña.",
+            "<strong>admiración:</strong> ¡Qué salón más bonito! Es muy moderno.",
+            "<strong>desagrado:</strong> ¡Cuánta gente hay! No vamos a tener sitio."
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы восклицаний",
+      "content": [
+        { "text": "<strong>1. `qué` используется для выражения чувств по поводу характеристик кого-либо или чего-либо.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>qué + adjetivo (+verbo) (+sujeto)</strong>", "¡Qué alta (es) Linda!<br>¡Qué bien conduces!"],
+              ["<strong>qué + adverbio (+verbo) (+sujeto)</strong>", "¡Qué frío (hace)!<br>¡Qué suerte tiene Pablo!"],
+              ["<strong>qué + nombre + tan, más + adjetivo (+verbo) (+sujeto)</strong>", "¡Qué pendientes tan/más caros!<br>¡Qué casa tan/más bonita (tiene Lola)!"]
+            ]
+          }
+        },
+        { "text": "<strong>2. `cuánto, -a, -os, -as` используется для выражения чувств (удивление, восхищение и т.д.) по поводу количества или интенсивности действия.</strong><br><i>- `cuánto, -a, -os, -as` + существительное (+глагол): ¡<strong>Cuánto</strong> dinero se gasta Pili! ¡<strong>Cuántos</strong> sellos tienes!</i><br><i>- `cuánto` + глагол (+субъект): ¡<strong>Cuánto</strong> trabaja Lidia!</i><br>- `Cuánto, cuánta, cuántos, cuántas` имеют ту же форму (мужской/женский род, ед./мн. число), что и существительное, к которому они относятся." },
+        { "text": "<strong>3. `cómo` используется для выражения чувств (удивление, разочарование и т.д.) по поводу манеры или интенсивности действия.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["<strong>cómo + verbo (+sujeto)</strong>", "¡Cómo canta Ángela! Tiene una voz preciosa.<br>¡Cómo come! Se nota que tiene hambre.<br>¡Cómo nieva!"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 33.1",
+      "content": [
+        { "text": "<strong>Упражнение 33.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 33.2: Дополните фразы с qué, cómo или cuánto, cuánta...",
+      "tasks": [
+        { "id": "u33_2_1", "sentence": "1. ¡___ duerme José!", "answer": "Cuánto" },
+        { "id": "u33_2_2", "sentence": "2. ¡___ noche tan fría!", "answer": "Qué" },
+        { "id": "u33_2_3", "sentence": "3. ¡___ estrellas!", "answer": "Cuántas" },
+        { "id": "u33_2_4", "sentence": "4. ¡___ corren tus hijos!", "answer": "Cómo" },
+        { "id": "u33_2_5", "sentence": "5. ¡___ barbaridad! ¡___ cuesta ese cuadro!", "answer": "Qué, cuánto" },
+        { "id": "u33_2_6", "sentence": "6. ¡___ llueve! Parece el diluvio.", "answer": "Cómo" },
+        { "id": "u33_2_7", "sentence": "7. ¡___ libros tiene Marisa!", "answer": "Cuántos" },
+        { "id": "u33_2_8", "sentence": "8. ¡___ lloran! ¡Pobrecillos!", "answer": "Cómo" },
+        { "id": "u33_2_9", "sentence": "9. ¡___ vago es Lolo! No le gusta nada trabajar.", "answer": "Qué" },
+        { "id": "u33_2_10", "sentence": "10. ¡___ tarde es! Tengo que irme.", "answer": "Qué" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 33.3: Выразите свои чувства по поводу следующих утверждений",
+      "tasks": [
+        { "id": "u33_3_1", "sentence": "1. Jorge tiene muy mala suerte. → ¡___ mala suerte tiene Jorge!", "answer": "Qué" },
+        { "id": "u33_3_2", "sentence": "2. Hoy hace mucho calor. → ¡___ calor hace hoy!", "answer": "Qué" },
+        { "id": "u33_3_3", "sentence": "3. Lotta habla español muy bien. → ¡___ bien habla español Lotta!", "answer": "Qué" },
+        { "id": "u33_3_4", "sentence": "4. Estamos muy cansadas. → ¡___ cansadas estamos!", "answer": "Qué" },
+        { "id": "u33_3_5", "sentence": "5. Alfonso conduce muy mal. → ¡___ mal conduce Alfonso!", "answer": "Qué" },
+        { "id": "u33_3_6", "sentence": "6. Sara y Eva son muy listas. → ¡___ listas son Sara y Eva!", "answer": "Qué" },
+        { "id": "u33_3_7", "sentence": "7. Rodri come muy deprisa. → ¡___ deprisa come Rodri!", "answer": "Qué" },
+        { "id": "u33_3_8", "sentence": "8. Lucío es muy guapo. → ¡___ guapo es Lucío!", "answer": "Qué" },
+        { "id": "u33_3_9", "sentence": "9. Rosario duerme mucho. → ¡___ duerme Rosario!", "answer": "Cuánto" },
+        { "id": "u33_3_10", "sentence": "10. Alberto gasta mucho dinero. → ¡___ dinero gasta Alberto!", "answer": "Cuánto" },
+        { "id": "u33_3_11", "sentence": "11. Hay mucha gente en la playa. → ¡___ gente hay en la playa!", "answer": "Cuánta" },
+        { "id": "u33_3_12", "sentence": "12. Tengo mucha suerte. → ¡___ suerte tengo!", "answer": "Cuánta" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lessonId": "B1_U99",
+  "title": "Урок 99: Причастие (Participio)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы причастия",
+      "content": [
+        { "text": "<strong>Terminado</strong> и <strong>cerrado</strong> — это формы причастия (participio)." },
+        { "text": "<strong>Правильные глаголы:</strong><br>-ar → -<strong>ado</strong> (trabaj-ar → trabaj-<strong>ado</strong>)<br>-er/-ir → -<strong>ido</strong> (com-er → com-<strong>ido</strong>, viv-ir → viv-<strong>ido</strong>)" },
+        { "text": "<strong>Неправильные глаголы:</strong><br>abrir → abierto, cubrir → cubierto, escribir → escrito, volver → vuelto, decir → dicho, poner → puesto, romper → roto, ver → visto, morir → muerto, hacer → hecho" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование причастия",
+      "content": [
+        { "text": "<strong>1. С глаголом `haber` для образования сложных времен.</strong> Форма причастия не меняется.<br><i>Mis padres <strong>han vuelto</strong> hace un rato. / Sonia no <strong>había comido</strong> cuando la llamé.</i>" },
+        { "text": "<strong>- С возвратными глаголами местоимения ставятся перед `haber`.</strong><br><i>Lidia no <strong>se había atrevido</strong> a bañarse. / ¿<strong>Os habéis lavado</strong>?</i>" },
+        { "text": "<strong>2. Может использоваться как прилагательное.</strong> В этом случае оно согласуется в роде и числе с существительным.<br><i>Óscar <strong>parece cansado</strong>. / Muchas personas <strong>estaban heridas</strong>.</i>" },
+        { "text": "<strong>3. В некоторых конструкциях:</strong><br><strong>- `estar` + причастие</strong> указывает на результат действия.<br><i>Ya <strong>está arreglada</strong> la lavadora.</i><br><strong>- `seguir` + причастие</strong> указывает на продолжение состояния.<br><i>La puerta del salón <strong>sigue rota</strong>.</i><br><strong>- `llevar` + причастие</strong> указывает на длительность состояния с определенного момента.<br><i>Rita y Jaime <strong>llevan casados</strong> quince años. / Rita y Jaime <strong>llevan quince años casados</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 99.1: Дополните фразы с причастиями глаголов",
+      "tasks": [
+        { "id": "u99_1_1", "sentence": "1. ¿Qué te ha ___ Diana de mí?", "answer": "dicho" },
+        { "id": "u99_1_2", "sentence": "2. ¿Está Juana ___?", "answer": "despierta" },
+        { "id": "u99_1_3", "sentence": "3. Se ha ___ la gasolina.", "answer": "acabado" },
+        { "id": "u99_1_4", "sentence": "4. ¿Dónde has ___ la nueva lámpara?", "answer": "puesto" },
+        { "id": "u99_1_5", "sentence": "5. A mí me encanta el cordero ___.", "answer": "asado" },
+        { "id": "u99_1_6", "sentence": "6. Vargas Llosa ha ___ muchas novelas.", "answer": "escrito" },
+        { "id": "u99_1_7", "sentence": "7. Mira. La peluquería ya está ___. Podemos entrar.", "answer": "abierta" },
+        { "id": "u99_1_8", "sentence": "8. Hay que cortar las ramas ___.", "answer": "rotas" },
+        { "id": "u99_1_9", "sentence": "9. Paco siempre ha ___ mucha suerte.", "answer": "tenido" },
+        { "id": "u99_1_10", "sentence": "10. Los barrenderos han ___ las hojas ___.", "answer": "recogido, caídas" },
+        { "id": "u99_1_11", "sentence": "11. ¿Has ___ ya a la nueva directora?", "answer": "conocido" },
+        { "id": "u99_1_12", "sentence": "12. Mis amigos todavía no han ___ de las vacaciones.", "answer": "vuelto" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 99.2: Дополните текст причастиями глаголов из списка",
+      "content": [{ "text": "<strong>Глаголы:</strong> alojar, asar, comprar, dedicar, desayunar, gustar, ir, levantar, pedir, tener, ver" }],
+      "tasks": [
+        { "id": "u99_2_1", "sentence": "¡Hola Maribel!<br>Estoy en Madrid. He ___ con mi familia a pasar unos días. Es una ciudad tranquila en agosto. Estamos ___ en el hotel Asturias, junto a la Puerta del Sol. Hoy hemos ___ pronto, hemos ___ en el mismo hotel y hemos ___ al Museo del Prado. Hemos ___ las salas ___ a Goya. Hemos ___ mucho. Ahora mismo te estoy escribiendo desde un restaurante. Mi hermano y yo hemos ___ pollo ___ para cenar. Hace mucho calor. Te he ___ un regalo que espero que te guste. Besos y hasta pronto.", "answer": "venido, alojados, levantado, desayunado, ido, visto, dedicadas, comido, pedido, asado, comprado" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 99.3: Перепишите фразы с estar, seguir или llevar",
+      "tasks": [
+        { "id": "u99_3_1", "sentence": "1. Se ha estropeado el ordenador. → El ordenador ___.", "answer": "está estropeado" },
+        { "id": "u99_3_2", "sentence": "2. La biblioteca cerró hace tiempo y aún estaba cerrada cuando fui ayer. → ___", "answer": "La biblioteca seguía cerrada" },
+        { "id": "u99_3_3", "sentence": "3. Esta academia abrió en 2002 y aún está abierta. → ___", "answer": "Esta academia lleva abierta desde 2002" },
+        { "id": "u99_3_4", "sentence": "4. El tren paró hace un rato y aún está parado. → ___", "answer": "El tren sigue parado" },
+        { "id": "u99_3_5", "sentence": "5. Se había roto el móvil. → ___", "answer": "El móvil estaba roto" },
+        { "id": "u99_3_6", "sentence": "6. La impresora se había averiado hacía una semana. → ___", "answer": "La impresora llevaba averiada una semana" },
+        { "id": "u99_3_7", "sentence": "7. Esta comida se hizo hace dos días. → ___", "answer": "Esta comida está hecha" },
+        { "id": "u99_3_8", "sentence": "8. Hace poco detuvieron al sospechoso y aún está detenido. → ___", "answer": "El sospechoso sigue detenido" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lessonId": "B2_U124",
+  "title": "Урок 124: Правила ударения (2): дифтонги и хиатусы",
+  "level": "B2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Дифтонги и хиатусы",
+      "content": [
+        { "text": "<strong>- Группы `i/u` и `e/a/o` обычно образуют один слог (дифтонг).</strong><br><i>a-<strong>gua</strong>, ai-<strong>re</strong>, aus-tra-<strong>lia</strong>-no, can-<strong>ción</strong>, <strong>ciu</strong>-dad, <strong>die</strong>-ci-nue-ve</i>" },
+        { "text": "<strong>- Слова с дифтонгами следуют общим правилам ударения.</strong><br><i>remediad (оканчивается на -d)<br>empieza (ударение на предпоследнем слоге)</i>" },
+        { "text": "<strong>- Группы `i` и `u` образуют один слог и следуют общим правилам ударения.</strong><br><i><strong>cir</strong>-cui-to, <strong>rui</strong>-do, <strong>viu</strong>-do</i>" },
+        { "text": "<strong>- `Hiato` (хиатус) возникает, когда две гласные произносятся как два разных слога.</strong><br>- когда `i`, `u` ударные, они несут графическое ударение: <i>Ma-<strong>rí</strong>-a, a-<strong>brí</strong>-ais, <strong>dú</strong>-o, <strong>hú</strong>-a</i><br>- когда `a, e, o` образуют два слога: <i><strong>a</strong>-é-re-o, le-<strong>ón</strong></i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 124.2: Поставьте графическое ударение, где необходимо",
+      "tasks": [
+        { "id": "u124_2_1", "sentence": "1. estais", "answer": "estáis" },
+        { "id": "u124_2_2", "sentence": "2. cuidate", "answer": "cuídate" },
+        { "id": "u124_2_3", "sentence": "3. habitacion", "answer": "habitación" },
+        { "id": "u124_2_4", "sentence": "4. Europa", "answer": "Europa" },
+        { "id": "u124_2_5", "sentence": "5. Colombia", "answer": "Colombia" },
+        { "id": "u124_2_6", "sentence": "6. acostaos", "answer": "acostaos" },
+        { "id": "u124_2_7", "sentence": "7. Jamaica", "answer": "Jamaica" },
+        { "id": "u124_2_8", "sentence": "8. bacalao", "answer": "bacalao" },
+        { "id": "u124_2_9", "sentence": "9. ruinas", "answer": "ruinas" },
+        { "id": "u124_2_10", "sentence": "10. levantaos", "answer": "levantaos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 124.3: Поставьте графическое ударение, где необходимо",
+      "tasks": [
+        { "id": "u124_3_1", "sentence": "1. tia", "answer": "tía" },
+        { "id": "u124_3_2", "sentence": "2. oido", "answer": "oído" },
+        { "id": "u124_3_3", "sentence": "3. raiz", "answer": "raíz" },
+        { "id": "u124_3_4", "sentence": "4. re-lo-je-ri-a", "answer": "re-lo-je-rí-a" },
+        { "id": "u124_3_5", "sentence": "5. o-le-o", "answer": "ó-le-o" },
+        { "id": "u124_3_6", "sentence": "6. ha-ci-a", "answer": "ha-cí-a" },
+        { "id": "u124_3_7", "sentence": "7. a-hi", "answer": "a-hí" },
+        { "id": "u124_3_8", "sentence": "8. he-ro-e", "answer": "hé-ro-e" },
+        { "id": "u124_3_9", "sentence": "9. ve-hi-cu-lo", "answer": "ve-hí-cu-lo" },
+        { "id": "u124_3_10", "sentence": "10. su-bi-os", "answer": "su-bí-os" },
+        { "id": "u124_3_11", "sentence": "11. fri-o", "answer": "frí-o" },
+        { "id": "u124_3_12", "sentence": "12. en-vi-an", "answer": "en-ví-an" },
+        { "id": "u124_3_13", "sentence": "13. a-cen-tu-o", "answer": "a-cen-tú-o" },
+        { "id": "u124_3_14", "sentence": "14. a-cen-tu-ar", "answer": "a-cen-tuar" },
+        { "id": "u124_3_15", "sentence": "15. ba-ul", "answer": "ba-úl" },
+        { "id": "u124_3_16", "sentence": "16. en-vi-a-mos", "answer": "en-via-mos" },
+        { "id": "u124_3_17", "sentence": "17. mi-o", "answer": "mí-o" },
+        { "id": "u124_3_18", "sentence": "18. ves-ti-os", "answer": "ves-tí-os" },
+        { "id": "u124_3_19", "sentence": "19. reu-nir", "answer": "reu-nir" },
+        { "id": "u124_3_20", "sentence": "20. son-re-ir", "answer": "son-re-ír" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 124.1 и 124.4",
+      "content": [
+        { "text": "<strong>Упражнения 124.1 и 124.4 пропущены.</strong>" }
+      ]
+    }
+  ]
+}

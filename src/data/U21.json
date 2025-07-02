@@ -1,0 +1,109 @@
+{
+  "lessonId": "A2_U21",
+  "title": "Урок 21: uno, otro, cualquiera (Неопределённые местоимения 2)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: un, una, unos, unas",
+      "content": [
+        { "text": "Используются, когда не говорится, какой именно предмет или человек имеется в виду. `unos, unas` также указывают на неопределенное количество." },
+        { "list": [
+          "<strong>un, una</strong> = un elemento indeterminado, no se dice cuál.<br><i>Necesito un móvil nuevo.</i>",
+          "<strong>unos, unas</strong> = identidad y cantidad indeterminadas, no se dice cuáles ni cuántos.<br><i>Ana está con unas compañeras.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: otro, otra, otros, otras",
+      "content": [
+        { "text": "Используется для обозначения дополнительных элементов того же или другого типа." },
+        { "list": [
+          "<strong>- uno o más elementos del mismo tipo</strong><br><i>Toma <strong>otra</strong> galleta. (una galleta más)<br>Otros dos bocadillos, por favor. (dos bocadillos más)</i>",
+          "<strong>- uno o unos elementos de tipo distinto</strong><br><i>Déjame <strong>otro</strong> libro. No me gusta este. (un libro diferente)</i>"
+        ]},
+        { "table": {
+            "headers": ["Форма", "Конструкция", "Примеры"],
+            "rows": [
+              ["<strong>otro, otra</strong>", "+ nombre singular", "Tráiganos <strong>otra cuchara</strong>, por favor."],
+              ["<strong>otros, otras</strong>", "+ nombre plural<br>+ dos, tres... + nombre plural", "Enséñeme <strong>otros zapatos</strong>. Estos no me gustan.<br>Necesitamos <strong>otras dos jugadoras</strong>."],
+              ["<strong>otro, otra + de</strong>", "+ nosotros, vosotros...<br>+ los, las...<br>+ mis, tus...<br>+ estos, esos...", "Quiere que vayamos <strong>otro de nosotros</strong>.<br>Pásame <strong>otra de las pasteles</strong> de chocolate.<br>He perdido <strong>otra de mis plumas</strong>.<br>Dame <strong>otra de esas ciruelas</strong>."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: cualquiera",
+      "content": [
+        { "text": "Означает 'один любой, неважно какой, неопределенный'. (Uno, no importa cuál, no conocido ni identificado.)" },
+        { "list": [
+            "<i>Puedes llamarme a <strong>cualquier</strong> hora.</i>",
+            "<i>Dame <strong>una cualquiera</strong>.</i>"
+        ]},
+        { "table": {
+            "headers": ["Форма", "Конструкция", "Примеры"],
+            "rows": [
+              ["<strong>cualquier</strong>", "+ nombre singular", "<strong>Cualquier día</strong> voy a verte."],
+              ["<strong>cualquiera</strong>", "nombre singular + <strong>cualquiera</strong>", "Dame <strong>un libro cualquiera</strong>."],
+              ["<strong>cualquiera de</strong>", "+ nosotros, ustedes...<br>+ los, las...<br>+ mis, tus...<br>+ estos, esos...", "<strong>Cualquiera de ustedes</strong> puede hacerlo.<br>Pásame <strong>cualquiera de los</strong> bolígrafos.<br>Ponte <strong>cualquiera de mis</strong> trajes.<br><strong>Cualquiera de esos</strong> chicos es más amable que tú."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Совместное использование",
+      "content": [
+        { "text": "<strong>Uno, una, unos, unas, otro, otra, otros, otras и cualquiera</strong> могут использоваться самостоятельно, когда из контекста ясно, о ком или о чём идет речь.<br><i>–Necesitamos sillas nuevas. –He visto <strong>unas</strong> preciosas.<br>Hay muchos bocadillos. Toma <strong>otro</strong>.<br>Es igual. Deme <strong>uno cualquiera</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 21.1",
+      "content": [
+        { "text": "<strong>Упражнение 21.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 21.2: Используйте выражения из списка для завершения фраз",
+      "content": [{ "text": "<strong>Слова для справок:</strong> cualquier, cualquiera, cualquiera de" }],
+      "tasks": [
+        { "id": "u21_2_1", "sentence": "1. Esto lo puedes encontrar en ___ tienda.", "answer": "cualquier" },
+        { "id": "u21_2_2", "sentence": "2. Eso es complicado. No lo puede hacer ___ nosotros.", "answer": "cualquiera de" },
+        { "id": "u21_2_3", "sentence": "3. Si quieres que te ayude, ven ___ mañana. Estoy siempre libre.", "answer": "cualquier" },
+        { "id": "u21_2_4", "sentence": "4. Usa ___ esos ordenadores. Todos funcionan.", "answer": "cualquiera de" },
+        { "id": "u21_2_5", "sentence": "5. Dale una excusa ___. No le importará.", "answer": "cualquiera" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 21.3: Напишите uno, cualquier, otro... + de, если необходимо",
+      "tasks": [
+        { "id": "u21_3_1", "sentence": "1. –¿Te gustan las galletas? Toma ___.", "answer": "una" },
+        { "id": "u21_3_2", "sentence": "2. Este helado estaba riquísimo. Quiero ___.", "answer": "otro" },
+        { "id": "u21_3_3", "sentence": "3. Diez euros no son suficientes. Necesitamos ___ cinco.", "answer": "otros" },
+        { "id": "u21_3_4", "sentence": "4. –¿Dónde estabas? –Con ___ amigas.", "answer": "unas" },
+        { "id": "u21_3_5", "sentence": "5. Ayer jugué al tenis con ___ tus primos.", "answer": "uno de" },
+        { "id": "u21_3_6", "sentence": "6. Si vienen Arnaldo y Marta al concierto necesitaremos ___ dos entradas.", "answer": "otras" },
+        { "id": "u21_3_7", "sentence": "7. Quiero ___ esas corbatas.", "answer": "una de" },
+        { "id": "u21_3_8", "sentence": "8. Han llegado ___ libros para la biblioteca.", "answer": "otros" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 21.4: Дополните с otro, otra, otros, otras и cualquiera",
+      "tasks": [
+        { "id": "u21_4_1", "sentence": "1. –¿Le gustan estos zapatos? –No, enséñeme ___, por favor.", "answer": "otros" },
+        { "id": "u21_4_2", "sentence": "2. No es muy difícil. ___ puede hacerlo.", "answer": "Cualquiera" },
+        { "id": "u21_4_3", "sentence": "3. –¿Qué trabajo quieres hacer? –___. Necesito trabajar.", "answer": "Cualquiera" },
+        { "id": "u21_4_4", "sentence": "4. He perdido el tren a Cuzco. ¿Cuándo hay ___?", "answer": "otro" },
+        { "id": "u21_4_5", "sentence": "5. –¿Le gustan estos plátanos? –No, deme ___. Esos están muy verdes.", "answer": "otros" }
+      ]
+    }
+  ]
+}

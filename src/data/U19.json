@@ -1,0 +1,86 @@
+{
+  "lessonId": "A2_U19",
+  "title": "Урок 19: mío, tuyo, suyo... (Притяжательные местоимения 2)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Притяжательные местоимения-существительные (полная форма)",
+      "content": [
+        { "text": "<strong>Mío, tuyo, nuestro</strong> и другие являются притяжательными местоимениями. Они используются для указания на владение или другие типы отношений с людьми, животными или предметами." },
+        { "list": [
+            "<i>–Mi madre trabaja en un banco. ¿Y <strong>la tuya</strong>? –<strong>La mía</strong> trabaja en una agencia de viajes.</i>",
+            "<i>–Mi pueblo es muy bonito y moderno. –<strong>El nuestro</strong> es muy antiguo.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы притяжательных местоимений",
+      "content": [
+        { "table": {
+            "headers": ["Владелец", "SINGULAR (ед.ч.)", "PLURAL (мн.ч.)"],
+            "rows": [
+              ["", "<strong>MASCULINO</strong>", "<strong>FEMENINO</strong>", "<strong>MASCULINO</strong>", "<strong>FEMENINO</strong>"],
+              ["yo", "mío", "mía", "míos", "mías"],
+              ["tú", "tuyo", "tuya", "tuyos", "tuyas"],
+              ["usted<br>él, ella", "suyo", "suya", "suyos", "suyas"],
+              ["nosotros, -as", "nuestro", "nuestra", "nuestros", "nuestras"],
+              ["vosotros, -as", "vuestro", "vuestra", "vuestros", "vuestras"],
+              ["ustedes<br>ellos, ellas", "suyo", "suya", "suyos", "suyas"]
+            ]
+          }
+        },
+        { "text": "<strong>1. Используются `ser` + `mío, tuyo`..., чтобы выразить владение.</strong><br><i>Esta bolsa no es <strong>mía</strong>. ¿Es <strong>tuya</strong>, Amparo?<br>–¿Es esto <strong>nuestro</strong>? –No, es <strong>suyo</strong>.</i>" },
+        { "text": "<strong>2. Используются `el, la, los, las` + `mío, tuyo`..., когда речь идет о ком-то или чем-то, упомянутом ранее.</strong><br><i>–¿Es esta tu bolsa? –No, <strong>la mía</strong> es más pequeña.<br>Como se estropeó el coche de Jaime, fuimos en <strong>el nuestro</strong>.</i>" },
+        { "text": "<strong>3. Используются `un, una, unos, unas` + существительное + `mío, tuyo`..., когда речь идет о ком-то или чем-то из группы.</strong><br><i>–¿Conoces a Julián? –Sí, hombre. Es <strong>un amigo mío</strong>. (Es uno de mis amigos.)<br><strong>Una tía nuestra</strong> vive en Panamá. (una de nuestras tías)</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Формы `suyo, suya, suyos, suyas` могут иметь несколько значений. Для уточнения используются конструкции `de él, de ella, de usted, de ellos, de ellas, de ustedes`.<br><i>–¿Son estas las maletas de Felisa? –No, <strong>las suyas</strong> son azules. (las de Felisa)<br>–¿Son estas mis maletas? –No, <strong>las suyas</strong> son más pequeñas. (las de usted)</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 19.1: Дополните фразы как в примере",
+      "tasks": [
+        { "id": "u19_1_1", "sentence": "1. ¿De quién son estas llaves? → Son ___.", "answer": "mías" },
+        { "id": "u19_1_2", "sentence": "2. ¿De quién es este libro? → Es ___.", "answer": "tuyo" },
+        { "id": "u19_1_3", "sentence": "3. ¿De quién es este paraguas? → Es ___.", "answer": "suyo" },
+        { "id": "u19_1_4", "sentence": "4. ¿De quién son estos CD? → Son ___.", "answer": "nuestros" },
+        { "id": "u19_1_5", "sentence": "5. ¿Son estos libros? → Son ___.", "answer": "vuestros" },
+        { "id": "u19_1_6", "sentence": "6. ¿Son estas maletas? → Son ___.", "answer": "suyas" },
+        { "id": "u19_1_7", "sentence": "7. ¿Es este reloj? → Es ___.", "answer": "mío" },
+        { "id": "u19_1_8", "sentence": "8. ¿Es esta bufanda? → Es ___.", "answer": "tuya" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 19.2: Напишите mío, la tuya, los suyos... согласно ситуации",
+      "tasks": [
+        { "id": "u19_2_1", "sentence": "1. Estas llaves no son mías. Las ___ son más pequeñas.", "answer": "mías" },
+        { "id": "u19_2_2", "sentence": "2. –¿Es ese vuestro coche? –No, ___ es más grande.", "answer": "el nuestro" },
+        { "id": "u19_2_3", "sentence": "3. Este abrigo no es de Pedro. ___ es azul.", "answer": "El suyo" },
+        { "id": "u19_2_4", "sentence": "4. –Perdona, ¿es este mi asiento? –No, ___ está más atrás.", "answer": "el suyo" },
+        { "id": "u19_2_5", "sentence": "5. –¿Es ese nuestro profesor? –No, ___ es mayor.", "answer": "el vuestro" },
+        { "id": "u19_2_6", "sentence": "6. –Mi deporte preferido es el fútbol. ¿Y ___? –___ es el esquí.", "answer": "el tuyo, El mío" },
+        { "id": "u19_2_7", "sentence": "7. –Mis hijos practican muchos deportes. ¿Y ___? –___ juegan al tenis.", "answer": "los tuyos, Los míos" },
+        { "id": "u19_2_8", "sentence": "8. –¿Son esos los padres de Arturo? –No, ___ son más jóvenes.", "answer": "los suyos" },
+        { "id": "u19_2_9", "sentence": "9. –Mi profesora es peruana. –___ es argentina.", "answer": "La mía" },
+        { "id": "u19_2_10", "sentence": "10. –Nuestros hijos son muy trabajadores. –___ son un poco vagos.", "answer": "Los nuestros" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 19.3: Дополните с mío, tuyo, suyo... и un, una, unos, unas, если необходимо",
+      "tasks": [
+        { "id": "u19_3_1", "sentence": "1. (amigo, yo) <u>Un amigo mío</u> es pintor.", "answer": "Un amigo mío" },
+        { "id": "u19_3_2", "sentence": "2. (amiga, yo) ___ ha ganado un premio.", "answer": "Una amiga mía" },
+        { "id": "u19_3_3", "sentence": "3. Ayer estuve con (primo, vosotros) ___.", "answer": "un primo vuestro" },
+        { "id": "u19_3_4", "sentence": "4. El director del banco es (amigo, ellos) ___.", "answer": "amigo suyo" },
+        { "id": "u19_3_5", "sentence": "5. Raquel es (prima, nosotros) ___.", "answer": "prima nuestra" },
+        { "id": "u19_3_6", "sentence": "6. ¿Es Alicia (tía, tú) ___?", "answer": "tía tuya" },
+        { "id": "u19_3_7", "sentence": "7. –¿Conocéis a Mariano? –Sí, es (amigo, nosotros) ___.", "answer": "un amigo nuestro" },
+        { "id": "u19_3_8", "sentence": "8. El domingo conocimos a (familiares, ustedes) ___.", "answer": "unos familiares suyos" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lessonId": "B1_U85",
+  "title": "Урок 85: Выражение вероятности",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение вероятности + Subjuntivo",
+      "content": [
+        { "text": "<strong>Некоторые выражения указывают на разную степень вероятности + сослагательное наклонение.</strong>" },
+        { "list": [
+            "<strong>es posible/imposible que</strong><br><strong>es probable/improbable que</strong><br><strong>posiblemente</strong><br><strong>probablemente</strong><br><strong>puede que</strong><br><strong>quizás, quizá</strong><br><strong>tal vez</strong>",
+            "<i>Es imposible que <strong>ganemos</strong>. Jugamos muy mal.<br>Era poco probable que <strong>encontrara</strong> trabajo.<br>Posiblemente <strong>llueva</strong>. Hay muchas nubes.<br>Probablemente <strong>cambie</strong> hoy el tiempo.</i>"
+        ]},
+        { "text": "<strong>- используется presente de subjuntivo, когда речь о настоящем или будущем.</strong><br><i>–Sabe dónde está el Sr. Pavón? No está en su oficina. No sé. Quizá <strong>esté</strong> en la cafetería.</i>" },
+        { "text": "<strong>- используется imperfecto de subjuntivo, когда речь о прошлом.</strong><br><i>Era poco probable que <strong>aprobara</strong>. Había estudiado muy poco.<br>–¿Sabes si Pedro ha hablado con Ricardo? –Puede que lo <strong>hiciera</strong> anoche. Regresó tarde.</i>" },
+        { "text": "<strong>НО:</strong> С `quizás, quizá, tal vez` можно использовать `pretérito indefinido` и другие времена.<br><i>–Están cansados. –Quizá se <strong>acostaron</strong> tarde anoche.</i>" },
+        { "text": "<strong>- используется `es posible/imposible + infinitivo`, когда речь об общей ситуации.</strong><br><i>Es imposible <strong>dormir</strong> en esta casa. Hay demasiado ruido.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение вероятности + Indicativo",
+      "content": [
+        { "text": "<strong>`Seguramente` + presente/futuro de indicativo или presente de subjuntivo.</strong><br><i>–¿Sabes dónde está Martín? –<strong>Seguramente está/esté</strong> en casa. No sale mucho.</i><br><i>–¿Cuándo vas a enviarle un correo electrónico a Clara? –<strong>Seguramente lo haré</strong> esta noche.</i>" },
+        { "text": "<strong>`Seguramente` + другие времена indicativo.</strong><br><i>Santi no contesta el teléfono. <strong>Seguramente ha salido</strong>.<br>Martina tiene un poncho precioso. –<strong>Seguramente lo compró</strong> cuando estuvo en Perú.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 85.1: Дополните фразы с Presente de subjuntivo",
+      "tasks": [
+        { "id": "u85_1_1", "sentence": "1. –¿Cree que va a llover esta tarde? –No sé. Puede que ___.", "answer": "llueva" },
+        { "id": "u85_1_2", "sentence": "2. –¿Vais a ir a la fiesta de Elisa? –Tenemos mucho que estudiar. Quizás ___.", "answer": "no vayamos" },
+        { "id": "u85_1_3", "sentence": "3. –¿Está Carmen Perón en su despacho? –No sé. Es posible que ___ Mira tú.", "answer": "esté" },
+        { "id": "u85_1_4", "sentence": "4. –¿Sabes si Alicia va a venir hoy a clase? –No sé. Puede que ___ Últimamente no viene mucho.", "answer": "no venga" },
+        { "id": "u85_1_5", "sentence": "5. –¿Por qué no duermes bien? –Es imposible ___ aquí. Hay mucho ruido.", "answer": "dormir" },
+        { "id": "u85_1_6", "sentence": "6. –¿Sabes si hay un tren a Aguascalientes? –Posiblemente ___ uno por la mañana.", "answer": "salga" },
+        { "id": "u85_1_7", "sentence": "7. –¿Sabe si Celia quiere trabajar este verano? –No sé, pero es probable que ___.", "answer": "quiera" },
+        { "id": "u85_1_8", "sentence": "8. –¿No puede encontrar otro piso mejor? –Es imposible ___ nada mejor por este precio.", "answer": "encontrar" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 85.2: Дополните диалоги с Imperfecto de subjuntivo или Pretérito indefinido",
+      "tasks": [
+        { "id": "u85_2_1", "sentence": "1. –Miguel dijo la verdad. –No te creo. Es imposible que ___ la verdad.", "answer": "dijera" },
+        { "id": "u85_2_2", "sentence": "2. –Fue José. –Seguro. –Yo no estoy tan segura. Puede que ___.", "answer": "fuera" },
+        { "id": "u85_2_3", "sentence": "3. –Lo hizo Sara. –¿Estás seguro? Quizás ___.", "answer": "lo hizo" },
+        { "id": "u85_2_4", "sentence": "4. –Aurora no vino la semana pasada porque estaba enferma. –Sí. Es probable que ___.", "answer": "estuviera" },
+        { "id": "u85_2_5", "sentence": "5. –Mario dice que se olvidó. –Tal vez ___ Es muy despistado.", "answer": "se olvidó" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 85.3: Дополните ответы",
+      "tasks": [
+        { "id": "u85_3_1", "sentence": "1. –¿Vas a ver pronto a Tomás? –Sí. Seguramente lo ___ el sábado.", "answer": "veré" },
+        { "id": "u85_3_2", "sentence": "2. –¿Crees que vas a aprobar? –Sí. Seguramente ___.", "answer": "aprobaré" },
+        { "id": "u85_3_3", "sentence": "3. –¿Van a ir a Bariloche este invierno? –Sí. Seguramente ___ unos días.", "answer": "iremos" },
+        { "id": "u85_3_4", "sentence": "4. –¿Crees que encontraré la cartera? –Sí. Seguramente la ___ en algún rincón.", "answer": "encontrarás" },
+        { "id": "u85_3_5", "sentence": "5. –¿Sabes si Antonio tiene el teléfono de Amelia? –Sí. Seguramente lo ___.", "answer": "tendrá" },
+        { "id": "u85_3_6", "sentence": "6. –¿Crees que ese cuadro lo ha pintado Margarita? –Sí. Seguramente lo ___ ella.", "answer": "habrá pintado" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 85.4: Напишите фразы, описывающие каждую ситуацию",
+      "tasks": [
+        { "id": "u85_4_1", "sentence": "1. –Teléfono, Lola! –Lo cojo yo. Puede que (ser) ___ Víctor.", "answer": "sea" },
+        { "id": "u85_4_2", "sentence": "2. –¿Cuándo vais a inaugurar el nuevo piso? –Quizá lo (hacer) ___ el mes que viene.", "answer": "hagamos" },
+        { "id": "u85_4_3", "sentence": "3. –Felipe me llama todos los días. –Seguramente le (gustar) ___.", "answer": "gustas" },
+        { "id": "u85_4_4", "sentence": "4. Es imposible (encontrar) ___ habitación en ningún hotel. Están todos llenos.", "answer": "encontrar" },
+        { "id": "u85_4_5", "sentence": "5. –Luis no nos saludó anoche. –Probablemente no os (ver) ___.", "answer": "vio" },
+        { "id": "u85_4_6", "sentence": "6. –Me apetece comer algo. –Es imposible que (tener) ___ hambre. Hemos comido hace una hora.", "answer": "tengas" },
+        { "id": "u85_4_7", "sentence": "7. Anoche no dormí bien. Puede que me (sentar) ___ algo mal.", "answer": "sentara" }
+      ]
+    }
+  ]
+}

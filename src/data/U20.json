@@ -1,0 +1,98 @@
+{
+  "lessonId": "A2_U20",
+  "title": "Урок 20: todos, algunos, unos, ninguno... (Неопределённые местоимения 1)",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Обозначение частей группы",
+      "content": [
+        { "text": "<strong>Todos, algunos, un, ningún</strong> используются для обозначения элементов группы." },
+        { "list": [
+          "<strong>todos</strong> = la totalidad del grupo (вся группа целиком)",
+          "<strong>algunos</strong> = una parte del grupo (часть группы)",
+          "<strong>un</strong> = un elemento no determinado del grupo, no se dice cuál (один неопределённый элемент группы, не говорится какой)",
+          "<strong>ningún</strong> = nadie o nada del grupo (никто или ничто из группы)"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы и использование",
+      "content": [
+        { "table": {
+            "headers": ["Местоимение", "Конструкция", "Примеры"],
+            "rows": [
+              [
+                "<strong>todo, toda<br>todos, todas</strong>",
+                "+ el, la...<br>+ mi, tu...<br>+ este, ese...<br>+ nosotros, vosotros...<br>+ mis, tus...<br>+ estos, esos...",
+                "Dame <strong>todo el</strong> pan.<br><strong>Toda tu</strong> familia es muy alegre.<br>Tira <strong>toda esa</strong> basura al contenedor.<br><br>Sois muy amables <strong>todos vosotros</strong>.<br>Vais a México <strong>todos los</strong> veranos.<br><strong>Todos mis</strong> hermanos hablan francés.<br>Deme <strong>todas esas</strong> manzanas, por favor."
+              ],
+              [
+                "<strong>un, una<br>algún, alguna<br>ningún, ninguna</strong>",
+                "+ nombre singular",
+                "He conocido a <strong>un compañero</strong> tuyo.<br>¿Ha venido <strong>algún alumno</strong>?<br>Alicia no sale <strong>ningún domingo</strong>."
+              ],
+              [
+                "<strong>unos, unas<br>algunos, algunas</strong>",
+                "+ nombre plural",
+                "Conozco a <strong>unos chicos</strong> que estudian quechua.<br>He recorrido <strong>algunas zonas</strong> de Perú."
+              ],
+              [
+                "<strong>alguno, -a, algunos, -as<br>ninguno, ninguna</strong>",
+                "+ de + los, las... + nombre plural<br>+ de + mis, tus... + nombre plural<br>+ de + estos, esos... + nombre plural",
+                "¿<strong>Alguno de vosotros</strong> conduce?<br>No veo a <strong>ninguno de los</strong> niños.<br><strong>Uno de mis</strong> tíos vive en Caracas.<br><strong>Alguno de estos</strong> es mío, seguro."
+              ]
+            ]
+          }
+        },
+        { "text": "– <strong>Algún, alguno</strong> выражают существование и неопределенное количество (не говорится, сколько и какие); часто используется в вопросах.<br><i>¿<strong>Alguno de vosotros</strong> habla árabe? –No, <strong>ninguno</strong>.</i>" },
+        { "text": "<strong>Uno, alguna, alguno</strong> и <strong>todo</strong> могут использоваться самостоятельно, когда из контекста ясно, о ком или о чём идет речь.<br><i>Todos quieren venir a la fiesta. (todos nuestros amigos)<br>–¿Has visto a alguno de mis compañeros? –No, no he visto a ninguno.</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>ninguno + verbo afirmativo → <strong>Ninguno de mis amigos</strong> ha salido.<br>verbo negativo + ninguno → No ha salido <strong>ninguno de mis amigos</strong>." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 20.1",
+      "content": [
+        { "text": "<strong>Упражнение 20.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 20.2: Напишите todo, algún, un, ningún... соответственно",
+      "tasks": [
+        { "id": "u20_2_1", "sentence": "1. Alicia está estudiando con ___ compañeros.", "answer": "unos" },
+        { "id": "u20_2_2", "sentence": "2. En ___ países de África se habla español.", "answer": "algunos" },
+        { "id": "u20_2_3", "sentence": "3. ¿Has estado en ___ país de América?", "answer": "algún" },
+        { "id": "u20_2_4", "sentence": "4. ___ mi familia habla español.", "answer": "Toda" },
+        { "id": "u20_2_5", "sentence": "5. ___ mis amigas son simpáticas.", "answer": "Todas" },
+        { "id": "u20_2_6", "sentence": "6. ___ aves no pueden volar.", "answer": "Algunas" },
+        { "id": "u20_2_7", "sentence": "7. ___ elefante come carne.", "answer": "Ningún" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 20.3: Дополните фразы с uno, alguno, ninguno... + de, если необходимо",
+      "tasks": [
+        { "id": "u20_3_1", "sentence": "1. Ayer conocí a <u>uno de tus</u> hermanos.", "answer": "uno de tus" },
+        { "id": "u20_3_2", "sentence": "2. ¿___ ustedes habla quechua?", "answer": "Alguno de" },
+        { "id": "u20_3_3", "sentence": "3. No he conocido a ___ mis abuelas.", "answer": "ninguna de" },
+        { "id": "u20_3_4", "sentence": "4. ¿Trabaja ___ tus hermanos?", "answer": "alguno de" },
+        { "id": "u20_3_5", "sentence": "5. Felipe sale con ___ mis amigas.", "answer": "una de" },
+        { "id": "u20_3_6", "sentence": "6. ___ nosotros ha estado en la Isla de Pascua, pero nos gustaría ir.", "answer": "Alguno de" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 20.4: Дополните диалоги с todo, algún, ningún...",
+      "tasks": [
+        { "id": "u20_4_1", "sentence": "1. –¿Conoces a los amigos de Pedro? –Conozco a ___, pero no a ___.", "answer": "algunos, todos" },
+        { "id": "u20_4_2", "sentence": "2. –¿Has comprado ya los libros? –Sí, los he comprado ___.", "answer": "todos" },
+        { "id": "u20_4_3", "sentence": "3. –¿Conoces ___ país de Asia? –No, no conozco ___.", "answer": "algún, ninguno" },
+        { "id": "u20_4_4", "sentence": "4. –¿Has visto a alguna de mis hermanas? –No, no he visto a ___.", "answer": "ninguna" },
+        { "id": "u20_4_5", "sentence": "5. Me encantan las mariposas. ___ tienen las alas muy bonitas.", "answer": "Todas" }
+      ]
+    }
+  ]
+}

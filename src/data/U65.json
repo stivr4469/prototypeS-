@@ -1,0 +1,65 @@
+{
+  "lessonId": "B1_U65",
+  "title": "Урок 65: Estaba + герундий и сравнение с Pretérito indefinido",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Pretérito imperfecto de estar + герундий",
+      "content": [
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(yo) estaba", "(nosotros, -as) estábamos"],
+              ["(tú) estabas", "trabajando", "(vosotros, -as) estabais"],
+              ["(él, ella) estaba", "comiendo, viviendo", "(ellos, -as) estaban"]
+            ]
+          }
+        },
+        { "text": "<strong>Используется `estaba + gerundio` для разговора о действии, которое длилось в определенный момент прошлого.</strong><br><i>–Anoche te llamé a las ocho. ¿Dónde estabas? –<strong>Estaba en el jardín</strong>. <strong>Estaba regando</strong> los rosales.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Сравнение:",
+      "content": [
+        { "text": "<strong>`Estaba + gerundio` используется для разговора о длительном действии, которое было прервано другим кратким действием. `Pretérito indefinido` используется для этого краткого действия.</strong><br><i><strong>Estábamos comiendo...</strong> cuando <strong>llegaron</strong> los amigos de Ana.</i>" },
+        { "text": "<strong>`Pretérito indefinido` используется для последовательности завершенных действий, которые произошли одно за другим.</strong><br><i><strong>Llegaron</strong> los amigos de Ana y <strong>comimos</strong>. → Comimos cuando llegaron los amigos de Ana.</i>" },
+        { "text": "<strong>ATENCIÓN:</strong><br>Обычно не используется `estar` + герундий с глаголами `comprender, entender, saber, querer, necesitar, amar, preferir, odiar, parecer, tener, llevar, ir, venir`. Вместо этого используется `pretérito imperfecto`.<br><i><strong>Estaba teniendo</strong> algo de fiebre cuando me llamaste. → <strong>Tenía</strong> algo de fiebre cuando me llamaste.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 65.1",
+      "content": [
+        { "text": "<strong>Упражнение 65.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 65.2: Дополните фразы с estaba + герундий или pretérito indefinido",
+      "tasks": [
+        { "id": "u65_2_1", "sentence": "1. Cuando me (ver) ___, Sofía, (hablar) ___ con unas amigas.", "answer": "vio, estaba hablando" },
+        { "id": "u65_2_2", "sentence": "2. ¿Qué (tú, hacer) ___ cuando (apagarse) ___ la luz.", "answer": "estabas haciendo, se apagó" },
+        { "id": "u65_2_3", "sentence": "3. La clase (empezar) ___ cuando (nosotros, llegar) ___.", "answer": "empezó, llegamos" },
+        { "id": "u65_2_4", "sentence": "4. ¿(Nevar) ___ cuando (usted, salir) ___?", "answer": "Estaba nevando, salió" },
+        { "id": "u65_2_5", "sentence": "5. Pedrito (caerse) ___ y (romperse) ___ una pierna cuando (jugar) ___ al fútbol.", "answer": "se cayó, se rompió, estaba jugando" },
+        { "id": "u65_2_6", "sentence": "6. (Yo, ducharse) ___ cuando (sonar) ___ el teléfono.", "answer": "Me estaba duchando, sonó" },
+        { "id": "u65_2_7", "sentence": "7. Cuando (llegar) ___ el jefe, (irse) ___ Fina y Celia.", "answer": "llegó, se fueron" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 65.3: Выберите правильную форму",
+      "tasks": [
+        { "id": "u65_3_1", "sentence": "1. –¿Qué te (pasaba/estaba pasando) anoche? –(Tenía/Estaba teniendo) mucho sueño.", "options": ["pasaba, Tenía", "estaba pasando, Estaba teniendo"], "correctOption": "pasaba, Tenía" },
+        { "id": "u65_3_2", "sentence": "2. ¿Adónde (ibas/estabas yendo) ayer cuando te vio Tere?", "options": ["ibas", "estabas yendo"], "correctOption": "ibas" },
+        { "id": "u65_3_3", "sentence": "3. –¿Dónde estaban tus hermanas la semana pasada? –(Viajaban/Estaban viajando) por Argentina.", "options": ["Viajaban", "Estaban viajando"], "correctOption": "Estaban viajando" },
+        { "id": "u65_3_4", "sentence": "4. Cuando nos encontramos con Nacho, (llevaba/estaba llevando) un poncho chileno muy bonito.", "options": ["llevaba", "estaba llevando"], "correctOption": "llevaba" },
+        { "id": "u65_3_5", "sentence": "5. (Parecía/Estaba pareciendo) un mapuche.", "options": ["Parecía", "Estaba pareciendo"], "correctOption": "Parecía" },
+        { "id": "u65_3_6", "sentence": "6. De dónde (venían/estaban viniendo) cuando tuvieron el accidente?", "options": ["venían", "estaban viniendo"], "correctOption": "venían" },
+        { "id": "u65_3_7", "sentence": "7. Fui a ver a Anita porque (necesitaba/estaba necesitando) su ayuda.", "options": ["necesitaba", "estaba necesitando"], "correctOption": "necesitaba" }
+      ]
+    }
+  ]
+}

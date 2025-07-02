@@ -1,0 +1,79 @@
+{
+  "lessonId": "B1_U106",
+  "title": "Урок 106: Наречия образа действия",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Наречия образа действия",
+      "content": [
+        { "text": "<strong>Prudentemente</strong> и <strong>bien</strong> — это наречия образа действия. Они выражают способ, которым кто-то делает что-то, и отвечают на вопрос `¿cómo?`." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Образование наречий образа действия",
+      "content": [
+        { "text": "<strong>1. `adjetivo femenino singular + -mente → adverbio`</strong><br><i>maravilloso → maravillosa → <strong>maravillosamente</strong><br>fácil → <strong>fácilmente</strong><br>prudente → <strong>prudentemente</strong></i><br><strong>НО:</strong> bueno → bien; malo → mal; deprisa; despacio" },
+        { "text": "<strong>2. Некоторые наречия имеют ту же форму, что и прилагательное.</strong>" },
+        { "table": {
+            "headers": ["adjetivo", "adverbio"],
+            "rows": [
+              ["alto (volumen)", "alto"],
+              ["bajo (volumen)", "bajo"],
+              ["rápido", "rápido, rápidamente"],
+              ["lento", "lento, lentamente"],
+              ["claro", "claro, claramente"],
+              ["fuerte", "fuerte, fuertemente"]
+            ]
+          }
+        },
+        { "text": "<strong>3. `así` = de este modo</strong><br><i>Hazlo <strong>así</strong>; es más fácil.</i>" },
+        { "text": "<strong>4. Наречия образа действия обычно ставятся после глагола.</strong><br><i>Alba vive <strong>alegremente</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 106.1",
+      "content": [
+        { "text": "<strong>Упражнение 106.1 пропущено, так как оно полностью основано на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 106.2: Замените подчеркнутые слова наречиями образа действия",
+      "tasks": [
+        { "id": "u106_2_1", "sentence": "1. Hazlo con tranquilidad, Norma. → Hazlo ___.", "answer": "tranquilamente" },
+        { "id": "u106_2_2", "sentence": "2. Álvaro juega con inteligencia. → ___.", "answer": "inteligentemente" },
+        { "id": "u106_2_3", "sentence": "3. Agustín actúa de una forma irresponsable. → ___.", "answer": "irresponsablemente" },
+        { "id": "u106_2_4", "sentence": "4. Ven con rapidez, Adela. → ___.", "answer": "rápidamente" },
+        { "id": "u106_2_5", "sentence": "5. Fran me llama de manera continua. → ___.", "answer": "continuamente" },
+        { "id": "u106_2_6", "sentence": "6. Escribe de este modo, Luisa. → ___.", "answer": "así" },
+        { "id": "u106_2_7", "sentence": "7. Susana canta de forma maravillosa. → ___.", "answer": "maravillosamente" },
+        { "id": "u106_2_8", "sentence": "8. Tatiana conduce con lentitud y con cuidado. → ___.", "answer": "lentamente y cuidadosamente" },
+        { "id": "u106_2_9", "sentence": "9. Me golpeó con fuerza. → ___.", "answer": "fuertemente" },
+        { "id": "u106_2_10", "sentence": "10. Emilia nada de una forma extraordinaria. → ___.", "answer": "extraordinariamente" },
+        { "id": "u106_2_11", "sentence": "11. Arielina trabaja con tranquilidad pero con seriedad. → ___.", "answer": "tranquilamente pero seriamente" },
+        { "id": "u106_2_12", "sentence": "12. Mis hijos aprueban con facilidad. → ___.", "answer": "fácilmente" },
+        { "id": "u106_2_13", "sentence": "13. Se ganan la vida con honradez. → ___.", "answer": "honradamente" },
+        { "id": "u106_2_14", "sentence": "14. La profesora de Matemáticas explica con claridad. → ___.", "answer": "claramente" },
+        { "id": "u106_2_15", "sentence": "15. Se bajó del árbol con habilidad. → ___.", "answer": "hábilmente" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 106.3: Дополните фразы словами из списка",
+      "content": [{ "text": "<strong>Слова:</strong> amable, amablemente, bien, buen, egoístamente, exquisita, gravemente, perfectamente" }],
+      "tasks": [
+        { "id": "u106_3_1", "sentence": "1. Javier es un ___ estudiante.", "answer": "buen" },
+        { "id": "u106_3_2", "sentence": "2. María es una cocinera ___.", "answer": "exquisita" },
+        { "id": "u106_3_3", "sentence": "3. Manuel resultó herido ___ en el accidente.", "answer": "gravemente" },
+        { "id": "u106_3_4", "sentence": "4. A veces Alejandro se porta ___ con sus amigos.", "answer": "egoístamente" },
+        { "id": "u106_3_5", "sentence": "5. Los hermanos de Adela son muy ___.", "answer": "amables" },
+        { "id": "u106_3_6", "sentence": "6. Esas flores huelen muy ___.", "answer": "bien" },
+        { "id": "u106_3_7", "sentence": "7. Un señor me cedió el asiento ___.", "answer": "amablemente" },
+        { "id": "u106_3_8", "sentence": "8. Noelia conoce China ___.", "answer": "perfectamente" }
+      ]
+    }
+  ]
+}

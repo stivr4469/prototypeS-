@@ -1,0 +1,76 @@
+{
+  "lessonId": "A2_U29",
+  "title": "Урок 29: cuyo, donde, cuando... (Относительные местоимения 2)",
+  "level": "A2-B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Cuyo, cuya, cuyos, cuyas",
+      "content": [
+        { "text": "<strong>Используется `cuyo, cuya, cuyos, cuyas` для указания на владение и другие типы отношений: родство, происхождение и т.д.</strong>" },
+        { "text": "<i>Tengo un amigo. Su padre es fotógrafo. → Tengo un amigo <strong>cuyo</strong> padre es fotógrafo.</i><br><i>Los alumnos cuyos nombres diga pueden salir.</i>" },
+        { "text": "<strong>(preposición +) cuyo, cuya, cuyos, cuyas + nombre</strong><br><i>Ese señor es un escritor. Te he hablado de sus libros. → Ese es el escritor <strong>de cuyos libros</strong> te he hablado.<br>Ese es el profesor <strong>en cuya</strong> casa fue la fiesta.</i>" },
+        { "text": "<strong>`Cuyo, cuya, cuyos, cuyas` имеют ту же форму (мужской/женский род, ед./мн. число), что и существительное, которое следует за ними.</strong><br><i>Conozco a una chica. Su <strong>hermana</strong> ha escalado el Aconcagua. → Conozco a una chica <strong>cuya hermana</strong> ha escalado el Aconcagua.<br>Conozco a un señor. Sus <strong>hijos</strong> han estudiado Físicas. → Conozco a un señor <strong>cuyos hijos</strong> han estudiado Físicas.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Donde, adonde, cuando",
+      "content": [
+        { "text": "<strong>Используется `donde` и `adonde` для обозначения мест.</strong>" },
+        { "list": [
+          "<strong>donde:</strong> en lugar de <i>en el que, en la que, en los que, en las que</i>.<br><i>Esta es la curva <strong>donde</strong> tuve el accidente.</i>",
+          "<strong>adonde:</strong> en lugar de <i>al que, a la que, a los que, a las que</i>.<br><i>Esta es la piscina <strong>adonde</strong> van los niños en verano.</i>"
+        ]},
+        { "text": "<strong>Используется `cuando` для обозначения времени.</strong><br><i>El verano <strong>cuando</strong> nos conocimos fue muy especial.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 29.1: Соедините две фразы в одну с cuyo, cuya, cuyos, cuyas",
+      "tasks": [
+        { "id": "u29_1_1", "sentence": "1. Esa es la tienda. Su dueño es mi tío. → Esa es la tienda ___ dueño es mi tío.", "answer": "cuyo" },
+        { "id": "u29_1_2", "sentence": "2. Mi madre tiene una amiga. Su hija está en mi clase. → Mi madre tiene una amiga ___ hija está en mi clase.", "answer": "cuya" },
+        { "id": "u29_1_3", "sentence": "3. Conozco a un chico. Su madre es capitán del ejército. → Conozco a un chico ___ madre es capitán del ejército.", "answer": "cuya" },
+        { "id": "u29_1_4", "sentence": "4. Lorenzo conoce a un profesor. Sus hijos hablan cuatro idiomas. → Lorenzo conoce a un profesor ___ hijos hablan cuatro idiomas.", "answer": "cuyos" },
+        { "id": "u29_1_5", "sentence": "5. Tengo un primo. Su mujer dirige una multinacional. → Tengo un primo ___ mujer dirige una multinacional.", "answer": "cuya" },
+        { "id": "u29_1_6", "sentence": "6. Tengo una abuela. Paso las vacaciones en su pueblo. → Tengo una abuela en ___ pueblo paso las vacaciones.", "answer": "cuyo" },
+        { "id": "u29_1_7", "sentence": "7. El verano pasado ayudamos a una familia. Su coche se había averiado. → El verano pasado ayudamos a una familia ___ coche se había averiado.", "answer": "cuyo" },
+        { "id": "u29_1_8", "sentence": "8. Tengo unas amigas. Sus padres veranean en Asturias. → Tengo unas amigas ___ padres veranean en Asturias.", "answer": "cuyos" },
+        { "id": "u29_1_9", "sentence": "9. Me encontré con un chico. Viajé a Guatemala con su hermana. → Me encontré con un chico con ___ hermana viajé a Guatemala.", "answer": "cuya" },
+        { "id": "u29_1_10", "sentence": "10. Me he encontrado con una señora. Estoy haciendo un mueble para sus hijas. → Me he encontrado con una señora para ___ hijas estoy haciendo un mueble.", "answer": "cuyas" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 29.2: Прочитайте информацию и ответьте на вопросы",
+      "content": [{ "text": "<strong>Информация о жильцах:</strong><br>Sr. Palacios: Su mujer da clases en la universidad.<br>Alba y Silvia: Su piso está enfrente del nuestro.<br>Familia Torroja: Sus perros ladran por las noches.<br>Alberto: Hizo una fiesta en su casa.<br>Sra. Albéniz: Su hijas bailan muy bien.<br>Pablo y Teresa: Su gata nos visita todas las tardes." }],
+      "tasks": [
+        { "id": "u29_2_1", "sentence": "1. ¿Quién es el Sr. Palacios? → Es el hombre ___ mujer da clases en la universidad.", "answer": "cuya" },
+        { "id": "u29_2_2", "sentence": "2. ¿Quiénes son Alba y Silvia? → Son las chicas ___ piso está enfrente del nuestro.", "answer": "cuyo" },
+        { "id": "u29_2_3", "sentence": "3. ¿Quiénes son los Torroja? → Son la familia ___ perros ladran por las noches.", "answer": "cuyos" },
+        { "id": "u29_2_4", "sentence": "4. ¿Quién es Alberto? → Es el chico en ___ casa hicimos una fiesta.", "answer": "cuya" },
+        { "id": "u29_2_5", "sentence": "5. ¿Quién es la Sra. Albéniz? → Es la señora ___ hijas bailan muy bien.", "answer": "cuyas" },
+        { "id": "u29_2_6", "sentence": "6. ¿Quiénes son Pablo y Teresa? → Son los vecinos ___ gata nos visita todas las tardes.", "answer": "cuya" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 29.3: Дополните фразы с donde, adonde или cuando",
+      "tasks": [
+        { "id": "u29_3_1", "sentence": "1. Rocío es la dueña de la casa ___ vive Matías.", "answer": "donde" },
+        { "id": "u29_3_2", "sentence": "2. Esta es la escuela ___ estudié.", "answer": "donde" },
+        { "id": "u29_3_3", "sentence": "3. Son los domingos ___ más gente viene.", "answer": "cuando" },
+        { "id": "u29_3_4", "sentence": "4. Este es el edificio ___ trabaja Marisa.", "answer": "donde" },
+        { "id": "u29_3_5", "sentence": "5. Lima es la ciudad ___ está enterrado Pizarro.", "answer": "donde" },
+        { "id": "u29_3_6", "sentence": "6. Esta es la dirección ___ tienes que mandar el paquete.", "answer": "adonde" },
+        { "id": "u29_3_7", "sentence": "7. Normalmente es a las dos ___ comemos.", "answer": "cuando" },
+        { "id": "u29_3_8", "sentence": "8. El país ___ conocí a mi marido fue Colombia.", "answer": "donde" },
+        { "id": "u29_3_9", "sentence": "9. El pueblo ___ nació Adolfo ya no existe.", "answer": "donde" },
+        { "id": "u29_3_10", "sentence": "10. ¿Cuál es el pueblo ___ vais en verano?", "answer": "adonde" },
+        { "id": "u29_3_11", "sentence": "11. Este es el hotel ___ nos alojamos el año pasado.", "answer": "donde" },
+        { "id": "u29_3_12", "sentence": "12. Recuerdo una época ___ no había muchos coches en Madrid.", "answer": "cuando" }
+      ]
+    }
+  ]
+}

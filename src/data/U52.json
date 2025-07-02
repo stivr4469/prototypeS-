@@ -1,0 +1,65 @@
+{
+  "lessonId": "A2_U52",
+  "title": "Урок 52: Настоящее время для выражения периодов времени",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Конструкции для выражения длительности действия",
+      "content": [
+        { "text": "<strong>Presente de indicativo используется для обозначения действий или ситуаций, которые начались в прошлом и продолжаются в настоящем.</strong>" },
+        { "text": "<strong>1. presente de indicativo + desde + дата</strong><br><i>Conozco a Elsa <strong>desde</strong> 2002.<br>Trabajo en un banco <strong>desde</strong> el año pasado.<br>No voy al teatro <strong>desde</strong> Navidad.</i>" },
+        { "text": "<strong>2. presente de indicativo + desde hace + период времени</strong><br><i>Keiko estudia español <strong>desde hace</strong> tres meses.<br>Rosana y Alberto viven en Argentina <strong>desde hace</strong> dos años.<br>No veo a Pili <strong>desde hace</strong> mucho tiempo.</i>" },
+        { "text": "<strong>3. hace + период времени + que + presente de indicativo</strong><br><i><strong>Hace</strong> dos días que no miro el correo electrónico. (Clara sigue sin mirar)<br><strong>Hace</strong> un año que estudio español.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 52.1: Дополните диалоги правильной формой глагола",
+      "tasks": [
+        { "id": "u52_1_1", "sentence": "1. ¿Cuánto tiempo hace que (vivir) ___ usted en Caracas?", "answer": "vive" },
+        { "id": "u52_1_2", "sentence": "2. –¿Hablas español? –Sí, lo (hablar) ___ desde que era pequeño.", "answer": "hablo" },
+        { "id": "u52_1_3", "sentence": "3. –¿Hace mucho que (conocer) ___ a Ronaldo? –Sí, lo ___ desde 1995.", "answer": "conoces, conozco" },
+        { "id": "u52_1_4", "sentence": "4. –¿Cuánto tiempo hace que (vivir) ___ ustedes en Quito? –Diez meses.", "answer": "viven" },
+        { "id": "u52_1_5", "sentence": "5. –¿Desde cuándo (ser) ___ amigos Jorge y tú? –___ amigos desde hace unos cinco años.", "answer": "sois, Somos" },
+        { "id": "u52_1_6", "sentence": "6. –Hace dos semanas que (trabajar) ___ en este bar. Me gusta.", "answer": "trabajo" },
+        { "id": "u52_1_7", "sentence": "7. –¿Desde cuándo no (ver) ___ a Petra? –No la ___ desde el verano pasado.", "answer": "ves, veo" },
+        { "id": "u52_1_8", "sentence": "8. Lucas y Alba no (tener) ___ vacaciones desde hace cuatro años.", "answer": "tienen" },
+        { "id": "u52_1_9", "sentence": "9. ¿Hace mucho que (conducir) ___ usted?", "answer": "conduce" },
+        { "id": "u52_1_10", "sentence": "10. ¿Cuánto tiempo hace que (conocerse) ___ Elisa y Mario?", "answer": "se conocen" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 52.2: Выразите информацию, используя указанные слова",
+      "tasks": [
+        { "id": "u52_2_1", "sentence": "1. Lupe conoce a Jaime. Lo conoció en 2001. → Lupe <u>conoce a Jaime desde 2001</u>.", "answer": "conoce a Jaime desde 2001" },
+        { "id": "u52_2_2", "sentence": "2. Yasir estudia español. Empezó a estudiarlo hace seis meses. (Yasir) → ___", "answer": "Yasir estudia español desde hace seis meses" },
+        { "id": "u52_2_3", "sentence": "3. La última vez que vimos el mar fue hace un año. (Hace) → ___", "answer": "Hace un año que no vemos el mar" },
+        { "id": "u52_2_4", "sentence": "4. Patricia dejó de venir el día de su cumpleaños. (Patricia) → ___", "answer": "Patricia no viene desde el día de su cumpleaños" },
+        { "id": "u52_2_5", "sentence": "5. La última vez que mis padres me escribieron fue en Navidad. (Mis padres) → ___", "answer": "Mis padres no me escriben desde Navidad" },
+        { "id": "u52_2_6", "sentence": "6. Salgo con Rosario. Empecé a salir con ella hace un mes. (Hace) → ___", "answer": "Hace un mes que salgo con Rosario" },
+        { "id": "u52_2_7", "sentence": "7. La última vez que fui al cine fue hace dos semanas. (Hace) → ___", "answer": "Hace dos semanas que no voy al cine" },
+        { "id": "u52_2_8", "sentence": "8. Vivo en Guayaquil. Llegué allí en 1999. (Yo) → ___", "answer": "Yo vivo en Guayaquil desde 1999" },
+        { "id": "u52_2_9", "sentence": "9. Estoy buscando mis gafas. Empecé a buscarlas hace una hora. (Hace) → ___", "answer": "Hace una hora que busco mis gafas" },
+        { "id": "u52_2_10", "sentence": "10. La última vez que mis padres comieron carne fue hace cinco años. (Hace) → ___", "answer": "Hace cinco años que mis padres no comen carne" },
+        { "id": "u52_2_11", "sentence": "11. Tengo móvil. Lo compré en julio. (Yo) → ___", "answer": "Yo tengo móvil desde julio" },
+        { "id": "u52_2_12", "sentence": "12. La última vez que José vio a Marisa fue en verano. (José) → ___", "answer": "José no ve a Marisa desde verano" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 52.3: Сформулируйте вопросы к ответам",
+      "tasks": [
+        { "id": "u52_3_1", "sentence": "1. ___? –Hace cinco años que conozco a César.", "answer": "¿Cuánto tiempo hace que conoces a César?" },
+        { "id": "u52_3_2", "sentence": "2. ___? –No fumo desde hace un mes.", "answer": "¿Desde cuándo no fumas?" },
+        { "id": "u52_3_3", "sentence": "3. ___? –Hace dos años que vivimos en Mérida.", "answer": "¿Cuánto tiempo hace que vivís en Mérida?" },
+        { "id": "u52_3_4", "sentence": "4. ___? –Asún y yo salimos juntos desde que teníamos dieciséis años.", "answer": "¿Desde cuándo salís juntos Asún y tú?" },
+        { "id": "u52_3_5", "sentence": "5. ___? –Mi padre trabaja en esta empresa desde que tenía veinte años.", "answer": "¿Desde cuándo trabaja tu padre en esta empresa?" },
+        { "id": "u52_3_6", "sentence": "6. ___? –Hace dos años que estudiamos español.", "answer": "¿Cuánto tiempo hace que estudiáis español?" },
+        { "id": "u52_3_7", "sentence": "7. ___? –No vamos al cine desde las pasadas Navidades.", "answer": "¿Desde cuándo no vais al cine?" },
+        { "id": "u52_3_8", "sentence": "8. ___? –Hace muchísimo tiempo que no como un helado.", "answer": "¿Cuánto tiempo hace que no comes un helado?" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lessonId": "B1_U109",
+  "title": "Урок 109: Выражение согласия и несогласия",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение согласия",
+      "content": [
+        { "text": "<strong>`también` и `tampoco` используются для выражения согласия с ситуацией или мнением других, с помощью следующих конструкций:</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              [
+                "Yo, tú, usted, él, ella...<br>A mí, a ti, a usted, a él, a ella...",
+                "+ también, tampoco"
+              ]
+            ]
+          }
+        },
+        { "list": [
+          "<strong>`también` используется в ответ на утвердительное предложение.</strong><br><i>–Juegos muy bien. –<strong>Tú también</strong>.<br>–A Pablo le duele la cabeza. –<strong>A mí también</strong>.</i>",
+          "<strong>`tampoco` используется в ответ на отрицательное предложение.</strong><br><i>–No hablo ruso. –<strong>Yo tampoco</strong>.<br>–A Marcos no le gusta viajar. –<strong>A Luisa tampoco</strong>.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Выражение несогласия",
+      "content": [
+        { "text": "<strong>`sí` и `no` используются для выражения различий с ситуацией или мнением других.</strong>" },
+        { "table": {
+            "headers": [],
+            "rows": [
+              [
+                "Yo, tú, usted, él, ella...<br>A mí, a ti, a usted, a él, a ella...",
+                "+ sí, no"
+              ]
+            ]
+          }
+        },
+        { "list": [
+          "<strong>`no` используется в ответ на утвердительное предложение.</strong><br><i>–Tengo calor. –<strong>Yo no</strong>.</i>",
+          "<strong>`sí` используется в ответ на отрицательное предложение.</strong><br><i>–No estoy cansada. –<strong>Nosotros sí</strong>.<br>–A Esteban no le gusta el deporte. –Pues a Alba <strong>sí</strong>. Mucho.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 109.1: Выразите согласие с también или tampoco",
+      "tasks": [
+        { "id": "u109_1_1", "sentence": "1. –Julia está contenta. –Yo ___.", "answer": "también" },
+        { "id": "u109_1_2", "sentence": "2. –No nos gusta el fútbol. –A nosotras ___.", "answer": "tampoco" },
+        { "id": "u109_1_3", "sentence": "3. –A Ramón no le gusta viajar en avión. –A su mujer ___.", "answer": "tampoco" },
+        { "id": "u109_1_4", "sentence": "4. –No sé conducir. –Yo ___.", "answer": "tampoco" },
+        { "id": "u109_1_5", "sentence": "5. –Eres una persona encantadora. –Tú ___, Marisa.", "answer": "también" },
+        { "id": "u109_1_6", "sentence": "6. –Estamos resfriadas. –Nosotras ___.", "answer": "también" },
+        { "id": "u109_1_7", "sentence": "7. –Erika habla español muy bien. –Ulrich ___.", "answer": "también" },
+        { "id": "u109_1_8", "sentence": "8. –No tenemos entradas. –Laura y Sonia ___.", "answer": "tampoco" },
+        { "id": "u109_1_9", "sentence": "9. –A Miguel le gustaría visitar el Amazonas. –A mí ___. Debe de ser precioso.", "answer": "también" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 109.2: Выразите несогласие с sí или no",
+      "tasks": [
+        { "id": "u109_2_1", "sentence": "1. –Tengo sueño. –Yo ___. Anoche dormí bien.", "answer": "no" },
+        { "id": "u109_2_2", "sentence": "2. –Luis no sabe jugar al tenis. –Pues Ramón ___. Es bastante bueno.", "answer": "sí" },
+        { "id": "u109_2_3", "sentence": "3. –No me gusta el frío. –A nosotros ___. Es muy sano.", "answer": "sí" },
+        { "id": "u109_2_4", "sentence": "4. –Mañana no trabajo. –Yo ___. Trabajo todos los días.", "answer": "sí" },
+        { "id": "u109_2_5", "sentence": "5. –A Arturo le encanta estudiar. –Pues a Leo ___. Es un poco vago.", "answer": "no" },
+        { "id": "u109_2_6", "sentence": "6. –No sé tocar ningún instrumento. –Yo ___. Sé tocar la guitarra.", "answer": "sí" },
+        { "id": "u109_2_7", "sentence": "7. –No conozco España. –Nosotros ___. Estuvimos allí hace tres años.", "answer": "sí" },
+        { "id": "u109_2_8", "sentence": "8. –Me encanta madrugar. –Pues a mí ___.", "answer": "no" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 109.3 и 109.4",
+      "content": [
+        { "text": "<strong>Упражнения 109.3 и 109.4 пропущены, так как они требуют составления свободных диалогов.</strong>" }
+      ]
+    }
+  ]
+}

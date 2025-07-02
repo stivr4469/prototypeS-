@@ -1,0 +1,91 @@
+{
+  "lessonId": "A2_U38",
+  "title": "Урок 38: Путаница в местоимениях (lo/la/le)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: lo, la, los, las (Прямое дополнение)",
+      "content": [
+        { "text": "<strong>`Lo, la, los, las`</strong> используются как прямое дополнение глагола для обозначения ранее упомянутых людей, животных или предметов.<br><strong>lo, los → masculino</strong><br><strong>la, las → femenino</strong>" },
+        { "list": [
+          "<i>–¿Me dejas el diccionario? –No puedo. <strong>Lo</strong> necesito.</i>",
+          "<i>–¿Me dejas la pluma? –No puedo. <strong>La</strong> necesito.</i>",
+          "<i>–¿Quieres a tus padres? –Sí, <strong>los</strong> quiero.</i>"
+        ]},
+        { "text": "<strong>НО:</strong> Некоторые люди используют `le` и `les` вместо `lo` и `los` для обозначения людей.<br><i>–¿Amas a Juan? –Sí, <strong>le</strong> amo. / Sí, <strong>le</strong> quiero.</i>" },
+        { "text": "<strong>ATENCIÓN (Laísmo):</strong><br><i>–¿Me dejas el diccionario? –No puedo. <strong>Lo</strong> necesito.<br>–Di a Sofía que <strong>la</strong> llaman por teléfono. (а не <s>le</s> llaman)</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: le, les (Косвенное дополнение)",
+      "content": [
+        { "text": "<strong>`Le, les`</strong> используются как косвенное дополнение глагола для обозначения людей (мужчин или женщин).<br><i>¿Qué <strong>le</strong> pasa? <strong>Le</strong> duelen las muelas.</i>" },
+        { "list": [
+          "<i>–¿Qué <strong>le</strong> has regalado a Pedro? –<strong>Le</strong> he regalado una cartera.</i>",
+          "<i>–¿Y a María? –<strong>Le</strong> he regalado unos pendientes.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN (Loísmo):</strong><br><i>A María <strong>le</strong> he regalado unos pendientes.<br>A Juan <strong>le</strong> han regalado un disco. (а не <s>lo</s> han regalado)</i>" },
+        { "text": "<strong>`le, les` → `se`, когда есть два местоимения-дополнения.</strong><br><i>–¿Le has dado la carta a Joaquín? –Sí, <strong>se</strong> la he dado.<br>–¿Les has enseñado las notas a tus padres? –Sí, <strong>se las</strong> he enseñado.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: `lo` как нейтральное местоимение",
+      "content": [
+        { "text": "<strong>`Lo`</strong> используется как прямое дополнение для отсылки к ранее упомянутой информации или ситуации.<br><i>–¿Le has dicho a Juan que me caso? –Sí, <strong>se lo</strong> he dicho, pero no se lo cree.<br>–¿Sabes que Chávez está muy enfermo? –Sí, <strong>lo</strong> sé.</i>" },
+        { "text": "<strong>`Lo`</strong> также используется в выражениях, которые указывают на оппозицию или удивление перед информацией.<br><i>–Felipe no es argentino. –Claro que <strong>lo</strong> es.</i>" }
+      ]
+    },
+    {
+      "type": "MultipleChoice",
+      "title": "Упражнение 38.1: Выберите правильную форму",
+      "tasks": [
+        { "id": "u38_1_1", "sentence": "1. –¿Quieres este libro? –No, no (le/lo) quiero. Gracias.", "options": ["le", "lo"], "correctOption": "lo" },
+        { "id": "u38_1_2", "sentence": "2. –¿Me dejas el lápiz? –No puedo. (Le/Lo) necesito.", "options": ["Le", "Lo"], "correctOption": "Lo" },
+        { "id": "u38_1_3", "sentence": "3. –¿Quieres a Ana? –Sí, (la/le) quiero.", "options": ["la", "le"], "correctOption": "la" },
+        { "id": "u38_1_4", "sentence": "4. –¿Ha visto usted mis gafas? –No, no (las/les) he visto.", "options": ["las", "les"], "correctOption": "las" },
+        { "id": "u38_1_5", "sentence": "5. –(Se/Le) (la/le) has regalado tu chaqueta roja a Luisa? –No, no (se/le) (la/le) he regalado.", "options": ["Se la", "Le la"], "correctOption": "Se la" },
+        { "id": "u38_1_6", "sentence": "6. –(Se/Le) (la/le) he prestado.", "options": ["Se la", "Le la"], "correctOption": "Se la" },
+        { "id": "u38_1_7", "sentence": "7. –¿Han visto ustedes a mis padres? –No, no (se/los) hemos visto.", "options": ["se", "los"], "correctOption": "los" },
+        { "id": "u38_1_8", "sentence": "8. –¿(Les/Los) has dejado el coche a tus hermanos? –No, no (se/les) (le/lo) he dejado.", "options": ["Les, se lo", "Los, se los"], "correctOption": "Les, se lo" },
+        { "id": "u38_1_9", "sentence": "9. –¿Has visto a mis hermanas? –Sí, (las/les) he visto.", "options": ["las", "les"], "correctOption": "las" },
+        { "id": "u38_1_10", "sentence": "10. Inés, (la/le) llaman por teléfono.", "options": ["la", "le"], "correctOption": "la" },
+        { "id": "u38_1_11", "sentence": "11. ¿Quiere ver a Andrés? –No, no quiero (verla/verlo).", "options": ["verla", "verlo"], "correctOption": "verlo" },
+        { "id": "u38_1_12", "sentence": "12. (Les/Los) he comprado una televisión a mis padres.", "options": ["Les", "Los"], "correctOption": "Les" },
+        { "id": "u38_1_13", "sentence": "13. (La/Le) dije a Juana que no tengo dinero.", "options": ["La", "Le"], "correctOption": "Le" },
+        { "id": "u38_1_14", "sentence": "14. Ayer (la/le) vi en el parque, Elisa.", "options": ["la", "le"], "correctOption": "la" },
+        { "id": "u38_1_15", "sentence": "15. –¿Qué (la/le) pasa a Elsa? –(La/Le) duele la cabeza.", "options": ["le, Le", "la, La"], "correctOption": "le, Le" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 38.2: Дополните с las, la, los, las, le, les или se",
+      "tasks": [
+        { "id": "u38_2_1", "sentence": "1. –¿Has visto a Juana? –Sí, ___ he visto.", "answer": "la" },
+        { "id": "u38_2_2", "sentence": "2. ___ he regalado unos bombones a Sarita.", "answer": "Le" },
+        { "id": "u38_2_3", "sentence": "3. –¿Has llamado a tu padre, Héctor? –Sí, ___ he llamado.", "answer": "le" },
+        { "id": "u38_2_4", "sentence": "4. ¿Qué ___ has dicho a la profesora?", "answer": "le" },
+        { "id": "u38_2_5", "sentence": "5. ¿___ has regalado tu disco a Enrique? Sí, ___ he regalado.", "answer": "Le, se lo" },
+        { "id": "u38_2_6", "sentence": "6. ¿Has visto a Concha? –No, hoy no ___ he visto.", "answer": "la" },
+        { "id": "u38_2_7", "sentence": "7. A Pili ___ duelen las muelas.", "answer": "le" },
+        { "id": "u38_2_8", "sentence": "8. ¿Qué ___ has comprado a tus padres? –A mi padre ___ he comprado un libro y a mi madre ___ he comprado un pañuelo.", "answer": "les, le, le" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 38.3: Используйте подходящие местоимения",
+      "tasks": [
+        { "id": "u38_3_1", "sentence": "1. –¿Le has dicho a Juan que necesito el coche? –Sí, ___ he dicho, pero dice que él también ___ necesita.", "answer": "se lo, lo" },
+        { "id": "u38_3_2", "sentence": "2. –¿Sabes que me voy a Colombia? –No, no ___ sabía.", "answer": "lo" },
+        { "id": "u38_3_3", "sentence": "3. –Es verdad que Ángela tiene mucho dinero? –___ es, pero no ___ parece.", "answer": "Lo, lo" },
+        { "id": "u38_3_4", "sentence": "4. –¿Sabe papá que necesito dinero? –___ sabe, pero dice que ___ pidas luego.", "answer": "Lo, se lo" },
+        { "id": "u38_3_5", "sentence": "5. No ___ entiendo. He ofrecido ayuda a Teresa, pero no ___ ha aceptado.", "answer": "lo, la" },
+        { "id": "u38_3_6", "sentence": "6. –¿De verdad que Ana es escritora? –Claro que ___ es, pero no ___ sabe nadie.", "answer": "lo, lo" },
+        { "id": "u38_3_7", "sentence": "7. –Juan y Lola se han casado. –Ya sabía que ___ harían. Él ___ quiere mucho.", "answer": "lo, la" },
+        { "id": "u38_3_8", "sentence": "8. –Se ha muerto Momo. –¡Cuánto ___ siento! Yo ___ quería mucho.", "answer": "lo, lo" }
+      ]
+    }
+  ]
+}

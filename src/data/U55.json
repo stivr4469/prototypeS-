@@ -1,0 +1,88 @@
+{
+  "lessonId": "A2_U55",
+  "title": "Урок 55: Глаголы типа GUSTAR",
+  "level": "A2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение глагола GUSTAR",
+      "content": [
+        { "text": "Глаголы типа `gustar`, `encantar` и др. спрягаются иначе. Местоимение указывает, кто испытывает чувство, а форма глагола зависит от того, что это чувство вызывает." },
+        { "table": {
+            "headers": [],
+            "rows": [
+              ["(a mí)", "me"],
+              ["(a ti)", "te"],
+              ["(a usted)", "le"],
+              ["(a él, a ella)", "le"],
+              ["(a nosotros, -as)", "nos"],
+              ["(a vosotros, -as)", "os"],
+              ["(a ustedes)", "les"],
+              ["(a ellos, -as)", "les"]
+            ]
+          }
+        },
+        { "list": [
+            "<i>¿Te <strong>gusta</strong> este traje?</i>",
+            "<i>Nos <strong>gustan</strong> la paella y el marisco.</i>",
+            "<i>¿Os <strong>gustan</strong> las naranjas?</i>",
+            "<i>A Ricardo no le <strong>gusta</strong> nada estudiar.</i>"
+        ]},
+        { "text": "<strong>ATENCIÓN: me, te... gusta + infinitivo.</strong><br><i>Me <strong>gusta</strong> bailar. → A Concha le <strong>gusta</strong> cantar y bailar.<br>A Luis le <strong>gustan</strong> nadar y jugar al tenis. → A Luis le <strong>gusta</strong> nadar y jugar al tenis.</i>" },
+        { "text": "<strong>a + nombre/nombre propio:</strong><br><i>A mis padres les <strong>gusta</strong> mucho viajar. → A Elsa no le <strong>gusta</strong> cocinar.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие глаголы с такой же конструкцией",
+      "content": [
+        { "text": "<strong>`apetecer, doler, importar, interesar, quedar` (с теми же значениями, что и `tener` или `sentar`)</strong>" },
+        { "list": [
+            "<i>¿Te <strong>sientan</strong> bien estos pendientes?</i>",
+            "<i>A Luisa le <strong>duelen</strong> las muelas.</i>",
+            "<i>Solo nos <strong>quedan</strong> veinte euros.</i>",
+            "<i>No me <strong>importa</strong> madrugar.</i>",
+            "<i>¿Te <strong>interesan</strong> las matemáticas?</i>"
+        ]},
+        { "text": "<strong>Конструкция `a mí, a ti...` используется:</strong><br>- для эмфазы: <i><strong>A nosotros</strong> nos encanta la ópera.</i><br>- для установления контраста: <i>–Me encanta el fútbol. –<strong>A mí</strong> no me gusta nada.</i><br>- чтобы прояснить, о ком идет речь: <i><strong>A Pedro</strong> le gusta Luisa, pero <strong>a ella</strong> no le gusta Pedro.</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 55.1",
+      "content": [
+        { "text": "<strong>Упражнение 55.1 пропущено, так как оно полностью основано на анализе таблицы с иконками.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 55.2: Дополните фразы с gustar или encantar",
+      "tasks": [
+        { "id": "u55_2_1", "sentence": "1. –Te ___ (gusta) bailar, Sara? –Sí, me ___ (encanta). ¿Y a ti? –A mí no ___ (gusta).", "answer": "gusta, encanta, me gusta" },
+        { "id": "u55_2_2", "sentence": "2. –¿___ (gusta) leer a Rubén y a ti? –A mí ___ (encanta), pero ___.", "answer": "Os gusta, me encanta, a él no le gusta" },
+        { "id": "u55_2_3", "sentence": "3. A Nacho ___ (gusta) mucho ___ (encanta) Cristina, pero a Cristina ___ (gusta) Nacho.", "answer": "le gusta, le encanta, no le gusta" },
+        { "id": "u55_2_4", "sentence": "4. –¿___ (gusta) viajar, Manuel? –Sí, mucho. ¿Y a vosotras? –___ (encanta).", "answer": "Te gusta, Nos encanta" },
+        { "id": "u55_2_5", "sentence": "5. –¿Qué ___ (gusta) hacer en vacaciones? –___ (encanta) ir a la playa y descansar.", "answer": "os gusta, Nos encanta" },
+        { "id": "u55_2_6", "sentence": "6. –___ (gusta) hacer deporte. ¿Y a ti, Norma? –___ (encanta) pasear y nadar.", "answer": "Me gusta, Me encanta" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 55.3: Дополните фразы с apeter, doler, importar, interesar, quedar, sentar",
+      "tasks": [
+        { "id": "u55_3_1", "sentence": "1. A mi abuela le ___ mucho las piernas.", "answer": "duelen" },
+        { "id": "u55_3_2", "sentence": "2. –¿___ salir esta noche, Luis? –No, estoy cansado.", "answer": "Te apetece" },
+        { "id": "u55_3_3", "sentence": "3. A Elena y a ti ___ muy bien el color verde.", "answer": "os sienta" },
+        { "id": "u55_3_4", "sentence": "4. –¿(a vosotros) ___ mucho dinero? –A mí solo ___ un peso.", "answer": "Os queda, me queda" },
+        { "id": "u55_3_5", "sentence": "5. Tengo que ir al dentista. ___ las muelas.", "answer": "Me duelen" },
+        { "id": "u55_3_6", "sentence": "6. A José y a mí no ___ madrugar.", "answer": "nos importa" },
+        { "id": "u55_3_7", "sentence": "7. –¿___ a ustedes comer algo? –No, gracias. No tenemos hambre.", "answer": "Les apetece" },
+        { "id": "u55_3_8", "sentence": "8. A Jordi y a Gonzalo ___ bien la corbata.", "answer": "les queda" },
+        { "id": "u55_3_9", "sentence": "9. La informática es muy útil, pero a mí no ___ nada.", "answer": "me interesa" },
+        { "id": "u55_3_10", "sentence": "10. Lo siento, Gema, pero esos pantalones ___ grandes.", "answer": "te quedan" },
+        { "id": "u55_3_11", "sentence": "11. A ti ___ muy bien los sombreros, Amalia.", "answer": "te sientan" },
+        { "id": "u55_3_12", "sentence": "12. –¿___ a usted un gazpacho, Matías? –No, gracias. ___ el estómago.", "answer": "Le apetece, Me duele" }
+      ]
+    }
+  ]
+}

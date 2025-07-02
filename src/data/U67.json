@@ -1,0 +1,69 @@
+{
+  "lessonId": "B1_U67",
+  "title": "Урок 67: Futuro simple: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы Futuro simple",
+      "content": [
+        { "text": "<strong>Lloverá</strong> и <strong>llegaremos</strong> — это формы простого будущего времени (futuro simple)." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(yo)", "trabajar<strong>é</strong>", "comer<strong>é</strong>", "vivir<strong>é</strong>"],
+              ["(tú)", "trabajar<strong>ás</strong>", "comer<strong>ás</strong>", "vivir<strong>ás</strong>"],
+              ["(usted)", "trabajar<strong>á</strong>", "comer<strong>á</strong>", "vivir<strong>á</strong>"],
+              ["(él, ella)", "trabajar<strong>á</strong>", "comer<strong>á</strong>", "vivir<strong>á</strong>"],
+              ["(nosotros, -as)", "trabajar<strong>emos</strong>", "comer<strong>emos</strong>", "vivir<strong>emos</strong>"],
+              ["(vosotros, -as)", "trabajar<strong>éis</strong>", "comer<strong>éis</strong>", "vivir<strong>éis</strong>"],
+              ["(ustedes)", "trabajar<strong>án</strong>", "comer<strong>án</strong>", "vivir<strong>án</strong>"],
+              ["(ellos, -as)", "trabajar<strong>án</strong>", "comer<strong>án</strong>", "vivir<strong>án</strong>"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование Futuro simple",
+      "content": [
+        { "text": "<strong>1. Используется для разговора о действиях или ситуациях в будущем.</strong> Информирует о том, что произойдет `mañana`, `dentro de (tres meses, dos días...)`, `el año que viene`, etc.<br><i>El nuevo edificio estará acabado dentro de seis meses.<br>Mañana te <strong>sentirás</strong> mejor.</i>" },
+        { "text": "<strong>- Можно использовать с выражениями:</strong> `luego`, `más tarde`, `pronto`, `el próximo (lunes)/la próxima (semana)`, `el año/la semana que viene`, `dentro de` + период времени, `cuando` + ситуация в будущем...<br><i>–¿Has llamado a José? –No. Lo <strong>llamaré</strong> más tarde.<br>No te preocupes. Pronto <strong>encontrarás</strong> trabajo.<br>Te <strong>avisaré</strong> cuando <strong>aterricemos</strong>.</i>" },
+        { "text": "<strong>2. Используется для предсказаний.</strong><br><i>El fin de semana <strong>nevará</strong> a partir de mil metros.<br><strong>Conocerá</strong> a una persona maravillosa y se <strong>casarán</strong>.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 67.1: Дополните фразы с Futuro simple",
+      "tasks": [
+        { "id": "u67_1_1", "sentence": "1. Hoy no puedo ir. (ir) ___ mañana.", "answer": "Iré" },
+        { "id": "u67_1_2", "sentence": "2. –Nos vamos hoy a Panamá. –¿Y cuándo (volver) ___?", "answer": "volveréis" },
+        { "id": "u67_1_3", "sentence": "3. Hoy no te puedo llamar. Te (llamar) ___ el lunes.", "answer": "llamaré" },
+        { "id": "u67_1_4", "sentence": "4. –¿Habéis acabado la traducción? –No, la (acabar) ___ la semana que viene.", "answer": "acabaremos" },
+        { "id": "u67_1_5", "sentence": "5. –¿Han arreglado ya el ordenador? –No, lo (arreglar) ___ en cuanto puedan.", "answer": "arreglarán" },
+        { "id": "u67_1_6", "sentence": "6. –¿Has ido al dentista? –Todavía no. (ir) ___ cuando tenga tiempo.", "answer": "Iré" },
+        { "id": "u67_1_7", "sentence": "7. –¿Puedes prestarme tu bicicleta? –Sí, claro, pero ¿cuándo me la (devolver) ___?", "answer": "devolverás" },
+        { "id": "u67_1_8", "sentence": "8. Estas plantas están secas. Riégalas o (morirse) ___.", "answer": "se morirán" },
+        { "id": "u67_1_9", "sentence": "9. –¿Crees que yo, (aprobar) ___? –(Aprobar) ___ si estudias mucho.", "answer": "aprobaré, Aprobarás" },
+        { "id": "u67_1_10", "sentence": "10. Ahora no tenemos hambre. (Comer) ___ más tarde.", "answer": "Comeremos" },
+        { "id": "u67_1_11", "sentence": "11. –Quiero una bici. –Te (yo, regalar) ___ una para Reyes.", "answer": "regalaré" },
+        { "id": "u67_1_12", "sentence": "12. –Me gustaría ir a Cuba. –(ir) ___ en cuanto podamos.", "answer": "Iremos" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 67.2: Дополните прогноз погоды",
+      "tasks": [
+        { "id": "u67_2_1", "sentence": "El fin de semana (ser) ___ bastante frío. El sábado (bajar) ___ las temperaturas en todo el país y (nevar) ___ en zonas altas del norte. El domingo (subir) ___ un poco las temperaturas aunque (seguir) ___ haciendo frío. (Llover) ___ en el oeste y suroeste. En el centro (soplar) ___ fuertes vientos del norte.", "answer": "será, bajarán, nevará, subirán, seguirá, Lloverá, soplarán" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнение 67.3",
+      "content": [
+        { "text": "<strong>Упражнение 67.3 пропущено, так как оно требует составления гороскопа по картинкам.</strong>" }
+      ]
+    }
+  ]
+}

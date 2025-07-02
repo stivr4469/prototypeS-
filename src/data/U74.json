@@ -1,0 +1,67 @@
+{
+  "lessonId": "B1_U74",
+  "title": "Урок 74: Отрицательный императив: правильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Формы отрицательного императива",
+      "content": [
+        { "text": "<strong>No abras</strong> и <strong>no toques</strong> — это формы отрицательного императива. Для образования этих форм используются формы `presente de subjuntivo`." },
+        { "table": {
+            "headers": ["", "-ar (trabajar)", "-er (comer)", "-ir (vivir)"],
+            "rows": [
+              ["(tú)", "no trabaj<strong>es</strong>", "no com<strong>as</strong>", "no viv<strong>as</strong>"],
+              ["(usted)", "no trabaj<strong>e</strong>", "no com<strong>a</strong>", "no viv<strong>a</strong>"],
+              ["(vosotros, -as)", "no trabaj<strong>éis</strong>", "no com<strong>áis</strong>", "no viv<strong>áis</strong>"],
+              ["(ustedes)", "no trabaj<strong>en</strong>", "no com<strong>an</strong>", "no viv<strong>an</strong>"]
+            ]
+          }
+        },
+        { "text": "<strong>ATENCIÓN:</strong> Ver: no veas, no vea, no veáis, no vean" },
+        { "text": "<strong>Орфографические изменения:</strong><br>- глаголы на `-gar`: pagar → no pag<strong>ues</strong>, no pag<strong>ue</strong>, no pag<strong>uéis</strong>, no pag<strong>uen</strong><br>- глаголы на `-ger`: escoger → no escoj<strong>as</strong>, no escoj<strong>a</strong>, no escoj<strong>áis</strong>, no escoj<strong>an</strong><br>- глаголы на `-car`: practicar → no practi<strong>ques</strong>, no practi<strong>que</strong>, no practi<strong>quéis</strong>, no practi<strong>quen</strong><br>- глаголы на `-zar`: cruzar → no cru<strong>ces</strong>, no cru<strong>ce</strong>, no cru<strong>céis</strong>, no cru<strong>cen</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование отрицательного императива",
+      "content": [
+        { "text": "<strong>Используется для:</strong>" },
+        { "list": [
+          "<strong>- приказов и инструкций:</strong> <i><strong>No agitéis</strong> la botella antes de abrirla.</i>",
+          "<strong>- просьб:</strong> <i><strong>No abras</strong> la ventana. Tengo frío.</i>",
+          "<strong>- советов, предложений или предостережений:</strong> <i><strong>No comas</strong> muchas grasas. Es malo para el corazón. / <strong>No bebáis</strong> agua de esa fuente. No es potable.</i>",
+          "<strong>- запретов:</strong> <i><strong>No olviden</strong> el paraguas. Puede llover.</i>",
+          "<strong>- отказа в разрешении:</strong> <i>–Papá, ¿puedo coger el coche? –No, <strong>no lo cojas</strong>. Lo necesito yo.</i>"
+        ]}
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 74.1 и 74.2",
+      "content": [
+        { "text": "<strong>Упражнения 74.1 и 74.2 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 74.3: Что вы скажете в каждой ситуации?",
+      "tasks": [
+        { "id": "u74_3_1", "sentence": "1. (a un amigo) (No, tirar) ___ cosas al suelo.", "answer": "No tires" },
+        { "id": "u74_3_2", "sentence": "2. (a unos alumnos) (No, escribir) ___ en las mesas.", "answer": "No escribáis" },
+        { "id": "u74_3_3", "sentence": "3. (a un niño) (No, coger) ___ nada del suelo. Está muy sucio.", "answer": "No cojas" },
+        { "id": "u74_3_4", "sentence": "4. (a unos desconocidos) (No, comer) ___ aquí, por favor. Está prohibido.", "answer": "No coman" },
+        { "id": "u74_3_5", "sentence": "5. (a unos amigos) La cena es a las nueve. (No, llegar) ___ tarde.", "answer": "No lleguéis" },
+        { "id": "u74_3_6", "sentence": "6. (a unos amigos) (No, cortar) ___ flores. Está prohibido.", "answer": "No cortéis" },
+        { "id": "u74_3_7", "sentence": "7. (a unos desconocidos) (No, cruzar) ___ por aquí. Es peligroso.", "answer": "No crucen" },
+        { "id": "u74_3_8", "sentence": "8. (a un niño) –¿Puedo llamar a Rafa? –No, (no, llamar) ___ ahora. Es tarde.", "answer": "no llames" },
+        { "id": "u74_3_9", "sentence": "9. (a unos desconocidos) (No, pisar) ___ el césped, por favor.", "answer": "No pisen" },
+        { "id": "u74_3_10", "sentence": "10. (a un amigo) (No, ver) ___ esa película. Es muy aburrida.", "answer": "No veas" },
+        { "id": "u74_3_11", "sentence": "11. (a un amigo) (No, hablar) ___ tan alto. Te oigo perfectamente.", "answer": "No hables" },
+        { "id": "u74_3_12", "sentence": "12. (a un amigo) (No, gastar) ___ mucha agua. Hay sequía.", "answer": "No gastes" },
+        { "id": "u74_3_13", "sentence": "13. (a un amigo) (No, usar) ___ el móvil en clase.", "answer": "No uses" },
+        { "id": "u74_3_14", "sentence": "14. (a unos desconocidos) (No, dejar) ___ las maletas solas.", "answer": "No dejen" }
+      ]
+    }
+  ]
+}

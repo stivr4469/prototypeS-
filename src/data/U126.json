@@ -1,0 +1,37 @@
+{
+  "lessonId": "B2_U126",
+  "title": "Урок 126: Спряжение глаголов с 'vos'",
+  "level": "B2",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Использование 'vos'",
+      "content": [
+        { "text": "В некоторых регионах Латинской Америки, особенно в Аргентине, Парагвае и Уругвае, используется форма `vos` вместо `tú`. Это предполагает некоторые изменения в спряжении глаголов. Следует помнить, что множественная форма `vos` — это `ustedes`, а не `vosotros`." }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение в Presente de indicativo",
+      "content": [
+        { "text": "<strong>Правильные глаголы:</strong><br>- `trabaj-as` (tú) → trabaj-<strong>ás</strong> (vos)<br>- `com-es` (tú) → com-<strong>és</strong> (vos)<br>- `viv-es` (tú) → viv-<strong>ís</strong> (vos)" },
+        { "text": "<strong>Неправильные глаголы:</strong><br>- `cierras` → cerr<strong>ás</strong><br>- `pides` → ped<strong>ís</strong><br>- `pones` → pon<strong>és</strong><br>- `sales` → sal<strong>ís</strong><br>- `vienes` → ven<strong>ís</strong><br>- `dices` → dec<strong>ís</strong><br>- `eres` (tú) → <strong>sos</strong> (vos)<br>- `tienes` → ten<strong>és</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Спряжение в Imperativo",
+      "content": [
+        { "text": "<strong>Правильные глаголы:</strong><br>- `trabaj-a` (tú) → trabaj-<strong>á</strong> (vos)<br>- `com-e` (tú) → com-<strong>é</strong> (vos)<br>- `viv-e` (tú) → viv-<strong>í</strong> (vos)" },
+        { "text": "<strong>Неправильные глаголы:</strong><br>- `cierra` → cerr<strong>á</strong><br>- `pide` → ped<strong>í</strong><br>- `pon` → pon<strong>é</strong><br>- `sal` → sal<strong>í</strong><br>- `di` → dec<strong>í</strong><br>- `ven` → ven<strong>í</strong>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание:",
+      "content": [
+        { "text": "<strong>В этом уроке нет упражнений.</strong>" }
+      ]
+    }
+  ]
+}

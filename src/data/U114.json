@@ -1,0 +1,26 @@
+{
+  "lessonId": "B1_U114",
+  "title": "Урок 114: Предлоги (5)",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Предлоги",
+      "content": [
+        { "text": "<strong>- `para` используется для:</strong><br> - указания пункта назначения или цели: <i>Mañana salimos <strong>para</strong> Londres.</i><br> - указания цели (с инфинитивом): <i>¿Tiene un cuchillo <strong>para</strong> pelar patatas?</i><br> - указания срока: <i>Necesitamos un apartamento <strong>para</strong> este verano.</i><br> - выражения мнения: <i><strong>Para</strong> Julio, su hermana es perfecta.</i>" },
+        { "text": "<strong>- `por` используется для:</strong><br> - указания причины или мотива действия: <i>Se suspendió el partido <strong>por</strong> la lluvia.</i><br> - указания средства, с помощью которого что-то делается: <i>Envíale la factura <strong>por</strong> fax.</i><br> - указания приблизительного местоположения или транзита: <i>Tiene que haber un banco <strong>por</strong> aquí.</i><br> - указания цены: <i>Hemos comprado un apartamento <strong>por</strong> cien mil euros.</i>" },
+        { "text": "<strong>- `con` используется для:</strong><br> - указания компании или сопровождения: <i>José sale <strong>con</strong> Tina los fines de semana.</i><br> - указания инструмента: <i>Pagó las entradas <strong>con</strong> la tarjeta de crédito.</i>" },
+        { "text": "<strong>- `sin` указывает на отсутствие чего-либо или кого-либо.</strong><br><i>Me he acostumbrado a beber cerveza <strong>sin</strong> alcohol.</i>" },
+        { "text": "<strong>- `contra` указывает на противопоставление.</strong><br><i>Este domingo juega el Real Madrid <strong>contra</strong> el River Plate.</i>" },
+        { "text": "<strong>- `según` указывает на точку зрения.</strong><br><i><strong>Según</strong> tú, ¿quién tiene razón?</i>" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 114.1, 114.2, 114.3, 114.4",
+      "content": [
+        { "text": "<strong>Все упражнения этого урока пропущены.</strong>" }
+      ]
+    }
+  ]
+}

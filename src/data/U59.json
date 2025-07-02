@@ -1,0 +1,62 @@
+{
+  "lessonId": "B1_U59",
+  "title": "Урок 59: Pretérito indefinido: неправильные глаголы",
+  "level": "B1",
+  "components": [
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Неправильные глаголы в Pretérito indefinido",
+      "content": [
+        { "text": "<strong>1. Глаголы на `-ir` с изменением `e → i` во 2-м и 3-м лице.</strong><br><i>pedir: ped-í, ped-iste, p<strong>i</strong>d-ió, ped-imos, ped-isteis, p<strong>i</strong>d-ieron</i><br><i>Otros: mentir, preferir, seguir, sentir, divertirse</i>" },
+        { "text": "<strong>2. Глаголы на `-ir` с изменением `o → u` во 2-м и 3-м лице.</strong><br><i>dormir: dorm-í, dorm-iste, d<strong>u</strong>rm-ió, dorm-imos, dorm-isteis, d<strong>u</strong>rm-ieron</i><br><i>Otros: morir</i>" },
+        { "text": "<strong>3. Глаголы на `-er/-ir` с изменением `i → y` во 2-м и 3-м лице.</strong><br><i>le-er: le-í, le-íste, le-<strong>y</strong>ó, le-ímos, le-ísteis, le-<strong>y</strong>eron</i><br><i>Otros: caer, construir, creer, destruir, huir, incluir, oír</i>" },
+        { "text": "<strong>4. Полностью неправильные глаголы (terminaciones irregulares)</strong>" },
+        { "table": {
+            "headers": ["", "-e", "-iste", "-o", "-imos", "-isteis", "-ieron*"],
+            "rows": [
+              ["decir → dij-", "", "", "", "", "", ""],
+              ["estar → estuv-", "", "", "", "", "", ""],
+              ["haber → hub-", "", "", "", "", "", ""],
+              ["hacer → hic-/hiz-", "", "", "", "", "", ""],
+              ["poder → pud-", "", "", "", "", "", ""],
+              ["poner → pus-", "", "", "", "", "", ""],
+              ["querer → quis-", "", "", "", "", "", ""],
+              ["saber → sup-", "", "", "", "", "", ""],
+              ["tener → tuv-", "", "", "", "", "", ""],
+              ["traer → traj-", "", "", "", "", "", ""],
+              ["venir → vin-", "", "", "", "", "", ""]
+            ]
+          }
+        },
+        { "text": "<i>*PERO: decir → <strong>dijeron</strong>; traer → <strong>trajeron</strong><br>El año pasado <strong>hice</strong> varios viajes a América del Sur.<br>El domingo <strong>hubo</strong> una fiesta en casa de Emilia. Pato no <strong>quiso</strong> venir.</i>" },
+        { "text": "<strong>5. Глаголы на `-ucir` → `uj`</strong><br><i>conducir: conduje, condujiste, condujo, condujimos, condujisteis, condujeron<br>Otros: producir, traducir</i>" },
+        { "text": "<strong>6. `Ir/Ser`: fui, fuiste, fue, fuimos, fuisteis, fueron</strong><br><i>Alicia fue (ser) directora de un banco durante cuatro años.<br>Antonio fue (ir) a Puerto Rico en 2001.<br>La civilización maya fue (ser) muy pacífica.</i>" }
+      ]
+    },
+    {
+      "type": "FillInTheBlank",
+      "title": "Упражнение 59.1: Дополните фразы с Pretérito indefinido",
+      "tasks": [
+        { "id": "u59_1_1", "sentence": "1. Alba (venir) ___ a España en 2001.", "answer": "vino" },
+        { "id": "u59_1_2", "sentence": "2. Unos amigos míos (tener) ___ un accidente el fin de semana pasado.", "answer": "tuvieron" },
+        { "id": "u59_1_3", "sentence": "3. –¿Por qué (no venir) ___ Lucía y Paloma a la fiesta? –Porque (no querer) ___ entrar en la nuestra.", "answer": "vinieron, no quisieron" },
+        { "id": "u59_1_4", "sentence": "4. ¿Cuántos hijos (tener) ___ la abuela de Tere?", "answer": "tuvo" },
+        { "id": "u59_1_5", "sentence": "5. Esta casa la (construir) ___ el padre de Óscar hace cincuenta años.", "answer": "construyó" },
+        { "id": "u59_1_6", "sentence": "6. –¿Qué (ustedes, hacer) ___ el domingo? –Nada especial. (Estar) ___ en casa viendo la tele. Enrique (no querer) ___ salir.", "answer": "hicieron, Estuvimos, no quiso" },
+        { "id": "u59_1_7", "sentence": "7. Anoche (nosotros, tener) ___ que dormir en casa de Alfredo. No (poder) ___ entrar en la nuestra.", "answer": "tuvimos, pudimos" },
+        { "id": "u59_1_8", "sentence": "8. ¿Cuándo (morir) ___ los abuelos de Miriam?", "answer": "murieron" },
+        { "id": "u59_1_9", "sentence": "9. Laura (caerse) ___ la semana pasada y (romperse) ___ un brazo.", "answer": "se cayó, se rompió" },
+        { "id": "u59_1_10", "sentence": "10. –¿Cuándo (saber) ___ usted que estaba enferma? –Cuando me lo (decir) ___ el médico.", "answer": "supo, dijo" },
+        { "id": "u59_1_11", "sentence": "11. –¿Qué (pasar) ___ anoche? –(Haber) ___ un incendio en el bloque de Ángel.", "answer": "pasó, Hubo" },
+        { "id": "u59_1_12", "sentence": "12. ¿Cuándo (usted, conducir) ___ un coche por primera vez?", "answer": "condujo" }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 59.2 и 59.3",
+      "content": [
+        { "text": "<strong>Упражнения 59.2 и 59.3 пропущены, так как они требуют свободного составления предложений на основе разрозненных слов, что сложно реализовать в текущем формате.</strong>" }
+      ]
+    }
+  ]
+}
