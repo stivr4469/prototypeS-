@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspanish_prototype=self.webpackChunkspanish_prototype||[]).push([[5759],{5759:p=>{p.exports={}}}]);
