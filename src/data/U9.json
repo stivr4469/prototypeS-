@@ -41,33 +41,33 @@
       ]
     },
     {
-      "type": "FillInTheBlank",
-      "title": "Упражнение 9.2: Дополните с el, la, los, las где необходимо",
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 9.2: Complete con el, la, los, las cuando sea necesario.",
       "tasks": [
-        { "id": "u9_2_1", "sentence": "1. Mi cumpleaños es ___ doce de febrero.", "answer": "el" },
-        { "id": "u9_2_2", "sentence": "2. ___ martes tenemos clase de español.", "answer": "Los" },
-        { "id": "u9_2_3", "sentence": "3. Normalmente estudiamos por ___ noche.", "answer": "la" },
-        { "id": "u9_2_4", "sentence": "4. Felipe se casa ___ martes, ___ trece de julio.", "answer": "el, el" },
-        { "id": "u9_2_5", "sentence": "5. La fiesta es ___ domingo a ___ siete.", "answer": "el, las" },
-        { "id": "u9_2_6", "sentence": "6. Hoy es ___ jueves, ___ cuatro de octubre.", "answer": "," },
-        { "id": "u9_2_7", "sentence": "7. El partido es a ___ diez.", "answer": "las" },
-        { "id": "u9_2_8", "sentence": "8. Trabajo por ___ tarde y estudio por ___ mañana.", "answer": "la, la" },
-        { "id": "u9_2_9", "sentence": "9. Nací ___ dos de ___ diciembre.", "answer": "el," },
-        { "id": "u9_2_10", "sentence": "10. Diana sale siempre ___ sábados.", "answer": "los" },
-        { "id": "u9_2_11", "sentence": "11. Tengo vacaciones en ___ agosto.", "answer": "" },
-        { "id": "u9_2_12", "sentence": "12. Tenemos un examen ___ lunes.", "answer": "el" }
+        { "id": "u9_2_1", "sentence": "1. Mi cumpleaños es ___ doce de febrero.", "answers": ["el"] },
+        { "id": "u9_2_2", "sentence": "2. ___ martes tenemos clase de español.", "answers": ["Los"] },
+        { "id": "u9_2_3", "sentence": "3. Normalmente estudiamos por ___ noche.", "answers": ["la"] },
+        { "id": "u9_2_4", "sentence": "4. Felipe se casa ___ martes, ___ trece de julio.", "answers": ["el", "el"] },
+        { "id": "u9_2_5", "sentence": "5. La fiesta es ___ domingo a ___ siete.", "answers": ["el", "las"] },
+        { "id": "u9_2_6", "sentence": "6. Hoy es ___ jueves, ___ cuatro de octubre.", "answers": ["", ""] },
+        { "id": "u9_2_7", "sentence": "7. El partido es a ___ diez.", "answers": ["las"] },
+        { "id": "u9_2_8", "sentence": "8. Trabajo por ___ tarde y estudio por ___ mañana.", "answers": ["la", "la"] },
+        { "id": "u9_2_9", "sentence": "9. Nací ___ dos de ___ diciembre.", "answers": ["el", ""] },
+        { "id": "u9_2_10", "sentence": "10. Diana sale siempre ___ sábados.", "answers": ["los"] },
+        { "id": "u9_2_11", "sentence": "11. Tengo vacaciones en ___ agosto.", "answers": [""] },
+        { "id": "u9_2_12", "sentence": "12. Tenemos un examen ___ lunes.", "answers": ["el"] }
       ]
     },
     {
       "type": "FillInTheBlank",
-      "title": "Упражнение 9.3: Дополните фразы",
+      "title": "Упражнение 9.3: Complete las frases.",
       "tasks": [
-        { "id": "u9_3_1", "sentence": "1. (8 horas, día) Duermo ocho horas ___.", "answer": "al día" },
-        { "id": "u9_3_2", "sentence": "2. (2 días, semana) Voy al gimnasio ___.", "answer": "dos días a la semana" },
-        { "id": "u9_3_3", "sentence": "3. (1 vez, año) Vamos de vacaciones ___.", "answer": "una vez al año" },
-        { "id": "u9_3_4", "sentence": "4. (2 veces, mes) Voy al cine ___.", "answer": "dos veces al mes" },
-        { "id": "u9_3_5", "sentence": "5. (1 noche, semana) Salimos ___.", "answer": "una noche a la semana" },
-        { "id": "u9_3_6", "sentence": "6. (1 hora, día) Corro ___.", "answer": "una hora al día" }
+        { "id": "u9_3_1", "sentence": "1. (8 horas, día) Duermo ocho horas ___", "answer": "al día." },
+        { "id": "u9_3_2", "sentence": "2. (2 días, semana) Voy al gimnasio ___", "answer": "dos días a la semana." },
+        { "id": "u9_3_3", "sentence": "3. (1 vez, año) Vamos de vacaciones ___", "answer": "una vez al año." },
+        { "id": "u9_3_4", "sentence": "4. (2 veces, mes) Voy al cine ___", "answer": "dos veces al mes." },
+        { "id": "u9_3_5", "sentence": "5. (1 noche, semana) Salimos ___", "answer": "una noche a la semana." },
+        { "id": "u9_3_6", "sentence": "6. (1 hora, día) Corro ___", "answer": "una hora al día." }
       ]
     },
     {

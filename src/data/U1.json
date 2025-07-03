@@ -44,14 +44,14 @@
       "type": "MultipleChoice",
       "title": "Упражнение 1.1: Определите род слова",
       "tasks": [
-        { "id": "u1_1_1", "sentence": "cantante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el cantante / la cantante." },
-        { "id": "u1_1_2", "sentence": "periodista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el periodista / la periodista." },
-        { "id": "u1_1_3", "sentence": "cocinero", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Женская форма: la cocinera." },
-        { "id": "u1_1_4", "sentence": "estudiante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el estudiante / la estudiante." },
-        { "id": "u1_1_5", "sentence": "modelo", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el modelo / la modelo." },
-        { "id": "u1_1_6", "sentence": "paciente", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el paciente / la paciente." },
-        { "id": "u1_1_7", "sentence": "rey", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Женская форма: la reina." },
-        { "id": "u1_1_8", "sentence": "taxista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Не меняется: el taxista / la taxista." }
+        { "id": "u1_1_1", "sentence": "cantante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el cantante / la cantante." },
+        { "id": "u1_1_2", "sentence": "periodista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el periodista / la periodista." },
+        { "id": "u1_1_3", "sentence": "cocinero", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Правильный ответ: M. Женская форма: la cocinera." },
+        { "id": "u1_1_4", "sentence": "estudiante", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el estudiante / la estudiante." },
+        { "id": "u1_1_5", "sentence": "modelo", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el modelo / la modelo." },
+        { "id": "u1_1_6", "sentence": "paciente", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el paciente / la paciente." },
+        { "id": "u1_1_7", "sentence": "rey", "options": ["M", "F", "M/F"], "correctOption": "M", "feedback": "Правильный ответ: M. Женская форма: la reina." },
+        { "id": "u1_1_8", "sentence": "taxista", "options": ["M", "F", "M/F"], "correctOption": "M/F", "feedback": "Правильный ответ: M/F. Не меняется: el taxista / la taxista." }
       ]
     },
     {

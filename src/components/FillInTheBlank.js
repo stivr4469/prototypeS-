@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const FillInTheBlank = ({ title, tasks, content }) => { // Добавляем 'content' в props
+const FillInTheBlank = ({ title, tasks, content }) => {
   const [userAnswers, setUserAnswers] = useState({});
   const [results, setResults] = useState({});
 
@@ -11,7 +11,7 @@ const FillInTheBlank = ({ title, tasks, content }) => { // Добавляем 'c
   const checkAnswers = () => {
     const newResults = {};
     tasks.forEach(task => {
-      // Сравнение без учета регистра, разделение ответов через /
+      // Сравнение без учета регистра, разделение ответов через / для гибкости
       const correctAnswers = task.answer.toLowerCase().split('/').map(a => a.trim());
       const userAnswer = (userAnswers[task.id] || "").toLowerCase().trim();
       newResults[task.id] = correctAnswers.includes(userAnswer);
@@ -23,7 +23,7 @@ const FillInTheBlank = ({ title, tasks, content }) => { // Добавляем 'c
     <div className="exercise-block">
       <h3 dangerouslySetInnerHTML={{ __html: title }} />
       
-      {/* Новый блок для отображения контекста/слов */}
+      {/* Блок для отображения контекста/слов */}
       {content && (
         <div style={{ padding: '10px', backgroundColor: '#f8f9fa', border: '1px solid #dee2e6', borderRadius: '5px', marginBottom: '15px' }}>
           {content.map((item, index) => (
