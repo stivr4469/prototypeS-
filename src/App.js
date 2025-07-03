@@ -1,25 +1,33 @@
 import React, { useState } from 'react';
 import Lesson from './components/Lesson';
 import LessonMenu from './components/LessonMenu';
-import { useProgress } from './hooks/useProgress';
+import WelcomeScreen from './components/WelcomeScreen';
 import './App.css';
 
+// 👇 ИЗМЕНЕНИЕ: Мы используем useProgress из вашего кода
+import { useProgress } from './hooks/useProgress';
+
 function App() {
+  const [showWelcome, setShowWelcome] = useState(true);
   const [currentLessonId, setCurrentLessonId] = useState(null);
   const [currentLessonData, setCurrentLessonData] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
-  // 👇 Получаем новую функцию из хука
-  const { markAsCompleted, isCompleted, resetProgress } = useProgress();
+  
+  // 👇 ИЗМЕНЕНИЕ: Интегрируем ваш хук для отслеживания прогресса
+  const { isCompleted, markAsCompleted, resetProgress } = useProgress();
 
+  // 👇 ИСПРАВЛЕНИЕ: Возвращаем список ID уроков
   const lessonIds = Array.from({ length: 126 }, (_, i) => `U${i + 1}`);
 
   const loadLesson = (lessonId) => {
     setIsLoading(true);
+    setCurrentLessonData(null);
     setCurrentLessonId(lessonId);
     import(`./data/${lessonId}.json`)
       .then(module => {
         setCurrentLessonData(module.default);
-        markAsCompleted(lessonId);
+        // Отмечаем урок как пройденный при его загрузке
+        markAsCompleted(lessonId); 
       })
       .catch(err => {
         console.error("Не удалось загрузить урок:", err);
@@ -29,6 +37,10 @@ function App() {
       .finally(() => {
         setIsLoading(false);
       });
+  };
+
+  const handleStart = () => {
+    setShowWelcome(false);
   };
 
   const handleBackToMenu = () => {
@@ -45,28 +57,39 @@ function App() {
       loadLesson(nextLessonId);
     }
   };
-
-  return (
-    <div className="App">
-      {isLoading ? (
-        <p>Загрузка...</p>
-      ) : currentLessonData ? (
+  
+  // Логика отображения
+  const renderContent = () => {
+    if (showWelcome) {
+      return <WelcomeScreen onStart={handleStart} />;
+    }
+    if (isLoading) {
+      return <p>Загрузка...</p>;
+    }
+    if (currentLessonData) {
+      return (
         <Lesson
           lessonData={currentLessonData}
           onBack={handleBackToMenu}
-          onNavigate={handleNavigation}
-          lessonId={currentLessonId}
+          onNavigate={handleNavigation} // Используем единый обработчик
           isLastLesson={lessonIds.indexOf(currentLessonId) === lessonIds.length - 1}
         />
-      ) : (
+      );
+    }
+    // 👇 ИСПРАВЛЕНИЕ: Передаем lessonIds и другие нужные пропсы в LessonMenu
+    return (
         <LessonMenu
-          onSelectLesson={loadLesson}
-          lessonIds={lessonIds}
-          isCompleted={isCompleted}
-          // 👇 Передаем функцию сброса в компонент меню
-          onResetProgress={resetProgress}
+            onSelectLesson={loadLesson}
+            lessonIds={lessonIds}
+            isCompleted={isCompleted}
+            onResetProgress={resetProgress}
         />
-      )}
+    );
+  };
+
+  return (
+    <div className="App">
+      {renderContent()}
     </div>
   );
 }

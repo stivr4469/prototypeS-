@@ -1,0 +1,55 @@
+.welcome-container {
+  display: flex;
+  flex-direction: column; /* Изменено для позиционирования футера */
+  justify-content: center;
+  align-items: center;
+  height: 90vh; /* Немного увеличена высота для пространства */
+  text-align: center;
+  padding: 20px;
+}
+
+.welcome-box {
+  max-width: 600px;
+  padding: 40px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.welcome-title {
+  color: #0d47a1;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  border-bottom: none; /* Убираем линию, которая наследовалась от h1 */
+}
+
+.welcome-subtitle {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.welcome-button {
+  padding: 15px 30px;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+  background-color: #28a745;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.welcome-button:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+}
+
+.welcome-footer {
+  margin-top: 50px; /* Отступ сверху от блока приветствия */
+  width: 100%;
+  text-align: center;
+  color: #aaa;
+  font-size: 0.9em;
+}

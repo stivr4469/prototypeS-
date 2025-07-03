@@ -127,6 +127,7 @@ h1 {
   background-color: #6c757d;
   cursor: not-allowed;
 }
+
 .choice-option.disabled {
   background-color: #f8f9fa;
   color: #6c757d;
@@ -156,7 +157,6 @@ h1 {
   cursor: pointer;
   transition: background-color 0.2s;
 }
-
 .reset-button:hover {
   background-color: #c82333;
 }
