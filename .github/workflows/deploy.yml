@@ -40,4 +40,4 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           key: ${{ secrets.DEPLOY_KEY }}
           script: |
-            ln -sfn /var/www/releases/${{ github.sha }} /var/www/html
+            cp -R /var/www/releases/${{ github.sha }} /var/www/html
