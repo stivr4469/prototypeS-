@@ -46,7 +46,7 @@
     },
     {
       "type": "TheoryBlock",
-      "title": "Сравните:",
+      "title": "Compare:",
       "content": [
         { "table": {
             "headers": ["Без артикля (общий вид)", "С артиклем (конкретный экземпляр или количество)"],
@@ -65,19 +65,19 @@
         ]
     },
     {
-        "type": "MultipleChoice",
+        "type": "InlineChoice",
         "title": "Упражнение 5.2: Выберите правильную форму",
         "tasks": [
-            { "id": "u5_2_1", "sentence": "1. –¿Quién es Luis Miguel? –Es (cantante/un cantante); es (mexicano/un mexicano).", "options": ["cantante, mexicano", "un cantante, un mexicano", "cantante, un mexicano", "un cantante, mexicano"], "correctOption": "cantante, mexicano" },
-            { "id": "u5_2_2", "sentence": "2. La doctora Ramírez es (médica/una médica) buenísima; es (argentina/una argentina).", "options": ["médica, argentina", "una médica, argentina", "médica, una argentina"], "correctOption": "una médica, argentina" },
-            { "id": "u5_2_3", "sentence": "3. El marido de Luisa es (abogado/un abogado). Es (abogado/un abogado) muy caro.", "options": ["abogado, un abogado", "un abogado, abogado", "abogado, abogado"], "correctOption": "abogado, un abogado" },
-            { "id": "u5_2_4", "sentence": "4. Tomás se ha hecho (musulmán/un musulmán).", "options": ["musulmán", "un musulmán"], "correctOption": "musulmán" },
-            { "id": "u5_2_5", "sentence": "5. Los tíos de Andrea son (protestantes/unos protestantes).", "options": ["protestantes", "unos protestantes"], "correctOption": "protestantes" },
-            { "id": "u5_2_6", "sentence": "6. El hermano de Patricio es (actor/un actor) famoso.", "options": ["actor", "un actor"], "correctOption": "un actor" },
-            { "id": "u5_2_7", "sentence": "7. –¿Quién es Vargas Llosa? –Es (escritor/un escritor); es (peruano/un peruano).", "options": ["escritor, peruano", "un escritor, un peruano"], "correctOption": "escritor, peruano" },
-            { "id": "u5_2_8", "sentence": "8. Alberto y Lola son (estudiantes/unos estudiantes). Son (socialistas/unos socialistas).", "options": ["estudiantes, socialistas", "unos estudiantes, unos socialistas"], "correctOption": "estudiantes, socialistas" },
-            { "id": "u5_2_9", "sentence": "9. Sarita quiere ser (bailarina/una bailarina).", "options": ["bailarina", "una bailarina"], "correctOption": "bailarina" },
-            { "id": "u5_2_10", "sentence": "10. García Márquez es (escritor/un escritor) de éxito.", "options": ["escritor", "un escritor"], "correctOption": "un escritor" }
+            { "id": "u5_2_1", "sentence": "–¿Quién es Luis Miguel? –Es (cantante/un cantante); es (mexicano/un mexicano).", "correctOptions": ["cantante", "mexicano"] },
+            { "id": "u5_2_2", "sentence": "La doctora Ramírez es (médica/una médica) buenísima; es (argentina/una argentina).", "correctOptions": ["una médica", "argentina"] },
+            { "id": "u5_2_3", "sentence": "El marido de Luisa es (abogado/un abogado). Es (abogado/un abogado) muy caro.", "correctOptions": ["abogado", "un abogado"] },
+            { "id": "u5_2_4", "sentence": "Tomás se ha hecho (musulmán/un musulmán).", "correctOptions": ["musulmán"] },
+            { "id": "u5_2_5", "sentence": "Los tíos de Andrea son (protestantes/unos protestantes).", "correctOptions": ["protestantes"] },
+            { "id": "u5_2_6", "sentence": "El hermano de Patricio es (actor/un actor) famoso.", "correctOptions": ["un actor"] },
+            { "id": "u5_2_7", "sentence": "–¿Quién es Vargas Llosa? –Es (escritor/un escritor); es (peruano/un peruano).", "correctOptions": ["escritor", "peruano"] },
+            { "id": "u5_2_8", "sentence": "Alberto y Lola son (estudiantes/unos estudiantes). Son (socialistas/unos socialistas).", "correctOptions": ["estudiantes", "socialistas"] },
+            { "id": "u5_2_9", "sentence": "Sarita quiere ser (bailarina/una bailarina).", "correctOptions": ["bailarina"] },
+            { "id": "u5_2_10", "sentence": "García Márquez es (escritor/un escritor) de éxito.", "correctOptions": ["un escritor"] }
         ]
     },
     {

@@ -5,12 +5,12 @@ import FillInTheBlank from './FillInTheBlank';
 import FillInTheBlanksComplex from './FillInTheBlanksComplex';
 import MultipleChoice from './MultipleChoice';
 import InlineChoice from './InlineChoice';
-import ClassifyItems from './ClassifyItems'; // Убедимся, что все импорты на месте
+import ClassifyItems from './ClassifyItems';
 import DescribeImage from './DescribeImage';
 import FillFromBank from './FillFromBank';
 import SentenceBuilder from './SentenceBuilder';
 
-// 👇 ВОТ ЗДЕСЬ БЫЛА ОШИБКА. ВОССТАНАВЛИВАЕМ ПОЛНЫЙ СПИСОК 👇
+// 👇 ВОТ КЛЮЧЕВОЕ ИСПРАВЛЕНИЕ 👇
 const componentMapping = {
   TheoryBlock,
   FillInTheBlank,
