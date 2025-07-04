@@ -1,26 +1,33 @@
 import React, { useState, useRef, useEffect } from 'react';
-// Импорты всех ваших компонентов...
+// Импорты всех ваших компонентов
 import TheoryBlock from './TheoryBlock';
 import FillInTheBlank from './FillInTheBlank';
 import FillInTheBlanksComplex from './FillInTheBlanksComplex';
 import MultipleChoice from './MultipleChoice';
 import InlineChoice from './InlineChoice';
+import ClassifyItems from './ClassifyItems'; // Убедимся, что все импорты на месте
+import DescribeImage from './DescribeImage';
+import FillFromBank from './FillFromBank';
+import SentenceBuilder from './SentenceBuilder';
 
+// 👇 ВОТ ЗДЕСЬ БЫЛА ОШИБКА. ВОССТАНАВЛИВАЕМ ПОЛНЫЙ СПИСОК 👇
 const componentMapping = {
   TheoryBlock,
   FillInTheBlank,
   FillInTheBlanksComplex,
   MultipleChoice,
   InlineChoice,
-  //... и остальные ваши компоненты
+  ClassifyItems,
+  DescribeImage,
+  FillFromBank,
+  SentenceBuilder,
 };
 
 const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLessonResult, addXP, updateStreak }) => {
   const [isFinished, setIsFinished] = useState(false);
   const exerciseResults = useRef({});
-  const lessonXP = useRef(0); // Очки, заработанные за этот урок
+  const lessonXP = useRef(0);
 
-  // Сбрасываем состояние при загрузке нового урока
   useEffect(() => {
       setIsFinished(false);
       exerciseResults.current = {};
@@ -31,7 +38,6 @@ const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLe
 
   const handleExerciseCheck = (id, result) => {
     exerciseResults.current[id] = result;
-    // Начисляем очки за каждое упражнение
     const points = result.correct * 10;
     lessonXP.current += points; 
   };
@@ -70,9 +76,8 @@ const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLe
   const renderComponent = (componentData, index) => {
     const Component = componentMapping[componentData.type];
     if (!Component) {
-      return <div key={index}>Неизвестный компонент: {componentData.type}</div>;
+      return <div key={index} style={{color: 'red', margin: '20px 0'}}><strong>Ошибка:</strong> Неизвестный тип компонента: {componentData.type}</div>;
     }
-    // Передаем callback-функцию в каждое упражнение
     return <Component key={`${lessonId}-${index}`} onCheck={(result) => handleExerciseCheck(index, result)} {...componentData} />;
   };
 

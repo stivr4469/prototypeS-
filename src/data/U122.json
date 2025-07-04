@@ -8,9 +8,18 @@
       "title": "Теория: Безличные конструкции",
       "content": [
         { "text": "Безличные предложения — это те, которые не относятся к конкретному лицу." },
-        { "text": "<strong>1. `Con se`</strong><br>- `se` + глагол в 3-м лице ед.ч.: <i>Aquí <strong>se vive</strong> muy bien.</i><br>- с глаголами типа `acostarse, divertirse...` используется `la gente` или `uno`. <i>Aquí la gente <strong>se acuesta</strong> muy tarde.</i><br>- `se` + глагол в 3-м лице ед.ч. + инфинитив: <i>En España <strong>se suele cenar</strong> muy tarde.</i>" },
-        { "text": "<strong>2. 3-е лицо мн.ч. безличных глаголов.</strong><br><i>Ayer <strong>había</strong> mucha gente.<br><strong>Hay que preparar</strong> la comida.</i>" },
-        { "text": "<strong>3. Глаголы, обозначающие погодные явления.</strong><br><i>En verano <strong>amanece</strong> pronto.</i>" }
+        {
+          "text": "<strong>1. `Con se`</strong><br>- `se` + глагол в 3-м лице ед.ч.: <i>Aquí <strong>se vive</strong> muy bien.</i><br>- с глаголами типа `acostarse, divertirse...` используется `la gente` или `uno`. <i>Aquí la gente <strong>se acuesta</strong> muy tarde.</i><br>- `se` + глагол в 3-м лице ед.ч. + инфинитив: <i>En España <strong>se suele cenar</strong> muy tarde.</i>",
+          "speechText": "Con se. se + verbo en 3ª persona singular: Aquí se vive muy bien. con verbos como acostarse, divertirse... se usa la gente o uno. Aquí la gente se acuesta muy tarde. se + verbo en 3ª persona singular + infinitivo: En España se suele cenar muy tarde."
+        },
+        {
+          "text": "<strong>2. 3-е лицо мн.ч. безличных глаголов.</strong><br><i>Ayer <strong>había</strong> mucha gente.<br><strong>Hay que preparar</strong> la comida.</i>",
+          "speechText": "Ayer había mucha gente. Hay que preparar la comida."
+        },
+        {
+          "text": "<strong>3. Глаголы, обозначающие погодные явления.</strong><br><i>En verano <strong>amanece</strong> pronto.</i>",
+          "speechText": "En verano amanece pronto."
+        }
       ]
     },
     {

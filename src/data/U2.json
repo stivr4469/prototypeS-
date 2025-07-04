@@ -1,34 +1,60 @@
 {
   "lessonId": "A1_U2",
-  "title": "Урок 2: Мужской и женский род (2)",
+  "title": "Урок 2: el libro, la mesa (Мужской и женский род 2)",
+  "level": "A1",
   "components": [
     {
       "type": "TheoryBlock",
-      "title": "Теория: Род неодушевленных предметов",
+      "title": "Теория: Род неодушевленных существительных",
       "content": [
-        {
-          "text": "Род неодушевленных существительных в испанском языке в основном определяется по окончанию слова."
+        { "text": "В испанском языке предметы и понятия также имеют род: мужской или женский." },
+        { 
+          "text": "<strong>Существительные, оканчивающиеся на -o, обычно мужского рода:</strong><br><i>el libro, el vaso, el carro, el brazo, el teléfono, el museo</i>",
+          "speechText": "el libro, el vaso, el carro, el brazo, el teléfono, el museo"
         },
-        {
-          "text": "Мужской род (masculino):",
-          "points": [
-            "Слова, оканчивающиеся на -o: el libro (книга), el cuaderno (тетрадь).",
-            "Слова греческого происхождения на -ma: el problema (проблема), el sistema (система), el idioma (язык)."
+        { 
+          "text": "<strong>НО (Исключения):</strong> la mano, la foto, la radio",
+          "speechText": "la mano, la foto, la radio"
+        },
+        { 
+          "text": "<strong>Существительные, оканчивающиеся на -a, обычно женского рода:</strong><br><i>la casa, la caja, la silla, la tortilla, la mesa, la cara</i>",
+          "speechText": "la casa, la caja, la silla, la tortilla, la mesa, la cara"
+        },
+        { 
+          "text": "<strong>НО (Исключения):</strong> el día, el idioma, el mapa, el pijama, el problema, el planeta",
+          "speechText": "el día, el idioma, el mapa, el pijama, el problema, el planeta"
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Другие окончания",
+      "content": [
+        { "text": "<strong>Слова, оканчивающиеся на -e или согласную, могут быть как мужского, так и женского рода.</strong>" },
+        { 
+          "text": "<strong>Мужской род:</strong><br>- Дни недели: el lunes, el miércoles...<br>- Составные слова: el paraguas, el cumpleaños...<br>- Другие: el coche, el cine, el hotel, el lápiz, el pan, el pulóver...",
+          "speechText": "el lunes, el miércoles, el paraguas, el cumpleaños, el coche, el cine, el hotel, el lápiz, el pan, el pulóver"
+        },
+        { 
+          "text": "<strong>Женский род:</strong><br>- Слова на -ción, -sión: la canción, la habitación, la televisión...<br>- Слова на -dad, -tad: la ciudad, la universidad, la libertad...<br>- Другие: la clase, la noche, la leche, la sal, la flor, la luz...",
+          "speechText": "la canción, la habitación, la televisión, la ciudad, la universidad, la libertad, la clase, la noche, la leche, la sal, la flor, la luz"
+        }
+      ]
+    },
+    {
+      "type": "TheoryBlock",
+      "title": "Теория: Род названий животных",
+      "content": [
+        { "text": "Большинство названий животных имеют только один род, мужской или женский." },
+        { 
+          "list": [
+            { "text": "<strong>Только мужской род:</strong> el pez, el pájaro, el ratón, el conejo...", "speechText": "el pez, el pájaro, el ratón, el conejo" },
+            { "text": "<strong>Только женский род:</strong> la jirafa, la serpiente, la rana, la sardina...", "speechText": "la jirafa, la serpiente, la rana, la sardina" }
           ]
         },
-        {
-          "text": "Женский род (femenino):",
-          "points": [
-            "Большинство слов, оканчивающихся на -a: la mesa (стол), la ventana (окно).",
-            "Слова с окончаниями -ción, -sión, -dad: la canción (песня), la pasión (страсть), la bondad (доброта)."
-          ]
-        },
-        {
-          "text": "Исключения, которые важно запомнить:",
-          "points": [
-            "Мужской род на -a: el día (день), el mapa (карта), el sofá (диван).",
-            "Женский род на -o: la mano (рука), la foto (фотография), la radio (радио)."
-          ]
+        { 
+          "text": "<strong>НО:</strong> Некоторые имеют обе формы.<br><i>el perro - la perra, el león - la leona, el caballo - la yegua, el gallo - la gallina, el gato - la gata, el toro - la vaca</i>",
+          "speechText": "el perro - la perra, el león - la leona, el caballo - la yegua, el gallo - la gallina, el gato - la gata, el toro - la vaca"
         }
       ]
     },
@@ -36,52 +62,32 @@
       "type": "ClassifyItems",
       "title": "Упражнение 2.1: Распределите слова по роду",
       "columns": [
-        {"title": "EL...", "id": "el"},
-        {"title": "LA...", "id": "la"}
+        { "id": "el", "title": "EL..." },
+        { "id": "la", "title": "LA..." }
       ],
       "items": [
-        {"word": "atención", "correctColumn": "la"},
-        {"word": "cama", "correctColumn": "la"},
-        {"word": "casa", "correctColumn": "la"},
-        {"word": "cine", "correctColumn": "el"},
-        {"word": "ciudad", "correctColumn": "la"},
-        {"word": "cuaderno", "correctColumn": "el"},
-        {"word": "cumpleaños", "correctColumn": "el"},
-        {"word": "día", "correctColumn": "el"},
-        {"word": "expresión", "correctColumn": "la"},
-        {"word": "foto", "correctColumn": "la"},
-        {"word": "habitación", "correctColumn": "la"},
-        {"word": "hotel", "correctColumn": "el"},
-        {"word": "idioma", "correctColumn": "el"},
-        {"word": "lámpara", "correctColumn": "la"},
-        {"word": "lápiz", "correctColumn": "el"},
-        {"word": "leche", "correctColumn": "la"},
-        {"word": "libro", "correctColumn": "el"},
-        {"word": "luz", "correctColumn": "la"},
-        {"word": "mano", "correctColumn": "la"},
-        {"word": "minuto", "correctColumn": "el"},
-        {"word": "museo", "correctColumn": "el"},
-        {"word": "noche", "correctColumn": "la"},
-        {"word": "página", "correctColumn": "la"},
-        {"word": "planeta", "correctColumn": "el"},
-        {"word": "problema", "correctColumn": "el"},
-        {"word": "radio", "correctColumn": "la"},
-        {"word": "teatro", "correctColumn": "el"},
-        {"word": "universidad", "correctColumn": "la"},
-        {"word": "vaso", "correctColumn": "el"},
-        {"word": "ventana", "correctColumn": "la"},
-        {"word": "viernes", "correctColumn": "el"}
+        { "word": "atención", "correctColumn": "la" }, { "word": "cama", "correctColumn": "la" },
+        { "word": "casa", "correctColumn": "la" }, { "word": "cine", "correctColumn": "el" },
+        { "word": "ciudad", "correctColumn": "la" }, { "word": "cuaderno", "correctColumn": "el" },
+        { "word": "cumpleaños", "correctColumn": "el" }, { "word": "día", "correctColumn": "el" },
+        { "word": "expresión", "correctColumn": "la" }, { "word": "foto", "correctColumn": "la" },
+        { "word": "habitación", "correctColumn": "la" }, { "word": "hotel", "correctColumn": "el" },
+        { "word": "idioma", "correctColumn": "el" }, { "word": "lámpara", "correctColumn": "la" },
+        { "word": "lápiz", "correctColumn": "el" }, { "word": "leche", "correctColumn": "la" },
+        { "word": "libro", "correctColumn": "el" }, { "word": "luz", "correctColumn": "la" },
+        { "word": "mano", "correctColumn": "la" }, { "word": "minuto", "correctColumn": "el" },
+        { "word": "museo", "correctColumn": "el" }, { "word": "noche", "correctColumn": "la" },
+        { "word": "página", "correctColumn": "la" }, { "word": "planeta", "correctColumn": "el" },
+        { "word": "problema", "correctColumn": "el" }, { "word": "radio", "correctColumn": "la" },
+        { "word": "teatro", "correctColumn": "el" }, { "word": "vaso", "correctColumn": "el" },
+        { "word": "ventana", "correctColumn": "la" }, { "word": "viernes", "correctColumn": "el" }
       ]
     },
     {
-      "type": "FillInTheBlank",
-      "title": "Упражнение 2.2: Дополните таблицы с животными",
-      "tasks": [
-        {"id": "u2_2_1", "sentence": "el gato → la ___", "answers": ["gata"]},
-        {"id": "u2_2_2", "sentence": "el perro → la ___", "answers": ["perra"]},
-        {"id": "u2_2_3", "sentence": "el león → la ___", "answers": ["leona"]},
-        {"id": "u2_2_4", "sentence": "el gallo → la ___", "answers": ["gallina"]},
-        {"id": "u2_2_5", "sentence": "el elefante → la ___", "answers": ["elefanta"]}
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 2.2 и 2.3",
+      "content": [
+        { "text": "<strong>Упражнения 2.2 и 2.3 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
       ]
     }
   ]

@@ -293,3 +293,17 @@ h1 {
 .finish-lesson-button:hover:not(:disabled) {
   background-color: #0056b3;
 }
+.audio-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em; /* Размер иконки */
+  padding: 0 5px;
+  vertical-align: middle; /* Чтобы иконка была по центру строки */
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.audio-button:hover {
+  opacity: 1;
+}
