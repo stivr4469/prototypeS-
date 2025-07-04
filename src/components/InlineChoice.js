@@ -5,13 +5,13 @@ const InlineChoice = ({ title, tasks }) => {
   const [results, setResults] = useState({});
 
   const handleSelect = (taskId, choiceIndex, option) => {
-    if (results[taskId] !== undefined) return; // Блокируем после проверки
+    if (results[taskId] !== undefined) return;
     setUserSelections(prev => ({
       ...prev,
       [taskId]: {
         ...(prev[taskId] || {}),
-        [choiceIndex]: option
-      }
+        [choiceIndex]: option,
+      },
     }));
   };
 
@@ -20,18 +20,7 @@ const InlineChoice = ({ title, tasks }) => {
     tasks.forEach(task => {
       const userChoices = userSelections[task.id] || {};
       const correctAnswers = task.correctOptions;
-      let isCorrect = true;
-      if (Object.keys(userChoices).length !== correctAnswers.length) {
-        isCorrect = false;
-      } else {
-        for (let i = 0; i < correctAnswers.length; i++) {
-          if (userChoices[i] !== correctAnswers[i]) {
-            isCorrect = false;
-            break;
-          }
-        }
-      }
-      newResults[task.id] = isCorrect;
+      newResults[task.id] = correctAnswers.every((correctAnswer, index) => userChoices[index] === correctAnswer);
     });
     setResults(newResults);
   };
@@ -48,7 +37,7 @@ const InlineChoice = ({ title, tasks }) => {
         const currentChoiceIndex = choiceIndex;
         elements.push(
           <span key={`choice-${index}`} className="inline-choice-container">
-            {options.map(option => {
+            {options.map((option, optIndex) => {
               const isSelected = userSelections[task.id]?.[currentChoiceIndex] === option;
               const isChecked = results[task.id] !== undefined;
               
@@ -60,12 +49,14 @@ const InlineChoice = ({ title, tasks }) => {
                   className += ' correct';
                 } else if (isSelected) {
                   className += ' incorrect';
+                } else {
+                  className += ' disabled';
                 }
               }
 
               return (
                 <button
-                  key={option}
+                  key={optIndex}
                   className={className}
                   onClick={() => handleSelect(task.id, currentChoiceIndex, option)}
                   disabled={isChecked}
@@ -84,15 +75,44 @@ const InlineChoice = ({ title, tasks }) => {
     return elements;
   };
 
+  const renderFeedback = (task) => {
+    const parts = task.sentence.split(/(\(.*?\))/g);
+    const elements = [];
+    let choiceIndex = 0;
+    
+    parts.forEach((part, index) => {
+      const match = part.match(/\((.*?)\)/);
+      if (match) {
+        elements.push(<strong key={`ans-${index}`} style={{ margin: '0 3px' }}>{task.correctOptions[choiceIndex]}</strong>);
+        choiceIndex++;
+      } else {
+        elements.push(<span key={`text-${index}`}>{part}</span>);
+      }
+    });
+    return elements;
+  }
+
   return (
     <div className="exercise-block">
       <h3>{title}</h3>
-      {tasks.map((task, index) => (
-        <div key={task.id} style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
-          <span style={{ marginRight: '10px' }}>{`${index + 1}.`}</span>
-          <div>{renderTask(task)}</div>
-        </div>
-      ))}
+      {tasks.map((task, index) => {
+        const isChecked = results[task.id] !== undefined;
+        const isCorrect = results[task.id];
+
+        return (
+          <div key={task.id} style={{ marginBottom: '15px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap' }}>
+              <span style={{ marginRight: '10px' }}>{`${index + 1}.`}</span>
+              {renderTask(task)}
+            </div>
+            {isChecked && !isCorrect && (
+              <div style={{ color: '#28a745', marginTop: '5px', fontSize: '0.9em' }}>
+                <strong>Правильный ответ:</strong> {renderFeedback(task)}
+              </div>
+            )}
+          </div>
+        );
+      })}
       <button onClick={checkAnswers}>Проверить</button>
     </div>
   );

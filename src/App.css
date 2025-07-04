@@ -128,11 +128,6 @@ h1 {
   cursor: not-allowed;
 }
 
-.choice-option.disabled {
-  background-color: #f8f9fa;
-  color: #6c757d;
-  cursor: default;
-}
 .menu-header {
   display: flex;
   justify-content: space-between;
@@ -159,4 +154,59 @@ h1 {
 }
 .reset-button:hover {
   background-color: #c82333;
+}
+
+/* === ИСПРАВЛЕННЫЕ СТИЛИ ДЛЯ INLINECHOICE === */
+
+.inline-choice-container {
+  display: inline-block;
+  margin: 0 5px;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.choice-option {
+  padding: 4px 12px;
+  border: 1px solid #ccc;
+  background-color: #f8f9fa;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+  font-size: 14px;
+  color: #333;
+}
+
+.choice-option:not(:last-child) {
+  border-right: none;
+}
+
+/* Стиль для выбранной кнопки ДО проверки */
+.choice-option.selected {
+  background-color: #4285f4;
+  color: white;
+  border-color: #4285f4;
+}
+
+/* Стиль для ПРАВИЛЬНОГО ответа ПОСЛЕ проверки */
+.choice-option.correct {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+  border-color: #c3e6cb !important;
+  font-weight: bold;
+}
+
+/* Стиль для НЕПРАВИЛЬНОГО ВЫБРАННОГО ответа ПОСЛЕ проверки */
+.choice-option.incorrect {
+  background-color: #f8d7da !important;
+  color: #721c24 !important;
+  border-color: #f5c6cb !important;
+  text-decoration: line-through;
+}
+
+/* Стиль для НЕВЫБРАННЫХ кнопок ПОСЛЕ проверки */
+.choice-option.disabled {
+  background-color: #f8f9fa;
+  color: #6c757d;
+  cursor: default;
+  border-color: #ddd;
 }

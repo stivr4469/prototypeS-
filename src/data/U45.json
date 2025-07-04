@@ -35,14 +35,14 @@
       ]
     },
     {
-      "type": "FillInTheBlank",
+      "type": "FillInTheBlanksComplex",
       "title": "Упражнение 45.1: Дополните фразы с tengo, tienes, tiene... в утвердительной или отрицательной форме",
       "tasks": [
-        { "id": "u45_1_1", "sentence": "1. PEPA: Jorge ___ treinta y un años, Julio y Margarita ___ veintitrés y yo ___ veintiocho.", "answer": "tiene, tienen, tengo" },
-        { "id": "u45_1_2", "sentence": "2. JORGE: Margarita ___ dos hermanos, Pepa ___ una hermana y Julio y yo ___ dos hermanos.", "answer": "tiene, tiene, tenemos" },
-        { "id": "u45_1_3", "sentence": "3. MARGARITA: Pepa y Jorge ___ tres hijos, pero Julio y yo ___ hijos.", "answer": "tienen, no tenemos" },
-        { "id": "u45_1_4", "sentence": "4. PEPA: Yo ___ los ojos marrones. Los ___ verdes.", "answer": "tengo, tengo" },
-        { "id": "u45_1_5", "sentence": "5. JULIO: Jorge ___ los ojos negros y Margarita y yo los ___ marrones.", "answer": "tiene, tenemos" }
+        { "id": "u45_1_1", "sentence": "1. PEPA: Jorge ___ treinta y un años, Julio y Margarita ___ veintitrés y yo ___ veintiocho.", "answers": ["tiene", "tienen", "tengo"] },
+        { "id": "u45_1_2", "sentence": "2. JORGE: Margarita ___ dos hermanos, Pepa ___ una hermana y Julio y yo ___ dos hermanos.", "answers": ["tiene", "tiene", "tenemos"] },
+        { "id": "u45_1_3", "sentence": "3. MARGARITA: Pepa y Jorge ___ tres hijos, pero Julio y yo ___ hijos.", "answers": ["tienen", "no tenemos"] },
+        { "id": "u45_1_4", "sentence": "4. PEPA: Yo ___ los ojos marrones. Los ___ verdes.", "answers": ["tengo", "tengo"] },
+        { "id": "u45_1_5", "sentence": "5. JULIO: Jorge ___ los ojos negros y Margarita y yo los ___ marrones.", "answers": ["tiene", "tenemos"] }
       ]
     },
     {
