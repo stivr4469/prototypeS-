@@ -1,9 +1,9 @@
 .welcome-container {
   display: flex;
-  flex-direction: column; /* Изменено для позиционирования футера */
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh; /* Немного увеличена высота для пространства */
+  height: 90vh;
   text-align: center;
   padding: 20px;
 }
@@ -18,15 +18,17 @@
 
 .welcome-title {
   color: #0d47a1;
-  font-size: 2.5em;
-  margin-bottom: 20px;
-  border-bottom: none; /* Убираем линию, которая наследовалась от h1 */
+  font-size: 3em; /* Сделали "Hola!" крупнее */
+  font-weight: 700;
+  margin-bottom: 10px; /* Уменьшили отступ снизу */
+  border-bottom: none;
 }
 
 .welcome-subtitle {
-  font-size: 1.2em;
-  color: #333;
+  font-size: 1.5em; /* Сделали подзаголовок тоже крупнее */
+  color: #555;
   margin-bottom: 40px;
+  font-weight: 300; /* Более легкий шрифт */
 }
 
 .welcome-button {
@@ -47,9 +49,10 @@
 }
 
 .welcome-footer {
-  margin-top: 50px; /* Отступ сверху от блока приветствия */
+  margin-top: 50px;
   width: 100%;
   text-align: center;
   color: #aaa;
-  font-size: 0.9em;
+  font-size: 1.8em;
+  font-weight: 300;
 }

@@ -21,7 +21,7 @@
         { "text": "<strong>Используется `los` + дни недели, когда речь идет о повторяющемся, привычном действии.</strong><br><i><strong>Los miércoles</strong> tengo clases de español. (каждую среду)<br>Mariano trabaja <strong>los domingos</strong>. (каждое воскресенье)</i>" },
         { "text": "<strong>Используется `el` + число месяца.</strong><br><i>Me examino <strong>el doce de junio</strong>.</i>" },
         { "text": "<strong>НО (прямое обращение):</strong> <i>–¿Qué día es hoy? –<strong>Cinco de marzo</strong>. Ayer fue <strong>cuatro de marzo</strong>.</i>" },
-        { "text": "<strong>ВНИМАНИЕ (ATENCIÓN):</strong><br>день недели + число месяца → только один артикль<br><i>El examen es <strong>el</strong> jueves veinte de junio. (а не <s>el</s> jueves <strong>el</strong> veinte de junio)</i><br><br>С названиями месяцев артикль не используется.<br><i>Mi cumpleaños es <strong>en octubre</strong>.</i>" }
+        { "text": "<strong>ВНИМАНИЕ (ATENCIÓN):</strong><br>день недели + число месяца → только один артикль<br><i>El examen es <strong>el</strong> jueves veinte de junio.</i><br><br>С названиями месяцев артикль не используется.<br><i>Mi cumpleaños es <strong>en octubre</strong>.</i>" }
       ]
     },
     {
@@ -29,7 +29,7 @@
       "title": "Теория: Артикль с частями дня и количеством",
       "content": [
         { "text": "<strong>Используется `por la` + части дня (mañana, tarde, noche).</strong><br><i>Trabajo <strong>por la mañana</strong> y estudio <strong>por la tarde</strong>.<br><strong>Pero:</strong> A mediodía, de madrugada.<br>Voy a casa <strong>a mediodía</strong>.<br>El camión de la basura pasa <strong>de madrugada</strong>.</i>" },
-        { "text": "<strong>Используется с количеством или частотой + `al/a la` + период времени.</strong><br><i>(una vez, cuatro horas, cinco días...)<br>Ando una hora <strong>al</strong> día.<br>Vamos al cine dos veces <strong>al</strong> mes.</i>" },
+        { "text": "<strong>Используется с количеством или частотой + `al/a la` + период времени.</strong><br><i>Ando una hora <strong>al</strong> día.<br>Vamos al cine dos veces <strong>al</strong> mes.</i>" },
         { "text": "<strong>Используется `el, la, los, las` + единицы измерения (kilo, litro, docena...).</strong><br><i>El aceite de oliva ha subido veinte céntimos <strong>el</strong> litro.<br>Los plátanos cuestan dos euros <strong>el</strong> kilo.</i>" }
       ]
     },
