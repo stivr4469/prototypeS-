@@ -1,45 +1,102 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const PROGRESS_KEY = 'spanishAppProgress_v2';
+const PROGRESS_KEY = 'spanishAppProgress_v3'; // Новая версия для новой структуры
+
+const getInitialState = () => {
+  try {
+    const savedProgress = localStorage.getItem(PROGRESS_KEY);
+    if (savedProgress) {
+      return JSON.parse(savedProgress);
+    }
+  } catch (error) {
+    console.error("Failed to load progress from localStorage", error);
+  }
+  // Состояние по умолчанию
+  return {
+    lessonScores: {},
+    totalXP: 0,
+    streak: {
+      count: 0,
+      lastSessionDate: null,
+    },
+  };
+};
 
 export const useProgress = () => {
-  const [lessonScores, setLessonScores] = useState(() => {
-    try {
-      const savedProgress = localStorage.getItem(PROGRESS_KEY);
-      return savedProgress ? JSON.parse(savedProgress) : {};
-    } catch (error) {
-      console.error("Failed to load progress from localStorage", error);
-      return {};
-    }
-  });
+  const [progress, setProgress] = useState(getInitialState);
 
   useEffect(() => {
     try {
-      localStorage.setItem(PROGRESS_KEY, JSON.stringify(lessonScores));
+      localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
     } catch (error) {
       console.error("Failed to save progress to localStorage", error);
     }
-  }, [lessonScores]);
+  }, [progress]);
+
+  const addXP = useCallback((points) => {
+    setProgress(prev => ({ ...prev, totalXP: prev.totalXP + points }));
+  }, []);
+  
+  const updateStreak = useCallback(() => {
+    setProgress(prev => {
+      const today = new Date().toDateString();
+      const lastSession = prev.streak.lastSessionDate;
+
+      if (lastSession === today) {
+        return prev; // Уже занимались сегодня
+      }
+      
+      const yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      
+      const newCount = lastSession === yesterday.toDateString() ? prev.streak.count + 1 : 1;
+
+      return {
+        ...prev,
+        streak: {
+          count: newCount,
+          lastSessionDate: today,
+        }
+      };
+    });
+  }, []);
 
   const saveLessonResult = useCallback((lessonId, stars) => {
-    const currentStars = lessonScores[lessonId] || 0;
-    if (stars > currentStars) {
-      setLessonScores(prev => ({
-        ...prev,
-        [lessonId]: stars
-      }));
-    }
-  }, [lessonScores]);
+    setProgress(prev => {
+      const currentStars = prev.lessonScores[lessonId] || 0;
+      if (stars > currentStars) {
+        return {
+          ...prev,
+          lessonScores: {
+            ...prev.lessonScores,
+            [lessonId]: stars,
+          },
+        };
+      }
+      return prev;
+    });
+  }, []);
 
   const getLessonStars = useCallback((lessonId) => {
-    return lessonScores[lessonId] || 0;
-  }, [lessonScores]);
+    return progress.lessonScores[lessonId] || 0;
+  }, [progress.lessonScores]);
 
   const resetProgress = useCallback(() => {
     if (window.confirm("Вы уверены, что хотите сбросить весь прогресс? Это действие нельзя будет отменить.")) {
-      setLessonScores({});
+      setProgress({
+        lessonScores: {},
+        totalXP: 0,
+        streak: { count: 0, lastSessionDate: null },
+      });
     }
   }, []);
 
-  return { saveLessonResult, getLessonStars, resetProgress };
+  return { 
+    progress, 
+    addXP, 
+    updateStreak,
+    saveLessonResult, 
+    getLessonStars, 
+    resetProgress 
+  };
 };

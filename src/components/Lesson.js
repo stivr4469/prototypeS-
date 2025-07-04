@@ -1,37 +1,39 @@
-import React from 'react';
-// Импорты всех ваших компонентов
+import React, { useState, useRef, useEffect } from 'react';
+// Импорты всех ваших компонентов...
 import TheoryBlock from './TheoryBlock';
 import FillInTheBlank from './FillInTheBlank';
 import FillInTheBlanksComplex from './FillInTheBlanksComplex';
-import MultipleChoice from './MultipleChoice'; // Убедимся, что импорт на месте
+import MultipleChoice from './MultipleChoice';
 import InlineChoice from './InlineChoice';
-// И другие ваши компоненты, если есть
-import ClassifyItems from './ClassifyItems';
-import DescribeImage from './DescribeImage';
-import FillFromBank from './FillFromBank';
-import SentenceBuilder from './SentenceBuilder';
 
-// 👇 ВОТ ЗДЕСЬ БЫЛА ОШИБКА. Я ВОССТАНОВИЛ ПОЛНЫЙ СПИСОК 👇
 const componentMapping = {
   TheoryBlock,
   FillInTheBlank,
   FillInTheBlanksComplex,
   MultipleChoice,
   InlineChoice,
-  ClassifyItems,
-  DescribeImage,
-  FillFromBank,
-  SentenceBuilder,
+  //... и остальные ваши компоненты
 };
 
-const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLessonResult }) => {
-  const [showResults, setShowResults] = React.useState(false);
-  const exerciseResults = React.useRef({});
+const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLessonResult, addXP, updateStreak }) => {
+  const [isFinished, setIsFinished] = useState(false);
+  const exerciseResults = useRef({});
+  const lessonXP = useRef(0); // Очки, заработанные за этот урок
+
+  // Сбрасываем состояние при загрузке нового урока
+  useEffect(() => {
+      setIsFinished(false);
+      exerciseResults.current = {};
+      lessonXP.current = 0;
+  }, [lessonId]);
 
   const getLessonNumber = (id) => (id ? id.match(/U(\d+)/)[1] : '');
 
   const handleExerciseCheck = (id, result) => {
     exerciseResults.current[id] = result;
+    // Начисляем очки за каждое упражнение
+    const points = result.correct * 10;
+    lessonXP.current += points; 
   };
 
   const calculateFinalScore = () => {
@@ -43,29 +45,35 @@ const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLe
       totalCorrect += result.correct;
     });
 
-    if (totalQuestions === 0) return 0;
+    if (totalQuestions === 0) return { stars: 0, bonusXP: 0 };
+    
     const percentage = (totalCorrect / totalQuestions) * 100;
-
-    if (percentage > 80) return 3;
-    if (percentage > 40) return 2;
-    if (percentage > 0) return 1; // Даем 1 звезду даже за 1 правильный ответ
-    return 0; // 0 звезд, если все неправильно
+    
+    if (percentage >= 80) return { stars: 3, bonusXP: 100 };
+    if (percentage >= 40) return { stars: 2, bonusXP: 50 };
+    if (percentage > 0) return { stars: 1, bonusXP: 10 };
+    return { stars: 0, bonusXP: 0 };
   };
 
   const finishLesson = () => {
-    const stars = calculateFinalScore();
+    const { stars, bonusXP } = calculateFinalScore();
+    const totalEarnedXP = lessonXP.current + bonusXP;
+
     saveLessonResult(lessonId, stars);
-    setShowResults(true); 
-    alert(`Урок пройден! Вы заработали ${stars} ${stars === 1 ? 'звезду' : (stars > 1 && stars < 5 ? 'звезды' : 'звезд')}.`);
+    addXP(totalEarnedXP);
+    updateStreak();
+
+    alert(`Урок пройден!\nЗвезды: ${'★'.repeat(stars)}${'☆'.repeat(3 - stars)}\nЗаработано очков: ${totalEarnedXP} XP`);
+    setIsFinished(true);
   };
 
   const renderComponent = (componentData, index) => {
     const Component = componentMapping[componentData.type];
     if (!Component) {
-      return <div key={index} style={{color: 'red', margin: '20px 0'}}><strong>Ошибка:</strong> Неизвестный тип компонента: {componentData.type}</div>;
+      return <div key={index}>Неизвестный компонент: {componentData.type}</div>;
     }
     // Передаем callback-функцию в каждое упражнение
-    return <Component key={index} onCheck={(result) => handleExerciseCheck(`${lessonId}-${index}`, result)} {...componentData} />;
+    return <Component key={`${lessonId}-${index}`} onCheck={(result) => handleExerciseCheck(index, result)} {...componentData} />;
   };
 
   return (
@@ -79,7 +87,7 @@ const Lesson = ({ lessonData, onBack, onNavigate, lessonId, isLastLesson, saveLe
       </main>
       <footer className="lesson-footer">
         <button className="nav-button prev" onClick={() => onNavigate('prev')} disabled={getLessonNumber(lessonId) === '1'}>Предыдущий урок</button>
-        <button className="finish-lesson-button" onClick={finishLesson}>Завершить урок</button>
+        <button className="finish-lesson-button" onClick={finishLesson} disabled={isFinished}>Завершить урок</button>
         <button className="nav-button next" onClick={() => onNavigate('next')} disabled={isLastLesson}>Следующий урок</button>
       </footer>
     </div>

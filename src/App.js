@@ -11,8 +11,7 @@ function App() {
   const [currentLessonData, setCurrentLessonData] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   
-  // 👇 1. ИЗМЕНЕНИЕ: Получаем новые функции из хука
-  const { saveLessonResult, getLessonStars, resetProgress } = useProgress();
+  const { progress, addXP, updateStreak, saveLessonResult, getLessonStars, resetProgress } = useProgress();
 
   const lessonIds = Array.from({ length: 126 }, (_, i) => `U${i + 1}`);
 
@@ -23,8 +22,6 @@ function App() {
     import(`./data/${lessonId}.json`)
       .then(module => {
         setCurrentLessonData(module.default);
-        // Мы больше не отмечаем урок как пройденный здесь,
-        // это будет происходить при завершении урока.
       })
       .catch(err => {
         console.error("Не удалось загрузить урок:", err);
@@ -70,8 +67,9 @@ function App() {
           onNavigate={handleNavigation}
           lessonId={currentLessonId}
           isLastLesson={lessonIds.indexOf(currentLessonId) === lessonIds.length - 1}
-          // 👇 2. ИЗМЕНЕНИЕ: Передаем функцию сохранения результата в урок
           saveLessonResult={saveLessonResult}
+          addXP={addXP}
+          updateStreak={updateStreak}
         />
       );
     }
@@ -79,8 +77,7 @@ function App() {
         <LessonMenu
             onSelectLesson={loadLesson}
             lessonIds={lessonIds}
-            // 👇 3. ИЗМЕНЕНИЕ: Передаем функцию получения звезд вместо isCompleted
-            getLessonStars={getLessonStars}
+            progress={progress}
             onResetProgress={resetProgress}
         />
     );

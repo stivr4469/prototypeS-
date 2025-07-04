@@ -260,3 +260,36 @@ h1 {
   border-radius: 5px;
   cursor: pointer;
 }
+/* Стили для статистики пользователя */
+.user-stats {
+  display: flex;
+  gap: 20px;
+  font-weight: 500;
+  color: #333;
+}
+
+.stat-item {
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 6px;
+}
+
+/* Кнопка завершения урока */
+.finish-lesson-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.finish-lesson-button:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+.finish-lesson-button:hover:not(:disabled) {
+  background-color: #0056b3;
+}

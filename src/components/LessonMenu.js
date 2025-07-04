@@ -11,22 +11,26 @@ const StarRating = ({ stars }) => {
   );
 };
 
-const LessonMenu = ({ onSelectLesson, lessonIds, getLessonStars, onResetProgress }) => {
+const LessonMenu = ({ onSelectLesson, lessonIds, progress, onResetProgress }) => {
   const getLessonNumber = (id) => (id ? id.match(/U(\d+)/)[1] : '');
 
   return (
     <div>
       <header className="menu-header">
         <h1>Выберите урок</h1>
+        <div className="user-stats">
+          <div className="stat-item">🔥 Ударный режим: {progress.streak.count} д.</div>
+          <div className="stat-item">✨ Очки: {progress.totalXP} XP</div>
+        </div>
         <button onClick={onResetProgress} className="reset-button">
-          Сбросить прогресс
+          Сбросить
         </button>
       </header>
       <div className="lesson-menu">
         {lessonIds.map(id => (
           <div key={id} className="lesson-card" onClick={() => onSelectLesson(id)}>
             <div className="lesson-card-number">Урок {getLessonNumber(id)}</div>
-            <StarRating stars={getLessonStars(id)} />
+            <StarRating stars={progress.lessonScores[id] || 0} />
           </div>
         ))}
       </div>
