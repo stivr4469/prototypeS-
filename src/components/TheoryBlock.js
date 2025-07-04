@@ -14,8 +14,7 @@ const Table = ({ data }) => (
             {row.map((cell, cellIndex) => (
               <td key={cellIndex}>
                 <span dangerouslySetInnerHTML={{ __html: cell }} />
-                {/* Озвучка для ячеек таблицы */}
-                <AudioPlayer text={cell} />
+                <AudioPlayer textToSpeak={cell.replace(/<[^>]*>?/gm, '')} />
               </td>
             ))}
           </tr>
@@ -26,16 +25,11 @@ const Table = ({ data }) => (
 
 const TheoryBlock = ({ title, content }) => {
   const renderContentItem = (item, index) => {
-    // 👇 Теперь мы ищем и используем speechText
-    const textToDisplay = item.text || '';
-    const textToSpeak = item.speechText; // Используем только специальное поле для озвучки
-
     if (item.text) {
       return (
         <p key={index}>
-          <span dangerouslySetInnerHTML={{ __html: textToDisplay }} />
-          {/* Показываем кнопку, только если есть текст для озвучки */}
-          {textToSpeak && <AudioPlayer text={textToSpeak} />}
+          <span dangerouslySetInnerHTML={{ __html: item.text }} />
+          <AudioPlayer textToSpeak={item.speechText} />
         </p>
       );
     }
@@ -44,13 +38,11 @@ const TheoryBlock = ({ title, content }) => {
         <ul key={index}>
           {item.list.map((li, liIndex) => {
              const itemText = (typeof li === 'object' && li !== null) ? li.text : li;
-             const itemSpeechText = (typeof li === 'object' && li !== null) ? (li.speechText || li.text) : li;
-             const hasSpanish = /[a-zA-Z]/.test(itemText.replace(/<[^>]*>?/gm, ''));
-
+             const itemSpeechText = (typeof li === 'object' && li !== null) ? li.speechText : itemText;
              return (
                 <li key={liIndex}>
                     <span dangerouslySetInnerHTML={{ __html: itemText }} />
-                    {hasSpanish && <AudioPlayer text={itemSpeechText} />}
+                    <AudioPlayer textToSpeak={itemSpeechText.replace(/<[^>]*>?/gm, '')} />
                 </li>
              )
           })}

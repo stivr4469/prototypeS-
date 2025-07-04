@@ -1,32 +1,44 @@
 import React from 'react';
 
-const AudioPlayer = ({ text, speechText }) => {
-  const speak = (textToSpeak) => {
+const AudioPlayer = ({ textToSpeak }) => {
+  if (!textToSpeak) {
+    return null;
+  }
+
+  const speak = () => {
     if (!('speechSynthesis' in window)) {
       alert("Извините, ваш браузер не поддерживает синтез речи.");
       return;
     }
 
-    // 1. Используем специальный текст для озвучки, если он есть
-    // 2. Если нет, пытаемся очистить основной текст от HTML и кириллицы
-    const textForSpeech = speechText || text.replace(/<[^>]*>?/gm, '').replace(/[а-яА-ЯёЁ]/g, '');
+    // 👇 НОВАЯ, БОЛЕЕ НАДЕЖНАЯ ЛОГИКА ОЧИСТКИ 👇
+    // 1. Убираем HTML-теги.
+    let cleanText = textToSpeak.replace(/<[^>]*>?/gm, '');
+    // 2. Убираем все, что не является буквами, цифрами, пробелами или запятыми.
+    cleanText = cleanText.replace(/[^a-zA-Z0-9\s,ñáéíóúü]/g, ' ');
+    // 3. Убираем лишние пробелы.
+    cleanText = cleanText.replace(/\s+/g, ' ').trim();
 
-    // Не произносим, если в итоге осталась пустая строка
-    if (!textForSpeech.trim()) {
-      return;
+    if (!cleanText) {
+      return; // Не произносим, если ничего не осталось
     }
     
-    const utterance = new SpeechSynthesisUtterance(textForSpeech);
+    const utterance = new SpeechSynthesisUtterance(cleanText);
     utterance.lang = 'es-ES';
     utterance.rate = 0.9;
 
-    // Останавливаем предыдущее произношение, если оно есть
     speechSynthesis.cancel();
     speechSynthesis.speak(utterance);
   };
 
+  // Проверяем, есть ли что-то на испанском для озвучки
+  const spanishContent = textToSpeak.replace(/<[^>]*>?/gm, '').replace(/[а-яА-ЯёЁ]/g, '').trim();
+  if (!spanishContent) {
+    return null; // Если нет испанских слов, не показываем кнопку
+  }
+
   return (
-    <button onClick={() => speak(text)} className="audio-button">
+    <button onClick={speak} className="audio-button">
       🔊
     </button>
   );

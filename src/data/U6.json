@@ -7,7 +7,9 @@
       "type": "TheoryBlock",
       "title": "Теория: Формы определённого артикля",
       "content": [
-        { "table": {
+        { 
+          "type": "table", 
+          "table": {
             "headers": ["", "Мужской род", "Женский род"],
             "rows": [
               ["<strong>Единственное число</strong>", "el <br><i>el padre, el libro</i>", "la <br><i>la madre, la hoja</i>"],
@@ -15,7 +17,10 @@
             ]
           }
         },
-        { "text": "<strong>ВНИМАНИЕ (ATENCIÓN):</strong><br>Артикль <strong>el</strong> (а не la) используется с существительными женского рода в единственном числе, которые начинаются на ударную 'a' или 'ha'.<br><i>el aula, el agua, el hacha, el águila</i><br><strong>Но:</strong> la otra aula, las aulas, las hachas, las águilas.<br><br>Слияние с предлогами:<br><strong>a + el = al</strong>: <i>Juego <strong>al</strong> fútbol.</i><br><strong>de + el = del</strong>: <i>El hijo <strong>del</strong> profesor está en mi clase.</i>" }
+        { 
+          "text": "<strong>ВНИМАНИЕ (ATENCIÓN):</strong><br><strong>el</strong> (а не la) используется с существительными женского рода в единственном числе, которые начинаются на ударную 'a' или 'ha':<br><i>el aula, el agua, el hacha, el águila</i><br><strong>Но:</strong> la otra aula, las aulas, las hachas, las águilas.<br><br><strong>Слияние с предлогами:</strong><br><strong>a + el = al</strong>: <i>Juego <strong>al</strong> fútbol.</i><br><strong>de + el = del</strong>: <i>El hijo <strong>del</strong> profesor está en mi clase.</i>",
+          "speechText": "el aula, el agua, el hacha, el águila. la otra aula, las aulas, las hachas, las águilas. Juego al fútbol. El hijo del profesor está en mi clase."
+        }
       ]
     },
     {
@@ -23,56 +28,58 @@
       "title": "Теория: Использование определённого артикля",
       "content": [
         { "text": "<strong>Артикли el, la, los, las используются с существительным в следующих случаях:</strong>" },
-        { "list": [
-          "<strong>1. Для обозначения уникального человека или предмета.</strong><br><i>La madre de Antonio es policía. (У Антонио только одна мама.)<br>Buenos Aires es la capital de Argentina. (У Аргентины только одна столица.)<br>¿Quién es el presidente de Brasil? (У Бразилии только один президент.)</i>",
-          "<strong>2. Для обозначения конкретного, определённого человека или предмета (когда из контекста ясно, о чем речь).</strong><br><i>Quiero ver al director. (директора этого банка)<br>Enciende la luz, por favor. (свет в этой комнате)<br>Luis está en la cocina. (на кухне этого дома)</i>",
-          "<strong>3. Для обозначения чего-либо в общем смысле (весь класс предметов или явлений).</strong><br><i>El tabaco es malo para la salud. (весь табак)<br>Los chilenos hablan español. (все чилийцы)</i>"
-        ]}
+        { 
+          "list": [
+            { "text": "<strong>1. Для обозначения уникального человека или предмета.</strong><br><i>La madre de Antonio es policía. (У Антонио только одна мама.)<br>Buenos Aires es la capital de Argentina. (У Аргентины только одна столица.)<br>¿Quién es el presidente de Brasil? (У Бразилии только один президент.)</i>", "speechText": "La madre de Antonio es policía. Buenos Aires es la capital de Argentina. ¿Quién es el presidente de Brasil?"},
+            { "text": "<strong>2. Для обозначения конкретного, определённого человека или предмета (когда из контекста ясно, о чем речь).</strong><br><i>Quiero ver al director. (директора этого банка)<br>Enciende la luz, por favor. (свет в этой комнате)<br>Luis está en la cocina. (на кухне этого дома)</i>", "speechText": "Quiero ver al director. Enciende la luz, por favor. Luis está en la cocina."},
+            { "text": "<strong>3. Для обозначения чего-либо в общем смысле (весь класс предметов или явлений).</strong><br><i>El tabaco es malo para la salud. (весь табак)<br>Los chilenos hablan español. (все чилийцы)</i>", "speechText": "El tabaco es malo para la salud. Los chilenos hablan español."}
+          ]
+        }
       ]
     },
     {
-        "type": "FillInTheBlank",
-        "title": "Упражнение 6.1: Дополните с el, la, los, las",
-        "tasks": [
-            { "id": "u6_1_1", "sentence": "1. ___ casa", "answer": "la" },
-            { "id": "u6_1_2", "sentence": "2. ___ médico", "answer": "el" },
-            { "id": "u6_1_3", "sentence": "3. ___ naranjas", "answer": "las" },
-            { "id": "u6_1_4", "sentence": "4. ___ coche", "answer": "el" },
-            { "id": "u6_1_5", "sentence": "5. ___ habitación", "answer": "la" },
-            { "id": "u6_1_6", "sentence": "6. ___ águila", "answer": "el" },
-            { "id": "u6_1_7", "sentence": "7. ___ pantalones", "answer": "los" },
-            { "id": "u6_1_8", "sentence": "8. ___ aula", "answer": "el" },
-            { "id": "u6_1_9", "sentence": "9. ___ sillas", "answer": "las" },
-            { "id": "u6_1_10", "sentence": "10. ___ lápices", "answer": "los" },
-            { "id": "u6_1_11", "sentence": "11. ___ tijeras", "answer": "las" },
-            { "id": "u6_1_12", "sentence": "12. ___ profesor", "answer": "el" },
-            { "id": "u6_1_13", "sentence": "13. ___ perro", "answer": "el" },
-            { "id": "u6_1_14", "sentence": "14. ___ hermana", "answer": "la" },
-            { "id": "u6_1_15", "sentence": "15. ___ alumnos", "answer": "los" }
-        ]
+      "type": "FillInTheBlank",
+      "title": "Упражнение 6.1: Дополните с el, la, los, las",
+      "tasks": [
+        { "id": "u6_1_1", "sentence": "1. ___ casa", "answer": "la" },
+        { "id": "u6_1_2", "sentence": "2. ___ médico", "answer": "el" },
+        { "id": "u6_1_3", "sentence": "3. ___ naranjas", "answer": "las" },
+        { "id": "u6_1_4", "sentence": "4. ___ coche", "answer": "el" },
+        { "id": "u6_1_5", "sentence": "5. ___ habitación", "answer": "la" },
+        { "id": "u6_1_6", "sentence": "6. ___ águila", "answer": "el" },
+        { "id": "u6_1_7", "sentence": "7. ___ pantalones", "answer": "los" },
+        { "id": "u6_1_8", "sentence": "8. ___ aula", "answer": "el" },
+        { "id": "u6_1_9", "sentence": "9. ___ sillas", "answer": "las" },
+        { "id": "u6_1_10", "sentence": "10. ___ lápices", "answer": "los" },
+        { "id": "u6_1_11", "sentence": "11. ___ tijeras", "answer": "las" },
+        { "id": "u6_1_12", "sentence": "12. ___ profesor", "answer": "el" },
+        { "id": "u6_1_13", "sentence": "13. ___ perro", "answer": "el" },
+        { "id": "u6_1_14", "sentence": "14. ___ hermana", "answer": "la" },
+        { "id": "u6_1_15", "sentence": "15. ___ alumnos", "answer": "los" }
+      ]
     },
     {
-        "type": "TheoryBlock",
-        "title": "Примечание: Упражнения 6.2 и 6.3",
-        "content": [
-          { "text": "<strong>Упражнения 6.2 и 6.3 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
-        ]
+      "type": "TheoryBlock",
+      "title": "Примечание: Упражнения 6.2 и 6.3",
+      "content": [
+        { "text": "<strong>Упражнения 6.2 и 6.3 пропущены, так как они полностью основаны на анализе изображений.</strong>" }
+      ]
     },
     {
-        "type": "FillInTheBlank",
-        "title": "Упражнение 6.4: Дополните фразы с el, la, los, las (используйте al и del, когда нужно)",
-        "tasks": [
-            { "id": "u6_4_1", "sentence": "1. ___ águilas son aves.", "answer": "Las" },
-            { "id": "u6_4_2", "sentence": "2. Montevideo es ___ capital de Uruguay.", "answer": "la" },
-            { "id": "u6_4_3", "sentence": "3. Queremos ver a ___ jefe de estudios.", "answer": "al" },
-            { "id": "u6_4_4", "sentence": "4. Cierra ___ puerta de ___ jardín, por favor.", "answer": "la,del" },
-            { "id": "u6_4_5", "sentence": "5. Tenéis que ir a ___ aula 15.", "answer": "al" },
-            { "id": "u6_4_6", "sentence": "6. ___ agua es mi bebida preferida.", "answer": "El" },
-            { "id": "u6_4_7", "sentence": "7. ___ padres de Sofía viven en Lima.", "answer": "Los" },
-            { "id": "u6_4_8", "sentence": "8. Me gustan ___ naranjas.", "answer": "las" },
-            { "id": "u6_4_9", "sentence": "9. Vivimos cerca ___ centro.", "answer": "del" },
-            { "id": "u6_4_10", "sentence": "10. Ese coche es de ___ padre de Mónica.", "answer": "del" }
-        ]
+      "type": "FillInTheBlanksComplex",
+      "title": "Упражнение 6.4: Дополните фразы с el, la, los, las (используйте al и del, когда нужно)",
+      "tasks": [
+        { "id": "u6_4_1", "sentence": "1. ___ águilas son aves.", "answers": ["Las"] },
+        { "id": "u6_4_2", "sentence": "2. Montevideo es ___ capital de Uruguay.", "answers": ["la"] },
+        { "id": "u6_4_3", "sentence": "3. Queremos ver a ___ jefe de estudios.", "answers": ["al"] },
+        { "id": "u6_4_4", "sentence": "4. Cierra ___ puerta de ___ jardín, por favor.", "answers": ["la", "del"] },
+        { "id": "u6_4_5", "sentence": "5. Tenéis que ir a ___ aula 15.", "answers": ["al"] },
+        { "id": "u6_4_6", "sentence": "6. ___ agua es mi bebida preferida.", "answers": ["El"] },
+        { "id": "u6_4_7", "sentence": "7. ___ padres de Sofía viven en Lima.", "answers": ["Los"] },
+        { "id": "u6_4_8", "sentence": "8. Me gustan ___ naranjas.", "answers": ["las"] },
+        { "id": "u6_4_9", "sentence": "9. Vivimos cerca ___ centro.", "answers": ["del"] },
+        { "id": "u6_4_10", "sentence": "10. Ese coche es de ___ padre de Mónica.", "answers": ["del"] }
+      ]
     }
   ]
 }

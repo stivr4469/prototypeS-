@@ -307,3 +307,54 @@ h1 {
 .audio-button:hover {
   opacity: 1;
 }
+.exercise-task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 5px 0;
+}
+
+.task-content {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.task-controls {
+  display: flex;
+  align-items: center;
+}
+
+.input-field {
+  width: 250px;
+  margin: 0 5px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.input-field.correct-border {
+  border-color: green;
+}
+
+.input-field.incorrect-border {
+  border-color: red;
+}
+
+.feedback-text {
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.feedback-text.correct-text {
+  color: green;
+}
+
+.feedback-text.incorrect-text {
+  color: red;
+}
+
+.check-button {
+  margin-top: 20px;
+}

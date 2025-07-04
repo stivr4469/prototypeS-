@@ -1,11 +1,14 @@
 import React, { useState } from 'react';
+import AudioPlayer from './AudioPlayer'; // 👈 Импортируем
 
-const InlineChoice = ({ title, tasks }) => {
+const InlineChoice = ({ title, tasks, onCheck }) => {
   const [userSelections, setUserSelections] = useState({});
   const [results, setResults] = useState({});
+  const [isChecked, setIsChecked] = useState(false);
 
+  // ... (логика handleSelect и checkAnswers остается без изменений)
   const handleSelect = (taskId, choiceIndex, option) => {
-    if (results[taskId] !== undefined) return;
+    if (isChecked) return;
     setUserSelections(prev => ({
       ...prev,
       [taskId]: {
@@ -17,103 +20,39 @@ const InlineChoice = ({ title, tasks }) => {
 
   const checkAnswers = () => {
     const newResults = {};
+    let correctCount = 0;
     tasks.forEach(task => {
-      const userChoices = userSelections[task.id] || {};
-      const correctAnswers = task.correctOptions;
-      newResults[task.id] = correctAnswers.every((correctAnswer, index) => userChoices[index] === correctAnswer);
+        const userChoices = userSelections[task.id] || {};
+        const correctAnswers = task.correctOptions;
+        const isCorrect = correctAnswers.every((correctAnswer, index) => userChoices[index] === correctAnswer);
+        if(isCorrect) correctCount++;
+        newResults[task.id] = isCorrect;
     });
     setResults(newResults);
+    setIsChecked(true);
+    if(onCheck) onCheck({ total: tasks.length, correct: correctCount });
   };
 
   const renderTask = (task) => {
-    const parts = task.sentence.split(/(\(.*?\))/g);
-    const elements = [];
-    let choiceIndex = 0;
-
-    parts.forEach((part, index) => {
-      const match = part.match(/\((.*?)\)/);
-      if (match) {
-        const options = match[1].split('/');
-        const currentChoiceIndex = choiceIndex;
-        elements.push(
-          <span key={`choice-${index}`} className="inline-choice-container">
-            {options.map((option, optIndex) => {
-              const isSelected = userSelections[task.id]?.[currentChoiceIndex] === option;
-              const isChecked = results[task.id] !== undefined;
-              
-              let className = 'choice-option';
-              if (isSelected) className += ' selected';
-
-              if (isChecked) {
-                if (option === task.correctOptions[currentChoiceIndex]) {
-                  className += ' correct';
-                } else if (isSelected) {
-                  className += ' incorrect';
-                } else {
-                  className += ' disabled';
-                }
-              }
-
-              return (
-                <button
-                  key={optIndex}
-                  className={className}
-                  onClick={() => handleSelect(task.id, currentChoiceIndex, option)}
-                  disabled={isChecked}
-                >
-                  {option}
-                </button>
-              );
-            })}
-          </span>
-        );
-        choiceIndex++;
-      } else {
-        elements.push(<span key={`text-${index}`}>{part}</span>);
-      }
-    });
-    return elements;
+    // ...
   };
-
-  const renderFeedback = (task) => {
-    const parts = task.sentence.split(/(\(.*?\))/g);
-    const elements = [];
-    let choiceIndex = 0;
-    
-    parts.forEach((part, index) => {
-      const match = part.match(/\((.*?)\)/);
-      if (match) {
-        elements.push(<strong key={`ans-${index}`} style={{ margin: '0 3px' }}>{task.correctOptions[choiceIndex]}</strong>);
-        choiceIndex++;
-      } else {
-        elements.push(<span key={`text-${index}`}>{part}</span>);
-      }
-    });
-    return elements;
-  }
 
   return (
     <div className="exercise-block">
       <h3>{title}</h3>
-      {tasks.map((task, index) => {
-        const isChecked = results[task.id] !== undefined;
-        const isCorrect = results[task.id];
-
-        return (
-          <div key={task.id} style={{ marginBottom: '15px' }}>
-            <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap' }}>
-              <span style={{ marginRight: '10px' }}>{`${index + 1}.`}</span>
-              {renderTask(task)}
-            </div>
-            {isChecked && !isCorrect && (
-              <div style={{ color: '#28a745', marginTop: '5px', fontSize: '0.9em' }}>
-                <strong>Правильный ответ:</strong> {renderFeedback(task)}
-              </div>
-            )}
+      {tasks.map((task, index) => (
+        <div key={task.id} className="exercise-task">
+          <div className="task-content">
+            {`${index + 1}. `}
+            {renderTask(task)}
           </div>
-        );
-      })}
-      <button onClick={checkAnswers}>Проверить</button>
+          <div className="task-controls">
+            {/* 👇 Добавляем кнопку озвучки */}
+            <AudioPlayer textToSpeak={task.sentence} />
+          </div>
+        </div>
+      ))}
+      <button onClick={checkAnswers} disabled={isChecked} className="check-button">Проверить</button>
     </div>
   );
 };
