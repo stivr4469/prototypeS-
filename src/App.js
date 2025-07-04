@@ -3,8 +3,6 @@ import Lesson from './components/Lesson';
 import LessonMenu from './components/LessonMenu';
 import WelcomeScreen from './components/WelcomeScreen';
 import './App.css';
-
-// 👇 ИЗМЕНЕНИЕ: Мы используем useProgress из вашего кода
 import { useProgress } from './hooks/useProgress';
 
 function App() {
@@ -13,10 +11,9 @@ function App() {
   const [currentLessonData, setCurrentLessonData] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   
-  // 👇 ИЗМЕНЕНИЕ: Интегрируем ваш хук для отслеживания прогресса
-  const { isCompleted, markAsCompleted, resetProgress } = useProgress();
+  // 👇 1. ИЗМЕНЕНИЕ: Получаем новые функции из хука
+  const { saveLessonResult, getLessonStars, resetProgress } = useProgress();
 
-  // 👇 ИСПРАВЛЕНИЕ: Возвращаем список ID уроков
   const lessonIds = Array.from({ length: 126 }, (_, i) => `U${i + 1}`);
 
   const loadLesson = (lessonId) => {
@@ -26,8 +23,8 @@ function App() {
     import(`./data/${lessonId}.json`)
       .then(module => {
         setCurrentLessonData(module.default);
-        // Отмечаем урок как пройденный при его загрузке
-        markAsCompleted(lessonId); 
+        // Мы больше не отмечаем урок как пройденный здесь,
+        // это будет происходить при завершении урока.
       })
       .catch(err => {
         console.error("Не удалось загрузить урок:", err);
@@ -58,7 +55,6 @@ function App() {
     }
   };
   
-  // Логика отображения
   const renderContent = () => {
     if (showWelcome) {
       return <WelcomeScreen onStart={handleStart} />;
@@ -71,17 +67,20 @@ function App() {
         <Lesson
           lessonData={currentLessonData}
           onBack={handleBackToMenu}
-          onNavigate={handleNavigation} // Используем единый обработчик
+          onNavigate={handleNavigation}
+          lessonId={currentLessonId}
           isLastLesson={lessonIds.indexOf(currentLessonId) === lessonIds.length - 1}
+          // 👇 2. ИЗМЕНЕНИЕ: Передаем функцию сохранения результата в урок
+          saveLessonResult={saveLessonResult}
         />
       );
     }
-    // 👇 ИСПРАВЛЕНИЕ: Передаем lessonIds и другие нужные пропсы в LessonMenu
     return (
         <LessonMenu
             onSelectLesson={loadLesson}
             lessonIds={lessonIds}
-            isCompleted={isCompleted}
+            // 👇 3. ИЗМЕНЕНИЕ: Передаем функцию получения звезд вместо isCompleted
+            getLessonStars={getLessonStars}
             onResetProgress={resetProgress}
         />
     );

@@ -1,27 +1,40 @@
 import React, { useState } from 'react';
 
-const MultipleChoice = ({ title, tasks }) => {
+// 👇 Добавляем пропс onCheck
+const MultipleChoice = ({ title, tasks, onCheck }) => {
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [results, setResults] = useState({});
+  const [isChecked, setIsChecked] = useState(false); // Состояние для отслеживания проверки
 
   const handleSelect = (taskId, option) => {
-    if (results[taskId] !== undefined) return;
+    if (isChecked) return; // Блокируем после проверки
     setSelectedAnswers(prev => ({ ...prev, [taskId]: option }));
   };
 
   const checkAnswers = () => {
     const newResults = {};
+    let correctCount = 0; // Счетчик правильных ответов
+
     tasks.forEach(task => {
-      newResults[task.id] = selectedAnswers[task.id] === task.correctOption;
+      const isCorrect = selectedAnswers[task.id] === task.correctOption;
+      newResults[task.id] = isCorrect;
+      if (isCorrect) {
+        correctCount++;
+      }
     });
     setResults(newResults);
+    setIsChecked(true);
+
+    // 👇 Сообщаем результат в Lesson.js
+    if (onCheck) {
+        onCheck({ total: tasks.length, correct: correctCount });
+    }
   };
 
   return (
     <div className="exercise-block">
       <h3>{title}</h3>
       {tasks.map((task, index) => {
-        const isChecked = results[task.id] !== undefined;
         const isCorrect = results[task.id];
 
         return (
@@ -56,16 +69,17 @@ const MultipleChoice = ({ title, tasks }) => {
                 );
               })}
             </div>
-            {/* 👇 Новая логика для отображения обратной связи */}
+            {/* Логика отображения обратной связи */}
             {isChecked && (
-              <p style={{ color: '#155724', fontSize: '0.9em', fontWeight: 'bold' }}>
-                {isCorrect ? '✔' : '✖'} {task.feedback}
+              <p style={{ color: isCorrect ? '#155724' : '#721c24', fontSize: '0.9em', fontWeight: 'bold' }}>
+                {isCorrect ? '✔' : '✖'} {task.feedback || (isCorrect ? 'Правильно!' : `Правильный ответ: ${task.correctOption}`)}
               </p>
             )}
           </div>
         );
       })}
-      <button onClick={checkAnswers}>Проверить</button>
+      {/* Кнопка "Проверить" блокируется после нажатия */}
+      <button onClick={checkAnswers} disabled={isChecked}>Проверить</button>
     </div>
   );
 };
