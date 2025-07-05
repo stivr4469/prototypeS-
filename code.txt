@@ -1,0 +1,40 @@
+spanish-prototype/
+├─ node_modules/     (Папка с зависимостями)
+├─ public/           (Публичные файлы, например index.html)
+│  └─ index.html
+├─ src/              (Основная папка с кодом)
+│  ├─ components/     (Папка для React-компонентов)
+│  │  ├─ AudioPlayer.js
+│  │  ├─ ClassifyItems.js
+│  │  ├─ DescribeImage.js
+│  │  ├─ FillFromBank.js
+│  │  ├─ FillInTheBlank.js
+│  │  ├─ FillInTheBlanksComplex.js
+│  │  ├─ InlineChoice.js
+│  │  ├─ Lesson.js
+│  │  ├─ LessonMenu.js
+│  │  ├─ MultipleChoice.js
+│  │  ├─ SentenceBuilder.js
+│  │  ├─ TheoryBlock.js
+│  │  └─ WelcomeScreen.js
+│  ├─ data/           (Папка с данными для уроков)
+│  │  ├─ U1.json
+│  │  ├─ U2.json
+│  │  ├─ U3.json
+│  │  ├─ ...
+│  │  └─ U127.json
+│  ├─ hooks/          (Папка для кастомных хуков)
+│  │  └─ useProgress.js
+│  ├─ utils/          (Папка для вспомогательных функций)
+│  │  └─ normalization.js
+│  ├─ App.css
+│  ├─ App.js          (Главный компонент-контроллер)
+│  ├─ App.test.js
+│  ├─ index.css
+│  ├─ index.js        (Точка входа в приложение)
+│  ├─ reportWebVitals.js
+│  └─ setupTests.js
+├─ .gitignore
+├─ package.json      (Информация о проекте и зависимостях)
+├─ package-lock.json
+└─ README.md

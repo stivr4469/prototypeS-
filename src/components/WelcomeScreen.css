@@ -1,3 +1,4 @@
+/* src/components/WelcomeScreen.css */
 .welcome-container {
   display: flex;
   flex-direction: column;
@@ -18,34 +19,60 @@
 
 .welcome-title {
   color: #0d47a1;
-  font-size: 3em; /* Сделали "Hola!" крупнее */
+  font-size: 3em;
   font-weight: 700;
-  margin-bottom: 10px; /* Уменьшили отступ снизу */
+  margin-bottom: 10px;
   border-bottom: none;
 }
 
 .welcome-subtitle {
-  font-size: 1.5em; /* Сделали подзаголовок тоже крупнее */
+  font-size: 1.5em;
   color: #555;
   margin-bottom: 40px;
-  font-weight: 300; /* Более легкий шрифт */
+  font-weight: 300;
 }
 
 .welcome-button {
+  display: block;
+  width: 100%;
   padding: 15px 30px;
   font-size: 1.1em;
   font-weight: bold;
   color: white;
-  background-color: #28a745;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.2s, transform 0.2s;
+  margin-bottom: 15px;
 }
 
-.welcome-button:hover {
-  background-color: #218838;
-  transform: translateY(-2px);
+.welcome-button:last-child {
+    margin-bottom: 0;
+}
+
+.welcome-button.login {
+    background-color: #007bff;
+}
+.welcome-button.login:hover {
+    background-color: #0069d9;
+    transform: translateY(-2px);
+}
+
+.welcome-button.register {
+    background-color: #28a745;
+}
+.welcome-button.register:hover {
+    background-color: #218838;
+    transform: translateY(-2px);
+}
+
+.welcome-button.guest {
+    background-color: #6c757d;
+}
+
+.welcome-button.guest:hover {
+    background-color: #5a6268;
+    transform: translateY(-2px);
 }
 
 .welcome-footer {

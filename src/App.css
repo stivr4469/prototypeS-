@@ -131,15 +131,30 @@ h1 {
 .menu-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   border-bottom: 2px solid #64b5f6;
   margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+.menu-header-left {
+  flex-grow: 1;
+}
+
+.menu-header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
 }
 
 .menu-header h1 {
   border-bottom: none;
   margin-bottom: 10px;
+  margin-top: 0;
+  padding-bottom: 0;
 }
+
 
 .reset-button {
   padding: 8px 12px;
@@ -159,7 +174,7 @@ h1 {
 /* === ИСПРАВЛЕННЫЕ СТИЛИ ДЛЯ INLINECHOICE === */
 
 .inline-choice-container {
-  display: inline-block;
+  display: inline-flex;
   margin: 0 5px;
   border-radius: 6px;
   overflow: hidden;

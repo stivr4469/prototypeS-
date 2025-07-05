@@ -1,17 +1,23 @@
+// src/components/WelcomeScreen.js
 import React from 'react';
 import './WelcomeScreen.css';
 
-const WelcomeScreen = ({ onStart }) => {
+const WelcomeScreen = ({ onLoginClick, onRegisterClick, onStartAsGuest }) => {
   return (
     <div className="welcome-container">
       <div className="welcome-box">
-        {/* 👇 ИЗМЕНЕНИЯ ЗДЕСЬ 👇 */}
         <h1 className="welcome-title">¡Hola!</h1>
         <p className="welcome-subtitle">
-          ¿Listo para hablar español?
+          Готовы улучшить свой испанский?
         </p>
-        <button className="welcome-button" onClick={onStart}>
-          Начать обучение
+        <button className="welcome-button login" onClick={onLoginClick}>
+          Войти
+        </button>
+        <button className="welcome-button register" onClick={onRegisterClick}>
+          Зарегистрироваться
+        </button>
+        <button className="welcome-button guest" onClick={onStartAsGuest}>
+          Продолжить как гость
         </button>
       </div>
       <footer className="welcome-footer">

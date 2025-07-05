@@ -1,9 +1,17 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const PROGRESS_KEY = 'spanishAppProgress_v3'; // Новая версия для новой структуры
+const getInitialState = (userId) => {
+  // Если пользователя нет (гость или еще не загрузился), возвращаем пустое состояние
+  if (!userId) { 
+    return {
+      lessonScores: {},
+      totalXP: 0,
+      streak: { count: 0, lastSessionDate: null },
+    };
+  }
 
-const getInitialState = () => {
   try {
+    const PROGRESS_KEY = `spanishAppProgress_v3_${userId}`;
     const savedProgress = localStorage.getItem(PROGRESS_KEY);
     if (savedProgress) {
       return JSON.parse(savedProgress);
@@ -11,27 +19,34 @@ const getInitialState = () => {
   } catch (error) {
     console.error("Failed to load progress from localStorage", error);
   }
-  // Состояние по умолчанию
+
+  // Состояние по умолчанию для нового пользователя
   return {
     lessonScores: {},
     totalXP: 0,
-    streak: {
-      count: 0,
-      lastSessionDate: null,
-    },
+    streak: { count: 0, lastSessionDate: null },
   };
 };
 
-export const useProgress = () => {
-  const [progress, setProgress] = useState(getInitialState);
+export const useProgress = (userId) => {
+  const [progress, setProgress] = useState(() => getInitialState(userId));
 
+  // Перезагружаем прогресс при смене пользователя (вход/выход)
   useEffect(() => {
-    try {
-      localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
-    } catch (error) {
-      console.error("Failed to save progress to localStorage", error);
+    setProgress(getInitialState(userId));
+  }, [userId]);
+
+  // Сохраняем прогресс в localStorage при его изменении, только если есть пользователь
+  useEffect(() => {
+    if (userId) {
+      try {
+        const PROGRESS_KEY = `spanishAppProgress_v3_${userId}`;
+        localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+      } catch (error) {
+        console.error("Failed to save progress to localStorage", error);
+      }
     }
-  }, [progress]);
+  }, [progress, userId]);
 
   const addXP = useCallback((points) => {
     setProgress(prev => ({ ...prev, totalXP: prev.totalXP + points }));
@@ -82,7 +97,7 @@ export const useProgress = () => {
   }, [progress.lessonScores]);
 
   const resetProgress = useCallback(() => {
-    if (window.confirm("Вы уверены, что хотите сбросить весь прогресс? Это действие нельзя будет отменить.")) {
+    if (window.confirm("Вы уверены, что хотите сбросить весь прогресс для этого аккаунта? Это действие нельзя будет отменить.")) {
       setProgress({
         lessonScores: {},
         totalXP: 0,
