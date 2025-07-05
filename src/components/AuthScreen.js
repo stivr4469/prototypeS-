@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import './AuthScreen.css';
 
-const AuthScreen = ({ mode, onAuth, onBack }) => {
+const AuthScreen = ({ mode, onAuth, onGoogleSignIn, onBack }) => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
 
@@ -43,6 +43,14 @@ const AuthScreen = ({ mode, onAuth, onBack }) => {
             {mode === 'login' ? 'Войти' : 'Зарегистрироваться'}
           </button>
         </div>
+
+        <div className="auth-divider">
+          <span>ИЛИ</span>
+        </div>
+
+        <button type="button" className="welcome-button google" onClick={onGoogleSignIn}>
+          Войти с помощью Google
+        </button>
       </form>
     </div>
   );

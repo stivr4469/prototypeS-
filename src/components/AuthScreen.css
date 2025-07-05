@@ -75,3 +75,45 @@
 .form-actions .submit-btn:hover {
   background-color: #218838;
 }
+
+.auth-divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #aaa;
+  margin: 25px 0;
+}
+.auth-divider::before,
+.auth-divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #ddd;
+}
+.auth-divider span {
+  padding: 0 15px;
+}
+
+/* Стили для кнопки Google внутри AuthScreen */
+.auth-form .welcome-button {
+  display: block;
+  width: 100%;
+  padding: 15px 30px;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+
+.auth-form .welcome-button.google {
+  background-color: #4285f4; /* Синий цвет Google */
+}
+
+.auth-form .welcome-button.google:hover {
+  background-color: #3367d6; /* Более темный синий при наведении */
+  transform: translateY(-2px);
+}

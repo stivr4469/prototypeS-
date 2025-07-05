@@ -12,18 +12,16 @@ const StarRating = ({ stars }) => {
   );
 };
 
-const LessonMenu = ({ onSelectLesson, lessonIds, progress, onResetProgress, user, onSignOut }) => {
+const LessonMenu = ({ onSelectLesson, lessonIds, progress, onResetProgress, user, isGuest, onSignOut, onReturnToWelcome }) => {
   const getLessonNumber = (id) => (id ? id.match(/U(\d+)/)[1] : '');
   
-  const isGuest = !user;
-
   const handleReset = () => {
     if (isGuest) {
       alert("Сброс прогресса доступен только для зарегистрированных пользователей.");
       return;
     }
     onResetProgress();
-  }
+  };
 
   return (
     <div>
@@ -51,6 +49,11 @@ const LessonMenu = ({ onSelectLesson, lessonIds, progress, onResetProgress, user
               </button>
             </div>
           )}
+          {isGuest && (
+            <button onClick={onReturnToWelcome} className="reset-button" style={{backgroundColor: '#007bff'}}>
+              Войти / Зарегистрироваться
+            </button>
+           )}
           {!isGuest && (
              <button onClick={handleReset} className="reset-button">
               Сбросить прогресс

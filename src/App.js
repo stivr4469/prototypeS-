@@ -5,13 +5,13 @@ import LessonMenu from './components/LessonMenu';
 import WelcomeScreen from './components/WelcomeScreen';
 import AuthScreen from './components/AuthScreen';
 import './App.css';
-import './components/AuthScreen.css'; // Импортируем новые стили
-import './components/WelcomeScreen.css'; // Импортируем новые стили
+import './components/AuthScreen.css';
+import './components/WelcomeScreen.css';
 import { useProgress } from './hooks/useProgress';
 import { useAuth } from './hooks/useAuth';
 
 function App() {
-  const { user, loading, login, register, logout } = useAuth();
+  const { user, loading, login, register, signInWithGoogle, logout } = useAuth();
   const [isGuestMode, setIsGuestMode] = useState(false);
   const [authMode, setAuthMode] = useState(null); // 'login', 'register', или null
 
@@ -19,7 +19,6 @@ function App() {
   const [currentLessonData, setCurrentLessonData] = useState(null);
   const [isLoadingLesson, setIsLoadingLesson] = useState(false);
 
-  // ID пользователя теперь из нашего хука, а не из Firebase
   const userId = user ? user.id : (isGuestMode ? 'guest' : null);
   const { progress, addXP, updateStreak, saveLessonResult, resetProgress } = useProgress(userId);
 
@@ -38,8 +37,8 @@ function App() {
       })
       .finally(() => setIsLoadingLesson(false));
   };
-
-  const handleAuthAction = async (username, password) => {
+  
+  const handleAuthAction = (username, password) => {
     const action = authMode === 'login' ? login : register;
     const result = action(username, password);
     if (result.success) {
@@ -50,6 +49,11 @@ function App() {
     }
   };
 
+  const handleGoogleSignIn = async () => {
+    await signInWithGoogle();
+    setAuthMode(null); // После попытки входа убираем экран аутентификации
+  };
+  
   const handleSignOut = () => {
     logout();
     setIsGuestMode(false);
@@ -60,7 +64,7 @@ function App() {
   const handleReturnToWelcome = () => {
     setAuthMode(null);
     setIsGuestMode(false);
-  }
+  };
 
   const handleBackToMenu = () => {
     setCurrentLessonId(null);
@@ -98,7 +102,9 @@ function App() {
       return (
         <LessonMenu
           user={user}
+          isGuest={isGuestMode}
           onSignOut={handleSignOut}
+          onReturnToWelcome={handleReturnToWelcome} // Используем для выхода из гостевого режима
           onSelectLesson={loadLesson}
           lessonIds={lessonIds}
           progress={progress}
@@ -108,7 +114,7 @@ function App() {
     }
     
     if (authMode) {
-      return <AuthScreen mode={authMode} onAuth={handleAuthAction} onBack={handleReturnToWelcome} />;
+      return <AuthScreen mode={authMode} onAuth={handleAuthAction} onGoogleSignIn={handleGoogleSignIn} onBack={handleReturnToWelcome} />;
     }
 
     return <WelcomeScreen onLoginClick={() => setAuthMode('login')} onRegisterClick={() => setAuthMode('register')} onStartAsGuest={() => setIsGuestMode(true)} />;

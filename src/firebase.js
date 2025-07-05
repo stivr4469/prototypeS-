@@ -2,19 +2,21 @@
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
-// TODO: Замените этот объект на вашу конфигурацию из Firebase Console
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAw9alPWIbugpMhtglXgefI2rCwON1AYNI",
+  authDomain: "aprener-esp.firebaseapp.com",
+  projectId: "aprener-esp",
+  storageBucket: "aprener-esp.firebasestorage.app",
+  messagingSenderId: "18281345421",
+  appId: "1:18281345421:web:3ee9a9a8a4609af5c48dc4",
+  measurementId: "G-XQGFXP008B"
 };
 
-// Инициализация Firebase
+
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
-// Инициализация Firebase Authentication и получение провайдера
+// Initialize Firebase Authentication and get a reference to the service
 export const auth = getAuth(app);
 export const googleProvider = new GoogleAuthProvider();
